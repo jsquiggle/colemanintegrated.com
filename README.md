@@ -1,17 +1,12 @@
-# Coleman Integrated Site (Static)
+# Coleman Integrated Solutions — Starter (with Pricing + Contact)
 
-An original, lightweight static site you can host on **GitHub Pages**.
+This is the clean starter with your logo, a Pricing page, and a Contact form pattern (Formspree).
 
-## Quick start
+## Deploy
+1. Upload all files to your repo root (e.g., `jsquiggle/colemanintegrated.com`).
+2. Settings → Pages → Deploy from branch → main → /(root).
+3. Visit `https://jsquiggle.github.io/colemanintegrated.com/`.
 
-1. Create a new GitHub repo named `<username>.github.io` (or any repo and enable Pages).
-2. Upload these files to the repo root.
-3. In the repo settings → Pages, set **Deploy from branch** and select `main` as the branch and `/ (root)` as the folder.
-4. (Optional) Add a custom domain by creating a `CNAME` file with your domain.
-
-## Customize
-
-- Replace text with your copy.
-- Swap `assets/logo.svg`.
-- Add or remove sections in `index.html`.
-- Edit colors and spacing in `styles.css`.
+## Contact Form (Formspree)
+- Replace `YOUR_FORM_ID` in `contact.html` with your Formspree form ID.
+- Or switch to EmailJS if you prefer; I can wire it for you—just share your public key, service ID, and template ID.
