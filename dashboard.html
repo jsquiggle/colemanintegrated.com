@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Compliance Dashboard — Coleman Integrated Solutions</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="scripts.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="index.html">
+        <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
+        <span class="brand-text">Coleman Integrated</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      <nav class="nav">
+        <a href="index.html#services">Services</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="dashboard.html">Compliance Dashboard</a>
+        <a href="case-studies.html">Case Studies</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <h1>Compliance Dashboard (Demo)</h1>
+      <p class="muted">A sample, read‑only view showing how we present compliance and drift over time.</p>
+
+      <div class="cards grid-3" style="margin-top:1rem">
+        <div class="card">
+          <h3>Overall Score</h3>
+          <p class="score" id="overall-score">92<span>/100</span></p>
+          <p class="muted">Target ≥ 95</p>
+        </div>
+        <div class="card">
+          <h3>Open Findings</h3>
+          <ul class="bullets">
+            <li>8 High, 14 Medium, 23 Low</li>
+            <li>Golden image drift on 12 devices</li>
+            <li>4 pending PSIRT fixes</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>Coverage</h3>
+          <ul class="bullets">
+            <li>67 Cisco (IOS-XE)</li>
+            <li>24 Fortinet (FortiGate/Switch)</li>
+            <li>18 Palo Alto (PanOS)</li>
+            <li>42 Meraki (MX/MR)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top:1rem">
+        <h3>Compliance Trend</h3>
+        <canvas id="trendChart" height="140"></canvas>
+      </div>
+
+      <div class="cards grid-3" style="margin-top:1rem">
+        <div class="card"><h3>CIS Benchmarks</h3><canvas id="cisChart" height="160"></canvas></div>
+        <div class="card"><h3>SOC 2 Controls</h3><canvas id="soc2Chart" height="160"></canvas></div>
+        <div class="card"><h3>NIST 800‑53 Families</h3><canvas id="nistChart" height="160"></canvas></div>
+      </div>
+    </div>
+  </main>
+  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
+
+  <script>
+    // Simple demo data
+    const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct"];
+    const ctxTrend = document.getElementById('trendChart');
+    if (ctxTrend) new Chart(ctxTrend, {
+      type: 'line',
+      data: {
+        labels: months,
+        datasets: [{ label: 'Score', data: [78,81,83,84,86,88,89,90,92,92] }]
+      },
+      options: { responsive: true, plugins: { legend: { display: false } } }
+    });
+
+    function donut(id, label, dataVals) {
+      const el = document.getElementById(id);
+      if (!el) return;
+      new Chart(el, {
+        type: 'doughnut',
+        data: {
+          labels: ['Pass','Fail'],
+          datasets: [{ data: dataVals }]
+        },
+        options: { cutout: '65%', plugins: { legend: { display: false } } }
+      });
+    }
+    donut('cisChart', 'CIS', [82, 18]);
+    donut('soc2Chart', 'SOC2', [88, 12]);
+    donut('nistChart', 'NIST', [76, 24]);
+  </script>
+</body>
+</html>

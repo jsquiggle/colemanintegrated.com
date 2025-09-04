@@ -1,14 +1,13 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Contact — Coleman Integrated Solutions</title>
   <link rel="stylesheet" href="styles.css">
   <script defer src="scripts.js"></script>
 </head>
 <body>
-
+  
   <header class="site-header">
     <div class="container">
       <a class="brand" href="index.html">
@@ -19,6 +18,7 @@
       <nav class="nav">
         <a href="index.html#services">Services</a>
         <a href="pricing.html">Pricing</a>
+        <a href="dashboard.html">Compliance Dashboard</a>
         <a href="case-studies.html">Case Studies</a>
         <a href="about.html">About</a>
         <a href="contact.html" class="btn">Contact</a>
@@ -26,22 +26,27 @@
     </div>
   </header>
 
-
   <main class="section">
     <div class="container narrow">
       <h1>Contact</h1>
-      <form class="form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+      <p>Prefer email? Write to <a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a></p>
+
+      <!-- Direct-to-email via FormSubmit.co; replace 'disabled=true' once tested -->
+      <form class="form" action="https://formsubmit.co/kyle.coleman@colemanintegrated.com" method="POST">
+        <!-- FormSubmit options -->
+        <input type="hidden" name="_subject" value="New lead — Coleman Integrated Solutions">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_template" value="table">
+        <input type="text" name="_honey" style="display:none">
+
         <label>Full name<input name="name" required></label>
         <label>Email<input type="email" name="email" required></label>
         <label>Company<input name="company"></label>
         <label>Message<textarea name="message" rows="5" required></textarea></label>
-        <input type="hidden" name="_subject" value="New lead — Coleman Integrated Solutions">
         <button class="btn" type="submit">Send</button>
       </form>
-      <p style="margin-top:1rem">Prefer email? <a href="mailto:coleman.kyle1@gmail.com">coleman.kyle1@gmail.com</a></p>
     </div>
   </main>
-
   <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
 </body>
 </html>
