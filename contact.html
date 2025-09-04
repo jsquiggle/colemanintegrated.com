@@ -7,46 +7,26 @@
   <script defer src="scripts.js"></script>
 </head>
 <body>
-  
   <header class="site-header">
-    <div class="container">
-      <a class="brand" href="index.html">
-        <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
-        <span class="brand-text">Coleman Integrated</span>
-      </a>
-      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-      <nav class="nav">
-        <a href="index.html#services">Services</a>
-        <a href="pricing.html">Pricing</a>
-        <a href="dashboard.html">Compliance Dashboard</a>
-        <a href="case-studies.html">Case Studies</a>
-        <a href="about.html">About</a>
-        <a href="contact.html" class="btn">Contact</a>
-      </nav>
-    </div>
-  </header>
-
-  <main class="section">
-    <div class="container narrow">
-      <h1>Contact</h1>
-      <p>Prefer email? Write to <a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a></p>
-
-      <!-- Direct-to-email via FormSubmit.co; replace 'disabled=true' once tested -->
-      <form class="form" action="https://formsubmit.co/kyle.coleman@colemanintegrated.com" method="POST">
-        <!-- FormSubmit options -->
-        <input type="hidden" name="_subject" value="New lead — Coleman Integrated Solutions">
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_template" value="table">
-        <input type="text" name="_honey" style="display:none">
-
-        <label>Full name<input name="name" required></label>
-        <label>Email<input type="email" name="email" required></label>
-        <label>Company<input name="company"></label>
-        <label>Message<textarea name="message" rows="5" required></textarea></label>
-        <button class="btn" type="submit">Send</button>
-      </form>
-    </div>
-  </main>
-  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
+  <div class="container">
+    <a class="brand" href="index.html">
+      <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
+      <span class="brand-text">Coleman Integrated</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+    <nav class="nav">
+      <a href="index.html#services">Services</a>
+      <a href="pricing.html">Pricing</a>
+      <a href="dashboard.html">Compliance Dashboard</a>
+      <a href="case-studies.html">Case Studies</a>
+      <a href="about.html">About</a>
+      <a href="contact.html" class="btn">Contact</a>
+    </nav>
+  </div>
+</header>
+  <main class="section"><div class="container">
+    <h1>Contact</h1><p>Email us at <a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a>.</p>
+  </div></main>
+  <footer class="site-footer"><div class="container">© <span id="year"></span> Coleman Integrated Solutions</div></footer>
 </body>
 </html>
