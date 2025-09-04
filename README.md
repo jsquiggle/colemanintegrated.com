@@ -1,11 +1,8 @@
-# Coleman Integrated Solutions — Fixes
-This bundle ensures:
-- **Pricing** link shows on every page (including the home page nav and hero CTA)
-- **About** page displays your headshot from `assets/headshot.jpg`
+# Patch: Headshot Fix
+- Ensures your headshot is named `assets/headshot.jpg` (lowercase).
+- Updates `about.html` to reference it with cache-busting (?v=2) and a fallback to `Headshot.jpg`.
 
-## Deploy
-1) Upload everything to your repo root (`jsquiggle/colemanintegrated.com`).  
-2) Pages → Deploy from branch → main → /(root).  
-3) Open https://jsquiggle.github.io/colemanintegrated.com/
+## How to use
+Upload `about.html` and `assets/headshot.jpg` from this patch to your repo root (replace existing).
 
-If you still don't see changes, hard refresh or clear cache (Ctrl/Cmd+Shift+R).
+Then open https://jsquiggle.github.io/colemanintegrated.com/about.html and hard-refresh (Ctrl/Cmd+Shift+R).
