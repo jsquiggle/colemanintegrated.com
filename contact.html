@@ -7,31 +7,65 @@
   <script defer src="scripts.js"></script>
 </head>
 <body>
+  
   <header class="site-header">
     <div class="container">
-      <a class="brand" href="index.html"><img src="assets/logo.svg" class="logo" alt=""> <span>Coleman Integrated</span></a>
+      <a class="brand" href="index.html">
+        <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
+        <span class="brand-text">Coleman Integrated</span>
+      </a>
       <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
       <nav class="nav">
         <a href="index.html#services">Services</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="index.html#industries">Industries</a>
         <a href="case-studies.html">Case Studies</a>
         <a href="about.html">About</a>
-        <a href="contact.html" class="btn" aria-current="page">Contact</a>
+        <a href="contact.html" class="btn">Contact</a>
       </nav>
     </div>
   </header>
+
   <main class="section">
     <div class="container narrow">
       <h1>Contact</h1>
-      <p>Email: <a href="mailto:coleman.kyle1@gmail.com">coleman.kyle1@gmail.com</a></p>
-      <p>Book a call: <a href="#">Schedule link</a> (replace with your Calendly)</p>
-      <form class="form" name="contact" netlify method="POST">
-        <input type="hidden" name="form-name" value="contact">
+      <p>Drop a note and we’ll get back quickly.</p>
+
+      <!-- Formspree pattern: replace YOUR_FORM_ID below with your Formspree ID -->
+      <form id="contact-form" class="form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
         <label>Full name<input name="name" required></label>
         <label>Email<input type="email" name="email" required></label>
         <label>Company<input name="company"></label>
-        <label>Message<textarea name="message" rows="5"></textarea></label>
+        <label>Message<textarea name="message" rows="5" required></textarea></label>
+        <input type="hidden" name="_subject" value="New lead — Coleman Integrated Solutions">
         <button class="btn" type="submit">Send</button>
+        <p class="muted small">We’ll never share your info. This site is part of the “Side Hustle in Tech” project.</p>
       </form>
+
+      <noscript>
+        <p><em>If the form doesn't work, email <a href="mailto:coleman.kyle1@gmail.com">coleman.kyle1@gmail.com</a>.</em></p>
+      </noscript>
+
+      <script>
+        // Progressive enhancement: submit via fetch to avoid page redirect
+        const form = document.getElementById('contact-form');
+        if (form && window.fetch) {
+          form.addEventListener('submit', async (e) => {
+            if (form.action.includes('YOUR_FORM_ID')) return; // let it do a normal submit until ID is set
+            e.preventDefault();
+            const data = new FormData(form);
+            const res = await fetch(form.action, { method: 'POST', body: data, headers: { 'Accept': 'application/json' } });
+            if (res.ok) {
+              form.reset();
+              alert('Thanks! Your message was sent.');
+            } else {
+              alert('Sorry—there was an error. Please email us directly.');
+            }
+          });
+        }
+      </script>
+
+      <p style="margin-top:1rem">Prefer email? <a href="mailto:coleman.kyle1@gmail.com">coleman.kyle1@gmail.com</a></p>
     </div>
   </main>
   <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
