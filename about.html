@@ -1,32 +1,52 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>About — Coleman Integrated Solutions</title>
   <link rel="stylesheet" href="styles.css">
   <script defer src="scripts.js"></script>
 </head>
 <body>
+  <!-- same header as other pages -->
   <header class="site-header">
     <div class="container">
-      <a class="brand" href="index.html"><img src="assets/logo.svg" class="logo" alt=""> <span>Coleman Integrated</span></a>
+      <a class="brand" href="index.html">
+        <img src="assets/coleman-logo.png" class="logo" alt="Coleman Integrated Solutions">
+        <span class="brand-text">Coleman Integrated</span>
+      </a>
       <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
       <nav class="nav">
         <a href="index.html#services">Services</a>
+        <a href="pricing.html">Pricing</a>
         <a href="case-studies.html">Case Studies</a>
         <a href="about.html" aria-current="page">About</a>
         <a href="contact.html" class="btn">Contact</a>
       </nav>
     </div>
   </header>
+
   <main class="section">
     <div class="container narrow">
       <h1>About</h1>
-      <p>We are a hands-on network automation studio focused on measurable outcomes. We build pragmatic tools and playbooks—then help you run them.</p>
-      <h2>Leadership</h2>
-      <p>Kyle Coleman, Principal Engineer — 15+ years across Cisco, Fortinet, Palo Alto, VMware, and hybrid cloud.</p>
+      <div class="grid-2" style="align-items:center;gap:2rem">
+        <div>
+          <img src="assets/headshot.jpg" alt="Headshot of Kyle Coleman" style="max-width:100%;border-radius:1rem;box-shadow:0 4px 12px rgba(0,0,0,.4)">
+        </div>
+        <div>
+          <p><strong>Kyle Coleman</strong>, Principal Engineer & Founder of Coleman Integrated Solutions, brings 15+ years of deep experience across Cisco, Fortinet, Palo Alto, VMware, and hybrid cloud environments. 
+          He has built and led IT infrastructure and automation projects for enterprise clients, balancing technical excellence with compliance frameworks like SOC 2, NIST 800-53, and ISO 27001.</p>
+          <p>This venture began as a practical <em>Side Hustle in Tech</em> project, evolving into a focused business delivering Automation • Compliance • Network as code. 
+          Kyle is passionate about eliminating configuration drift, simplifying audits, and packaging automation into subscription-style services that deliver measurable outcomes.</p>
+        </div>
+      </div>
     </div>
   </main>
-  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> Coleman Integrated Solutions</p>
+    </div>
+  </footer>
 </body>
 </html>
