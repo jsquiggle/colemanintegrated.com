@@ -1,18 +1,8 @@
-/* Minimal, modern, accessible system‑font theme */
-:root {
-  --bg: #0b0e13;
-  --surface: #10151d;
-  --muted: #c3c7d1;
-  --text: #e9edf3;
-  --primary: #4da3ff;
-  --accent: #8b5cf6;
-  --border: #1f2937;
-  --chip: #0f172a;
-}
+/* Minimal, modern, accessible */
+:root { --bg:#0b0e13; --surface:#10151d; --muted:#c3c7d1; --text:#e9edf3; --primary:#4da3ff; --accent:#8b5cf6; --border:#1f2937; --chip:#0f172a; }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif}
-a{color:var(--primary);text-decoration:none}
-a:hover{text-decoration:underline}
+a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
 .container{max-width:1100px;margin:0 auto;padding:0 1rem}
 .site-header{position:sticky;top:0;z-index:10;background:rgba(16,21,29,.8);backdrop-filter:saturate(150%) blur(10px);border-bottom:1px solid var(--border)}
 .site-header .container{display:flex;align-items:center;justify-content:space-between;height:64px}
@@ -30,19 +20,13 @@ a:hover{text-decoration:underline}
 .section{padding:3rem 0}
 .section.alt{background:var(--surface)}
 .card{background:var(--surface);border:1px solid var(--border);border-radius:1rem;padding:1.2rem}
-.hero-card .card{min-height:220px;display:flex;flex-direction:column;justify-content:center;align-items:flex-start}
-.score{font-size:3rem;font-weight:800}
-.score span{font-size:1.2rem;color:var(--muted)}
 .badge-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.5rem;margin-top:1rem;padding-left:1rem}
 .badge-list li{list-style:disc;color:var(--muted)}
-.cards .card h3{margin-top:0}
 .chips{display:flex;flex-wrap:wrap;gap:.5rem}
 .chip{background:var(--chip);border:1px solid var(--border);padding:.35rem .6rem;border-radius:999px;color:var(--muted)}
 .checklist{padding-left:1.1rem}
 .checklist li{list-style:'✓ ';margin:.4rem 0}
-.bullets{padding-left:1.1rem}
 .site-footer{border-top:1px solid var(--border);padding:2rem 0;color:var(--muted)}
-.small{font-size:.9rem}
 .container.narrow{max-width:760px}
 .form{display:grid;gap:.75rem;margin-top:1rem}
 .form input,.form textarea{width:100%;background:#0b1220;border:1px solid var(--border);border-radius:.5rem;color:var(--text);padding:.6rem}
