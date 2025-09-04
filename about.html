@@ -1,32 +1,48 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>About — Coleman Integrated Solutions</title>
   <link rel="stylesheet" href="styles.css">
   <script defer src="scripts.js"></script>
 </head>
 <body>
+
   <header class="site-header">
-  <div class="container">
-    <a class="brand" href="index.html">
-      <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
-      <span class="brand-text">Coleman Integrated</span>
-    </a>
-    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-    <nav class="nav">
-      <a href="index.html#services">Services</a>
-      <a href="pricing.html">Pricing</a>
-      <a href="dashboard.html">Compliance Dashboard</a>
-      <a href="case-studies.html">Case Studies</a>
-      <a href="about.html">About</a>
-      <a href="contact.html" class="btn">Contact</a>
-    </nav>
-  </div>
-</header>
-  <main class="section"><div class="container">
-    <h1>About</h1><p>We’re a hands‑on network automation studio focused on measurable outcomes.</p>
-  </div></main>
-  <footer class="site-footer"><div class="container">© <span id="year"></span> Coleman Integrated Solutions</div></footer>
+    <div class="container">
+      <a class="brand" href="index.html">
+        <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
+        <span class="brand-text">Coleman Integrated</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      <nav class="nav">
+        <a href="index.html#services">Services</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="case-studies.html">Case Studies</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+
+  <main class="section">
+    <div class="container">
+      <h1>About</h1>
+      <div class="grid-2" style="align-items:center;gap:2rem">
+        <div>
+          <img src="assets/headshot.jpg?v=2" alt="Headshot of Kyle Coleman" style="max-width:100%;border-radius:1rem;box-shadow:0 4px 12px rgba(0,0,0,.4)" onerror="this.onerror=null; this.src='assets/Headshot.jpg?v=2';">
+        </div>
+        <div class="container narrow">
+          <p><strong>Kyle Coleman</strong>, Principal Engineer & Founder of Coleman Integrated Solutions, brings over 20 years of hands-on experience in IT infrastructure, cloud, and network engineering. His background spans Cisco, Fortinet, Palo Alto, VMware, and hybrid cloud platforms, with deep expertise in automation and compliance.</p>
+          <p>Kyle has successfully led enterprise initiatives in network automation, large-scale wireless refreshes, hybrid cloud migrations, and compliance programs aligned with SOC 2, NIST 800-53, CIS, and ISO 27001. He is recognized for translating complex technical requirements into measurable outcomes — reducing risk, improving audit readiness, and accelerating delivery timelines.</p>
+          <p>Coleman Integrated Solutions was founded to deliver <em>Automation • Compliance • Network</em> as a service — packaging proven methodologies, toolchains, and playbooks into subscription-based offerings that help organizations achieve security, efficiency, and compliance at scale.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
 </body>
 </html>
