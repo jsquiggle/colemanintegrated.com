@@ -7,7 +7,6 @@
   <script defer src="scripts.js"></script>
 </head>
 <body>
-  
   <header class="site-header">
     <div class="container">
       <a class="brand" href="index.html">
@@ -21,7 +20,7 @@
         <a href="dashboard.html">Compliance Dashboard</a>
         <a href="case-studies.html">Case Studies</a>
         <a href="about.html">About</a>
-        <a href="contact.html" class="btn">Contact</a>
+        <a href="contact.html" class="btn" aria-current="page">Contact</a>
       </nav>
     </div>
   </header>
@@ -31,22 +30,37 @@
       <h1>Contact</h1>
       <p>Prefer email? Write to <a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a></p>
 
-      <!-- Direct-to-email via FormSubmit.co; replace 'disabled=true' once tested -->
+      <!-- FormSubmit (no account required). On first submission, it emails you a verification link.
+           Click that link once, then future submissions deliver directly to your inbox. -->
       <form class="form" action="https://formsubmit.co/kyle.coleman@colemanintegrated.com" method="POST">
-        <!-- FormSubmit options -->
         <input type="hidden" name="_subject" value="New lead — Coleman Integrated Solutions">
         <input type="hidden" name="_captcha" value="false">
         <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_next" value="https://jsquiggle.github.io/colemanintegrated.com/thanks.html">
         <input type="text" name="_honey" style="display:none">
-
         <label>Full name<input name="name" required></label>
         <label>Email<input type="email" name="email" required></label>
         <label>Company<input name="company"></label>
         <label>Message<textarea name="message" rows="5" required></textarea></label>
         <button class="btn" type="submit">Send</button>
       </form>
+
+      <noscript>
+        <p><em>If the form doesn't submit, email <a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a>.</em></p>
+      </noscript>
+
+      <!-- Alternative: Formspree (requires a real Form ID). Uncomment and replace YOUR_FORM_ID.
+      <form class="form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+        <label>Full name<input name="name" required></label>
+        <label>Email<input type="email" name="email" required></label>
+        <label>Company<input name="company"></label>
+        <label>Message<textarea name="message" rows="5" required></textarea></label>
+        <button class="btn" type="submit">Send</button>
+      </form>
+      -->
     </div>
   </main>
+
   <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
 </body>
 </html>
