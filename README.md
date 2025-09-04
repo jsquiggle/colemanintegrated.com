@@ -1,8 +1,5 @@
-# Patch: Headshot Fix
-- Ensures your headshot is named `assets/headshot.jpg` (lowercase).
-- Updates `about.html` to reference it with cache-busting (?v=2) and a fallback to `Headshot.jpg`.
+# Nav Patch — Remove Industries Tab
+This patch removes the **Industries** tab from the top navigation on all pages while keeping the Industries section on the homepage.
 
-## How to use
-Upload `about.html` and `assets/headshot.jpg` from this patch to your repo root (replace existing).
-
-Then open https://jsquiggle.github.io/colemanintegrated.com/about.html and hard-refresh (Ctrl/Cmd+Shift+R).
+## Deploy
+Upload these files to your repo root, replacing the existing pages. Then hard-refresh the site.
