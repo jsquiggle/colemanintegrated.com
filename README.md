@@ -1,15 +1,11 @@
-# Coleman Integrated Solutions — GitHub Pages bundle
-
-This is a ready-to-drop static bundle.
-
-## What changed
-- All occurrences of “clowdcover” → “Coleman Integrated Solutions”.
-- Fixed root-relative asset paths (/css, /js, /images, etc.) to relative so they work under project URLs.
-- GTM snippets commented out (enable later by replacing with your own ID).
-- Added `assets/coleman-logo.png` and referenced it in the first detected logo image.
-- Added `.nojekyll`.
+# Patch: Compliance Dashboard + Email Connector
+This patch:
+- Adds `dashboard.html` (demo charts via Chart.js CDN).
+- Adds nav links to **Compliance Dashboard** and a hero CTA to open it.
+- Updates **Contact** to send directly to kyle.coleman@colemanintegrated.com using FormSubmit.
+- Updates footer mailto link on the homepage.
 
 ## Deploy
-1) Upload everything in this ZIP to your repo root (e.g., `jsquiggle/colemanintegrated.com`).  
-2) Settings → Pages → Deploy from branch → main → /(root).  
-3) Visit `https://jsquiggle.github.io/colemanintegrated.com/`.
+Upload these files to your repo root (replace existing). Then open:
+- /dashboard.html for the demo
+- /contact.html to test the email form (you should receive messages at kyle.coleman@colemanintegrated.com).
