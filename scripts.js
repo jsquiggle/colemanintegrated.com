@@ -6,28 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
   if (toggle && nav) toggle.addEventListener('click', () => nav.classList.toggle('open'));
 });
 
-// === Cyber Feeds Loader (GitHub Pages: static JSON with robust paths) ===
+// === Cyber Feeds Loader (GitHub Pages: local JSON) ===
 function repoBasePath(){
-  // Robust GH Pages detection:
-  // - User/Org page: hostname ends with github.io, path like /repo/...
-  // - Project page: path starts with /<repo>/
-  const path = window.location.pathname.replace(/index\.html$/,'');
+  const path = window.location.pathname.replace(/index\.html$/,''); 
   const parts = path.split('/').filter(Boolean);
-
-  // If on *.github.io domain and there's at least one path segment, it's the repo base.
-  if (location.hostname.endsWith('github.io') && parts.length >= 1) {
-    return '/' + parts[0] + '/';
-  }
-
-  // Fallback: if at least 2 segments, assume /<user>/<repo>/
-  if (parts.length >= 2) {
-    return '/' + parts[0] + '/' + parts[1] + '/';
-  }
-
-  // Otherwise root
-  return '/';
-}
-  const parts = window.location.pathname.split('/').filter(Boolean);
+  if (location.hostname.endsWith('github.io') && parts.length >= 1) return '/' + parts[0] + '/';
   if (parts.length >= 2) return '/' + parts[0] + '/' + parts[1] + '/';
   return '/';
 }
@@ -37,7 +20,7 @@ async function tryFetchJson(paths){
   }
   throw new Error('All JSON paths failed: ' + paths.join(', '));
 }
-async function populateList(json, elementId, maxItems=5){
+async function populateList(json, elementId, maxItems=6){
   const ul = document.querySelector(`#${elementId} .feed-list`);
   if (!ul) return;
   ul.innerHTML = "";
@@ -61,16 +44,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     `${base}docs/feeds/${name}.json`, `docs/feeds/${name}.json`
   ];
   const feeds = [
-    {name:'cisa', el:'cisa-feed'},
-    {name:'cert', el:'cert-feed'},
+    {name:'krebs', el:'krebs-feed'},
+    {name:'bleeping', el:'bleeping-feed'},
     {name:'hackernews', el:'hackernews-feed'}
   ];
   for (const f of feeds){
     const ul = document.querySelector(`#${f.el} .feed-list`); if (ul) ul.innerHTML = "<li>Loading…</li>";
     try{
       const data = await tryFetchJson(pathOptions(f.name));
-      await populateList(data, f.el, 5);
-      if (f.name === 'cisa') setUpdated(data);
+      await populateList(data, f.el, 6);
+      if (f.name === 'krebs') setUpdated(data);
     }catch(e){
       if (ul) ul.innerHTML = "<li>Unable to load feed.</li>";
       console.error('[feeds]', f.name, e);

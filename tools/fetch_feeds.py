@@ -7,14 +7,14 @@ OUT_DIR = Path("feeds")
 OUT_DIR.mkdir(exist_ok=True)
 
 FEEDS = {
-    "cisa": "https://www.cisa.gov/news-events/cybersecurity-advisories?feed=rss",
-    "cert": "http://www.kb.cert.org/vulfeed",
+    "krebs": "https://krebsonsecurity.com/feed/",
+    "bleeping": "https://www.bleepingcomputer.com/feed/",
     "hackernews": "https://thehackernews.com/feeds/posts/default?alt=rss",
 }
 
 HEADERS = {"User-Agent": "ColemanIntegratedRSS/1.0 (+github actions)"}
 
-def fetch_text(url, retries=3, timeout=20):
+def fetch_text(url, retries=3, timeout=25):
     last = None
     for i in range(retries):
         try:
@@ -32,7 +32,7 @@ def parse_items(xml_text, max_items=12):
     items = []
     for e in feed.entries[:max_items]:
         title = (getattr(e,'title',None) or 'Untitled').strip()
-        link = (getattr(e,'link',None) or getattr(e,'id',None) or '').strip()
+        link  = (getattr(e,'link',None) or getattr(e,'id',None) or '').strip()
         items.append({"title": title, "link": link})
     return items
 
