@@ -11,52 +11,67 @@ loadFeed("https://www.kb.cert.org/vuls/rss/rss.xml", "cert-feed", 5);
   loadFeed("https://thehackernews.com/feeds/posts/default?alt=rss", "hackernews-feed", 5);
 });
 
-// === Cyber Feeds Loader (with XML fallback) ===
+loadFeed("https://www.kb.cert.org/vuls/rss/rss.xml", "cert-feed", 5);
+  loadFeed("https://thehackernews.com/feeds/posts/default?alt=rss", "hackernews-feed", 5);
+});
+
+// === Cyber Feeds Loader (multi-proxy with timeout) ===
+function logFeed(status, detail){ try{ console.log("[feeds]", status, detail||""); }catch(e){} }
+
+function withTimeout(promise, ms=9000) {
+  let t;
+  const timeout = new Promise((_, rej) => t = setTimeout(() => rej(new Error("timeout "+ms+"ms")), ms));
+  return Promise.race([promise.finally(()=>clearTimeout(t)), timeout]);
+}
+
+// Try proxies in order until one works
+async function fetchTextThroughProxies(url) {
+  const proxies = [
+    (u)=>`https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+    (u)=>`https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`
+  ];
+  let lastErr;
+  for (const p of proxies) {
+    const endpoint = p(url);
+    try {
+      const res = await withTimeout(fetch(endpoint), 9000);
+      if (!res.ok) { lastErr = new Error("HTTP "+res.status); logFeed("proxy-fail", endpoint); continue; }
+      const text = await res.text();
+      return text;
+    } catch(e) { lastErr = e; logFeed("proxy-error", e.message); }
+  }
+  throw lastErr || new Error("All proxies failed");
+}
+
 async function fetchRSSJson(feedUrl) {
   const endpoint = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(feedUrl);
-  const res = await fetch(endpoint);
+  const res = await withTimeout(fetch(endpoint), 9000);
   if (!res.ok) throw new Error("rss2json HTTP " + res.status);
   return res.json();
 }
 
-async function fetchRSSXmlViaProxy(feedUrl) {
-  const endpoint = "https://api.allorigins.win/raw?url=" + encodeURIComponent(feedUrl);
-  const res = await fetch(endpoint);
-  if (!res.ok) throw new Error("allorigins HTTP " + res.status);
-  const text = await res.text();
-  const xml = new DOMParser().parseFromString(text, "text/xml");
-  return xml;
-}
+function parseXml(text) { return new DOMParser().parseFromString(text, "text/xml"); }
 
 function extractItemsFromXml(xmlDoc, maxItems) {
-  let items = Array.from(xmlDoc.querySelectorAll("item"));
-  if (items.length === 0) {
-    // Atom
-    items = Array.from(xmlDoc.querySelectorAll("entry"));
-  }
+  let items = Array.from(xmlDoc.querySelectorAll("item, entry"));
   return items.slice(0, maxItems).map(node => {
     const titleNode = node.querySelector("title");
-    let linkNode = node.querySelector("link");
     let link = "";
-    if (linkNode) {
-      // Atom links sometimes use href attribute
-      link = linkNode.getAttribute("href") || (linkNode.textContent || "").trim();
-    } else {
-      const l = node.querySelector("link, guid, id");
-      link = l ? (l.getAttribute && l.getAttribute("href")) || l.textContent.trim() : "";
+    const atomLink = node.querySelector("link[rel='alternate']") || node.querySelector("link");
+    if (atomLink) link = atomLink.getAttribute("href") || atomLink.textContent.trim();
+    if (!link) {
+      const guid = node.querySelector("guid, id");
+      link = guid ? (guid.textContent||"").trim() : "";
     }
-    return {
-      title: titleNode ? titleNode.textContent.trim() : "Untitled",
-      link: link
-    };
+    return { title: titleNode ? titleNode.textContent.trim() : "Untitled", link };
   });
 }
 
 async function loadFeed(feedUrl, elementId, maxItems = 5) {
   const ul = document.querySelector(`#${elementId} .feed-list`);
-  if (ul) { ul.innerHTML = "<li>Loading…</li>"; }
+  if (ul) ul.innerHTML = "<li>Loading…</li>";
   try {
-    // Try rss2json first
+    // Primary: rss2json
     const data = await fetchRSSJson(feedUrl);
     if (!ul) return;
     ul.innerHTML = "";
@@ -64,39 +79,34 @@ async function loadFeed(feedUrl, elementId, maxItems = 5) {
       const li = document.createElement("li");
       const a = document.createElement("a");
       a.href = item.link;
-      a.target = "_blank";
-      a.rel = "noopener";
+      a.target = "_blank"; a.rel = "noopener";
       a.textContent = item.title;
-      li.appendChild(a);
-      ul.appendChild(li);
+      li.appendChild(a); ul.appendChild(li);
     });
-    if (!ul.children.length) {
-      ul.innerHTML = "<li>No recent items.</li>";
-    }
+    if (!ul.children.length) ul.innerHTML = "<li>No recent items.</li>";
+    logFeed("rss2json-ok", elementId);
   } catch (e1) {
-    // Fallback to proxy + XML parsing
+    logFeed("rss2json-fail", e1.message);
     try {
-      const xml = await fetchRSSXmlViaProxy(feedUrl);
+      // Fallback: proxy + XML
+      const text = await fetchTextThroughProxies(feedUrl);
+      const xml = parseXml(text);
+      const items = extractItemsFromXml(xml, maxItems);
       if (!ul) return;
       ul.innerHTML = "";
-      const items = extractItemsFromXml(xml, maxItems);
-      if (!items.length) {
-        ul.innerHTML = "<li>No recent items.</li>";
-        return;
-      }
-      items.forEach(item => {
+      if (!items.length) { ul.innerHTML = "<li>No recent items.</li>"; return; }
+      items.forEach(it => {
         const li = document.createElement("li");
         const a = document.createElement("a");
-        a.href = item.link || "#";
-        a.target = "_blank";
-        a.rel = "noopener";
-        a.textContent = item.title;
-        li.appendChild(a);
-        ul.appendChild(li);
+        a.href = it.link || "#";
+        a.target = "_blank"; a.rel = "noopener";
+        a.textContent = it.title;
+        li.appendChild(a); ul.appendChild(li);
       });
+      logFeed("xml-fallback-ok", elementId);
     } catch (e2) {
       if (ul) ul.innerHTML = "<li>Unable to load feed.</li>";
-      console.error("Feed error:", elementId, e1, e2);
+      logFeed("xml-fallback-fail", e2.message);
     }
   }
 }
