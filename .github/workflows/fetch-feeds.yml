@@ -2,12 +2,16 @@ name: Fetch Cyber Feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
+
+concurrency:
+  group: rss-update
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -43,6 +47,6 @@ jobs:
         with:
           commit-message: "Update feeds JSON [skip ci]"
           title: "Update cyber feeds JSON"
-          body: "Automated update from workflow."
+          body: "Automated JSON refresh from Fetch Cyber Feeds workflow."
           branch: chore/update-feeds
           delete-branch: true
