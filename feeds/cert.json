@@ -1,5 +1,54 @@
 {
-  "source": "",
-  "updated": "",
-  "items": []
+  "source": "http://www.kb.cert.org/vulfeed",
+  "updated": "2025-09-08T23:09:59Z",
+  "items": [
+    {
+      "title": "VU#706118: Workhorse Software Services, Inc. software prior to version 1.9.4.48019, default deployment is vulnerable to multiple issues.",
+      "link": "https://kb.cert.org/vuls/id/706118"
+    },
+    {
+      "title": "VU#209095: SMM Memory Corruption Vulnerability in the AMI Aptio's SMM Module Across Multiple Devices",
+      "link": "https://kb.cert.org/vuls/id/209095"
+    },
+    {
+      "title": "VU#767506: HTTP/2 implementations are vulnerable to \"MadeYouReset\" DoS attack through HTTP/2 control frames",
+      "link": "https://kb.cert.org/vuls/id/767506"
+    },
+    {
+      "title": "VU#317469: Partner Software/Partner Web does not sanitize Report files and Note content, allowing for XSS and RCE",
+      "link": "https://kb.cert.org/vuls/id/317469"
+    },
+    {
+      "title": "VU#554637: TP-Link Archer C50 router is vulnerable to configuration-file decryption",
+      "link": "https://kb.cert.org/vuls/id/554637"
+    },
+    {
+      "title": "VU#335798: SysTrack LsiAgent.exe contains an improper DLL search order, allowing an attacker to execute arbitrary code and priv esc",
+      "link": "https://kb.cert.org/vuls/id/335798"
+    },
+    {
+      "title": "VU#746790: SMM callout vulnerabilities identified in Gigabyte UEFI firmware modules",
+      "link": "https://kb.cert.org/vuls/id/746790"
+    },
+    {
+      "title": "VU#613753: RUCKUS Virtual SmartZone (vSZ) and RUCKUS Network Director (RND) contain multiple vulnerabilities",
+      "link": "https://kb.cert.org/vuls/id/613753"
+    },
+    {
+      "title": "VU#806555: A Vulnerability in UEFI Applications allows for secure boot bypass via misused NVRAM variable",
+      "link": "https://kb.cert.org/vuls/id/806555"
+    },
+    {
+      "title": "VU#282450: Out-of-Bounds read vulnerability in TCG TPM2.0 reference implementation",
+      "link": "https://kb.cert.org/vuls/id/282450"
+    },
+    {
+      "title": "VU#211341: A vulnerability in Insyde H2O UEFI application allows for digital certificate injection via NVRAM variable",
+      "link": "https://kb.cert.org/vuls/id/211341"
+    },
+    {
+      "title": "VU#760160: libexpat library is vulnerable to DoS attacks through stack overflow",
+      "link": "https://kb.cert.org/vuls/id/760160"
+    }
+  ]
 }
