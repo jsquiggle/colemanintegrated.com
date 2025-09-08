@@ -8,8 +8,25 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // === Cyber Feeds Loader (GitHub Pages: static JSON with robust paths) ===
 function repoBasePath(){
-  const baseEl = document.querySelector('base[href]');
-  if (baseEl) { const b = baseEl.getAttribute('href'); return b.endsWith('/')? b : (b + '/'); }
+  // Robust GH Pages detection:
+  // - User/Org page: hostname ends with github.io, path like /repo/...
+  // - Project page: path starts with /<repo>/
+  const path = window.location.pathname.replace(/index\.html$/,'');
+  const parts = path.split('/').filter(Boolean);
+
+  // If on *.github.io domain and there's at least one path segment, it's the repo base.
+  if (location.hostname.endsWith('github.io') && parts.length >= 1) {
+    return '/' + parts[0] + '/';
+  }
+
+  // Fallback: if at least 2 segments, assume /<user>/<repo>/
+  if (parts.length >= 2) {
+    return '/' + parts[0] + '/' + parts[1] + '/';
+  }
+
+  // Otherwise root
+  return '/';
+}
   const parts = window.location.pathname.split('/').filter(Boolean);
   if (parts.length >= 2) return '/' + parts[0] + '/' + parts[1] + '/';
   return '/';
