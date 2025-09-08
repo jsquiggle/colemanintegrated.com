@@ -7,17 +7,18 @@ OUT_DIR = Path("feeds")
 OUT_DIR.mkdir(exist_ok=True)
 
 FEEDS = {
-    "cisa": "https://www.cisa.gov/cybersecurity-advisories/cisa-rss.xml",
-    "cert": "https://www.kb.cert.org/vuls/rss/rss.xml",
-    "hackernews": "https://thehackernews.com/feeds/posts/default?alt=rss"
+    "cisa": "https://www.cisa.gov/news-events/cybersecurity-advisories?feed=rss",
+    "cert": "http://www.kb.cert.org/vulfeed",
+    "hackernews": "https://thehackernews.com/feeds/posts/default?alt=rss",
 }
+
 HEADERS = {"User-Agent": "ColemanIntegratedRSS/1.0 (+github actions)"}
 
 def fetch_text(url, retries=3, timeout=20):
     last = None
     for i in range(retries):
         try:
-            r = requests.get(url, headers=HEADERS, timeout=timeout)
+            r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
             if r.ok and r.text.strip():
                 return r.text
             last = f"HTTP {r.status_code}"
