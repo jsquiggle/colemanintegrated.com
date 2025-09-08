@@ -2,7 +2,7 @@ name: Fetch Cyber Feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,11 +26,19 @@ jobs:
         run: |
           python tools/fetch_feeds.py
 
+      - name: Copy to docs if exists
+        run: |
+          if [ -d "docs" ]; then
+            mkdir -p docs/feeds
+            cp -f feeds/*.json docs/feeds/ || true
+          fi
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feeds/*.json
+          git add feeds/*.json || true
+          if [ -d "docs" ]; then git add docs/feeds/*.json || true; fi
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, sys, time, hashlib
+import json, time
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 from pathlib import Path
@@ -17,20 +17,17 @@ HEADERS = {"User-Agent": "ColemanIntegratedRSS/1.0"}
 
 def fetch(url):
     req = Request(url, headers=HEADERS)
-    with urlopen(req, timeout=20) as resp:
+    with urlopen(req, timeout=30) as resp:
         return resp.read()
 
-def parse_items(xml_bytes, max_items=10):
+def parse_items(xml_bytes, max_items=12):
     root = ET.fromstring(xml_bytes)
-    # Support both RSS and Atom
     items = []
-    # Try RSS
     for item in root.findall(".//item"):
         title = (item.findtext("title") or "Untitled").strip()
         link = (item.findtext("link") or item.findtext("guid") or "").strip()
         items.append({"title": title, "link": link})
     if not items:
-        # Atom
         ns = {"atom": "http://www.w3.org/2005/Atom"}
         entries = root.findall(".//atom:entry", ns) or root.findall(".//entry")
         for e in entries:
@@ -50,7 +47,7 @@ def main():
             (OUT_DIR / f"{key}.json").write_text(json.dumps(out, indent=2))
             print(f"Wrote feeds/{key}.json with {len(items)} items")
         except Exception as e:
-            print(f"Error fetching {key}: {e}", file=sys.stderr)
+            print(f"Error fetching {key}: {e}")
 
 if __name__ == "__main__":
     main()
