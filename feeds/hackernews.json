@@ -1,1 +1,58 @@
+<<<<<<< HEAD
 {"source":"","updated":"","items":[]}
+=======
+{
+  "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
+  "updated": "2025-09-08T18:44:28Z",
+  "items": [
+    {
+      "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
+      "link": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html"
+    },
+    {
+      "title": "GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms",
+      "link": "https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More",
+      "link": "https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html"
+    },
+    {
+      "title": "You Didn\u2019t Get Phished \u2014 You Onboarded the Attacker",
+      "link": "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html"
+    },
+    {
+      "title": "Noisy Bear Campaign Targeting Kazakhstan Energy Sector Outed as a Planned Phishing Test",
+      "link": "https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html"
+    },
+    {
+      "title": "Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys",
+      "link": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html"
+    },
+    {
+      "title": "CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html"
+    },
+    {
+      "title": "TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations",
+      "link": "https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html"
+    },
+    {
+      "title": "SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild",
+      "link": "https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html"
+    },
+    {
+      "title": "Automation Is Redefining Pentest Delivery",
+      "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html"
+    },
+    {
+      "title": "VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages",
+      "link": "https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html"
+    },
+    {
+      "title": "Russian APT28 Deploys \u201cNotDoor\u201d Outlook Backdoor Against Companies in NATO Countries",
+      "link": "https://thehackernews.com/2025/09/russian-apt28-deploys-notdoor-outlook.html"
+    }
+  ]
+}
+>>>>>>> f26a5369b238dc32adf173f433b32d96d822ac0c
