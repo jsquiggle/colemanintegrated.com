@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-{"source":"","updated":"","items":[]}
-=======
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-08T18:44:28Z",
+  "updated": "2025-09-08T19:08:33Z",
   "items": [
     {
       "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
@@ -55,4 +52,3 @@
     }
   ]
 }
->>>>>>> f26a5369b238dc32adf173f433b32d96d822ac0c
