@@ -62,6 +62,43 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
   .industries-grid { grid-template-columns: 1fr; }
 }
 
+/* === Unified Industries styling === */
+.industry-card,
+.card.industry {
+  background: #121923;              /* same background for all */
+  border: 1px solid rgba(255,255,255,.06);
+  border-radius: 14px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #e6f0f7;
+  box-shadow: 0 6px 16px rgba(0,0,0,.25);
+  min-height: 260px;                /* enforce equal height */
+}
+
+/* keep headings consistent */
+.industry-card h3,
+.card.industry h3 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+}
+
+/* force equal height grid */
+.industries-grid,
+.cards.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+@media (max-width: 900px) {
+  .industries-grid,
+  .cards.grid-3 {
+    grid-template-columns: 1fr;
+  }
+}
+
 
 /* Horizontal scroll for industries chips */
 .chips-scroll{
