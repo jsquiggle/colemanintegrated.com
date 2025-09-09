@@ -10,34 +10,24 @@ FEEDS = {
     "krebs": "https://krebsonsecurity.com/feed/",
     "bleeping": "https://www.bleepingcomputer.com/feed/",
     "hackernews": "https://thehackernews.com/feeds/posts/default?alt=rss",
-    "cisa": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
-    "cert": "https://www.us-cert.gov/ncas/current-activity.xml",
-    "darkreading": "https://www.darkreading.com/rss.xml",
-    "databreaches": "https://www.databreaches.net/feed/",
-    "troyhunt": "https://www.troyhunt.com/rss/"
 }
+
 HEADERS = {"User-Agent": "ColemanIntegratedRSS/1.0 (+github actions)"}
 
-def fetch_text(url, retries=3, timeout=25):
-    last = None
-    for i in range(retries):
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
-            if r.ok and r.text.strip():
-                return r.text
-            last = f"HTTP {r.status_code}"
-        except Exception as e:
-            last = str(e)
-        time.sleep(2*(i+1))
-    raise RuntimeError(f"Fetch failed: {last}")
+def fetch_text(url, timeout=15):
+    r = requests.get(url, headers=HEADERS, timeout=timeout)
+    r.raise_for_status()
+    return r.text
 
-def parse_items(xml_text, max_items=12):
-    feed = feedparser.parse(xml_text)
+def parse_items(xml, limit=12):
+    parsed = feedparser.parse(xml)
     items = []
-    for e in feed.entries[:max_items]:
-        title = (getattr(e,'title',None) or 'Untitled').strip()
-        link  = (getattr(e,'link',None) or getattr(e,'id',None) or '').strip()
-        items.append({"title": title, "link": link})
+    for e in parsed.get("entries", [])[:limit]:
+        items.append({
+            "title": e.get("title","Untitled"),
+            "link": e.get("link","#"),
+            "pubDate": e.get("published","") or e.get("updated","")
+        })
     return items
 
 def main():
