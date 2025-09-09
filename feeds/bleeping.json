@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-09T11:33:01Z",
+  "updated": "2025-09-09T12:21:39Z",
   "items": [
+    {
+      "title": "Microsoft testing new AI features in Windows 11 File Explorer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/",
+      "pubDate": "Tue, 09 Sep 2025 07:41:12 -0400"
+    },
     {
       "title": "Plex tells users to reset passwords after new data breach",
       "link": "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT makes Projects feature free, adds a toggle to split chat",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/",
       "pubDate": "Sun, 07 Sep 2025 19:33:49 -0400"
-    },
-    {
-      "title": "iCloud Calendar abused to send phishing emails from Apple\u2019s servers",
-      "link": "https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/",
-      "pubDate": "Sun, 07 Sep 2025 13:10:29 -0400"
     }
   ]
 }
