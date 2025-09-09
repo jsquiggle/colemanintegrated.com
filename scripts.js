@@ -6,57 +6,104 @@ document.addEventListener('DOMContentLoaded', () => {
   if (toggle && nav) toggle.addEventListener('click', () => nav.classList.toggle('open'));
 });
 
-// === Cyber Feeds Loader (GitHub Pages: local JSON) ===
+// === Cyber Feeds Loader (GitHub Pages: local JSON in /feeds) ===
 function repoBasePath(){
-  const path = window.location.pathname.replace(/index\.html$/,''); 
+  const path = window.location.pathname.replace(/index\.html$/,'');
   const parts = path.split('/').filter(Boolean);
   if (location.hostname.endsWith('github.io') && parts.length >= 1) return '/' + parts[0] + '/';
   if (parts.length >= 2) return '/' + parts[0] + '/' + parts[1] + '/';
   return '/';
 }
-async function tryFetchJson(paths){
-  for (const p of paths){
-    try{ const r = await fetch(p, {cache:'no-store'}); if (r.ok) return r.json(); }catch(e){}
-  }
-  throw new Error('All JSON paths failed: ' + paths.join(', '));
+
+// Resolve JSON path options (root /feeds/*.json or /docs/feeds/*.json for GH Pages variants)
+function pathOptions(name){
+  const base = repoBasePath();
+  return [
+    base + 'feeds/' + name + '.json',
+    base + 'docs/feeds/' + name + '.json',
+    '/feeds/' + name + '.json'
+  ];
 }
-async function populateList(json, elementId, maxItems=6){
-  const ul = document.querySelector(`#${elementId} .feed-list`);
+
+async function tryFetchJson(paths){
+  const arr = Array.isArray(paths) ? paths : [paths];
+  let lastErr;
+  for (const p of arr){
+    try {
+      const res = await fetch(p, {cache:'no-store'});
+      if (res.ok) return await res.json();
+      lastErr = new Error('HTTP ' + res.status);
+    } catch(e){
+      lastErr = e;
+    }
+  }
+  throw lastErr || new Error('Fetch failed');
+}
+
+function normalizeItems(data, maxItems){
+  const items = (data && data.items) ? data.items : [];
+  return items.slice(0, maxItems).map(it => {
+    const t = it.title || it.name || 'Untitled';
+    const u = it.link || it.url || '#';
+    const d = it.pubDate || it.date || it.published || '';
+    return {title:t, url:u, date:d};
+  });
+}
+
+async function populateList(data, mountId, maxItems){
+  const el = document.getElementById(mountId);
+  if (!el) return;
+  const list = normalizeItems(data, maxItems || 6);
+  const ul = el.querySelector('.feed-list');
   if (!ul) return;
-  ul.innerHTML = "";
-  (json.items || []).slice(0, maxItems).forEach(it => {
+  ul.innerHTML = '';
+  if (!list.length){
+    ul.innerHTML = '<li>No recent items.</li>';
+    return;
+  }
+  list.forEach(it => {
     const li = document.createElement('li');
     const a = document.createElement('a');
-    a.href = it.link || '#'; a.target = '_blank'; a.rel = 'noopener';
-    a.textContent = it.title || 'Untitled';
-    li.appendChild(a); ul.appendChild(li);
+    a.href = it.url;
+    a.target = '_blank';
+    a.rel = 'noopener noreferrer';
+    a.textContent = it.title;
+    li.appendChild(a);
+    ul.appendChild(li);
   });
-  if (!ul.children.length) ul.innerHTML = "<li>No recent items.</li>";
 }
-function setUpdated(json){
-  const el = document.getElementById('feeds-updated');
-  if (el && json && json.updated){ el.textContent = 'Updated ' + new Date(json.updated).toLocaleString(); }
+
+function setUpdated(data){
+  const span = document.querySelector('.feeds-updated');
+  if (span && data && data.updated){
+    span.textContent = 'Updated ' + new Date(data.updated).toLocaleString();
+  }
 }
-document.addEventListener('DOMContentLoaded', async () => {
-  const base = repoBasePath();
-  const pathOptions = (name)=>[
-    `${base}feeds/${name}.json`, `feeds/${name}.json`,
-    `${base}docs/feeds/${name}.json`, `docs/feeds/${name}.json`
-  ];
+
+(async function initFeeds(){
+  const pathOptionsFn = pathOptions;
   const feeds = [
     {name:'krebs', el:'krebs-feed'},
     {name:'bleeping', el:'bleeping-feed'},
-    {name:'hackernews', el:'hackernews-feed'}
+    {name:'hackernews', el:'hackernews-feed'},
+    {name:'cisa', el:'cisa-feed'},
+    {name:'cert', el:'cert-feed'},
+    {name:'darkreading', el:'darkreading-feed'},
+    {name:'databreaches', el:'databreaches-feed'},
+    {name:'troyhunt', el:'troyhunt-feed'}
   ];
   for (const f of feeds){
-    const ul = document.querySelector(`#${f.el} .feed-list`); if (ul) ul.innerHTML = "<li>Loading…</li>";
-    try{
-      const data = await tryFetchJson(pathOptions(f.name));
+    const root = document.getElementById(f.el);
+    if (!root) continue;
+    const ul = root.querySelector('.feed-list');
+    if (ul) ul.innerHTML = '<li>Loading…</li>';
+    try {
+      const data = await tryFetchJson(pathOptionsFn(f.name));
       await populateList(data, f.el, 6);
       if (f.name === 'krebs') setUpdated(data);
-    }catch(e){
-      if (ul) ul.innerHTML = "<li>Unable to load feed.</li>";
+    } catch(e){
+      if (ul) ul.innerHTML = '<li>Unable to load feed.</li>';
       console.error('[feeds]', f.name, e);
     }
   }
-});
+})();
