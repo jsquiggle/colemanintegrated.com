@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-09T20:11:19Z",
+  "updated": "2025-09-09T20:36:48Z",
   "items": [
+    {
+      "title": "U.S. sanctions cyber scammers who stole billions from Americans",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-cyber-scammers-who-stole-billions-from-americans/",
+      "pubDate": "Tue, 09 Sep 2025 16:25:49 -0400"
+    },
     {
       "title": "Hackers hide behind Tor in exposed Docker API breaches",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/",
@@ -56,11 +61,6 @@
       "title": "Microsoft testing new AI features in Windows 11 File Explorer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/",
       "pubDate": "Tue, 09 Sep 2025 07:41:12 -0400"
-    },
-    {
-      "title": "Plex tells users to reset passwords after new data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/",
-      "pubDate": "Mon, 08 Sep 2025 21:03:02 -0400"
     }
   ]
 }
