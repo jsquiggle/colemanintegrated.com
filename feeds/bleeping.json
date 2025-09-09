@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-09T19:08:12Z",
+  "updated": "2025-09-09T19:32:48Z",
   "items": [
+    {
+      "title": "Hackers hide behind Tor in exposed Docker API breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/",
+      "pubDate": "Tue, 09 Sep 2025 15:16:30 -0400"
+    },
     {
       "title": "Windows 10 KB5065429 update includes 14 changes and fixes",
       "link": "https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/",
@@ -56,11 +61,6 @@
       "title": "Plex tells users to reset passwords after new data breach",
       "link": "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/",
       "pubDate": "Mon, 08 Sep 2025 21:03:02 -0400"
-    },
-    {
-      "title": "Surge in networks scans targeting Cisco ASA devices raise concerns",
-      "link": "https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/",
-      "pubDate": "Mon, 08 Sep 2025 17:44:50 -0400"
     }
   ]
 }
