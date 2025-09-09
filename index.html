@@ -58,23 +58,16 @@
   </section>
 
   <section id="services" class="section">
-  <div class="container">
-    <h2>Services</h2>
-    <div class="cards grid-3">
-      <div class="card"><h3>Network Audit+</h3><p>Baseline checks, inventory, config snapshots, drift detection, executive‑ready reports.</p></div>
-      <div class="card"><h3>Compliance Packs</h3><p>CIS / NIST 800‑53 / SOC 2 policy mappings with automated evidence and remediation playbooks.</p></div>
-      <div class="card"><h3>Automation Platform</h3><p>Job scheduler, YAML policies, modular tasks, GitOps workflows for golden standards.</p></div>
-
-      <div class="card"><h3>Hardening & Remediation</h3><p>ACLs, secure defaults, PSIRT patch plans, rollbacks, and validation pipelines.</p></div>
-      <div class="card"><h3>Wireless 802.1X Migration</h3><p>NPS/Intune certificates, machine auth, fallback groups, and seamless cutovers.</p></div>
-      <div class="card"><h3>CMDB & ITAM Integration</h3><p>Asset discovery, CI relationships, lifecycle/EoX tracking, and evidence exports.</p></div>
-
-      <div class="card"><h3>Vuln & PSIRT Mapping</h3><p>Live vendor advisories to devices, with prioritization by exploitability and exposure.</p></div>
-      <div class="card"><h3>Secure Remote Access</h3><p>AnyConnect/WireGuard/SSL VPN, posture checks, and least‑privilege access design.</p></div>
-      <div class="card"><h3>Executive Reporting</h3><p>Board‑ready PDFs, trends over time, quick wins, and budget‑aligned roadmaps.</p></div>
+    <div class="container">
+      <h2>Services</h2>
+      <div class="cards grid-3">
+        <div class="card"><h3>Network Audit+</h3><p>Baseline checks, license snapshots, drift detection, executive‑ready reports.</p></div>
+        <div class="card"><h3>Compliance Packs</h3><p>CIS/NIST/SOC 2 mappings with automated evidence and remediation playbooks.</p></div>
+        <div class="card"><h3>Automation Platform</h3><p>Streamlit/Ansible modules, scheduled jobs, GitOps for golden standards.</p></div>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+
 <section id="industries" aria-label="Industries We Serve">
   <div class="container">
     <h2>Industries We Serve</h2>
@@ -145,6 +138,29 @@
           <li>Matter-centric access controls</li>
         </ul>
       </article>
+    </div>
+  </div>
+</section>
+
+  
+<section id="cyber-feeds" aria-label="Live Cybersecurity Incidents">
+  <div class="container">
+    <h2>Live Cybersecurity Incidents</h2>
+    <p class="feeds-subtitle">Real-world alerts that underscore why compliance matters.</p>
+    <div class="feeds-updated" id="feeds-updated" aria-live="polite"></div>
+    <div class="feeds-container" role="region" aria-live="polite">
+      <div class="feed-box" id="krebs-feed">
+        <h3>Krebs on Security</h3>
+        <ul class="feed-list"><li>Loading…</li></ul>
+      </div>
+      <div class="feed-box" id="bleeping-feed">
+        <h3>BleepingComputer</h3>
+        <ul class="feed-list"><li>Loading…</li></ul>
+      </div>
+      <div class="feed-box" id="hackernews-feed">
+        <h3>The Hacker News</h3>
+        <ul class="feed-list"><li>Loading…</li></ul>
+      </div>
     </div>
   </div>
 </section>
