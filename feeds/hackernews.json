@@ -1,1 +1,66 @@
-{"source":"","updated":"","items":[]}
+{
+  "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
+  "updated": "2025-09-09T01:54:42Z",
+  "items": [
+    {
+      "title": "45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage",
+      "link": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
+      "pubDate": "Tue, 09 Sep 2025 05:57:00 +0530"
+    },
+    {
+      "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
+      "link": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
+      "pubDate": "Mon, 08 Sep 2025 20:56:00 +0530"
+    },
+    {
+      "title": "GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms",
+      "link": "https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html",
+      "pubDate": "Mon, 08 Sep 2025 20:32:00 +0530"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More",
+      "link": "https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html",
+      "pubDate": "Mon, 08 Sep 2025 15:32:00 +0530"
+    },
+    {
+      "title": "You Didn\u2019t Get Phished \u2014 You Onboarded the Attacker",
+      "link": "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html",
+      "pubDate": "Mon, 08 Sep 2025 14:50:00 +0530"
+    },
+    {
+      "title": "Noisy Bear Campaign Targeting Kazakhstan Energy Sector Outed as a Planned Phishing Test",
+      "link": "https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html",
+      "pubDate": "Sat, 06 Sep 2025 20:43:00 +0530"
+    },
+    {
+      "title": "Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys",
+      "link": "https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html",
+      "pubDate": "Sat, 06 Sep 2025 12:12:00 +0530"
+    },
+    {
+      "title": "CISA Orders Immediate Patch of Critical Sitecore Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2025/09/cisa-orders-immediate-patch-of-critical.html",
+      "pubDate": "Fri, 05 Sep 2025 21:38:00 +0530"
+    },
+    {
+      "title": "TAG-150 Develops CastleRAT in Python and C, Expanding CastleLoader Malware Operations",
+      "link": "https://thehackernews.com/2025/09/tag-150-develops-castlerat-in-python.html",
+      "pubDate": "Fri, 05 Sep 2025 19:37:00 +0530"
+    },
+    {
+      "title": "SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild",
+      "link": "https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html",
+      "pubDate": "Fri, 05 Sep 2025 16:29:00 +0530"
+    },
+    {
+      "title": "Automation Is Redefining Pentest Delivery",
+      "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+      "pubDate": "Fri, 05 Sep 2025 13:30:00 +0530"
+    },
+    {
+      "title": "VirusTotal Finds 44 Undetected SVG Files Used to Deploy Base64-Encoded Phishing Pages",
+      "link": "https://thehackernews.com/2025/09/virustotal-finds-44-undetected-svg.html",
+      "pubDate": "Fri, 05 Sep 2025 11:43:00 +0530"
+    }
+  ]
+}
