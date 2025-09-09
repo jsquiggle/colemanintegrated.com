@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-09T09:12:02Z",
+  "updated": "2025-09-09T09:38:28Z",
   "items": [
+    {
+      "title": "How Leading CISOs are Getting Budget Approval",
+      "link": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
+      "pubDate": "Tue, 09 Sep 2025 14:00:00 +0530"
+    },
     {
       "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
       "link": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
@@ -56,11 +61,6 @@
       "title": "SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild",
       "link": "https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html",
       "pubDate": "Fri, 05 Sep 2025 16:29:00 +0530"
-    },
-    {
-      "title": "Automation Is Redefining Pentest Delivery",
-      "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
-      "pubDate": "Fri, 05 Sep 2025 13:30:00 +0530"
     }
   ]
 }
