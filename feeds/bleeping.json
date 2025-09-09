@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-09T15:39:24Z",
+  "updated": "2025-09-09T16:13:01Z",
   "items": [
+    {
+      "title": "US charges admin of LockerGoga, MegaCortex, Nefilim ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware/",
+      "pubDate": "Tue, 09 Sep 2025 12:08:15 -0400"
+    },
+    {
+      "title": "Adobe patches critical SessionReaper flaw in Magento eCommerce platform",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/",
+      "pubDate": "Tue, 09 Sep 2025 11:53:53 -0400"
+    },
+    {
+      "title": "How External Attack Surface Management helps enterprises manage cyber risk",
+      "link": "https://www.bleepingcomputer.com/news/security/how-external-attack-surface-management-helps-enterprises-manage-cyber-risk/",
+      "pubDate": "Tue, 09 Sep 2025 10:01:11 -0400"
+    },
     {
       "title": "Microsoft: Anti-spam bug blocks links in Exchange Online, Teams",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/",
@@ -46,21 +61,6 @@
       "title": "Sports streaming piracy service with 123M yearly visits shut down",
       "link": "https://www.bleepingcomputer.com/news/security/massive-calcio-sports-streaming-piracy-service-with-123m-yearly-visits-shut-down/",
       "pubDate": "Mon, 08 Sep 2025 14:12:57 -0400"
-    },
-    {
-      "title": "Hackers hijack npm packages with 2 billion weekly downloads in supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/",
-      "pubDate": "Mon, 08 Sep 2025 12:47:51 -0400"
-    },
-    {
-      "title": "Salesloft: March GitHub repo breach led to Salesforce data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/salesloft-march-github-repo-breach-led-to-salesforce-data-theft-attacks/",
-      "pubDate": "Mon, 08 Sep 2025 11:43:30 -0400"
-    },
-    {
-      "title": "Action1 vs. Microsoft WSUS: A Better Approach to Modern Patch Management",
-      "link": "https://www.bleepingcomputer.com/news/security/action1-vs-microsoft-wsus-a-better-approach-to-modern-patch-management/",
-      "pubDate": "Mon, 08 Sep 2025 09:35:00 -0400"
     }
   ]
 }
