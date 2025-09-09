@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-09T17:33:31Z",
+  "updated": "2025-09-09T18:13:07Z",
   "items": [
+    {
+      "title": "Windows 10 KB5065429 update includes 14 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/",
+      "pubDate": "Tue, 09 Sep 2025 13:57:12 -0400"
+    },
+    {
+      "title": "Microsoft September 2025 Patch Tuesday fixes 81 flaws, two zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-patch-tuesday-fixes-81-flaws-two-zero-days/",
+      "pubDate": "Tue, 09 Sep 2025 13:43:33 -0400"
+    },
+    {
+      "title": "Windows 11 KB5065426 & KB5065431 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065426-and-kb5065431-cumulative-updates-released/",
+      "pubDate": "Tue, 09 Sep 2025 13:37:21 -0400"
+    },
     {
       "title": "Kosovo hacker pleads guilty to running BlackDB cybercrime marketplace",
       "link": "https://www.bleepingcomputer.com/news/security/kosovo-hacker-pleads-guilty-to-running-blackdb-cybercrime-marketplace/",
@@ -46,21 +61,6 @@
       "title": "Surge in networks scans targeting Cisco ASA devices raise concerns",
       "link": "https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/",
       "pubDate": "Mon, 08 Sep 2025 17:44:50 -0400"
-    },
-    {
-      "title": "Hackers steal 3,325 secrets in GhostAction GitHub supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3-325-secrets-in-ghostaction-github-supply-chain-attack/",
-      "pubDate": "Mon, 08 Sep 2025 15:53:59 -0400"
-    },
-    {
-      "title": "Signal adds secure cloud backups to save and restore chats",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-secure-cloud-backups-to-save-and-restore-chats/",
-      "pubDate": "Mon, 08 Sep 2025 15:17:25 -0400"
-    },
-    {
-      "title": "Lovesac confirms data breach after ransomware attack claims",
-      "link": "https://www.bleepingcomputer.com/news/security/lovesac-confirms-data-breach-after-ransomware-attack-claims/",
-      "pubDate": "Mon, 08 Sep 2025 14:24:25 -0400"
     }
   ]
 }
