@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-09-09T21:09:01Z",
+  "updated": "2025-09-09T21:32:33Z",
   "items": [
+    {
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+      "pubDate": "Tue, 09 Sep 2025 21:21:14 +0000"
+    },
     {
       "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
       "link": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
@@ -46,11 +51,6 @@
       "title": "Microsoft Patch Tuesday, August 2025 Edition",
       "link": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/",
       "pubDate": "Tue, 12 Aug 2025 22:14:41 +0000"
-    },
-    {
-      "title": "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series",
-      "link": "https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/",
-      "pubDate": "Fri, 08 Aug 2025 21:38:01 +0000"
     }
   ]
 }
