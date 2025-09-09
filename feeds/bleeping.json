@@ -1,1 +1,66 @@
-{"source":"","updated":"","items":[]}
+{
+  "source": "https://www.bleepingcomputer.com/feed/",
+  "updated": "2025-09-09T01:09:33Z",
+  "items": [
+    {
+      "title": "Plex tells users to reset passwords after new data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/",
+      "pubDate": "Mon, 08 Sep 2025 21:03:02 -0400"
+    },
+    {
+      "title": "Surge in networks scans targeting Cisco ASA devices raise concerns",
+      "link": "https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/",
+      "pubDate": "Mon, 08 Sep 2025 17:44:50 -0400"
+    },
+    {
+      "title": "Hackers steal 3,325 secrets in GhostAction GitHub supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3-325-secrets-in-ghostaction-github-supply-chain-attack/",
+      "pubDate": "Mon, 08 Sep 2025 15:53:59 -0400"
+    },
+    {
+      "title": "Signal adds secure cloud backups to save and restore chats",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-secure-cloud-backups-to-save-and-restore-chats/",
+      "pubDate": "Mon, 08 Sep 2025 15:17:25 -0400"
+    },
+    {
+      "title": "Lovesac confirms data breach after ransomware attack claims",
+      "link": "https://www.bleepingcomputer.com/news/security/lovesac-confirms-data-breach-after-ransomware-attack-claims/",
+      "pubDate": "Mon, 08 Sep 2025 14:24:25 -0400"
+    },
+    {
+      "title": "Sports streaming piracy service with 123M yearly visits shut down",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-calcio-sports-streaming-piracy-service-with-123m-yearly-visits-shut-down/",
+      "pubDate": "Mon, 08 Sep 2025 14:12:57 -0400"
+    },
+    {
+      "title": "Hackers hijack npm packages with 2 billion weekly downloads in supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/",
+      "pubDate": "Mon, 08 Sep 2025 12:47:51 -0400"
+    },
+    {
+      "title": "Salesloft: March GitHub repo breach led to Salesforce data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/salesloft-march-github-repo-breach-led-to-salesforce-data-theft-attacks/",
+      "pubDate": "Mon, 08 Sep 2025 11:43:30 -0400"
+    },
+    {
+      "title": "Action1 vs. Microsoft WSUS: A Better Approach to Modern Patch Management",
+      "link": "https://www.bleepingcomputer.com/news/security/action1-vs-microsoft-wsus-a-better-approach-to-modern-patch-management/",
+      "pubDate": "Mon, 08 Sep 2025 09:35:00 -0400"
+    },
+    {
+      "title": "Google to make it easier to access AI Mode as default",
+      "link": "https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/",
+      "pubDate": "Sun, 07 Sep 2025 20:07:54 -0400"
+    },
+    {
+      "title": "ChatGPT makes Projects feature free, adds a toggle to split chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/",
+      "pubDate": "Sun, 07 Sep 2025 19:33:49 -0400"
+    },
+    {
+      "title": "iCloud Calendar abused to send phishing emails from Apple\u2019s servers",
+      "link": "https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/",
+      "pubDate": "Sun, 07 Sep 2025 13:10:29 -0400"
+    }
+  ]
+}
