@@ -166,3 +166,17 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
   white-space:nowrap;
   font-size:.95rem;
 }
+
+
+/* Industry icon pill */
+.icon-pill{
+  width:36px;height:36px;
+  display:inline-flex;align-items:center;justify-content:center;
+  border-radius:999px;
+  background:rgba(255,255,255,.06);
+  border:1px solid rgba(255,255,255,.10);
+  margin-bottom:8px;
+}
+.icon-pill svg{display:block}
+.card.industry ul{margin:8px 0 0 18px}
+.card.industry .small{opacity:.8}
