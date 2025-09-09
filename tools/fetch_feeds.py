@@ -10,8 +10,12 @@ FEEDS = {
     "krebs": "https://krebsonsecurity.com/feed/",
     "bleeping": "https://www.bleepingcomputer.com/feed/",
     "hackernews": "https://thehackernews.com/feeds/posts/default?alt=rss",
+    "cisa": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "cert": "https://www.us-cert.gov/ncas/current-activity.xml",
+    "darkreading": "https://www.darkreading.com/rss.xml",
+    "databreaches": "https://www.databreaches.net/feed/",
+    "troyhunt": "https://www.troyhunt.com/rss/"
 }
-
 HEADERS = {"User-Agent": "ColemanIntegratedRSS/1.0 (+github actions)"}
 
 def fetch_text(url, retries=3, timeout=25):
