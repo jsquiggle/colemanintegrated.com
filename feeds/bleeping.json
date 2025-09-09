@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-09T13:04:28Z",
+  "updated": "2025-09-09T13:45:53Z",
   "items": [
+    {
+      "title": "Microsoft: Anti-spam bug blocks links in Exchange Online, Teams",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/",
+      "pubDate": "Tue, 09 Sep 2025 09:40:58 -0400"
+    },
+    {
+      "title": "SAP fixes maximum severity NetWeaver command execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/",
+      "pubDate": "Tue, 09 Sep 2025 09:18:11 -0400"
+    },
     {
       "title": "Microsoft testing new AI features in Windows 11 File Explorer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/",
@@ -51,16 +61,6 @@
       "title": "Action1 vs. Microsoft WSUS: A Better Approach to Modern Patch Management",
       "link": "https://www.bleepingcomputer.com/news/security/action1-vs-microsoft-wsus-a-better-approach-to-modern-patch-management/",
       "pubDate": "Mon, 08 Sep 2025 09:35:00 -0400"
-    },
-    {
-      "title": "Google to make it easier to access AI Mode as default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/",
-      "pubDate": "Sun, 07 Sep 2025 20:07:54 -0400"
-    },
-    {
-      "title": "ChatGPT makes Projects feature free, adds a toggle to split chat",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/",
-      "pubDate": "Sun, 07 Sep 2025 19:33:49 -0400"
     }
   ]
 }
