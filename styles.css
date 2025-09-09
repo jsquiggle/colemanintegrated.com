@@ -40,17 +40,24 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
   .brand-text{display:inline}
 }
 
-/* === Cyber Feeds Section (GitHub Pages) === */
-#cyber-feeds { background:#0b0f14; color:#e6f0f7; padding:48px 0; margin-top:24px; border-top:1px solid rgba(255,255,255,.08); }
-#cyber-feeds .container{ max-width:1200px; margin:0 auto; padding:0 16px;}
-#cyber-feeds h2{ text-align:center; margin:0 0 8px; font-size:1.8rem;}
-#cyber-feeds .feeds-subtitle{ text-align:center; margin:0 0 8px; opacity:.8; font-size:.95rem;}
-#cyber-feeds .feeds-updated{ text-align:center; opacity:.6; font-size:.85rem; margin-bottom:16px;}
-.feeds-container{ display:grid; grid-template-columns: repeat(3, 1fr); gap:20px; margin-top:20px; }
-.feed-box{ background:#121923; padding:16px; border-radius:14px; box-shadow:0 2px 10px rgba(0,0,0,.25); border:1px solid rgba(255,255,255,.06); min-height:220px; }
-.feed-box h3{ margin:0 0 10px; font-size:1.05rem; border-bottom:1px solid rgba(255,255,255,.08); padding-bottom:6px;}
-.feed-list{ list-style:none; padding:0; margin:0;}
-.feed-list li{ margin:8px 0; line-height:1.3;}
-.feed-list a{ color:#74c0fc; text-decoration:none;}
-.feed-list a:hover{ text-decoration:underline;}
-@media (max-width:900px){ .feeds-container{ grid-template-columns:1fr; } }
+/* === Industries Section === */
+#industries { padding: 64px 0; background: #0e141b; color: #e6f0f7; }
+#industries .container { max-width: 1200px; margin: 0 auto; padding: 0 16px; }
+#industries h2 { text-align:center; margin:0 0 8px; font-size:1.9rem; }
+#industries .section-kicker { text-align:center; opacity:.8; margin-bottom: 24px; }
+.industries-grid { display:grid; grid-template-columns: repeat(4, minmax(220px,1fr)); gap: 20px; }
+.industry-card { background:#121923; border:1px solid rgba(255,255,255,.06); border-radius:16px; padding:18px; box-shadow:0 2px 10px rgba(0,0,0,.25); transition: transform .2s ease, box-shadow .2s ease; display:flex; flex-direction:column; }
+.industry-card:hover { transform: translateY(-3px); box-shadow:0 6px 20px rgba(0,0,0,.35); }
+.industry-card h3 { margin:10px 0 6px; font-size:1.1rem; }
+.industry-card p { margin:0 0 10px; opacity:.9; }
+.industry-card ul { margin:0; padding-left:18px; }
+.industry-card li { margin:6px 0; }
+.icon-wrap { width:40px; height:40px; border-radius:10px; background: rgba(116,192,252,.12); display:flex; align-items:center; justify-content:center; }
+.icon-wrap svg { width:22px; height:22px; color:#74c0fc; }
+
+@media (max-width: 1100px) {
+  .industries-grid { grid-template-columns: repeat(2, minmax(220px,1fr)); }
+}
+@media (max-width: 640px) {
+  .industries-grid { grid-template-columns: 1fr; }
+}
