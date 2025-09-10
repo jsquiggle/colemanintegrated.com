@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-10T17:09:07Z",
+  "updated": "2025-09-10T17:35:11Z",
   "items": [
+    {
+      "title": "Pixel 10 fights AI fakes with new Android photo verification tech",
+      "link": "https://www.bleepingcomputer.com/news/security/pixel-10-fights-ai-fakes-with-new-android-photo-verification-tech/",
+      "pubDate": "Wed, 10 Sep 2025 12:00:00 -0400"
+    },
+    {
+      "title": "Cursor AI editor lets repos \u201cautorun\u201d malicious code on devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/",
+      "pubDate": "Wed, 10 Sep 2025 11:46:24 -0400"
+    },
     {
       "title": "Jaguar Land Rover confirms data theft after recent cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/",
@@ -51,16 +61,6 @@
       "title": "Kosovo hacker pleads guilty to running BlackDB cybercrime marketplace",
       "link": "https://www.bleepingcomputer.com/news/security/kosovo-hacker-pleads-guilty-to-running-blackdb-cybercrime-marketplace/",
       "pubDate": "Tue, 09 Sep 2025 13:33:09 -0400"
-    },
-    {
-      "title": "US charges admin of LockerGoga, MegaCortex, Nefilim ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware/",
-      "pubDate": "Tue, 09 Sep 2025 12:08:15 -0400"
-    },
-    {
-      "title": "Adobe patches critical SessionReaper flaw in Magento eCommerce platform",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/",
-      "pubDate": "Tue, 09 Sep 2025 11:53:53 -0400"
     }
   ]
 }
