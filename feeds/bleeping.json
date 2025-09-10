@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-10T18:14:46Z",
+  "updated": "2025-09-10T18:44:35Z",
   "items": [
+    {
+      "title": "Microsoft waives fees for Windows devs publishing to Microsoft Store",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-waives-fees-for-windows-devs-publishing-to-microsoft-store/",
+      "pubDate": "Wed, 10 Sep 2025 14:21:30 -0400"
+    },
     {
       "title": "Hackers left empty-handed after massive NPM supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-left-empty-handed-after-massive-npm-supply-chain-attack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft September 2025 Patch Tuesday fixes 81 flaws, two zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-patch-tuesday-fixes-81-flaws-two-zero-days/",
       "pubDate": "Tue, 09 Sep 2025 13:43:33 -0400"
-    },
-    {
-      "title": "Windows 11 KB5065426 & KB5065431 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065426-and-kb5065431-cumulative-updates-released/",
-      "pubDate": "Tue, 09 Sep 2025 13:37:21 -0400"
     }
   ]
 }
