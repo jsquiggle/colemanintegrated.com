@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-10T13:00:07Z",
+  "updated": "2025-09-10T13:28:20Z",
   "items": [
+    {
+      "title": "Microsoft fixes streaming issues triggered by Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/",
+      "pubDate": "Wed, 10 Sep 2025 09:02:44 -0400"
+    },
     {
       "title": "Microsoft fixes app install issues caused by August Windows updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-app-install-issues-caused-by-august-windows-updates/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Anti-spam bug blocks links in Exchange Online, Teams",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/",
       "pubDate": "Tue, 09 Sep 2025 09:40:58 -0400"
-    },
-    {
-      "title": "SAP fixes maximum severity NetWeaver command execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/",
-      "pubDate": "Tue, 09 Sep 2025 09:18:11 -0400"
     }
   ]
 }
