@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-10T22:09:19Z",
+  "updated": "2025-09-10T22:36:26Z",
   "items": [
+    {
+      "title": "DDoS defender targeted in 1.5 Bpps denial-of-service attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/",
+      "pubDate": "Wed, 10 Sep 2025 18:09:41 -0400"
+    },
     {
       "title": "Microsoft waives fees for Windows devs publishing to Microsoft Store",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-waives-fees-for-windows-devs-publishing-to-microsoft-store/",
@@ -56,11 +61,6 @@
       "title": "Windows 10 KB5065429 update includes 14 changes and fixes",
       "link": "https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/",
       "pubDate": "Tue, 09 Sep 2025 13:57:12 -0400"
-    },
-    {
-      "title": "Microsoft September 2025 Patch Tuesday fixes 81 flaws, two zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-patch-tuesday-fixes-81-flaws-two-zero-days/",
-      "pubDate": "Tue, 09 Sep 2025 13:43:33 -0400"
     }
   ]
 }
