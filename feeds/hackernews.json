@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-10T00:47:41Z",
+  "updated": "2025-09-10T02:14:14Z",
   "items": [
+    {
+      "title": "Adobe Commerce Flaw CVE-2025-54236 Lets Hackers Take Over Customer Accounts",
+      "link": "https://thehackernews.com/2025/09/adobe-commerce-flaw-cve-2025-54236-lets.html",
+      "pubDate": "Wed, 10 Sep 2025 06:38:00 +0530"
+    },
+    {
+      "title": "SAP Patches Critical NetWeaver (CVSS Up to 10.0) and Previously Exploited S/4HANA Flaws",
+      "link": "https://thehackernews.com/2025/09/sap-patches-critical-netweaver-cvss-up.html",
+      "pubDate": "Wed, 10 Sep 2025 06:33:00 +0530"
+    },
     {
       "title": "Axios Abuse and Salty 2FA Kits Fuel Advanced Microsoft 365 Phishing Attacks",
       "link": "https://thehackernews.com/2025/09/axios-abuse-and-salty-2fa-kits-fuel.html",
@@ -51,16 +61,6 @@
       "title": "GPUGate Malware Uses Google Ads and Fake GitHub Commits to Target IT Firms",
       "link": "https://thehackernews.com/2025/09/gpugate-malware-uses-google-ads-and.html",
       "pubDate": "Mon, 08 Sep 2025 20:32:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings, Smarter Threats & More",
-      "link": "https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html",
-      "pubDate": "Mon, 08 Sep 2025 15:32:00 +0530"
-    },
-    {
-      "title": "You Didn\u2019t Get Phished \u2014 You Onboarded the Attacker",
-      "link": "https://thehackernews.com/2025/09/you-didnt-get-phished-you-onboarded.html",
-      "pubDate": "Mon, 08 Sep 2025 14:50:00 +0530"
     }
   ]
 }
