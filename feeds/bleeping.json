@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-10T15:10:50Z",
+  "updated": "2025-09-10T15:36:59Z",
   "items": [
+    {
+      "title": "Jaguar Land Rover confirms data theft after recent cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/",
+      "pubDate": "Wed, 10 Sep 2025 11:29:16 -0400"
+    },
+    {
+      "title": "Can I have a new password, please? The $400M question.",
+      "link": "https://www.bleepingcomputer.com/news/security/can-i-have-a-new-password-please-the-400m-question/",
+      "pubDate": "Wed, 10 Sep 2025 10:02:12 -0400"
+    },
     {
       "title": "Microsoft fixes streaming issues triggered by Windows updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/",
@@ -51,16 +61,6 @@
       "title": "Adobe patches critical SessionReaper flaw in Magento eCommerce platform",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/",
       "pubDate": "Tue, 09 Sep 2025 11:53:53 -0400"
-    },
-    {
-      "title": "How External Attack Surface Management helps enterprises manage cyber risk",
-      "link": "https://www.bleepingcomputer.com/news/security/how-external-attack-surface-management-helps-enterprises-manage-cyber-risk/",
-      "pubDate": "Tue, 09 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft: Anti-spam bug blocks links in Exchange Online, Teams",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/",
-      "pubDate": "Tue, 09 Sep 2025 09:40:58 -0400"
     }
   ]
 }
