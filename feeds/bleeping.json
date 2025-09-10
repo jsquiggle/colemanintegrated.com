@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-10T11:33:14Z",
+  "updated": "2025-09-10T12:19:36Z",
   "items": [
+    {
+      "title": "Microsoft fixes app install issues caused by August Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-app-install-issues-caused-by-august-windows-updates/",
+      "pubDate": "Wed, 10 Sep 2025 08:02:35 -0400"
+    },
     {
       "title": "U.S. sanctions cyber scammers who stole billions from Americans",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-cyber-scammers-who-stole-billions-from-americans/",
@@ -56,11 +61,6 @@
       "title": "SAP fixes maximum severity NetWeaver command execution flaw",
       "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/",
       "pubDate": "Tue, 09 Sep 2025 09:18:11 -0400"
-    },
-    {
-      "title": "Microsoft testing new AI features in Windows 11 File Explorer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/",
-      "pubDate": "Tue, 09 Sep 2025 07:41:12 -0400"
     }
   ]
 }
