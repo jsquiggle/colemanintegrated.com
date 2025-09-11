@@ -1,5 +1,56 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-09-11T20:33:24Z",
-  "items": []
+  "updated": "2025-09-11T21:08:45Z",
+  "items": [
+    {
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "pubDate": "Thu, 11 Sep 2025 17:40:22 +0000"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, September 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+      "pubDate": "Tue, 09 Sep 2025 21:21:14 +0000"
+    },
+    {
+      "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
+      "link": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
+      "pubDate": "Mon, 08 Sep 2025 22:53:41 +0000"
+    },
+    {
+      "title": "GOP Cries Censorship Over Spam Filters That Work",
+      "link": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
+      "pubDate": "Sat, 06 Sep 2025 03:23:35 +0000"
+    },
+    {
+      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
+      "pubDate": "Mon, 01 Sep 2025 21:55:04 +0000"
+    },
+    {
+      "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
+      "link": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
+      "pubDate": "Thu, 28 Aug 2025 17:21:32 +0000"
+    },
+    {
+      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
+      "link": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
+      "pubDate": "Tue, 26 Aug 2025 14:05:12 +0000"
+    },
+    {
+      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
+      "link": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
+      "pubDate": "Thu, 21 Aug 2025 01:47:22 +0000"
+    },
+    {
+      "title": "Oregon Man Charged in \u2018Rapper Bot\u2019 DDoS Service",
+      "link": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/",
+      "pubDate": "Tue, 19 Aug 2025 20:51:06 +0000"
+    },
+    {
+      "title": "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout Scheme",
+      "link": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/",
+      "pubDate": "Fri, 15 Aug 2025 18:27:05 +0000"
+    }
+  ]
 }
