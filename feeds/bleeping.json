@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-11T12:19:06Z",
+  "updated": "2025-09-11T12:59:25Z",
   "items": [
     {
       "title": "DDoS defender targeted in 1.5 Bpps denial-of-service attack",
@@ -56,11 +56,6 @@
       "title": "Hackers hide behind Tor in exposed Docker API breaches",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/",
       "pubDate": "Tue, 09 Sep 2025 15:16:30 -0400"
-    },
-    {
-      "title": "Windows 10 KB5065429 update includes 14 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/",
-      "pubDate": "Tue, 09 Sep 2025 13:57:12 -0400"
     }
   ]
 }
