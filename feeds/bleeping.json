@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-11T19:07:43Z",
+  "updated": "2025-09-11T19:32:34Z",
   "items": [
+    {
+      "title": "U.S. Senator accuses Microsoft of \u201cgross cybersecurity negligence\u201d",
+      "link": "https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/",
+      "pubDate": "Thu, 11 Sep 2025 15:23:41 -0400"
+    },
     {
       "title": "Apple warns customers targeted in recent spyware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Cursor AI editor lets repos \u201cautorun\u201d malicious code on devices",
       "link": "https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/",
       "pubDate": "Wed, 10 Sep 2025 11:46:24 -0400"
-    },
-    {
-      "title": "Jaguar Land Rover confirms data theft after recent cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/",
-      "pubDate": "Wed, 10 Sep 2025 11:29:16 -0400"
     }
   ]
 }
