@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-11T06:16:38Z",
+  "updated": "2025-09-11T06:45:59Z",
   "items": [
+    {
+      "title": "AsyncRAT Exploits ConnectWise ScreenConnect to Steal Credentials and Crypto",
+      "link": "https://thehackernews.com/2025/09/asyncrat-exploits-connectwise.html",
+      "pubDate": "Thu, 11 Sep 2025 11:32:00 +0530"
+    },
     {
       "title": "Chinese APT Deploys EggStreme Fileless Malware to Breach Philippine Military Systems",
       "link": "https://thehackernews.com/2025/09/chinese-apt-deploys-eggstreme-fileless.html",
@@ -56,11 +61,6 @@
       "title": "RatOn Android Malware Detected With NFC Relay and ATS Banking Fraud Capabilities",
       "link": "https://thehackernews.com/2025/09/raton-android-malware-detected-with-nfc.html",
       "pubDate": "Tue, 09 Sep 2025 17:23:00 +0530"
-    },
-    {
-      "title": "[Webinar] Shadow AI Agents Multiply Fast \u2014  Learn How to Detect and Control Them",
-      "link": "https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html",
-      "pubDate": "Tue, 09 Sep 2025 16:07:00 +0530"
     }
   ]
 }
