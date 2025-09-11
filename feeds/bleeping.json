@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-11T17:08:54Z",
+  "updated": "2025-09-11T17:32:58Z",
   "items": [
+    {
+      "title": "Microsoft adds malicious link warnings to Teams private chats",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/",
+      "pubDate": "Thu, 11 Sep 2025 13:21:23 -0400"
+    },
     {
       "title": "Akira ransomware exploiting critical SonicWall SSLVPN bug again",
       "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes streaming issues triggered by Windows updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/",
       "pubDate": "Wed, 10 Sep 2025 09:02:44 -0400"
-    },
-    {
-      "title": "Microsoft fixes app install issues caused by August Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-app-install-issues-caused-by-august-windows-updates/",
-      "pubDate": "Wed, 10 Sep 2025 08:02:35 -0400"
     }
   ]
 }
