@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-09-11T17:32:58Z",
+  "updated": "2025-09-11T18:12:35Z",
   "items": [
+    {
+      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+      "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+      "pubDate": "Thu, 11 Sep 2025 17:40:22 +0000"
+    },
     {
       "title": "Microsoft Patch Tuesday, September 2025 Edition",
       "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
@@ -46,11 +51,6 @@
       "title": "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout Scheme",
       "link": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/",
       "pubDate": "Fri, 15 Aug 2025 18:27:05 +0000"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, August 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/",
-      "pubDate": "Tue, 12 Aug 2025 22:14:41 +0000"
     }
   ]
 }
