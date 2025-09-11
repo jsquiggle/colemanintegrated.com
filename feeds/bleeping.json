@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-11T18:42:09Z",
+  "updated": "2025-09-11T19:07:43Z",
   "items": [
+    {
+      "title": "Apple warns customers targeted in recent spyware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/",
+      "pubDate": "Thu, 11 Sep 2025 15:02:51 -0400"
+    },
     {
       "title": "Panama Ministry of Economy discloses breach claimed by INC ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/",
@@ -56,11 +61,6 @@
       "title": "Jaguar Land Rover confirms data theft after recent cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/",
       "pubDate": "Wed, 10 Sep 2025 11:29:16 -0400"
-    },
-    {
-      "title": "Can I have a new password, please? The $400M question.",
-      "link": "https://www.bleepingcomputer.com/news/security/can-i-have-a-new-password-please-the-400m-question/",
-      "pubDate": "Wed, 10 Sep 2025 10:02:12 -0400"
     }
   ]
 }
