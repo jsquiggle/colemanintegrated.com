@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-11T18:12:35Z",
+  "updated": "2025-09-11T18:42:09Z",
   "items": [
+    {
+      "title": "Panama Ministry of Economy discloses breach claimed by INC ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/",
+      "pubDate": "Thu, 11 Sep 2025 14:26:59 -0400"
+    },
     {
       "title": "Microsoft adds malicious link warnings to Teams private chats",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/",
@@ -56,11 +61,6 @@
       "title": "Can I have a new password, please? The $400M question.",
       "link": "https://www.bleepingcomputer.com/news/security/can-i-have-a-new-password-please-the-400m-question/",
       "pubDate": "Wed, 10 Sep 2025 10:02:12 -0400"
-    },
-    {
-      "title": "Microsoft fixes streaming issues triggered by Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/",
-      "pubDate": "Wed, 10 Sep 2025 09:02:44 -0400"
     }
   ]
 }
