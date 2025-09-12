@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-12T17:08:58Z",
+  "updated": "2025-09-12T17:34:10Z",
   "items": [
+    {
+      "title": "New HybridPetya ransomware can bypass UEFI Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/",
+      "pubDate": "Fri, 12 Sep 2025 13:18:07 -0400"
+    },
     {
       "title": "CISA warns of actively exploited Dassault RCE vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-dassault-rce-vulnerability/",
@@ -56,11 +61,6 @@
       "title": "Akira ransomware exploiting critical SonicWall SSLVPN bug again",
       "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/",
       "pubDate": "Thu, 11 Sep 2025 12:32:15 -0400"
-    },
-    {
-      "title": "New VMScape attack breaks guest-host isolation on AMD, Intel CPUs",
-      "link": "https://www.bleepingcomputer.com/news/security/new-vmscape-attack-breaks-guest-host-isolation-on-amd-intel-cpus/",
-      "pubDate": "Thu, 11 Sep 2025 11:05:05 -0400"
     }
   ]
 }
