@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-12T11:32:43Z",
+  "updated": "2025-09-12T12:20:05Z",
   "items": [
+    {
+      "title": "Man gets over 4 years in prison for selling unreleased movies",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-over-4-years-in-prison-for-selling-unreleased-movies/",
+      "pubDate": "Fri, 12 Sep 2025 07:36:22 -0400"
+    },
     {
       "title": "Samsung patches actively exploited zero-day reported by WhatsApp",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/",
@@ -56,11 +61,6 @@
       "title": "Microsoft waives fees for Windows devs publishing to Microsoft Store",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-waives-fees-for-windows-devs-publishing-to-microsoft-store/",
       "pubDate": "Wed, 10 Sep 2025 14:21:30 -0400"
-    },
-    {
-      "title": "Hackers left empty-handed after massive NPM supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-left-empty-handed-after-massive-npm-supply-chain-attack/",
-      "pubDate": "Wed, 10 Sep 2025 13:56:15 -0400"
     }
   ]
 }
