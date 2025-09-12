@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-12T09:35:05Z",
+  "updated": "2025-09-12T10:11:21Z",
   "items": [
+    {
+      "title": "Samsung patches actively exploited zero-day reported by WhatsApp",
+      "link": "https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/",
+      "pubDate": "Fri, 12 Sep 2025 05:48:30 -0400"
+    },
     {
       "title": "Microsoft fixes Exchange Online outage affecting users worldwide",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-exchange-online-outage-in-north-america/",
@@ -56,11 +61,6 @@
       "title": "Hackers left empty-handed after massive NPM supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-left-empty-handed-after-massive-npm-supply-chain-attack/",
       "pubDate": "Wed, 10 Sep 2025 13:56:15 -0400"
-    },
-    {
-      "title": "Pixel 10 fights AI fakes with new Android photo verification tech",
-      "link": "https://www.bleepingcomputer.com/news/security/pixel-10-fights-ai-fakes-with-new-android-photo-verification-tech/",
-      "pubDate": "Wed, 10 Sep 2025 12:00:00 -0400"
     }
   ]
 }
