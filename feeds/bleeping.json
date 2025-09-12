@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-12T14:10:03Z",
+  "updated": "2025-09-12T14:38:46Z",
   "items": [
+    {
+      "title": "The first three things you\u2019ll want during a cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/the-first-three-things-youll-want-during-a-cyberattack/",
+      "pubDate": "Fri, 12 Sep 2025 10:02:12 -0400"
+    },
     {
       "title": "Man gets over 4 years in prison for selling unreleased movies",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-over-4-years-in-prison-for-selling-unreleased-movies/",
@@ -56,11 +61,6 @@
       "title": "DDoS defender targeted in 1.5 Bpps denial-of-service attack",
       "link": "https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/",
       "pubDate": "Wed, 10 Sep 2025 18:09:41 -0400"
-    },
-    {
-      "title": "Microsoft waives fees for Windows devs publishing to Microsoft Store",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-waives-fees-for-windows-devs-publishing-to-microsoft-store/",
-      "pubDate": "Wed, 10 Sep 2025 14:21:30 -0400"
     }
   ]
 }
