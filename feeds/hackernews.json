@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-12T12:20:05Z",
+  "updated": "2025-09-12T12:58:04Z",
   "items": [
+    {
+      "title": "New HybridPetya Ransomware Bypasses UEFI Secure Boot With CVE-2024-7344 Exploit",
+      "link": "https://thehackernews.com/2025/09/new-hybridpetya-ransomware-bypasses.html",
+      "pubDate": "Fri, 12 Sep 2025 17:20:00 +0530"
+    },
+    {
+      "title": "Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning",
+      "link": "https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html",
+      "pubDate": "Fri, 12 Sep 2025 16:33:00 +0530"
+    },
     {
       "title": "Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage",
       "link": "https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html",
@@ -51,16 +61,6 @@
       "title": "CHILLYHELL macOS Backdoor and ZynorRAT RAT Threaten macOS, Windows, and Linux Systems",
       "link": "https://thehackernews.com/2025/09/chillyhell-macos-backdoor-and-zynorrat.html",
       "pubDate": "Wed, 10 Sep 2025 18:34:00 +0530"
-    },
-    {
-      "title": "Microsoft Fixes 80 Flaws \u2014 Including SMB PrivEsc and Azure CVSS 10.0 Bugs",
-      "link": "https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html",
-      "pubDate": "Wed, 10 Sep 2025 16:44:00 +0530"
-    },
-    {
-      "title": "Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety",
-      "link": "https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html",
-      "pubDate": "Wed, 10 Sep 2025 15:51:00 +0530"
     }
   ]
 }
