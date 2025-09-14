@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-14T21:32:28Z",
+  "updated": "2025-09-14T22:09:03Z",
   "items": [
+    {
+      "title": "FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/",
+      "pubDate": "Sun, 14 Sep 2025 17:56:40 -0400"
+    },
     {
       "title": "New VoidProxy phishing service targets Microsoft 365, Google accounts",
       "link": "https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/",
@@ -56,11 +61,6 @@
       "title": "U.S. Senator accuses Microsoft of \u201cgross cybersecurity negligence\u201d",
       "link": "https://www.bleepingcomputer.com/news/security/us-senator-accuses-microsoft-of-gross-cybersecurity-negligence/",
       "pubDate": "Thu, 11 Sep 2025 15:23:41 -0400"
-    },
-    {
-      "title": "Apple warns customers targeted in recent spyware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/",
-      "pubDate": "Thu, 11 Sep 2025 15:02:51 -0400"
     }
   ]
 }
