@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-14T20:10:15Z",
+  "updated": "2025-09-14T20:33:08Z",
   "items": [
+    {
+      "title": "New VoidProxy phishing service targets Microsoft 365, Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/",
+      "pubDate": "Sun, 14 Sep 2025 10:23:32 -0400"
+    },
+    {
+      "title": "Microsoft reminds of Windows 10 support ending in 30 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/",
+      "pubDate": "Sat, 13 Sep 2025 12:20:40 -0400"
+    },
+    {
+      "title": "'WhiteCobra' floods VSCode market with crypto-stealing extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/",
+      "pubDate": "Sat, 13 Sep 2025 10:00:00 -0400"
+    },
     {
       "title": "New HybridPetya ransomware can bypass UEFI Secure Boot",
       "link": "https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/",
@@ -46,21 +61,6 @@
       "title": "Apple warns customers targeted in recent spyware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/",
       "pubDate": "Thu, 11 Sep 2025 15:02:51 -0400"
-    },
-    {
-      "title": "Panama Ministry of Economy discloses breach claimed by INC ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/",
-      "pubDate": "Thu, 11 Sep 2025 14:26:59 -0400"
-    },
-    {
-      "title": "Microsoft adds malicious link warnings to Teams private chats",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/",
-      "pubDate": "Thu, 11 Sep 2025 13:21:23 -0400"
-    },
-    {
-      "title": "Akira ransomware exploiting critical SonicWall SSLVPN bug again",
-      "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/",
-      "pubDate": "Thu, 11 Sep 2025 12:32:15 -0400"
     }
   ]
 }
