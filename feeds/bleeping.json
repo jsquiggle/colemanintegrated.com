@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-15T18:15:29Z",
+  "updated": "2025-09-15T18:44:30Z",
   "items": [
+    {
+      "title": "FinWise insider breach impacts 689K American First Finance customers",
+      "link": "https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/",
+      "pubDate": "Mon, 15 Sep 2025 14:18:10 -0400"
+    },
     {
       "title": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory",
       "link": "https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/",
@@ -56,11 +61,6 @@
       "title": "New HybridPetya ransomware can bypass UEFI Secure Boot",
       "link": "https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/",
       "pubDate": "Fri, 12 Sep 2025 13:18:07 -0400"
-    },
-    {
-      "title": "CISA warns of actively exploited Dassault RCE vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-dassault-rce-vulnerability/",
-      "pubDate": "Fri, 12 Sep 2025 12:19:39 -0400"
     }
   ]
 }
