@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-15T15:37:39Z",
+  "updated": "2025-09-15T16:12:50Z",
   "items": [
+    {
+      "title": "Microsoft to force install the Microsoft 365 Copilot app in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/",
+      "pubDate": "Mon, 15 Sep 2025 11:59:23 -0400"
+    },
     {
       "title": "Stop waiting on NVD \u2014 get real-time vulnerability alerts now",
       "link": "https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/",
@@ -56,11 +61,6 @@
       "title": "The first three things you\u2019ll want during a cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/the-first-three-things-youll-want-during-a-cyberattack/",
       "pubDate": "Fri, 12 Sep 2025 10:02:12 -0400"
-    },
-    {
-      "title": "Man gets over 4 years in prison for selling unreleased movies",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-over-4-years-in-prison-for-selling-unreleased-movies/",
-      "pubDate": "Fri, 12 Sep 2025 07:36:22 -0400"
     }
   ]
 }
