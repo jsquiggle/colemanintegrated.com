@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-15T20:11:23Z",
+  "updated": "2025-09-15T20:36:33Z",
   "items": [
+    {
+      "title": "Google confirms hackers gained access to law enforcement portal",
+      "link": "https://www.bleepingcomputer.com/news/security/google-confirms-hackers-gained-access-to-law-enforcement-portal/",
+      "pubDate": "Mon, 15 Sep 2025 16:12:37 -0400"
+    },
     {
       "title": "FinWise insider breach impacts 689K American First Finance customers",
       "link": "https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/",
@@ -56,11 +61,6 @@
       "title": "'WhiteCobra' floods VSCode market with crypto-stealing extensions",
       "link": "https://www.bleepingcomputer.com/news/security/whitecobra-floods-vscode-market-with-crypto-stealing-extensions/",
       "pubDate": "Sat, 13 Sep 2025 10:00:00 -0400"
-    },
-    {
-      "title": "New HybridPetya ransomware can bypass UEFI Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/new-hybridpetya-ransomware-can-bypass-uefi-secure-boot/",
-      "pubDate": "Fri, 12 Sep 2025 13:18:07 -0400"
     }
   ]
 }
