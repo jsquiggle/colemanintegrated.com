@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-15T13:40:06Z",
+  "updated": "2025-09-15T14:11:55Z",
   "items": [
+    {
+      "title": "Stop waiting on NVD \u2014 get real-time vulnerability alerts now",
+      "link": "https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/",
+      "pubDate": "Mon, 15 Sep 2025 10:01:11 -0400"
+    },
+    {
+      "title": "Microsoft fixes Windows 11 audio issues confirmed in December",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/",
+      "pubDate": "Mon, 15 Sep 2025 09:48:05 -0400"
+    },
     {
       "title": "Microsoft says Windows September updates break SMBv1 shares",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-september-updates-break-smbv1-shares/",
@@ -51,11 +61,6 @@
       "title": "Man gets over 4 years in prison for selling unreleased movies",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-over-4-years-in-prison-for-selling-unreleased-movies/",
       "pubDate": "Fri, 12 Sep 2025 07:36:22 -0400"
-    },
-    {
-      "title": "Samsung patches actively exploited zero-day reported by WhatsApp",
-      "link": "https://www.bleepingcomputer.com/news/security/samsung-patches-actively-exploited-zero-day-reported-by-whatsapp/",
-      "pubDate": "Fri, 12 Sep 2025 05:48:30 -0400"
     }
   ]
 }
