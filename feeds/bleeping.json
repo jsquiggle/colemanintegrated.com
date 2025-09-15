@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-15T16:42:47Z",
+  "updated": "2025-09-15T17:09:09Z",
   "items": [
+    {
+      "title": "Microsoft: Exchange 2016 and 2019 reach end of support in 30 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/",
+      "pubDate": "Mon, 15 Sep 2025 13:04:05 -0400"
+    },
     {
       "title": "Microsoft to force install the Microsoft 365 Copilot app in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 23H2 Home and Pro reach end of support in 60 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-60-days/",
       "pubDate": "Fri, 12 Sep 2025 12:15:22 -0400"
-    },
-    {
-      "title": "The first three things you\u2019ll want during a cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/the-first-three-things-youll-want-during-a-cyberattack/",
-      "pubDate": "Fri, 12 Sep 2025 10:02:12 -0400"
     }
   ]
 }
