@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-15T17:36:13Z",
+  "updated": "2025-09-15T18:15:29Z",
   "items": [
+    {
+      "title": "New Phoenix attack bypasses Rowhammer defenses in DDR5 memory",
+      "link": "https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/",
+      "pubDate": "Mon, 15 Sep 2025 14:01:24 -0400"
+    },
     {
       "title": "Microsoft: Exchange 2016 and 2019 reach end of support in 30 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/",
@@ -56,11 +61,6 @@
       "title": "CISA warns of actively exploited Dassault RCE vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-dassault-rce-vulnerability/",
       "pubDate": "Fri, 12 Sep 2025 12:19:39 -0400"
-    },
-    {
-      "title": "Windows 11 23H2 Home and Pro reach end of support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-60-days/",
-      "pubDate": "Fri, 12 Sep 2025 12:15:22 -0400"
     }
   ]
 }
