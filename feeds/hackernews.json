@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-16T07:34:34Z",
+  "updated": "2025-09-16T08:15:04Z",
   "items": [
+    {
+      "title": "Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds",
+      "link": "https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html",
+      "pubDate": "Tue, 16 Sep 2025 12:57:00 +0530"
+    },
     {
       "title": "40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials",
       "link": "https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html",
@@ -56,11 +61,6 @@
       "title": "Critical CVE-2025-5086 in DELMIA Apriso Actively Exploited, CISA Issues Warning",
       "link": "https://thehackernews.com/2025/09/critical-cve-2025-5086-in-delmia-apriso.html",
       "pubDate": "Fri, 12 Sep 2025 16:33:00 +0530"
-    },
-    {
-      "title": "Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage",
-      "link": "https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html",
-      "pubDate": "Fri, 12 Sep 2025 13:30:00 +0530"
     }
   ]
 }
