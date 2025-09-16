@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-16T14:40:31Z",
+  "updated": "2025-09-16T15:11:27Z",
   "items": [
+    {
+      "title": "Team-Wide VMware Certification: Your Secret Weapon for Security",
+      "link": "https://www.bleepingcomputer.com/news/security/team-wide-vmware-certification-your-secret-weapon-for-security/",
+      "pubDate": "Tue, 16 Sep 2025 10:01:11 -0400"
+    },
     {
       "title": "Jaguar Land Rover extends shutdown after cyberattack by another week",
       "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/",
@@ -56,11 +61,6 @@
       "title": "Stop waiting on NVD \u2014 get real-time vulnerability alerts now",
       "link": "https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/",
       "pubDate": "Mon, 15 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft fixes Windows 11 audio issues confirmed in December",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/",
-      "pubDate": "Mon, 15 Sep 2025 09:48:05 -0400"
     }
   ]
 }
