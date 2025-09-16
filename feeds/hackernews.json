@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-16T05:10:19Z",
+  "updated": "2025-09-16T05:37:35Z",
   "items": [
+    {
+      "title": "40 npm Packages Compromised in Supply Chain Attack Using bundle.js to Steal Credentials",
+      "link": "https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html",
+      "pubDate": "Tue, 16 Sep 2025 10:30:00 +0530"
+    },
     {
       "title": "Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs",
       "link": "https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html",
@@ -56,11 +61,6 @@
       "title": "Cloud-Native Security in 2025: Why Runtime Visibility Must Take Center Stage",
       "link": "https://thehackernews.com/2025/09/cloud-native-security-in-2025-why.html",
       "pubDate": "Fri, 12 Sep 2025 13:30:00 +0530"
-    },
-    {
-      "title": "Cursor AI Code Editor Flaw Enables Silent Code Execution via Malicious Repositories",
-      "link": "https://thehackernews.com/2025/09/cursor-ai-code-editor-flaw-enables.html",
-      "pubDate": "Fri, 12 Sep 2025 10:19:00 +0530"
     }
   ]
 }
