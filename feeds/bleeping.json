@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-16T11:32:53Z",
+  "updated": "2025-09-16T12:20:25Z",
   "items": [
+    {
+      "title": "Apple backports zero-day patches to older iPhones and iPads",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/",
+      "pubDate": "Tue, 16 Sep 2025 08:16:53 -0400"
+    },
+    {
+      "title": "New FileFix attack uses steganography to drop StealC malware",
+      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/",
+      "pubDate": "Tue, 16 Sep 2025 08:00:00 -0400"
+    },
+    {
+      "title": "Webinar: Your browser is the breach \u2014 securing the modern web edge",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-your-browser-is-the-breach-securing-the-modern-web-edge/",
+      "pubDate": "Tue, 16 Sep 2025 07:01:08 -0400"
+    },
     {
       "title": "OpenAI's new GPT-5 Codex model takes on Claude Code",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/",
@@ -46,21 +61,6 @@
       "title": "Microsoft says Windows September updates break SMBv1 shares",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-september-updates-break-smbv1-shares/",
       "pubDate": "Mon, 15 Sep 2025 08:48:23 -0400"
-    },
-    {
-      "title": "FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/",
-      "pubDate": "Sun, 14 Sep 2025 17:56:40 -0400"
-    },
-    {
-      "title": "New VoidProxy phishing service targets Microsoft 365, Google accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-voidproxy-phishing-service-targets-microsoft-365-google-accounts/",
-      "pubDate": "Sun, 14 Sep 2025 10:23:32 -0400"
-    },
-    {
-      "title": "Microsoft reminds of Windows 10 support ending in 30 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/",
-      "pubDate": "Sat, 13 Sep 2025 12:20:40 -0400"
     }
   ]
 }
