@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-09-16T13:42:52Z",
+  "updated": "2025-09-16T14:11:29Z",
   "items": [
+    {
+      "title": "Self-Replicating Worm Hits 180+ Software Packages",
+      "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+      "pubDate": "Tue, 16 Sep 2025 14:08:02 +0000"
+    },
     {
       "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
       "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
@@ -46,11 +51,6 @@
       "title": "Oregon Man Charged in \u2018Rapper Bot\u2019 DDoS Service",
       "link": "https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/",
       "pubDate": "Tue, 19 Aug 2025 20:51:06 +0000"
-    },
-    {
-      "title": "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout Scheme",
-      "link": "https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/",
-      "pubDate": "Fri, 15 Aug 2025 18:27:05 +0000"
     }
   ]
 }
