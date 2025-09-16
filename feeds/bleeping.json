@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-16T16:42:38Z",
+  "updated": "2025-09-16T17:09:27Z",
   "items": [
+    {
+      "title": "Self-propagating supply chain attack hits 187 npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/",
+      "pubDate": "Tue, 16 Sep 2025 12:46:43 -0400"
+    },
     {
       "title": "Microsoft: WMIC will be removed after Windows 11 25H2 upgrade",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wmic-will-be-removed-after-windows-11-25h2-upgrade/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Exchange 2016 and 2019 reach end of support in 30 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/",
       "pubDate": "Mon, 15 Sep 2025 13:04:05 -0400"
-    },
-    {
-      "title": "Microsoft to force install the Microsoft 365 Copilot app in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/",
-      "pubDate": "Mon, 15 Sep 2025 11:59:23 -0400"
     }
   ]
 }
