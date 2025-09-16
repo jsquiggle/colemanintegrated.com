@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-16T13:02:10Z",
+  "updated": "2025-09-16T13:42:52Z",
   "items": [
+    {
+      "title": "New FileFix Variant Delivers StealC Malware Through Multilingual Phishing Site",
+      "link": "https://thehackernews.com/2025/09/new-filefix-variant-delivers-stealc.html",
+      "pubDate": "Tue, 16 Sep 2025 18:03:00 +0530"
+    },
     {
       "title": "Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware Attack",
       "link": "https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html",
@@ -56,11 +61,6 @@
       "title": "Samsung Fixes Critical Zero-Day CVE-2025-21043 Exploited in Android Attacks",
       "link": "https://thehackernews.com/2025/09/samsung-fixes-critical-zero-day-cve.html",
       "pubDate": "Fri, 12 Sep 2025 20:46:00 +0530"
-    },
-    {
-      "title": "Apple Warns French Users of Fourth Spyware Campaign in 2025, CERT-FR Confirms",
-      "link": "https://thehackernews.com/2025/09/apple-warns-french-users-of-fourth.html",
-      "pubDate": "Fri, 12 Sep 2025 20:19:00 +0530"
     }
   ]
 }

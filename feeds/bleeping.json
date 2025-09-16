@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-16T13:02:10Z",
+  "updated": "2025-09-16T13:42:52Z",
   "items": [
+    {
+      "title": "Jaguar Land Rover extends shutdown after cyberattack by another week",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/",
+      "pubDate": "Tue, 16 Sep 2025 09:08:16 -0400"
+    },
     {
       "title": "Apple backports zero-day patches to older iPhones and iPads",
       "link": "https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Windows 11 audio issues confirmed in December",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/",
       "pubDate": "Mon, 15 Sep 2025 09:48:05 -0400"
-    },
-    {
-      "title": "Microsoft says Windows September updates break SMBv1 shares",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-september-updates-break-smbv1-shares/",
-      "pubDate": "Mon, 15 Sep 2025 08:48:23 -0400"
     }
   ]
 }
