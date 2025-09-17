@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-17T09:37:13Z",
+  "updated": "2025-09-17T10:10:54Z",
   "items": [
+    {
+      "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
+      "link": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
+      "pubDate": "Wed, 17 Sep 2025 14:19:00 +0530"
+    },
     {
       "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
       "link": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
@@ -56,11 +61,6 @@
       "title": "6 Browser-Based Attacks Security Teams Need to Prepare For Right Now",
       "link": "https://thehackernews.com/2025/09/6-browser-based-attacks-security-teams.html",
       "pubDate": "Mon, 15 Sep 2025 17:25:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More",
-      "link": "https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html",
-      "pubDate": "Mon, 15 Sep 2025 16:52:00 +0530"
     }
   ]
 }
