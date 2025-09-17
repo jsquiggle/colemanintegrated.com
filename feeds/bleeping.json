@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-17T16:13:10Z",
+  "updated": "2025-09-17T16:42:14Z",
   "items": [
+    {
+      "title": "SonicWall warns customers to reset credentials after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/",
+      "pubDate": "Wed, 17 Sep 2025 12:23:14 -0400"
+    },
     {
       "title": "Microsoft: Office 2016 and Office 2019 reach end of support next month",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/",
@@ -56,11 +61,6 @@
       "title": "Apple backports zero-day patches to older iPhones and iPads",
       "link": "https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/",
       "pubDate": "Tue, 16 Sep 2025 08:16:53 -0400"
-    },
-    {
-      "title": "New FileFix attack uses steganography to drop StealC malware",
-      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/",
-      "pubDate": "Tue, 16 Sep 2025 08:00:00 -0400"
     }
   ]
 }
