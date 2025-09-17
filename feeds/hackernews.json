@@ -1,11 +1,16 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-17T13:41:19Z",
+  "updated": "2025-09-17T14:10:03Z",
   "items": [
     {
       "title": "From Quantum Hacks to AI Defenses \u2013 Expert Guide to Building Unbreakable Cyber Resilience",
       "link": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
-      "pubDate": "Wed, 17 Sep 2025 17:25:00 +0530"
+      "pubDate": "Wed, 17 Sep 2025 18:26:00 +0530"
+    },
+    {
+      "title": "Chinese TA415 Uses VS Code Remote Tunnels to Spy on U.S. Economic Policy Experts",
+      "link": "https://thehackernews.com/2025/09/chinese-ta415-uses-vs-code-remote.html",
+      "pubDate": "Wed, 17 Sep 2025 18:26:00 +0530"
     },
     {
       "title": "Rethinking AI Data Security: A Buyer's Guide",
@@ -56,11 +61,6 @@
       "title": "Phoenix RowHammer Attack Bypasses Advanced DDR5 Memory Protections in 109 Seconds",
       "link": "https://thehackernews.com/2025/09/phoenix-rowhammer-attack-bypasses.html",
       "pubDate": "Tue, 16 Sep 2025 12:57:00 +0530"
-    },
-    {
-      "title": "Self-Replicating Worm Hits 180+ npm Packages to Steal Credentials in Latest Supply Chain Attack",
-      "link": "https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html",
-      "pubDate": "Tue, 16 Sep 2025 10:30:00 +0530"
     }
   ]
 }
