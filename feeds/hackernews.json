@@ -1,9 +1,14 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-17T06:16:38Z",
+  "updated": "2025-09-17T06:46:06Z",
   "items": [
     {
-      "title": "RaccoonO365 Phishing Network Shut Down After Microsoft and Cloudflare Disrupt 338 Domains",
+      "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
+      "link": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
+      "pubDate": "Wed, 17 Sep 2025 11:50:00 +0530"
+    },
+    {
+      "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
       "link": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
       "pubDate": "Wed, 17 Sep 2025 10:01:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Bootkit Malware, AI-Powered Attacks, Supply Chain Breaches, Zero-Days & More",
       "link": "https://thehackernews.com/2025/09/weekly-recap-bootkit-malware-ai-powered.html",
       "pubDate": "Mon, 15 Sep 2025 16:52:00 +0530"
-    },
-    {
-      "title": "AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse Concerns",
-      "link": "https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html",
-      "pubDate": "Mon, 15 Sep 2025 12:42:00 +0530"
     }
   ]
 }
