@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-17T13:02:02Z",
+  "updated": "2025-09-17T13:41:19Z",
   "items": [
+    {
+      "title": "Microsoft and Cloudflare disrupt massive RaccoonO365 phishing service",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-and-cloudflare-disrupt-massive-raccoono365-phishing-service/",
+      "pubDate": "Wed, 17 Sep 2025 09:20:05 -0400"
+    },
     {
       "title": "BreachForums hacking forum admin resentenced to three years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/",
@@ -56,11 +61,6 @@
       "title": "OpenAI's new GPT-5 Codex model takes on Claude Code",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/",
       "pubDate": "Mon, 15 Sep 2025 20:51:22 -0400"
-    },
-    {
-      "title": "Google confirms fraudulent account created in law enforcement portal",
-      "link": "https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/",
-      "pubDate": "Mon, 15 Sep 2025 16:12:37 -0400"
     }
   ]
 }
