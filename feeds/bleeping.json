@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-17T17:35:31Z",
+  "updated": "2025-09-17T18:15:01Z",
   "items": [
+    {
+      "title": "VC giant Insight Partners warns thousands after ransomware breach",
+      "link": "https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/",
+      "pubDate": "Wed, 17 Sep 2025 13:50:52 -0400"
+    },
     {
       "title": "SonicWall warns customers to reset credentials after breach",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/",
@@ -56,11 +61,6 @@
       "title": "Jaguar Land Rover extends shutdown after cyberattack by another week",
       "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-extends-shutdown-after-cyberattack-by-another-week/",
       "pubDate": "Tue, 16 Sep 2025 09:08:16 -0400"
-    },
-    {
-      "title": "Apple backports zero-day patches to older iPhones and iPads",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-ipads/",
-      "pubDate": "Tue, 16 Sep 2025 08:16:53 -0400"
     }
   ]
 }
