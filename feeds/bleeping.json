@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-17T14:39:17Z",
+  "updated": "2025-09-17T15:11:37Z",
   "items": [
+    {
+      "title": "Microsoft: Office 2016 and Office 2019 reach end of support next month",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/",
+      "pubDate": "Wed, 17 Sep 2025 10:57:04 -0400"
+    },
+    {
+      "title": "From ClickFix to MetaStealer: Dissecting Evolving Threat Actor Techniques",
+      "link": "https://www.bleepingcomputer.com/news/security/from-clickfix-to-metastealer-dissecting-evolving-threat-actor-techniques/",
+      "pubDate": "Wed, 17 Sep 2025 10:01:11 -0400"
+    },
     {
       "title": "Microsoft and Cloudflare disrupt massive RaccoonO365 phishing service",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-and-cloudflare-disrupt-massive-raccoono365-phishing-service/",
@@ -51,16 +61,6 @@
       "title": "New FileFix attack uses steganography to drop StealC malware",
       "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-steganography-to-drop-stealc-malware/",
       "pubDate": "Tue, 16 Sep 2025 08:00:00 -0400"
-    },
-    {
-      "title": "Webinar: Your browser is the breach \u2014 securing the modern web edge",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-your-browser-is-the-breach-securing-the-modern-web-edge/",
-      "pubDate": "Tue, 16 Sep 2025 07:01:08 -0400"
-    },
-    {
-      "title": "OpenAI's new GPT-5 Codex model takes on Claude Code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/",
-      "pubDate": "Mon, 15 Sep 2025 20:51:22 -0400"
     }
   ]
 }
