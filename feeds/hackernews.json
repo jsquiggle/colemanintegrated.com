@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-17T12:20:31Z",
+  "updated": "2025-09-17T13:02:02Z",
   "items": [
+    {
+      "title": "From Quantum Hacks to AI Defenses \u2013 Expert Guide to Building Unbreakable Cyber Resilience",
+      "link": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
+      "pubDate": "Wed, 17 Sep 2025 17:25:00 +0530"
+    },
     {
       "title": "Rethinking AI Data Security: A Buyer's Guide",
       "link": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
@@ -56,11 +61,6 @@
       "title": "Self-Replicating Worm Hits 180+ npm Packages to Steal Credentials in Latest Supply Chain Attack",
       "link": "https://thehackernews.com/2025/09/40-npm-packages-compromised-in-supply.html",
       "pubDate": "Tue, 16 Sep 2025 10:30:00 +0530"
-    },
-    {
-      "title": "Mustang Panda Deploys SnakeDisk USB Worm to Deliver Yokai Backdoor on Thailand IPs",
-      "link": "https://thehackernews.com/2025/09/mustang-panda-deploys-snakedisk-usb.html",
-      "pubDate": "Tue, 16 Sep 2025 00:15:00 +0530"
     }
   ]
 }
