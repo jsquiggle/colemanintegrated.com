@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-18T14:39:24Z",
+  "updated": "2025-09-18T15:11:08Z",
   "items": [
+    {
+      "title": "SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers",
+      "link": "https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html",
+      "pubDate": "Thu, 18 Sep 2025 19:42:00 +0530"
+    },
     {
       "title": "CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader",
       "link": "https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html",
@@ -56,11 +61,6 @@
       "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
       "link": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
       "pubDate": "Wed, 17 Sep 2025 10:01:00 +0530"
-    },
-    {
-      "title": "Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover",
-      "link": "https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html",
-      "pubDate": "Tue, 16 Sep 2025 21:53:00 +0530"
     }
   ]
 }
