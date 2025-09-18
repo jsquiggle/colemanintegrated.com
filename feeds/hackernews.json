@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-18T13:01:16Z",
+  "updated": "2025-09-18T13:40:44Z",
   "items": [
+    {
+      "title": "CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader",
+      "link": "https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html",
+      "pubDate": "Thu, 18 Sep 2025 18:26:00 +0530"
+    },
     {
       "title": "SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers",
       "link": "https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html",
@@ -56,11 +61,6 @@
       "title": "Chaos Mesh Critical GraphQL Flaws Enable RCE and Full Kubernetes Cluster Takeover",
       "link": "https://thehackernews.com/2025/09/chaos-mesh-critical-graphql-flaws.html",
       "pubDate": "Tue, 16 Sep 2025 21:53:00 +0530"
-    },
-    {
-      "title": "SlopAds Fraud Ring Exploits 224 Android Apps to Drive 2.3 Billion Daily Ad Bids",
-      "link": "https://thehackernews.com/2025/09/slopads-fraud-ring-exploits-224-android.html",
-      "pubDate": "Tue, 16 Sep 2025 19:49:00 +0530"
     }
   ]
 }
