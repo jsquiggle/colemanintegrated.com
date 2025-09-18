@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-18T08:14:03Z",
+  "updated": "2025-09-18T08:42:30Z",
   "items": [
+    {
+      "title": "WatchGuard warns of critical vulnerability in Firebox firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/",
+      "pubDate": "Thu, 18 Sep 2025 04:23:28 -0400"
+    },
     {
       "title": "Google patches sixth Chrome zero-day exploited in attacks this year",
       "link": "https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/",
@@ -56,11 +61,6 @@
       "title": "Self-propagating supply chain attack hits 187 npm packages",
       "link": "https://www.bleepingcomputer.com/news/security/self-propagating-supply-chain-attack-hits-187-npm-packages/",
       "pubDate": "Tue, 16 Sep 2025 12:46:43 -0400"
-    },
-    {
-      "title": "Microsoft: WMIC will be removed after Windows 11 25H2 upgrade",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wmic-will-be-removed-after-windows-11-25h2-upgrade/",
-      "pubDate": "Tue, 16 Sep 2025 11:58:59 -0400"
     }
   ]
 }
