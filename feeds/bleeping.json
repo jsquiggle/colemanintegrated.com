@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-18T14:11:32Z",
+  "updated": "2025-09-18T14:39:24Z",
   "items": [
+    {
+      "title": "UK arrests 'Scattered Spider' teens linked to Transport for London hack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/",
+      "pubDate": "Thu, 18 Sep 2025 10:37:12 -0400"
+    },
+    {
+      "title": "SystemBC malware turns infected VPS systems into proxy highway",
+      "link": "https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/",
+      "pubDate": "Thu, 18 Sep 2025 10:35:53 -0400"
+    },
+    {
+      "title": "Target-rich environment: Why Microsoft 365 has become the biggest risk",
+      "link": "https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/",
+      "pubDate": "Thu, 18 Sep 2025 10:02:12 -0400"
+    },
     {
       "title": "Notepad gets free AI features on Copilot+ PCs with Windows 11",
       "link": "https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/",
@@ -46,16 +61,6 @@
       "title": "From ClickFix to MetaStealer: Dissecting Evolving Threat Actor Techniques",
       "link": "https://www.bleepingcomputer.com/news/security/from-clickfix-to-metastealer-dissecting-evolving-threat-actor-techniques/",
       "pubDate": "Wed, 17 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft and Cloudflare disrupt massive RaccoonO365 phishing service",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-and-cloudflare-disrupt-massive-raccoono365-phishing-service/",
-      "pubDate": "Wed, 17 Sep 2025 09:20:05 -0400"
-    },
-    {
-      "title": "BreachForums hacking forum admin resentenced to three years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/",
-      "pubDate": "Tue, 16 Sep 2025 17:38:22 -0400"
     }
   ]
 }
