@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-18T13:40:44Z",
+  "updated": "2025-09-18T14:11:32Z",
   "items": [
+    {
+      "title": "Notepad gets free AI features on Copilot+ PCs with Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/",
+      "pubDate": "Thu, 18 Sep 2025 09:50:04 -0400"
+    },
     {
       "title": "PyPI invalidates tokens stolen in GhostAction supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/",
@@ -51,11 +56,6 @@
       "title": "BreachForums hacking forum admin resentenced to three years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/",
       "pubDate": "Tue, 16 Sep 2025 17:38:22 -0400"
-    },
-    {
-      "title": "Microsoft rolls out Copilot Chat to Microsoft 365 Office apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-copilot-chat-to-microsoft-365-office-apps/",
-      "pubDate": "Tue, 16 Sep 2025 14:01:41 -0400"
     }
   ]
 }
