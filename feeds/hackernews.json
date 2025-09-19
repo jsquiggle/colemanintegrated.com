@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-19T08:42:17Z",
+  "updated": "2025-09-19T09:11:59Z",
   "items": [
+    {
+      "title": "Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine",
+      "link": "https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html",
+      "pubDate": "Fri, 19 Sep 2025 13:54:00 +0530"
+    },
     {
       "title": "U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack",
       "link": "https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html",
@@ -56,11 +61,6 @@
       "title": "Rethinking AI Data Security: A Buyer's Guide",
       "link": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
       "pubDate": "Wed, 17 Sep 2025 16:33:00 +0530"
-    },
-    {
-      "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
-      "link": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
-      "pubDate": "Wed, 17 Sep 2025 14:19:00 +0530"
     }
   ]
 }
