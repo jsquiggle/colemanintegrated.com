@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-19T18:43:27Z",
+  "updated": "2025-09-19T19:07:53Z",
   "items": [
+    {
+      "title": "Microsoft starts rolling out Gaming Copilot on Windows 11 PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/",
+      "pubDate": "Fri, 19 Sep 2025 14:46:22 -0400"
+    },
     {
       "title": "FBI warns of cybercriminals using fake FBI crime reporting portals",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/",
@@ -56,11 +61,6 @@
       "title": "Target-rich environment: Why Microsoft 365 has become the biggest risk",
       "link": "https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/",
       "pubDate": "Thu, 18 Sep 2025 10:02:12 -0400"
-    },
-    {
-      "title": "Notepad gets free AI features on Copilot+ PCs with Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/",
-      "pubDate": "Thu, 18 Sep 2025 09:50:04 -0400"
     }
   ]
 }
