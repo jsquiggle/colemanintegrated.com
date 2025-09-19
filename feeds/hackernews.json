@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-19T04:12:57Z",
+  "updated": "2025-09-19T04:39:34Z",
   "items": [
+    {
+      "title": "CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428",
+      "link": "https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html",
+      "pubDate": "Fri, 19 Sep 2025 09:40:00 +0530"
+    },
     {
       "title": "SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers",
       "link": "https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html",
@@ -56,11 +61,6 @@
       "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
       "link": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
       "pubDate": "Wed, 17 Sep 2025 11:50:00 +0530"
-    },
-    {
-      "title": "RaccoonO365 Phishing Network Dismantled as Microsoft, Cloudflare Take Down 338 Domains",
-      "link": "https://thehackernews.com/2025/09/raccoono365-phishing-network-shut-down.html",
-      "pubDate": "Wed, 17 Sep 2025 10:01:00 +0530"
     }
   ]
 }
