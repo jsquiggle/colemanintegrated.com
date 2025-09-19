@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-19T11:32:47Z",
+  "updated": "2025-09-19T12:20:50Z",
   "items": [
+    {
+      "title": "How To Automate Alert Triage With AI Agents and Confluence SOPs Using Tines",
+      "link": "https://thehackernews.com/2025/09/how-to-automate-alert-triage-with-ai.html",
+      "pubDate": "Fri, 19 Sep 2025 16:30:00 +0530"
+    },
     {
       "title": "Russian Hackers Gamaredon and Turla Collaborate to Deploy Kazuar Backdoor in Ukraine",
       "link": "https://thehackernews.com/2025/09/russian-hackers-gamaredon-and-turla.html",
@@ -56,11 +61,6 @@
       "title": "From Quantum Hacks to AI Defenses \u2013 Expert Guide to Building Unbreakable Cyber Resilience",
       "link": "https://thehackernews.com/2025/09/from-quantum-hacks-to-ai-defenses.html",
       "pubDate": "Wed, 17 Sep 2025 18:26:00 +0530"
-    },
-    {
-      "title": "Rethinking AI Data Security: A Buyer's Guide",
-      "link": "https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html",
-      "pubDate": "Wed, 17 Sep 2025 16:33:00 +0530"
     }
   ]
 }

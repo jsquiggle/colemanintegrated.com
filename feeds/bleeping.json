@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-19T11:32:47Z",
+  "updated": "2025-09-19T12:20:50Z",
   "items": [
+    {
+      "title": "Steam will stop running on Windows 32-bit in January 2026",
+      "link": "https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/",
+      "pubDate": "Fri, 19 Sep 2025 08:14:41 -0400"
+    },
+    {
+      "title": "OpenAI's $4 GPT Go plan may expand to more regions",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-4-gpt-go-plan-may-expand-to-more-regions/",
+      "pubDate": "Thu, 18 Sep 2025 20:30:00 -0400"
+    },
+    {
+      "title": "ChatGPT Search is now smarter as OpenAI takes on Google Search",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-search-is-now-smarter-as-openai-takes-on-google-search/",
+      "pubDate": "Thu, 18 Sep 2025 19:10:00 -0400"
+    },
     {
       "title": "ChatGPT now gives you greater control over GPT-5 Thinking model",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-now-gives-you-greater-control-over-gpt-5-thinking-model/",
@@ -46,21 +61,6 @@
       "title": "ShinyHunters claims 1.5 billion Salesforce records stolen in Drift hacks",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/",
       "pubDate": "Wed, 17 Sep 2025 17:11:06 -0400"
-    },
-    {
-      "title": "VC giant Insight Partners warns thousands after ransomware breach",
-      "link": "https://www.bleepingcomputer.com/news/security/vc-giant-insight-partners-warns-thousands-after-ransomware-breach/",
-      "pubDate": "Wed, 17 Sep 2025 13:50:52 -0400"
-    },
-    {
-      "title": "SonicWall warns customers to reset credentials after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-customers-to-reset-credentials-after-MySonicWall-breach/",
-      "pubDate": "Wed, 17 Sep 2025 12:23:14 -0400"
-    },
-    {
-      "title": "Microsoft: Office 2016 and Office 2019 reach end of support next month",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-next-month/",
-      "pubDate": "Wed, 17 Sep 2025 10:57:04 -0400"
     }
   ]
 }
