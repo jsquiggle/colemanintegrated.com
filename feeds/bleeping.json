@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-19T15:36:23Z",
+  "updated": "2025-09-19T16:12:30Z",
   "items": [
+    {
+      "title": "CISA exposes malware kits deployed in Ivanti EPMM attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/",
+      "pubDate": "Fri, 19 Sep 2025 11:46:44 -0400"
+    },
     {
       "title": "Fortra warns of max severity flaw in GoAnywhere MFT\u2019s License Servlet",
       "link": "https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/",
@@ -56,11 +61,6 @@
       "title": "PyPI invalidates tokens stolen in GhostAction supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/",
       "pubDate": "Thu, 18 Sep 2025 09:09:09 -0400"
-    },
-    {
-      "title": "WatchGuard warns of critical vulnerability in Firebox firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/",
-      "pubDate": "Thu, 18 Sep 2025 04:23:28 -0400"
     }
   ]
 }
