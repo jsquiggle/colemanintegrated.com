@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-19T07:10:50Z",
+  "updated": "2025-09-19T07:33:10Z",
   "items": [
+    {
+      "title": "U.K. Arrests Two Teen Scattered Spider Hackers Linked to August 2024 TfL Cyber Attack",
+      "link": "https://thehackernews.com/2025/09/uk-arrest-two-teen-scattered-spider.html",
+      "pubDate": "Fri, 19 Sep 2025 12:35:00 +0530"
+    },
     {
       "title": "CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428",
       "link": "https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html",
@@ -56,11 +61,6 @@
       "title": "Scattered Spider Resurfaces With Financial Sector Attacks Despite Retirement Claims",
       "link": "https://thehackernews.com/2025/09/scattered-spider-resurfaces-with.html",
       "pubDate": "Wed, 17 Sep 2025 14:19:00 +0530"
-    },
-    {
-      "title": "DOJ Resentences BreachForums Founder to 3 Years for Cybercrime and Possession of CSAM",
-      "link": "https://thehackernews.com/2025/09/doj-resentences-breachforums-founder-to.html",
-      "pubDate": "Wed, 17 Sep 2025 11:50:00 +0530"
     }
   ]
 }
