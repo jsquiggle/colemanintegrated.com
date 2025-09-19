@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-19T16:41:48Z",
+  "updated": "2025-09-19T17:09:03Z",
   "items": [
+    {
+      "title": "FBI warns of cybercriminals using fake FBI crime reporting portals",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/",
+      "pubDate": "Fri, 19 Sep 2025 12:43:29 -0400"
+    },
     {
       "title": "CISA exposes malware kits deployed in Ivanti EPMM attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/",
@@ -56,11 +61,6 @@
       "title": "Notepad gets free AI features on Copilot+ PCs with Windows 11",
       "link": "https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/",
       "pubDate": "Thu, 18 Sep 2025 09:50:04 -0400"
-    },
-    {
-      "title": "PyPI invalidates tokens stolen in GhostAction supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/",
-      "pubDate": "Thu, 18 Sep 2025 09:09:09 -0400"
     }
   ]
 }
