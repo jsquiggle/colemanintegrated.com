@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-19T14:10:21Z",
+  "updated": "2025-09-19T14:39:33Z",
   "items": [
+    {
+      "title": "Fortra warns of max severity flaw in GoAnywhere MFT\u2019s License Servlet",
+      "link": "https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/",
+      "pubDate": "Fri, 19 Sep 2025 10:20:52 -0400"
+    },
+    {
+      "title": "Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/",
+      "pubDate": "Fri, 19 Sep 2025 10:01:11 -0400"
+    },
     {
       "title": "Steam will stop running on Windows 32-bit in January 2026",
       "link": "https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/",
@@ -51,16 +61,6 @@
       "title": "WatchGuard warns of critical vulnerability in Firebox firewalls",
       "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/",
       "pubDate": "Thu, 18 Sep 2025 04:23:28 -0400"
-    },
-    {
-      "title": "Google patches sixth Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "pubDate": "Thu, 18 Sep 2025 03:23:14 -0400"
-    },
-    {
-      "title": "ShinyHunters claims 1.5 billion Salesforce records stolen in Drift hacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/",
-      "pubDate": "Wed, 17 Sep 2025 17:11:06 -0400"
     }
   ]
 }
