@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-20T17:07:26Z",
+  "updated": "2025-09-20T17:32:21Z",
   "items": [
+    {
+      "title": "Canada dismantles TradeOgre exchange, seizes $40 million in crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/",
+      "pubDate": "Sat, 20 Sep 2025 13:11:40 -0400"
+    },
     {
       "title": "Microsoft starts rolling out Gaming Copilot on Windows 11 PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/",
@@ -56,11 +61,6 @@
       "title": "SystemBC malware turns infected VPS systems into proxy highway",
       "link": "https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/",
       "pubDate": "Thu, 18 Sep 2025 10:35:53 -0400"
-    },
-    {
-      "title": "Target-rich environment: Why Microsoft 365 has become the biggest risk",
-      "link": "https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/",
-      "pubDate": "Thu, 18 Sep 2025 10:02:12 -0400"
     }
   ]
 }
