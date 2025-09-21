@@ -20,21 +20,22 @@
 </head>
 <body class="bg-gray-50 text-gray-800 dark:bg-gray-950 dark:text-gray-100">
   <!-- Site Header -->
-  <header class="border-b border-gray-200 dark:border-gray-800">
-    <div class="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
+  <header class="bg-slate-900 text-blue-400 border-b border-slate-800">
+    <div class="max-w-7xl mx-auto flex items-center justify-between px-6 h-16">
       <a href="/" class="flex items-center gap-3">
-        <img src="/assets/coleman-integrated-logo.svg" alt="Coleman Integrated Solutions" class="h-8 w-auto" onerror="this.onerror=null;this.src='https://colemanintegrated.com/assets/logo.svg';"/>
+        <img src="/assets/coleman-integrated-logo.svg" alt="Coleman Integrated Solutions" class="h-9 w-auto bg-white rounded-sm p-1" onerror="this.onerror=null;this.src='https://colemanintegrated.com/assets/logo.svg';"/>
         <span class="sr-only">Coleman Integrated Solutions</span>
       </a>
-      <nav class="hidden md:flex items-center gap-6 text-sm text-gray-600 dark:text-gray-300">
-        <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400">Home</a>
-        <a href="/services.html" class="hover:text-blue-600 dark:hover:text-blue-400">Services</a>
-        <a href="/pricing.html" class="font-medium text-blue-700 dark:text-blue-300">Pricing</a>
-        <a href="/contact.html" class="hover:text-blue-600 dark:hover:text-blue-400">Contact</a>
+      <nav class="hidden md:flex items-center gap-8 text-sm">
+        <a href="/services.html" class="hover:text-blue-300 transition">Services</a>
+        <a href="/pricing.html" class="text-blue-300 font-medium">Pricing</a>
+        <a href="/dashboard.html" class="hover:text-blue-300 transition">Compliance Dashboard</a>
+        <a href="/cases.html" class="hover:text-blue-300 transition">Case Studies</a>
+        <a href="/about.html" class="hover:text-blue-300 transition">About</a>
       </nav>
       <div class="flex items-center gap-3">
-        <a href="/contact.html" class="hidden md:inline-block rounded-xl px-4 py-2 text-sm font-medium border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-900">Contact Sales</a>
-        <button id="themeToggle" class="rounded-xl px-4 py-2 text-sm font-medium border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-900 transition">
+        <a href="/contact.html" class="inline-block rounded-xl px-4 py-2 text-sm font-semibold bg-blue-400 text-black hover:bg-blue-300 transition">Contact</a>
+        <button id="themeToggle" class="rounded-xl px-3 py-2 text-xs font-medium border border-slate-700 text-blue-300 hover:bg-slate-800 transition hidden md:inline-block">
           <span class="light-label hidden dark:inline">Light</span>
           <span class="dark-label inline dark:hidden">Dark</span>
         </button>
@@ -58,7 +59,7 @@
       <!-- Starter -->
       <div class="bg-white dark:bg-gray-900 rounded-2xl shadow-lg dark:shadow-gray-900/30 p-8 flex flex-col ring-1 ring-gray-200 dark:ring-gray-800">
         <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Starter</h2>
-        <p class="text-3xl font-bold mb-6 text-gray-900 dark:text-white">$799<span class="text-lg font-medium text-gray-500 dark:text-gray-400">/mo</span></p>
+        <p class="text-3xl font-bold mb-6 text-gray-900 dark:text-white">$499<span class="text-lg font-medium text-gray-500 dark:text-gray-400">/mo</span></p>
         <ul class="space-y-3 mb-6 flex-1 text-gray-700 dark:text-gray-300">
           <li>✅ CIS, SOC2 Lite, NIST Lite checks</li>
           <li>✅ Monthly compliance reports (CSV/PDF)</li>
@@ -77,7 +78,7 @@
       <div class="relative bg-blue-600 dark:bg-blue-700 text-white rounded-2xl shadow-xl p-8 flex flex-col transform scale-105 ring-2 ring-blue-400/40 dark:ring-blue-300/40">
         <div class="absolute -top-3 right-4 bg-amber-400 text-amber-950 dark:bg-amber-300 dark:text-amber-900 text-xs font-semibold px-2 py-1 rounded-full shadow">Most Popular</div>
         <h2 class="text-2xl font-semibold mb-4">Pro</h2>
-        <p class="text-3xl font-bold mb-6">$1599<span class="text-lg font-medium opacity-90">/mo</span></p>
+        <p class="text-3xl font-bold mb-6">$1,299<span class="text-lg font-medium opacity-90">/mo</span></p>
         <ul class="space-y-3 mb-6 flex-1 text-blue-50">
           <li>🌟 Everything in Starter, plus:</li>
           <li>✅ NIST 800-53, PCI-DSS, HIPAA</li>
