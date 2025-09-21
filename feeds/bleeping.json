@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-21T17:08:16Z",
+  "updated": "2025-09-21T17:33:17Z",
   "items": [
+    {
+      "title": "Microsoft Entra ID flaw allowed hijacking any company's tenant",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/",
+      "pubDate": "Sun, 21 Sep 2025 13:30:51 -0400"
+    },
     {
       "title": "Canada dismantles TradeOgre exchange, seizes $40 million in crypto",
       "link": "https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/",
@@ -51,16 +56,6 @@
       "title": "ChatGPT now gives you greater control over GPT-5 Thinking model",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-now-gives-you-greater-control-over-gpt-5-thinking-model/",
       "pubDate": "Thu, 18 Sep 2025 18:20:56 -0400"
-    },
-    {
-      "title": "UK arrests 'Scattered Spider' teens linked to Transport for London hack",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/",
-      "pubDate": "Thu, 18 Sep 2025 10:37:12 -0400"
-    },
-    {
-      "title": "SystemBC malware turns infected VPS systems into proxy highway",
-      "link": "https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/",
-      "pubDate": "Thu, 18 Sep 2025 10:35:53 -0400"
     }
   ]
 }
