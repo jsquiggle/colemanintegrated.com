@@ -1,74 +1,135 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Pricing — Coleman Integrated Solutions</title>
-  <link rel="stylesheet" href="styles.css">
-  <script defer src="scripts.js"></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Coleman Integrated Solutions – Pricing</title>
+  <script>
+    // Dark mode: respect saved preference, else system
+    (function() {
+      try {
+        const saved = localStorage.getItem('cis-theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if ((saved === 'dark') || (!saved && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        }
+      } catch (e) {}
+    })();
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-
-  <header class="site-header">
-    <div class="container">
-      <a class="brand" href="index.html">
-        <img src="assets/coleman-logo.png" alt="Coleman Integrated Solutions" class="logo">
-        <span class="brand-text">Coleman Integrated</span>
+<body class="bg-gray-50 text-gray-800 dark:bg-gray-950 dark:text-gray-100">
+  <!-- Site Header -->
+  <header class="border-b border-gray-200 dark:border-gray-800">
+    <div class="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
+      <a href="/" class="flex items-center gap-3">
+        <img src="/assets/coleman-integrated-logo.svg" alt="Coleman Integrated Solutions" class="h-8 w-auto" onerror="this.onerror=null;this.src='https://colemanintegrated.com/assets/logo.svg';"/>
+        <span class="sr-only">Coleman Integrated Solutions</span>
       </a>
-      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-      <nav class="nav">
-        <a href="index.html#services">Services</a>
-        <a href="pricing.html">Pricing</a>
-        <a href="dashboard.html">Compliance Dashboard</a>
-        <a href="case-studies.html">Case Studies</a>
-        <a href="about.html">About</a>
-        <a href="contact.html" class="btn">Contact</a>
+      <nav class="hidden md:flex items-center gap-6 text-sm text-gray-600 dark:text-gray-300">
+        <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400">Home</a>
+        <a href="/services.html" class="hover:text-blue-600 dark:hover:text-blue-400">Services</a>
+        <a href="/pricing.html" class="font-medium text-blue-700 dark:text-blue-300">Pricing</a>
+        <a href="/contact.html" class="hover:text-blue-600 dark:hover:text-blue-400">Contact</a>
       </nav>
+      <div class="flex items-center gap-3">
+        <a href="/contact.html" class="hidden md:inline-block rounded-xl px-4 py-2 text-sm font-medium border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-900">Contact Sales</a>
+        <button id="themeToggle" class="rounded-xl px-4 py-2 text-sm font-medium border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-900 transition">
+          <span class="light-label hidden dark:inline">Light</span>
+          <span class="dark-label inline dark:hidden">Dark</span>
+        </button>
+      </div>
     </div>
   </header>
+  <section class="py-16 px-6 max-w-7xl mx-auto">
+    <!-- Header with theme toggle -->
+    <div class="flex items-center justify-between mb-8">
+      <div class="max-w-2xl">
+        <h1 class="text-4xl font-bold text-gray-900 dark:text-white mb-2">Pricing Plans</h1>
+        <p class="text-lg text-gray-600 dark:text-gray-300">Choose the right level of automation and compliance for your organization.</p>
+      </div>
+      <button id="themeToggle" class="rounded-xl px-4 py-2 text-sm font-medium border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-900 transition">
+        <span class="light-label hidden dark:inline">Switch to Light</span>
+        <span class="dark-label inline dark:hidden">Switch to Dark</span>
+      </button>
+    </div>
 
-  <main class="section">
-    <div class="container">
-      <h1>Pricing</h1>
-      <div class="grid-3 cards" style="margin-top:1rem">
-        <div class="card">
-          <h3>Starter</h3>
-          <ul class="checklist">
-            <li>Network Audit+ (monthly)</li>
-            <li>Golden image & drift report</li>
-            <li>Basic CIS/SOC 2 mapping</li>
-            <li>Email support</li>
-          </ul>
-          <p><strong>$~/mo</strong></p>
-          <a href="contact.html" class="btn">Get Started</a>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- Starter -->
+      <div class="bg-white dark:bg-gray-900 rounded-2xl shadow-lg dark:shadow-gray-900/30 p-8 flex flex-col ring-1 ring-gray-200 dark:ring-gray-800">
+        <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Starter</h2>
+        <p class="text-3xl font-bold mb-6 text-gray-900 dark:text-white">$499<span class="text-lg font-medium text-gray-500 dark:text-gray-400">/mo</span></p>
+        <ul class="space-y-3 mb-6 flex-1 text-gray-700 dark:text-gray-300">
+          <li>✅ CIS, SOC2 Lite, NIST Lite checks</li>
+          <li>✅ Monthly compliance reports (CSV/PDF)</li>
+          <li>✅ Weekly config drift detection</li>
+          <li>✅ Access to standard automation scripts</li>
+          <li>✅ 2 custom workflows / year</li>
+          <li>✅ Email support (48h SLA)</li>
+        </ul>
+        <div class="flex gap-3">
+          <a href="/contact.html?plan=starter" class="flex-1 text-center bg-blue-600 text-white py-3 rounded-xl font-medium hover:bg-blue-700 transition">Get Starter</a>
+          <a href="/pricing.html#compare" class="px-4 py-3 rounded-xl font-medium border border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-900">Compare Features</a>
         </div>
-        <div class="card">
-          <h3>Pro</h3>
-          <ul class="checklist">
-            <li>All Starter features</li>
-            <li>Automated evidence pack (SOC 2 / ISO 27001)</li>
-            <li>EOL/EOS & PSIRT mapping</li>
-            <li>Remediation playbooks</li>
-            <li>Priority support</li>
-          </ul>
-          <p><strong>$~/mo</strong></p>
-          <a href="contact.html" class="btn">Talk to Sales</a>
+      </div>
+
+      <!-- Pro (hero) -->
+      <div class="relative bg-blue-600 dark:bg-blue-700 text-white rounded-2xl shadow-xl p-8 flex flex-col transform scale-105 ring-2 ring-blue-400/40 dark:ring-blue-300/40">
+        <div class="absolute -top-3 right-4 bg-amber-400 text-amber-950 dark:bg-amber-300 dark:text-amber-900 text-xs font-semibold px-2 py-1 rounded-full shadow">Most Popular</div>
+        <h2 class="text-2xl font-semibold mb-4">Pro</h2>
+        <p class="text-3xl font-bold mb-6">$1,299<span class="text-lg font-medium opacity-90">/mo</span></p>
+        <ul class="space-y-3 mb-6 flex-1 text-blue-50">
+          <li>🌟 Everything in Starter, plus:</li>
+          <li>✅ NIST 800-53, PCI-DSS, HIPAA</li>
+          <li>✅ Live compliance dashboard</li>
+          <li>✅ Automated remediation scripts</li>
+          <li>✅ Monthly executive PDF reports</li>
+          <li>✅ 5 custom workflows / year</li>
+          <li>✅ Ticketing/alert integrations</li>
+          <li>✅ Priority support (24h SLA)</li>
+        </ul>
+        <div class="flex gap-3">
+          <a href="/contact.html?plan=pro" class="flex-1 text-center bg-white text-blue-700 dark:text-blue-800 py-3 rounded-xl font-medium hover:bg-gray-100 transition">Get Pro</a>
+          <a href="/pricing.html#compare" class="px-4 py-3 rounded-xl font-medium bg-blue-500/20 hover:bg-blue-500/30 rounded-xl">See Full Comparison</a>
         </div>
-        <div class="card">
-          <h3>Enterprise</h3>
-          <ul class="checklist">
-            <li>All Pro features</li>
-            <li>Custom automation modules</li>
-            <li>Quarterly architecture review</li>
-            <li>Dedicated Slack channel</li>
-          </ul>
-          <p><strong>Custom</strong></p>
-          <a href="contact.html" class="btn">Request Proposal</a>
+      </div>
+
+      <!-- Enterprise -->
+      <div class="bg-white dark:bg-gray-900 rounded-2xl shadow-lg dark:shadow-gray-900/30 p-8 flex flex-col ring-1 ring-gray-200 dark:ring-gray-800">
+        <h2 class="text-2xl font-semibold mb-4 text-gray-900 dark:text-white">Enterprise</h2>
+        <p class="text-3xl font-bold mb-6 text-gray-900 dark:text-white">Custom</p>
+        <ul class="space-y-3 mb-6 flex-1 text-gray-700 dark:text-gray-300">
+          <li>🚀 Everything in Pro, plus:</li>
+          <li>✅ SOC2 Type II, FedRAMP, ISO27001</li>
+          <li>✅ Daily compliance monitoring & alerts</li>
+          <li>✅ Unlimited custom workflows</li>
+          <li>✅ SIEM & log platform integrations</li>
+          <li>✅ Dedicated success engineer</li>
+          <li>✅ 24/7 support (2h SLA)</li>
+          <li>✅ Audit-ready compliance exports</li>
+        </ul>
+        <div class="flex gap-3">
+          <a href="/contact.html?plan=enterprise" class="flex-1 text-center bg-blue-600 text-white py-3 rounded-xl font-medium hover:bg-blue-700 transition">Contact Sales</a>
+          <a href="/pricing.html#compare" class="px-4 py-3 rounded-xl font-medium border border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-900">Compare Enterprise</a>
         </div>
       </div>
     </div>
-  </main>
 
-  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
+    <!-- Fine print / footnote -->
+    <p class="mt-8 text-xs text-gray-500 dark:text-gray-400">Pricing shown is indicative and may vary based on device counts, integrations, and compliance scope.</p>
+  </section>
+
+  <script>
+    const btn = document.getElementById('themeToggle');
+    btn?.addEventListener('click', () => {
+      const html = document.documentElement;
+      const nowDark = !html.classList.contains('dark');
+      html.classList.toggle('dark');
+      try { localStorage.setItem('cis-theme', nowDark ? 'dark' : 'light'); } catch (e) {}
+      // Swap labels
+      document.querySelector('.light-label')?.classList.toggle('hidden', !nowDark);
+      document.querySelector('.dark-label')?.classList.toggle('hidden', nowDark);
+    });
+  </script>
 </body>
 </html>
