@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T15:38:31Z",
+  "updated": "2025-09-22T16:13:05Z",
   "items": [
+    {
+      "title": "Mozilla now lets Firefox add-on devs roll back bad updates",
+      "link": "https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/",
+      "pubDate": "Mon, 22 Sep 2025 11:53:29 -0400"
+    },
     {
       "title": "LastPass: Fake password managers infect Mac users with malware",
       "link": "https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/",
@@ -56,11 +61,6 @@
       "title": "Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses",
       "link": "https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/",
       "pubDate": "Fri, 19 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Steam will stop running on Windows 32-bit in January 2026",
-      "link": "https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/",
-      "pubDate": "Fri, 19 Sep 2025 08:14:41 -0400"
     }
   ]
 }
