@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T20:11:27Z",
+  "updated": "2025-09-22T20:37:14Z",
   "items": [
+    {
+      "title": "American Archive of Public Broadcasting fixes bug exposing restricted media",
+      "link": "https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/",
+      "pubDate": "Mon, 22 Sep 2025 16:25:07 -0400"
+    },
     {
       "title": "Automaker giant Stellantis confirms data breach after Salesforce hack",
       "link": "https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft starts rolling out Gaming Copilot on Windows 11 PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/",
       "pubDate": "Fri, 19 Sep 2025 14:46:22 -0400"
-    },
-    {
-      "title": "FBI warns of cybercriminals using fake FBI crime reporting portals",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/",
-      "pubDate": "Fri, 19 Sep 2025 12:43:29 -0400"
     }
   ]
 }
