@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T17:35:02Z",
+  "updated": "2025-09-22T18:15:19Z",
   "items": [
+    {
+      "title": "Automaker giant Stellantis confirms data breach after Salesforce hack",
+      "link": "https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/",
+      "pubDate": "Mon, 22 Sep 2025 14:01:50 -0400"
+    },
     {
       "title": "New EDR-Freeze tool uses Windows WER to suspend security software",
       "link": "https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/",
@@ -56,11 +61,6 @@
       "title": "FBI warns of cybercriminals using fake FBI crime reporting portals",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/",
       "pubDate": "Fri, 19 Sep 2025 12:43:29 -0400"
-    },
-    {
-      "title": "CISA exposes malware kits deployed in Ivanti EPMM attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/",
-      "pubDate": "Fri, 19 Sep 2025 11:46:44 -0400"
     }
   ]
 }
