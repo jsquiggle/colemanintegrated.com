@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T09:13:26Z",
+  "updated": "2025-09-22T09:40:15Z",
   "items": [
+    {
+      "title": "Verified Steam game steals streamer's cancer treatment donations",
+      "link": "https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/",
+      "pubDate": "Mon, 22 Sep 2025 05:28:10 -0400"
+    },
     {
       "title": "Microsoft Entra ID flaw allowed hijacking any company's tenant",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/",
