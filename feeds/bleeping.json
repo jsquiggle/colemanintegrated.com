@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T15:11:58Z",
+  "updated": "2025-09-22T15:38:31Z",
   "items": [
+    {
+      "title": "LastPass: Fake password managers infect Mac users with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/",
+      "pubDate": "Mon, 22 Sep 2025 11:36:15 -0400"
+    },
+    {
+      "title": "Why attackers are moving beyond email-based phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/",
+      "pubDate": "Mon, 22 Sep 2025 10:01:11 -0400"
+    },
     {
       "title": "Microsoft says recent updates cause DRM video playback issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/",
@@ -51,11 +61,6 @@
       "title": "Steam will stop running on Windows 32-bit in January 2026",
       "link": "https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/",
       "pubDate": "Fri, 19 Sep 2025 08:14:41 -0400"
-    },
-    {
-      "title": "OpenAI's $4 GPT Go plan may expand to more regions",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-4-gpt-go-plan-may-expand-to-more-regions/",
-      "pubDate": "Thu, 18 Sep 2025 20:30:00 -0400"
     }
   ]
 }
