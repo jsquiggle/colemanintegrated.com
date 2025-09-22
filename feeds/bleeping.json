@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T21:09:06Z",
+  "updated": "2025-09-22T21:32:09Z",
   "items": [
+    {
+      "title": "Airport disruptions in Europe caused by a ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/",
+      "pubDate": "Mon, 22 Sep 2025 17:24:19 -0400"
+    },
     {
       "title": "American Archive of Public Broadcasting fixes bug exposing restricted media",
       "link": "https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/",
@@ -56,11 +61,6 @@
       "title": "Canada dismantles TradeOgre exchange, seizes $40 million in crypto",
       "link": "https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/",
       "pubDate": "Sat, 20 Sep 2025 13:11:40 -0400"
-    },
-    {
-      "title": "Microsoft starts rolling out Gaming Copilot on Windows 11 PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/",
-      "pubDate": "Fri, 19 Sep 2025 14:46:22 -0400"
     }
   ]
 }
