@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-22T16:42:39Z",
+  "updated": "2025-09-22T17:09:39Z",
   "items": [
+    {
+      "title": "New EDR-Freeze tool uses Windows WER to suspend security software",
+      "link": "https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/",
+      "pubDate": "Mon, 22 Sep 2025 13:07:14 -0400"
+    },
+    {
+      "title": "Microsoft lifts Windows 11 update block after face detection fix",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-safeguard-hold-after-fixing-face-detection-bug/",
+      "pubDate": "Mon, 22 Sep 2025 12:56:52 -0400"
+    },
     {
       "title": "Mozilla now lets Firefox add-on devs roll back bad updates",
       "link": "https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/",
@@ -51,16 +61,6 @@
       "title": "CISA exposes malware kits deployed in Ivanti EPMM attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/",
       "pubDate": "Fri, 19 Sep 2025 11:46:44 -0400"
-    },
-    {
-      "title": "Fortra warns of max severity flaw in GoAnywhere MFT\u2019s License Servlet",
-      "link": "https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/",
-      "pubDate": "Fri, 19 Sep 2025 10:20:52 -0400"
-    },
-    {
-      "title": "Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/",
-      "pubDate": "Fri, 19 Sep 2025 10:01:11 -0400"
     }
   ]
 }
