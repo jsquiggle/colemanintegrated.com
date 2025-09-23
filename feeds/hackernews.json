@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-23T08:42:55Z",
+  "updated": "2025-09-23T09:11:57Z",
   "items": [
+    {
+      "title": "BadIIS Malware Spreads via SEO Poisoning \u2014 Redirects Traffic, Plants Web Shells",
+      "link": "https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html",
+      "pubDate": "Tue, 23 Sep 2025 13:43:00 +0530"
+    },
     {
       "title": "ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks",
       "link": "https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html",
@@ -56,11 +61,6 @@
       "title": "Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability",
       "link": "https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html",
       "pubDate": "Fri, 19 Sep 2025 19:42:00 +0530"
-    },
-    {
-      "title": "17,500 Phishing Domains Target 316 Brands Across 74 Countries in Global PhaaS Surge",
-      "link": "https://thehackernews.com/2025/09/17500-phishing-domains-target-316.html",
-      "pubDate": "Fri, 19 Sep 2025 19:32:00 +0530"
     }
   ]
 }
