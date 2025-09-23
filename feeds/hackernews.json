@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-23T12:20:03Z",
+  "updated": "2025-09-23T13:01:20Z",
   "items": [
+    {
+      "title": "Lean Teams, Higher Stakes: Why CISOs Must Rethink Incident Remediation",
+      "link": "https://thehackernews.com/2025/09/lean-teams-higher-stakes-why-cisos-must.html",
+      "pubDate": "Tue, 23 Sep 2025 17:00:00 +0530"
+    },
+    {
+      "title": "ShadowV2 Botnet Exploits Misconfigured AWS Docker Containers for DDoS-for-Hire Service",
+      "link": "https://thehackernews.com/2025/09/shadowv2-botnet-exploits-misconfigured.html",
+      "pubDate": "Tue, 23 Sep 2025 16:56:00 +0530"
+    },
     {
       "title": "GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security",
       "link": "https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html",
@@ -51,16 +61,6 @@
       "title": "ShadowLeak Zero-Click Flaw Leaks Gmail Data via OpenAI ChatGPT Deep Research Agent",
       "link": "https://thehackernews.com/2025/09/shadowleak-zero-click-flaw-leaks-gmail.html",
       "pubDate": "Sat, 20 Sep 2025 11:01:00 +0530"
-    },
-    {
-      "title": "UNC1549 Hacks 34 Devices in 11 Telecom Firms via LinkedIn Job Lures and MINIBIKE Malware",
-      "link": "https://thehackernews.com/2025/09/unc1549-hacks-34-devices-in-11-telecom.html",
-      "pubDate": "Fri, 19 Sep 2025 21:36:00 +0530"
-    },
-    {
-      "title": "SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers",
-      "link": "https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html",
-      "pubDate": "Fri, 19 Sep 2025 19:56:00 +0530"
     }
   ]
 }
