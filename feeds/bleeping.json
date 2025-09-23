@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T11:33:04Z",
+  "updated": "2025-09-23T12:20:03Z",
   "items": [
+    {
+      "title": "GitHub tightens npm security with mandatory 2FA, access tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/",
+      "pubDate": "Tue, 23 Sep 2025 08:05:37 -0400"
+    },
     {
       "title": "NPM package caught using QR Code to fetch cookie-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/",
@@ -56,11 +61,6 @@
       "title": "Verified Steam game steals streamer's cancer treatment donations",
       "link": "https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/",
       "pubDate": "Mon, 22 Sep 2025 05:28:10 -0400"
-    },
-    {
-      "title": "Microsoft Entra ID flaw allowed hijacking any company's tenant",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/",
-      "pubDate": "Sun, 21 Sep 2025 13:30:51 -0400"
     }
   ]
 }
