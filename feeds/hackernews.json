@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-23T09:37:47Z",
+  "updated": "2025-09-23T10:10:51Z",
   "items": [
+    {
+      "title": "GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security",
+      "link": "https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html",
+      "pubDate": "Tue, 23 Sep 2025 14:50:00 +0530"
+    },
     {
       "title": "BadIIS Malware Spreads via SEO Poisoning \u2014 Redirects Traffic, Plants Web Shells",
       "link": "https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html",
@@ -56,11 +61,6 @@
       "title": "SystemBC Powers REM Proxy With 1,500 Daily VPS Victims Across 80 C2 Servers",
       "link": "https://thehackernews.com/2025/09/systembc-powers-rem-proxy-with-1500.html",
       "pubDate": "Fri, 19 Sep 2025 19:56:00 +0530"
-    },
-    {
-      "title": "Fortra Releases Critical Patch for CVSS 10.0 GoAnywhere MFT Vulnerability",
-      "link": "https://thehackernews.com/2025/09/fortra-releases-critical-patch-for-cvss.html",
-      "pubDate": "Fri, 19 Sep 2025 19:42:00 +0530"
     }
   ]
 }
