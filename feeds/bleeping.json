@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T17:34:28Z",
+  "updated": "2025-09-23T18:15:53Z",
   "items": [
+    {
+      "title": "Libraesva ESG issues emergency fix for bug exploited by state hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/",
+      "pubDate": "Tue, 23 Sep 2025 13:51:19 -0400"
+    },
     {
       "title": "WhatsApp adds message translation to iPhone and Android apps",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-message-translation-to-iphone-and-android-apps/",
@@ -56,11 +61,6 @@
       "title": "American Archive of Public Broadcasting fixes bug exposing restricted media",
       "link": "https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/",
       "pubDate": "Mon, 22 Sep 2025 16:25:07 -0400"
-    },
-    {
-      "title": "Automaker giant Stellantis confirms data breach after Salesforce hack",
-      "link": "https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/",
-      "pubDate": "Mon, 22 Sep 2025 14:01:50 -0400"
     }
   ]
 }
