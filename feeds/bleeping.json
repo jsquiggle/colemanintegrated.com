@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T14:40:44Z",
+  "updated": "2025-09-23T15:11:11Z",
   "items": [
+    {
+      "title": "CISA says hackers breached federal agency using GeoServer exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/",
+      "pubDate": "Tue, 23 Sep 2025 11:07:27 -0400"
+    },
     {
       "title": "Police dismantles crypto fraud ring linked to \u20ac100 million in losses",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/",
@@ -56,11 +61,6 @@
       "title": "Microsoft lifts Windows 11 update block after face detection fix",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-safeguard-hold-after-fixing-face-detection-bug/",
       "pubDate": "Mon, 22 Sep 2025 12:56:52 -0400"
-    },
-    {
-      "title": "Mozilla now lets Firefox add-on devs roll back bad updates",
-      "link": "https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/",
-      "pubDate": "Mon, 22 Sep 2025 11:53:29 -0400"
     }
   ]
 }
