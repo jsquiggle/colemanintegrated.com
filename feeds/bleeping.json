@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T15:38:29Z",
+  "updated": "2025-09-23T16:13:25Z",
   "items": [
+    {
+      "title": "Cloudflare mitigates new record-breaking 22.2 Tbps DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/",
+      "pubDate": "Tue, 23 Sep 2025 11:58:55 -0400"
+    },
     {
       "title": "CISA says hackers breached federal agency using GeoServer exploit",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/",
@@ -56,11 +61,6 @@
       "title": "New EDR-Freeze tool uses Windows WER to suspend security software",
       "link": "https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/",
       "pubDate": "Mon, 22 Sep 2025 13:07:14 -0400"
-    },
-    {
-      "title": "Microsoft lifts Windows 11 update block after face detection fix",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-safeguard-hold-after-fixing-face-detection-bug/",
-      "pubDate": "Mon, 22 Sep 2025 12:56:52 -0400"
     }
   ]
 }
