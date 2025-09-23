@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T13:01:20Z",
+  "updated": "2025-09-23T13:43:23Z",
   "items": [
+    {
+      "title": "SolarWinds releases third patch to fix Web Help Desk RCE bug",
+      "link": "https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/",
+      "pubDate": "Tue, 23 Sep 2025 09:41:54 -0400"
+    },
+    {
+      "title": "SonicWall releases SMA100 firmware update to wipe rootkit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/",
+      "pubDate": "Tue, 23 Sep 2025 09:15:33 -0400"
+    },
     {
       "title": "GitHub tightens npm security with mandatory 2FA, access tokens",
       "link": "https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/",
@@ -51,16 +61,6 @@
       "title": "Why attackers are moving beyond email-based phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/",
       "pubDate": "Mon, 22 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft says recent updates cause DRM video playback issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/",
-      "pubDate": "Mon, 22 Sep 2025 09:55:47 -0400"
-    },
-    {
-      "title": "Verified Steam game steals streamer's cancer treatment donations",
-      "link": "https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/",
-      "pubDate": "Mon, 22 Sep 2025 05:28:10 -0400"
     }
   ]
 }
