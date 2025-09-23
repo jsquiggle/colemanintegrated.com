@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-23T16:42:45Z",
+  "updated": "2025-09-23T17:07:52Z",
   "items": [
+    {
+      "title": "U.S. Secret Service Seizes 300 SIM Servers, 100K Cards Threatening U.S. Officials Near UN",
+      "link": "https://thehackernews.com/2025/09/us-secret-service-seizes-300-sim.html",
+      "pubDate": "Tue, 23 Sep 2025 21:18:00 +0530"
+    },
     {
       "title": "SolarWinds Releases Hotfix for Critical CVE-2025-26399 Remote Code Execution Flaw",
       "link": "https://thehackernews.com/2025/09/solarwinds-releases-hotfix-for-critical.html",
@@ -56,11 +61,6 @@
       "title": "LastPass Warns of Fake Repositories Infecting macOS with Atomic Infostealer",
       "link": "https://thehackernews.com/2025/09/lastpass-warns-of-fake-repositories.html",
       "pubDate": "Sat, 20 Sep 2025 12:37:00 +0530"
-    },
-    {
-      "title": "Researchers Uncover GPT-4-Powered MalTerminal Malware Creating Ransomware, Reverse Shell",
-      "link": "https://thehackernews.com/2025/09/researchers-uncover-gpt-4-powered.html",
-      "pubDate": "Sat, 20 Sep 2025 11:18:00 +0530"
     }
   ]
 }
