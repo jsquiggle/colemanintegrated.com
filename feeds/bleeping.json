@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T14:10:59Z",
+  "updated": "2025-09-23T14:40:44Z",
   "items": [
+    {
+      "title": "Police dismantles crypto fraud ring linked to \u20ac100 million in losses",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/",
+      "pubDate": "Tue, 23 Sep 2025 10:16:35 -0400"
+    },
+    {
+      "title": "5 ways to streamline Identity Governance with this free tool",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/",
+      "pubDate": "Tue, 23 Sep 2025 10:02:12 -0400"
+    },
     {
       "title": "SolarWinds releases third patch to fix Web Help Desk RCE bug",
       "link": "https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/",
@@ -51,16 +61,6 @@
       "title": "Mozilla now lets Firefox add-on devs roll back bad updates",
       "link": "https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/",
       "pubDate": "Mon, 22 Sep 2025 11:53:29 -0400"
-    },
-    {
-      "title": "LastPass: Fake password managers infect Mac users with malware",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/",
-      "pubDate": "Mon, 22 Sep 2025 11:36:15 -0400"
-    },
-    {
-      "title": "Why attackers are moving beyond email-based phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/",
-      "pubDate": "Mon, 22 Sep 2025 10:01:11 -0400"
     }
   ]
 }
