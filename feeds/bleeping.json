@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T10:39:57Z",
+  "updated": "2025-09-23T11:09:05Z",
   "items": [
+    {
+      "title": "NPM package caught using QR Code to fetch cookie-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/",
+      "pubDate": "Tue, 23 Sep 2025 06:42:14 -0400"
+    },
     {
       "title": "Airport disruptions in Europe caused by a ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Entra ID flaw allowed hijacking any company's tenant",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/",
       "pubDate": "Sun, 21 Sep 2025 13:30:51 -0400"
-    },
-    {
-      "title": "Canada dismantles TradeOgre exchange, seizes $40 million in crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/",
-      "pubDate": "Sat, 20 Sep 2025 13:11:40 -0400"
     }
   ]
 }
