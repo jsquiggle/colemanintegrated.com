@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-23T22:09:41Z",
+  "updated": "2025-09-23T22:37:18Z",
   "items": [
+    {
+      "title": "Boyd Gaming discloses data breach after suffering a cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/",
+      "pubDate": "Tue, 23 Sep 2025 18:25:02 -0400"
+    },
     {
       "title": "Libraesva ESG issues emergency fix for bug exploited by state hackers",
       "link": "https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/",
@@ -56,11 +61,6 @@
       "title": "Airport disruptions in Europe caused by a ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/",
       "pubDate": "Mon, 22 Sep 2025 17:24:19 -0400"
-    },
-    {
-      "title": "American Archive of Public Broadcasting fixes bug exposing restricted media",
-      "link": "https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/",
-      "pubDate": "Mon, 22 Sep 2025 16:25:07 -0400"
     }
   ]
 }
