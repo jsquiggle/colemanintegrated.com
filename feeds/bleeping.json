@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T15:11:07Z",
+  "updated": "2025-09-24T15:38:40Z",
   "items": [
+    {
+      "title": "Police seizes $439 million stolen by cybercrime rings worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/",
+      "pubDate": "Wed, 24 Sep 2025 11:23:50 -0400"
+    },
     {
       "title": "Obscura, an obscure new ransomware variant",
       "link": "https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/",
@@ -56,11 +61,6 @@
       "title": "Police dismantles crypto fraud ring linked to \u20ac100 million in losses",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/",
       "pubDate": "Tue, 23 Sep 2025 10:16:35 -0400"
-    },
-    {
-      "title": "5 ways to streamline Identity Governance with this free tool",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/",
-      "pubDate": "Tue, 23 Sep 2025 10:02:12 -0400"
     }
   ]
 }
