@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T20:11:51Z",
+  "updated": "2025-09-24T20:36:22Z",
   "items": [
+    {
+      "title": "New Supermicro BMC flaws can create persistent backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/",
+      "pubDate": "Wed, 24 Sep 2025 16:13:49 -0400"
+    },
     {
       "title": "OpenAI is testing a new GPT-5-based AI agent \"GPT-Alpha\"",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/",
@@ -56,11 +61,6 @@
       "title": "Boyd Gaming discloses data breach after suffering a cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/",
       "pubDate": "Tue, 23 Sep 2025 18:25:02 -0400"
-    },
-    {
-      "title": "Libraesva ESG issues emergency fix for bug exploited by state hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/",
-      "pubDate": "Tue, 23 Sep 2025 13:51:19 -0400"
     }
   ]
 }
