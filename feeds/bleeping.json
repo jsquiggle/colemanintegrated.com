@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T17:09:36Z",
+  "updated": "2025-09-24T17:37:32Z",
   "items": [
     {
       "title": "Cisco warns of IOS zero-day vulnerability exploited in attacks",
@@ -23,8 +23,8 @@
       "pubDate": "Wed, 24 Sep 2025 10:01:11 -0400"
     },
     {
-      "title": "Google: Brickstone malware used to steal U.S. orgs' data for over a year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-brickstone-malware-used-to-steal-us-orgs-data-for-over-a-year/",
+      "title": "Google: Brickstorm malware used to steal U.S. orgs' data for over a year",
+      "link": "https://www.bleepingcomputer.com/news/security/google-brickstorm-malware-used-to-steal-us-orgs-data-for-over-a-year/",
       "pubDate": "Wed, 24 Sep 2025 10:00:00 -0400"
     },
     {
