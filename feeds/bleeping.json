@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T14:09:29Z",
+  "updated": "2025-09-24T14:39:07Z",
   "items": [
+    {
+      "title": "Obscura, an obscure new ransomware variant",
+      "link": "https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/",
+      "pubDate": "Wed, 24 Sep 2025 10:01:11 -0400"
+    },
+    {
+      "title": "Google: Brickstone malware used to steal U.S. orgs' data for over a year",
+      "link": "https://www.bleepingcomputer.com/news/security/google-brickstone-malware-used-to-steal-us-orgs-data-for-over-a-year/",
+      "pubDate": "Wed, 24 Sep 2025 10:00:00 -0400"
+    },
     {
       "title": "UK arrests suspect for RTX ransomware attack causing airport disruptions",
       "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/",
@@ -51,16 +61,6 @@
       "title": "5 ways to streamline Identity Governance with this free tool",
       "link": "https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/",
       "pubDate": "Tue, 23 Sep 2025 10:02:12 -0400"
-    },
-    {
-      "title": "SolarWinds releases third patch to fix Web Help Desk RCE bug",
-      "link": "https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/",
-      "pubDate": "Tue, 23 Sep 2025 09:41:54 -0400"
-    },
-    {
-      "title": "SonicWall releases SMA100 firmware update to wipe rootkit malware",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/",
-      "pubDate": "Tue, 23 Sep 2025 09:15:33 -0400"
     }
   ]
 }
