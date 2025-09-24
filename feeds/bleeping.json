@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T16:44:01Z",
+  "updated": "2025-09-24T17:09:36Z",
   "items": [
+    {
+      "title": "Cisco warns of IOS zero-day vulnerability exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/",
+      "pubDate": "Wed, 24 Sep 2025 12:52:50 -0400"
+    },
     {
       "title": "Unpatched flaw in OnePlus phones lets rogue apps text messages",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/",
@@ -56,11 +61,6 @@
       "title": "Cloudflare mitigates new record-breaking 22.2 Tbps DDoS attack",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/",
       "pubDate": "Tue, 23 Sep 2025 11:58:55 -0400"
-    },
-    {
-      "title": "CISA says hackers breached federal agency using GeoServer exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/",
-      "pubDate": "Tue, 23 Sep 2025 11:07:27 -0400"
     }
   ]
 }
