@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T13:02:09Z",
+  "updated": "2025-09-24T13:42:47Z",
   "items": [
+    {
+      "title": "PyPI urges users to reset credentials after new phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/",
+      "pubDate": "Wed, 24 Sep 2025 09:15:30 -0400"
+    },
     {
       "title": "GitHub notifications abused to impersonate Y Combinator for crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/",
@@ -56,11 +61,6 @@
       "title": "GitHub tightens npm security with mandatory 2FA, access tokens",
       "link": "https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/",
       "pubDate": "Tue, 23 Sep 2025 08:05:37 -0400"
-    },
-    {
-      "title": "NPM package caught using QR Code to fetch cookie-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/",
-      "pubDate": "Tue, 23 Sep 2025 06:42:14 -0400"
     }
   ]
 }
