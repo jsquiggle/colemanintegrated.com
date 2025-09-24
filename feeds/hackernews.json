@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-24T07:11:04Z",
+  "updated": "2025-09-24T07:35:53Z",
   "items": [
+    {
+      "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
+      "link": "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html",
+      "pubDate": "Wed, 24 Sep 2025 12:45:00 +0530"
+    },
     {
       "title": "State-Sponsored Hackers Exploiting Libraesva Email Security Gateway Vulnerability",
       "link": "https://thehackernews.com/2025/09/state-sponsored-hackers-exploiting.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm & More",
       "link": "https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html",
       "pubDate": "Mon, 22 Sep 2025 17:17:00 +0530"
-    },
-    {
-      "title": "How to Gain Control of AI Agents and Non-Human Identities",
-      "link": "https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html",
-      "pubDate": "Mon, 22 Sep 2025 16:30:00 +0530"
     }
   ]
 }
