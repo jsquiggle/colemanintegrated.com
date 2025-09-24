@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T19:32:40Z",
+  "updated": "2025-09-24T20:11:51Z",
   "items": [
+    {
+      "title": "OpenAI is testing a new GPT-5-based AI agent \"GPT-Alpha\"",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/",
+      "pubDate": "Wed, 24 Sep 2025 16:09:25 -0400"
+    },
     {
       "title": "Kali Linux 2025.3 released with 10 new tools, wifi enhancements",
       "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/",
@@ -56,11 +61,6 @@
       "title": "Libraesva ESG issues emergency fix for bug exploited by state hackers",
       "link": "https://www.bleepingcomputer.com/news/security/libraesva-esg-issues-emergency-fix-for-bug-exploited-by-state-hackers/",
       "pubDate": "Tue, 23 Sep 2025 13:51:19 -0400"
-    },
-    {
-      "title": "WhatsApp adds message translation to iPhone and Android apps",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-message-translation-to-iphone-and-android-apps/",
-      "pubDate": "Tue, 23 Sep 2025 13:11:31 -0400"
     }
   ]
 }
