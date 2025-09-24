@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T18:15:13Z",
+  "updated": "2025-09-24T18:42:51Z",
   "items": [
+    {
+      "title": "Kali Linux 2025.3 released with 10 new tools, wifi enhancements",
+      "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/",
+      "pubDate": "Wed, 24 Sep 2025 14:30:02 -0400"
+    },
     {
       "title": "Cisco warns of IOS zero-day vulnerability exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "WhatsApp adds message translation to iPhone and Android apps",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-message-translation-to-iphone-and-android-apps/",
       "pubDate": "Tue, 23 Sep 2025 13:11:31 -0400"
-    },
-    {
-      "title": "Cloudflare mitigates new record-breaking 22.2 Tbps DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-new-record-breaking-222-tbps-ddos-attack/",
-      "pubDate": "Tue, 23 Sep 2025 11:58:55 -0400"
     }
   ]
 }
