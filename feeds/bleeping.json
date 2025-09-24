@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T13:42:47Z",
+  "updated": "2025-09-24T14:09:29Z",
   "items": [
+    {
+      "title": "UK arrests suspect for RTX ransomware attack causing airport disruptions",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/",
+      "pubDate": "Wed, 24 Sep 2025 09:55:48 -0400"
+    },
     {
       "title": "PyPI urges users to reset credentials after new phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/",
@@ -56,11 +61,6 @@
       "title": "SonicWall releases SMA100 firmware update to wipe rootkit malware",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/",
       "pubDate": "Tue, 23 Sep 2025 09:15:33 -0400"
-    },
-    {
-      "title": "GitHub tightens npm security with mandatory 2FA, access tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/",
-      "pubDate": "Tue, 23 Sep 2025 08:05:37 -0400"
     }
   ]
 }

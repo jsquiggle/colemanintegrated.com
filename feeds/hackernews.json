@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-24T13:42:47Z",
+  "updated": "2025-09-24T14:09:29Z",
   "items": [
+    {
+      "title": "Two Critical Flaws Uncovered in Wondershare RepairIt Exposing User Data and AI Models",
+      "link": "https://thehackernews.com/2025/09/two-critical-flaws-uncovered-in.html",
+      "pubDate": "Wed, 24 Sep 2025 19:25:00 +0530"
+    },
     {
       "title": "How One Bad Password Ended a 158-Year-Old Business",
       "link": "https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html",
@@ -56,11 +61,6 @@
       "title": "ShadowV2 Botnet Exploits Misconfigured AWS Docker Containers for DDoS-for-Hire Service",
       "link": "https://thehackernews.com/2025/09/shadowv2-botnet-exploits-misconfigured.html",
       "pubDate": "Tue, 23 Sep 2025 16:56:00 +0530"
-    },
-    {
-      "title": "GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security",
-      "link": "https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html",
-      "pubDate": "Tue, 23 Sep 2025 14:50:00 +0530"
     }
   ]
 }
