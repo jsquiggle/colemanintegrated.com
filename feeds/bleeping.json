@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-24T12:20:47Z",
+  "updated": "2025-09-24T13:02:09Z",
   "items": [
+    {
+      "title": "GitHub notifications abused to impersonate Y Combinator for crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/",
+      "pubDate": "Wed, 24 Sep 2025 08:37:31 -0400"
+    },
     {
       "title": "Boyd Gaming discloses data breach after suffering a cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "NPM package caught using QR Code to fetch cookie-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/",
       "pubDate": "Tue, 23 Sep 2025 06:42:14 -0400"
-    },
-    {
-      "title": "Airport disruptions in Europe caused by a ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/",
-      "pubDate": "Mon, 22 Sep 2025 17:24:19 -0400"
     }
   ]
 }
