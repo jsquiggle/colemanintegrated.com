@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-24T11:32:48Z",
+  "updated": "2025-09-24T12:20:47Z",
   "items": [
+    {
+      "title": "How One Bad Password Ended a 158-Year-Old Business",
+      "link": "https://thehackernews.com/2025/09/how-one-bad-password-ended-158-year-old.html",
+      "pubDate": "Wed, 24 Sep 2025 17:28:00 +0530"
+    },
+    {
+      "title": "New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus",
+      "link": "https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html",
+      "pubDate": "Wed, 24 Sep 2025 16:58:00 +0530"
+    },
+    {
+      "title": "iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks",
+      "link": "https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html",
+      "pubDate": "Wed, 24 Sep 2025 16:33:00 +0530"
+    },
     {
       "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
       "link": "https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html",
@@ -46,21 +61,6 @@
       "title": "GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain Security",
       "link": "https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html",
       "pubDate": "Tue, 23 Sep 2025 14:50:00 +0530"
-    },
-    {
-      "title": "BadIIS Malware Spreads via SEO Poisoning \u2014 Redirects Traffic, Plants Web Shells",
-      "link": "https://thehackernews.com/2025/09/badiis-malware-spreads-via-seo.html",
-      "pubDate": "Tue, 23 Sep 2025 13:43:00 +0530"
-    },
-    {
-      "title": "ComicForm and SectorJ149 Hackers Deploy Formbook Malware in Eurasian Cyberattacks",
-      "link": "https://thehackernews.com/2025/09/comicform-and-sectorj149-hackers-deploy.html",
-      "pubDate": "Mon, 22 Sep 2025 21:10:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, AI Hacking Tools, DDR5 Bit-Flips, npm Worm & More",
-      "link": "https://thehackernews.com/2025/09/weekly-recap-chrome-0-day-ai-hacking.html",
-      "pubDate": "Mon, 22 Sep 2025 17:17:00 +0530"
     }
   ]
 }
