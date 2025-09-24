@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-24T11:08:58Z",
+  "updated": "2025-09-24T11:32:48Z",
   "items": [
     {
       "title": "Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM Credentials",
