@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-25T15:11:35Z",
+  "updated": "2025-09-25T15:39:20Z",
   "items": [
+    {
+      "title": "Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection",
+      "link": "https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html",
+      "pubDate": "Thu, 25 Sep 2025 20:47:00 +0530"
+    },
     {
       "title": "North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers",
       "link": "https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html",
@@ -56,11 +61,6 @@
       "title": "New YiBackdoor Malware Shares Major Code Overlaps with IcedID and Latrodectus",
       "link": "https://thehackernews.com/2025/09/new-yibackdoor-malware-shares-major.html",
       "pubDate": "Wed, 24 Sep 2025 16:58:00 +0530"
-    },
-    {
-      "title": "iframe Security Exposed: The Blind Spot Fueling Payment Skimmer Attacks",
-      "link": "https://thehackernews.com/2025/09/iframe-security-exposed-blind-spot.html",
-      "pubDate": "Wed, 24 Sep 2025 16:33:00 +0530"
     }
   ]
 }
