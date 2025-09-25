@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-25T14:11:18Z",
+  "updated": "2025-09-25T14:41:28Z",
   "items": [
+    {
+      "title": "How secure are passkeys, really? Here's what you need to know",
+      "link": "https://www.bleepingcomputer.com/news/security/how-secure-are-passkeys-really-heres-what-you-need-to-know/",
+      "pubDate": "Thu, 25 Sep 2025 10:02:12 -0400"
+    },
     {
       "title": "Teen suspected of Vegas casino cyberattacks released to parents",
       "link": "https://www.bleepingcomputer.com/news/security/teen-suspected-of-vegas-casino-cyberattacks-released-to-parents/",
@@ -56,11 +61,6 @@
       "title": "UK arrests suspect for RTX ransomware attack causing airport disruptions",
       "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/",
       "pubDate": "Wed, 24 Sep 2025 09:55:48 -0400"
-    },
-    {
-      "title": "PyPI urges users to reset credentials after new phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/",
-      "pubDate": "Wed, 24 Sep 2025 09:15:30 -0400"
     }
   ]
 }
