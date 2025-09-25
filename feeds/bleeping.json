@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-25T16:43:34Z",
+  "updated": "2025-09-25T17:09:18Z",
   "items": [
+    {
+      "title": "Cisco warns of ASA firewall zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/",
+      "pubDate": "Thu, 25 Sep 2025 12:49:36 -0400"
+    },
     {
       "title": "Amazon pays $2.5 billion to settle Prime memberships lawsuit",
       "link": "https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/",
@@ -56,11 +61,6 @@
       "title": "Police seizes $439 million stolen by cybercrime rings worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/",
       "pubDate": "Wed, 24 Sep 2025 11:23:50 -0400"
-    },
-    {
-      "title": "Obscura, an obscure new ransomware variant",
-      "link": "https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/",
-      "pubDate": "Wed, 24 Sep 2025 10:01:11 -0400"
     }
   ]
 }
