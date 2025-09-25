@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-25T12:21:27Z",
+  "updated": "2025-09-25T13:02:58Z",
   "items": [
+    {
+      "title": "Teen suspected of Vegas casino cyberattacks released to parents",
+      "link": "https://www.bleepingcomputer.com/news/security/teen-suspected-of-vegas-casino-cyberattacks-released-to-parents/",
+      "pubDate": "Thu, 25 Sep 2025 08:51:18 -0400"
+    },
+    {
+      "title": "Microsoft will offer free Windows 10 security updates in Europe",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/",
+      "pubDate": "Thu, 25 Sep 2025 08:45:06 -0400"
+    },
     {
       "title": "New Supermicro BMC flaws can create persistent backdoors",
       "link": "https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/",
@@ -51,16 +61,6 @@
       "title": "PyPI urges users to reset credentials after new phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/",
       "pubDate": "Wed, 24 Sep 2025 09:15:30 -0400"
-    },
-    {
-      "title": "GitHub notifications abused to impersonate Y Combinator for crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/",
-      "pubDate": "Wed, 24 Sep 2025 08:37:31 -0400"
-    },
-    {
-      "title": "Boyd Gaming discloses data breach after suffering a cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/",
-      "pubDate": "Tue, 23 Sep 2025 18:25:02 -0400"
     }
   ]
 }
