@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-25T15:39:20Z",
+  "updated": "2025-09-25T16:12:48Z",
   "items": [
+    {
+      "title": "Malicious Rust packages on Crates.io steal crypto wallet keys",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/",
+      "pubDate": "Thu, 25 Sep 2025 11:43:14 -0400"
+    },
     {
       "title": "How secure are passkeys, really? Here's what you need to know",
       "link": "https://www.bleepingcomputer.com/news/security/how-secure-are-passkeys-really-heres-what-you-need-to-know/",
@@ -56,11 +61,6 @@
       "title": "Google: Brickstorm malware used to steal U.S. orgs' data for over a year",
       "link": "https://www.bleepingcomputer.com/news/security/google-brickstorm-malware-used-to-steal-us-orgs-data-for-over-a-year/",
       "pubDate": "Wed, 24 Sep 2025 10:00:00 -0400"
-    },
-    {
-      "title": "UK arrests suspect for RTX ransomware attack causing airport disruptions",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/",
-      "pubDate": "Wed, 24 Sep 2025 09:55:48 -0400"
     }
   ]
 }
