@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-25T17:36:49Z",
+  "updated": "2025-09-25T18:16:05Z",
   "items": [
+    {
+      "title": "Co-op says it lost $107 million after Scattered Spider attack",
+      "link": "https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/",
+      "pubDate": "Thu, 25 Sep 2025 14:05:14 -0400"
+    },
+    {
+      "title": "CISA orders agencies to patch Cisco flaws exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/",
+      "pubDate": "Thu, 25 Sep 2025 13:52:55 -0400"
+    },
     {
       "title": "Cisco warns of ASA firewall zero-days exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "Cisco warns of IOS zero-day vulnerability exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/",
       "pubDate": "Wed, 24 Sep 2025 12:52:50 -0400"
-    },
-    {
-      "title": "Unpatched flaw in OnePlus phones lets rogue apps text messages",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/",
-      "pubDate": "Wed, 24 Sep 2025 11:48:40 -0400"
-    },
-    {
-      "title": "Police seizes $439 million stolen by cybercrime rings worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/",
-      "pubDate": "Wed, 24 Sep 2025 11:23:50 -0400"
     }
   ]
 }
