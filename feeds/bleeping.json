@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-25T16:12:48Z",
+  "updated": "2025-09-25T16:43:34Z",
   "items": [
+    {
+      "title": "Amazon pays $2.5 billion to settle Prime memberships lawsuit",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/",
+      "pubDate": "Thu, 25 Sep 2025 12:21:24 -0400"
+    },
     {
       "title": "Malicious Rust packages on Crates.io steal crypto wallet keys",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/",
@@ -56,11 +61,6 @@
       "title": "Obscura, an obscure new ransomware variant",
       "link": "https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/",
       "pubDate": "Wed, 24 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Google: Brickstorm malware used to steal U.S. orgs' data for over a year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-brickstorm-malware-used-to-steal-us-orgs-data-for-over-a-year/",
-      "pubDate": "Wed, 24 Sep 2025 10:00:00 -0400"
     }
   ]
 }
