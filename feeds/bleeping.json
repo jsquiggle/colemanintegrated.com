@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-26T13:41:17Z",
+  "updated": "2025-09-26T14:09:29Z",
   "items": [
+    {
+      "title": "Maximum severity GoAnywhere MFT flaw exploited as zero day",
+      "link": "https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/",
+      "pubDate": "Fri, 26 Sep 2025 09:50:42 -0400"
+    },
     {
       "title": "Microsoft releases the final Windows 10 22H2 preview update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/",
@@ -56,11 +61,6 @@
       "title": "Microsoft will offer free Windows 10 extended security updates in Europe",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-will-offer-free-windows-10-security-updates-in-europe/",
       "pubDate": "Thu, 25 Sep 2025 08:45:06 -0400"
-    },
-    {
-      "title": "New Supermicro BMC flaws can create persistent backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/",
-      "pubDate": "Wed, 24 Sep 2025 16:13:49 -0400"
     }
   ]
 }
