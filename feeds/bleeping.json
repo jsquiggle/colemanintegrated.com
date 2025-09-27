@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-27T19:32:38Z",
+  "updated": "2025-09-27T20:10:43Z",
   "items": [
+    {
+      "title": "Fake Microsoft Teams installers push Oyster malware via malvertising",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/",
+      "pubDate": "Sat, 27 Sep 2025 15:49:22 -0400"
+    },
+    {
+      "title": "Dutch teens arrested for trying to spy on Europol for Russia",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/",
+      "pubDate": "Sat, 27 Sep 2025 10:17:44 -0400"
+    },
     {
       "title": "Microsoft\u2019s new AI feature will organize your photos automatically",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/",
@@ -51,16 +61,6 @@
       "title": "Co-op says it lost $107 million after Scattered Spider attack",
       "link": "https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/",
       "pubDate": "Thu, 25 Sep 2025 14:05:14 -0400"
-    },
-    {
-      "title": "CISA orders agencies to patch Cisco flaws exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/",
-      "pubDate": "Thu, 25 Sep 2025 13:52:55 -0400"
-    },
-    {
-      "title": "Cisco warns of ASA firewall zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/",
-      "pubDate": "Thu, 25 Sep 2025 12:49:36 -0400"
     }
   ]
 }
