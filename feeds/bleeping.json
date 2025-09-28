@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-28T18:40:36Z",
+  "updated": "2025-09-28T19:07:22Z",
   "items": [
+    {
+      "title": "Akira ransomware breaching MFA-protected SonicWall VPN accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/",
+      "pubDate": "Sun, 28 Sep 2025 14:49:30 -0400"
+    },
     {
       "title": "EU probes SAP over anti-competitive ERP support practices",
       "link": "https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/",
@@ -56,11 +61,6 @@
       "title": "Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/",
       "pubDate": "Thu, 25 Sep 2025 18:49:22 -0400"
-    },
-    {
-      "title": "Unofficial Postmark MCP npm silently stole users' emails",
-      "link": "https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/",
-      "pubDate": "Thu, 25 Sep 2025 16:23:34 -0400"
     }
   ]
 }
