@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-28T17:32:43Z",
+  "updated": "2025-09-28T18:12:57Z",
   "items": [
+    {
+      "title": "EU probes SAP over anti-competitive ERP support practices",
+      "link": "https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/",
+      "pubDate": "Sun, 28 Sep 2025 10:23:46 -0400"
+    },
     {
       "title": "Fake Microsoft Teams installers push Oyster malware via malvertising",
       "link": "https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/",
@@ -56,11 +61,6 @@
       "title": "Unofficial Postmark MCP npm silently stole users' emails",
       "link": "https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/",
       "pubDate": "Thu, 25 Sep 2025 16:23:34 -0400"
-    },
-    {
-      "title": "Co-op says it lost $107 million after Scattered Spider attack",
-      "link": "https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/",
-      "pubDate": "Thu, 25 Sep 2025 14:05:14 -0400"
     }
   ]
 }
