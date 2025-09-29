@@ -1,9 +1,14 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-29T14:11:20Z",
+  "updated": "2025-09-29T14:40:43Z",
   "items": [
     {
-      "title": "Can We Trust AI To Write Vulnerability Checks? Here's what we found",
+      "title": "Harrods suffers new data breach exposing 430,000 customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/",
+      "pubDate": "Mon, 29 Sep 2025 10:19:43 -0400"
+    },
+    {
+      "title": "Can We Trust AI To Write Vulnerability Checks? Here's What We Found",
       "link": "https://www.bleepingcomputer.com/news/security/can-we-trust-ai-to-write-vulnerability-checks-heres-what-we-found/",
       "pubDate": "Mon, 29 Sep 2025 10:01:11 -0400"
     },
@@ -56,11 +61,6 @@
       "title": "Microsoft Edge to block malicious sideloaded extensions",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/",
       "pubDate": "Fri, 26 Sep 2025 11:39:15 -0400"
-    },
-    {
-      "title": "The hidden cyber risks of deploying generative AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/",
-      "pubDate": "Fri, 26 Sep 2025 10:01:11 -0400"
     }
   ]
 }
