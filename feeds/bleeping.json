@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-29T16:11:10Z",
+  "updated": "2025-09-29T16:36:36Z",
   "items": [
+    {
+      "title": "UK govt backs JLR with \u00a31.5 billion loan guarantee after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-govt-backs-jlr-with-15-billion-loan-guarantee-after-cyberattack/",
+      "pubDate": "Mon, 29 Sep 2025 12:31:20 -0400"
+    },
     {
       "title": "Brave launches 'Ask Brave' feature to fuse AI with traditional search",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-launches-ask-brave-feature-to-fuse-ai-with-traditional-search/",
@@ -56,11 +61,6 @@
       "title": "US investors to take over TikTok operations in the country",
       "link": "https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/",
       "pubDate": "Fri, 26 Sep 2025 13:01:38 -0400"
-    },
-    {
-      "title": "Microsoft shares temp fix for Outlook encrypted email errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/",
-      "pubDate": "Fri, 26 Sep 2025 12:43:48 -0400"
     }
   ]
 }
