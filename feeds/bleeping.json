@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-29T22:09:59Z",
+  "updated": "2025-09-29T22:32:45Z",
   "items": [
+    {
+      "title": "UK convicts \"Bitcoin Queen\" in world\u2019s largest cryptocurrency seizure",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-convicts-bitcoin-queen-in-worlds-largest-cryptocurrency-seizure/",
+      "pubDate": "Mon, 29 Sep 2025 18:16:47 -0400"
+    },
     {
       "title": "Japan's largest brewer suspends operations due to cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/japans-largest-brewer-suspends-operations-due-to-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Fake Microsoft Teams installers push Oyster malware via malvertising",
       "link": "https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/",
       "pubDate": "Sat, 27 Sep 2025 15:49:22 -0400"
-    },
-    {
-      "title": "Dutch teens arrested for trying to spy on Europol for Russia",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/",
-      "pubDate": "Sat, 27 Sep 2025 10:17:44 -0400"
     }
   ]
 }
