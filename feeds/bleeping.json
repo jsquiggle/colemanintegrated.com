@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-29T17:10:06Z",
+  "updated": "2025-09-29T17:34:48Z",
   "items": [
+    {
+      "title": "Ransomware gang sought BBC reporter\u2019s help in hacking media giant",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/",
+      "pubDate": "Mon, 29 Sep 2025 13:31:59 -0400"
+    },
     {
       "title": "UK govt backs JLR with \u00a31.5 billion loan guarantee after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/uk-govt-backs-jlr-with-15-billion-loan-guarantee-after-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft\u2019s new AI feature will organize your photos automatically",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/",
       "pubDate": "Fri, 26 Sep 2025 15:41:18 -0400"
-    },
-    {
-      "title": "US investors to take over TikTok operations in the country",
-      "link": "https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/",
-      "pubDate": "Fri, 26 Sep 2025 13:01:38 -0400"
     }
   ]
 }
