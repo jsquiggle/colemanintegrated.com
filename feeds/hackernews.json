@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-29T11:33:09Z",
+  "updated": "2025-09-29T12:21:09Z",
   "items": [
+    {
+      "title": "The State of AI in the SOC 2025 - Insights from Recent Study",
+      "link": "https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html",
+      "pubDate": "Mon, 29 Sep 2025 17:00:00 +0530"
+    },
     {
       "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security",
       "link": "https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html",
@@ -56,11 +61,6 @@
       "title": "Threatsday Bulletin: Rootkit Patch, Federal Breach, OnePlus SMS Leak, TikTok Scandal & More",
       "link": "https://thehackernews.com/2025/09/threatsday-bulletin-rootkit-patch.html",
       "pubDate": "Thu, 25 Sep 2025 22:54:00 +0530"
-    },
-    {
-      "title": "Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network",
-      "link": "https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html",
-      "pubDate": "Thu, 25 Sep 2025 22:52:00 +0530"
     }
   ]
 }
