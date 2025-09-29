@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-29T15:38:05Z",
+  "updated": "2025-09-29T16:11:10Z",
   "items": [
+    {
+      "title": "Brave launches 'Ask Brave' feature to fuse AI with traditional search",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-launches-ask-brave-feature-to-fuse-ai-with-traditional-search/",
+      "pubDate": "Mon, 29 Sep 2025 12:01:22 -0400"
+    },
     {
       "title": "Harrods suffers new data breach exposing 430,000 customer records",
       "link": "https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/",
@@ -56,11 +61,6 @@
       "title": "Microsoft shares temp fix for Outlook encrypted email errors",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/",
       "pubDate": "Fri, 26 Sep 2025 12:43:48 -0400"
-    },
-    {
-      "title": "Microsoft Edge to block malicious sideloaded extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/",
-      "pubDate": "Fri, 26 Sep 2025 11:39:15 -0400"
     }
   ]
 }
