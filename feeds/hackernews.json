@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-29T09:13:00Z",
+  "updated": "2025-09-29T09:39:34Z",
   "items": [
+    {
+      "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security",
+      "link": "https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html",
+      "pubDate": "Mon, 29 Sep 2025 14:22:00 +0530"
+    },
+    {
+      "title": "First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package",
+      "link": "https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html",
+      "pubDate": "Mon, 29 Sep 2025 14:06:00 +0530"
+    },
     {
       "title": "China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks",
       "link": "https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html",
@@ -51,16 +61,6 @@
       "title": "Vane Viper Generates 1 Trillion DNS Queries to Power Global Malware and Ad Fraud Network",
       "link": "https://thehackernews.com/2025/09/vane-viper-generates-1-trillion-dns.html",
       "pubDate": "Thu, 25 Sep 2025 22:52:00 +0530"
-    },
-    {
-      "title": "Salesforce Patches Critical ForcedLeak Bug Exposing CRM Data via AI Prompt Injection",
-      "link": "https://thehackernews.com/2025/09/salesforce-patches-critical-forcedleak.html",
-      "pubDate": "Thu, 25 Sep 2025 20:47:00 +0530"
-    },
-    {
-      "title": "North Korean Hackers Use New AkdoorTea Backdoor to Target Global Crypto Developers",
-      "link": "https://thehackernews.com/2025/09/north-korean-hackers-use-new-akdoortea.html",
-      "pubDate": "Thu, 25 Sep 2025 18:44:00 +0530"
     }
   ]
 }
