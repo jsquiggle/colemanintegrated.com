@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-29T00:50:30Z",
+  "updated": "2025-09-29T02:21:03Z",
   "items": [
     {
       "title": "Akira ransomware breaching MFA-protected SonicWall VPN accounts",
@@ -56,11 +56,6 @@
       "title": "Microsoft releases the final Windows 10 22H2 preview update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/",
       "pubDate": "Fri, 26 Sep 2025 09:32:07 -0400"
-    },
-    {
-      "title": "Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/",
-      "pubDate": "Thu, 25 Sep 2025 18:49:22 -0400"
     }
   ]
 }
