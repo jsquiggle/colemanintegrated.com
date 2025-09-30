@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T14:39:03Z",
+  "updated": "2025-09-30T15:09:53Z",
   "items": [
+    {
+      "title": "Chinese hackers exploiting VMware zero-day since October 2024",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/",
+      "pubDate": "Tue, 30 Sep 2025 10:54:44 -0400"
+    },
     {
       "title": "VMware Certification Is Surging in a Shifting IT Landscape",
       "link": "https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/",
@@ -56,11 +61,6 @@
       "title": "Harrods suffers new data breach exposing 430,000 customer records",
       "link": "https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/",
       "pubDate": "Mon, 29 Sep 2025 10:19:43 -0400"
-    },
-    {
-      "title": "Can We Trust AI To Write Vulnerability Checks? Here's What We Found",
-      "link": "https://www.bleepingcomputer.com/news/security/can-we-trust-ai-to-write-vulnerability-checks-heres-what-we-found/",
-      "pubDate": "Mon, 29 Sep 2025 10:01:11 -0400"
     }
   ]
 }
