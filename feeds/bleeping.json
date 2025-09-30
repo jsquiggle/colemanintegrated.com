@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T11:33:28Z",
+  "updated": "2025-09-30T12:21:15Z",
   "items": [
+    {
+      "title": "Broadcom fixes high-severity VMware NSX bugs reported by NSA",
+      "link": "https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/",
+      "pubDate": "Tue, 30 Sep 2025 08:10:13 -0400"
+    },
     {
       "title": "UK convicts \"Bitcoin Queen\" in world\u2019s largest cryptocurrency seizure",
       "link": "https://www.bleepingcomputer.com/news/security/uk-convicts-bitcoin-queen-in-worlds-largest-cryptocurrency-seizure/",
@@ -56,11 +61,6 @@
       "title": "EU probes SAP over anti-competitive ERP support practices",
       "link": "https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/",
       "pubDate": "Sun, 28 Sep 2025 10:23:46 -0400"
-    },
-    {
-      "title": "Fake Microsoft Teams installers push Oyster malware via malvertising",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/",
-      "pubDate": "Sat, 27 Sep 2025 15:49:22 -0400"
     }
   ]
 }
