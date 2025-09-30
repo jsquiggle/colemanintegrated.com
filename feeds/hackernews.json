@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-30T13:03:49Z",
+  "updated": "2025-09-30T13:43:47Z",
   "items": [
+    {
+      "title": "Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits",
+      "link": "https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html",
+      "pubDate": "Tue, 30 Sep 2025 18:48:00 +0530"
+    },
+    {
+      "title": "Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake",
+      "link": "https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html",
+      "pubDate": "Tue, 30 Sep 2025 18:30:00 +0530"
+    },
+    {
+      "title": "Stop Alert Chaos: Context Is the Key to Effective Incident Response",
+      "link": "https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html",
+      "pubDate": "Tue, 30 Sep 2025 17:00:00 +0530"
+    },
+    {
+      "title": "Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024",
+      "link": "https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html",
+      "pubDate": "Tue, 30 Sep 2025 16:27:00 +0530"
+    },
     {
       "title": "New Android Trojan \u201cDatzbro\u201d Tricking Elderly with AI-Generated Facebook Travel Events",
       "link": "https://thehackernews.com/2025/09/new-android-trojan-datzbro-tricking.html",
@@ -41,26 +61,6 @@
       "title": "Microsoft Flags AI-Driven Phishing: LLM-Crafted SVG Files Outsmart Email Security",
       "link": "https://thehackernews.com/2025/09/microsoft-flags-ai-driven-phishing-llm.html",
       "pubDate": "Mon, 29 Sep 2025 14:22:00 +0530"
-    },
-    {
-      "title": "First Malicious MCP Server Found Stealing Emails in Rogue Postmark-MCP Package",
-      "link": "https://thehackernews.com/2025/09/first-malicious-mcp-server-found.html",
-      "pubDate": "Mon, 29 Sep 2025 14:06:00 +0530"
-    },
-    {
-      "title": "China-Linked PlugX and Bookworm Malware Attacks Target Asian Telecom and ASEAN Networks",
-      "link": "https://thehackernews.com/2025/09/china-linked-plugx-and-bookworm-malware.html",
-      "pubDate": "Sat, 27 Sep 2025 17:36:00 +0530"
-    },
-    {
-      "title": "Researchers Expose Phishing Threats Distributing CountLoader and PureRAT",
-      "link": "https://thehackernews.com/2025/09/researchers-expose-svg-and-purerat.html",
-      "pubDate": "Fri, 26 Sep 2025 22:10:00 +0530"
-    },
-    {
-      "title": "New COLDRIVER Malware Campaign Joins BO Team and Bearlyfy in Russia-Focused Cyberattacks",
-      "link": "https://thehackernews.com/2025/09/new-coldriver-malware-campaign-joins-bo.html",
-      "pubDate": "Fri, 26 Sep 2025 18:15:00 +0530"
     }
   ]
 }
