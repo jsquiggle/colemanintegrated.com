@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-30T08:45:46Z",
+  "updated": "2025-09-30T09:11:27Z",
   "items": [
+    {
+      "title": "Evolving Enterprise Defense to Secure the Modern AI Supply Chain",
+      "link": "https://thehackernews.com/2025/09/evolving-enterprise-defense-to-secure.html",
+      "pubDate": "Tue, 30 Sep 2025 14:03:00 +0530"
+    },
+    {
+      "title": "U.K. Police Just Seized \u00a35.5 Billion in Bitcoin \u2014 The World\u2019s Largest Crypto Bust",
+      "link": "https://thehackernews.com/2025/09/uk-police-just-seized-55-billion-in.html",
+      "pubDate": "Tue, 30 Sep 2025 13:53:00 +0530"
+    },
     {
       "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems",
       "link": "https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html",
@@ -51,16 +61,6 @@
       "title": "Crash Tests for Security: Why BAS Is Proof of Defense, Not Assumptions",
       "link": "https://thehackernews.com/2025/09/crash-tests-for-security-why-bas-is.html",
       "pubDate": "Fri, 26 Sep 2025 16:52:00 +0530"
-    },
-    {
-      "title": "Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure",
-      "link": "https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html",
-      "pubDate": "Fri, 26 Sep 2025 14:52:00 +0530"
-    },
-    {
-      "title": "New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module",
-      "link": "https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html",
-      "pubDate": "Fri, 26 Sep 2025 14:39:00 +0530"
     }
   ]
 }
