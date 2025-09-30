@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-30T05:38:02Z",
+  "updated": "2025-09-30T06:16:45Z",
   "items": [
+    {
+      "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems",
+      "link": "https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html",
+      "pubDate": "Tue, 30 Sep 2025 11:11:00 +0530"
+    },
     {
       "title": "EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations",
       "link": "https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html",
@@ -56,11 +61,6 @@
       "title": "New macOS XCSSET Variant Targets Firefox with Clipper and Persistence Module",
       "link": "https://thehackernews.com/2025/09/new-macos-xcsset-variant-targets.html",
       "pubDate": "Fri, 26 Sep 2025 14:39:00 +0530"
-    },
-    {
-      "title": "Cisco ASA Firewall Zero-Day Exploits Deploy RayInitiator and LINE VIPER Malware",
-      "link": "https://thehackernews.com/2025/09/cisco-asa-firewall-zero-day-exploits.html",
-      "pubDate": "Fri, 26 Sep 2025 11:21:00 +0530"
     }
   ]
 }
