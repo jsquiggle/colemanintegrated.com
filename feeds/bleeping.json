@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T17:37:03Z",
+  "updated": "2025-09-30T18:14:48Z",
   "items": [
+    {
+      "title": "Windows 11 2025 Update (25H2) is now available, Here's what's new",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2025-update-25h2-is-now-available-heres-whats-new/",
+      "pubDate": "Tue, 30 Sep 2025 13:58:43 -0400"
+    },
     {
       "title": "Nearly 50,000 Cisco firewalls vulnerable to actively exploited flaws",
       "link": "https://www.bleepingcomputer.com/news/security/nearly-50-000-cisco-firewalls-vulnerable-to-actively-exploited-flaws/",
@@ -56,11 +61,6 @@
       "title": "Ransomware gang sought BBC reporter\u2019s help in hacking media giant",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/",
       "pubDate": "Mon, 29 Sep 2025 13:31:59 -0400"
-    },
-    {
-      "title": "UK govt backs JLR with \u00a31.5 billion loan guarantee after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-govt-backs-jlr-with-15-billion-loan-guarantee-after-cyberattack/",
-      "pubDate": "Mon, 29 Sep 2025 12:31:20 -0400"
     }
   ]
 }
