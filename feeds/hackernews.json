@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-09-30T19:08:03Z",
+  "updated": "2025-09-30T19:32:30Z",
   "items": [
+    {
+      "title": "$50 Battering RAM Attack Breaks Intel and AMD Cloud Security Protections",
+      "link": "https://thehackernews.com/2025/10/50-battering-ram-attack-breaks-intel.html",
+      "pubDate": "Wed, 01 Oct 2025 00:12:00 +0530"
+    },
     {
       "title": "Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware",
       "link": "https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Cisco 0-Day, Record DDoS, LockBit 5.0, BMC Bugs, ShadowV2 Botnet & More",
       "link": "https://thehackernews.com/2025/09/weekly-recap-cisco-0-day-record-ddos.html",
       "pubDate": "Mon, 29 Sep 2025 18:06:00 +0530"
-    },
-    {
-      "title": "The State of AI in the SOC 2025 - Insights from Recent Study",
-      "link": "https://thehackernews.com/2025/09/the-state-of-ai-in-soc-2025-insights.html",
-      "pubDate": "Mon, 29 Sep 2025 17:00:00 +0530"
     }
   ]
 }
