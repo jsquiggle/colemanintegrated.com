@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T16:42:51Z",
+  "updated": "2025-09-30T17:09:24Z",
   "items": [
+    {
+      "title": "Nearly 50,000 Cisco firewalls vulnerable to actively exploited flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-50-000-cisco-firewalls-vulnerable-to-actively-exploited-flaws/",
+      "pubDate": "Tue, 30 Sep 2025 12:58:08 -0400"
+    },
+    {
+      "title": "Critical WD My Cloud bug allows remote command injection",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wd-my-cloud-bug-allows-remote-command-injection/",
+      "pubDate": "Tue, 30 Sep 2025 11:07:23 -0400"
+    },
     {
       "title": "Chinese hackers exploiting VMware zero-day since October 2024",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/",
@@ -51,16 +61,6 @@
       "title": "UK govt backs JLR with \u00a31.5 billion loan guarantee after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/uk-govt-backs-jlr-with-15-billion-loan-guarantee-after-cyberattack/",
       "pubDate": "Mon, 29 Sep 2025 12:31:20 -0400"
-    },
-    {
-      "title": "Brave launches 'Ask Brave' feature to fuse AI with traditional search",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-launches-ask-brave-feature-to-fuse-ai-with-traditional-search/",
-      "pubDate": "Mon, 29 Sep 2025 12:01:22 -0400"
-    },
-    {
-      "title": "Harrods suffers new data breach exposing 430,000 customer records",
-      "link": "https://www.bleepingcomputer.com/news/security/harrods-suffers-new-data-breach-exposing-430-000-customer-records/",
-      "pubDate": "Mon, 29 Sep 2025 10:19:43 -0400"
     }
   ]
 }
