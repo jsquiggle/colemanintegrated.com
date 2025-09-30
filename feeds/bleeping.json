@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T12:21:15Z",
+  "updated": "2025-09-30T13:03:49Z",
   "items": [
+    {
+      "title": "Windows 11 KB5065789 update released with 41 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065789-update-released-with-41-changes-and-fixes/",
+      "pubDate": "Tue, 30 Sep 2025 08:50:47 -0400"
+    },
     {
       "title": "Broadcom fixes high-severity VMware NSX bugs reported by NSA",
       "link": "https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/",
@@ -56,11 +61,6 @@
       "title": "Akira ransomware breaching MFA-protected SonicWall VPN accounts",
       "link": "https://www.bleepingcomputer.com/news/security/akira-ransomware-breaching-mfa-protected-sonicwall-vpn-accounts/",
       "pubDate": "Sun, 28 Sep 2025 14:49:30 -0400"
-    },
-    {
-      "title": "EU probes SAP over anti-competitive ERP support practices",
-      "link": "https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/",
-      "pubDate": "Sun, 28 Sep 2025 10:23:46 -0400"
     }
   ]
 }
