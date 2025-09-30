@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T21:09:12Z",
+  "updated": "2025-09-30T21:33:01Z",
   "items": [
+    {
+      "title": "Imgur blocks UK users after data watchdog signals possible fine",
+      "link": "https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/",
+      "pubDate": "Tue, 30 Sep 2025 17:24:08 -0400"
+    },
     {
       "title": "Sendit sued by the FTC for illegal collection of children data",
       "link": "https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5065789 update released with 41 changes and fixes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065789-update-released-with-41-changes-and-fixes/",
       "pubDate": "Tue, 30 Sep 2025 08:50:47 -0400"
-    },
-    {
-      "title": "Broadcom fixes high-severity VMware NSX bugs reported by NSA",
-      "link": "https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/",
-      "pubDate": "Tue, 30 Sep 2025 08:10:13 -0400"
     }
   ]
 }
