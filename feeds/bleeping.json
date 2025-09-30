@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-09-30T13:43:47Z",
+  "updated": "2025-09-30T14:11:32Z",
   "items": [
+    {
+      "title": "VMware Certification Is Surging in a Shifting IT Landscape",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/",
+      "pubDate": "Tue, 30 Sep 2025 10:01:11 -0400"
+    },
+    {
+      "title": "Microsoft fixes Windows DRM video playback issues for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/",
+      "pubDate": "Tue, 30 Sep 2025 09:47:45 -0400"
+    },
     {
       "title": "CISA warns of critical Linux Sudo flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "Can We Trust AI To Write Vulnerability Checks? Here's What We Found",
       "link": "https://www.bleepingcomputer.com/news/security/can-we-trust-ai-to-write-vulnerability-checks-heres-what-we-found/",
       "pubDate": "Mon, 29 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "ChatGPT tests free trial for paid plans, rolls out cheaper Go in more regions",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-free-trial-for-paid-plans-rolls-out-cheaper-go-in-more-regions/",
-      "pubDate": "Mon, 29 Sep 2025 09:00:00 -0400"
-    },
-    {
-      "title": "OpenAI is routing GPT-4o to safety models when it detects harmful activities",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-routing-gpt-4o-to-safety-models-when-it-detects-harmful-activities/",
-      "pubDate": "Mon, 29 Sep 2025 08:04:25 -0400"
     }
   ]
 }
