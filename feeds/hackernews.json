@@ -1,9 +1,14 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-01T13:44:22Z",
+  "updated": "2025-10-01T14:11:14Z",
   "items": [
     {
-      "title": "How Leading Security Teams Blend AI + Human Workflows (Free Webinar)",
+      "title": "OneLogin Bug Let Attackers Use API Keys to Steal OIDC Secrets and Impersonate Apps",
+      "link": "https://thehackernews.com/2025/10/onelogin-bug-let-attackers-use-api-keys.html",
+      "pubDate": "Wed, 01 Oct 2025 18:57:00 +0530"
+    },
+    {
+      "title": "Learn How Leading Security Teams Blend AI + Human Workflows (Free Webinar)",
       "link": "https://thehackernews.com/2025/10/how-leading-security-teams-blend-ai.html",
       "pubDate": "Wed, 01 Oct 2025 18:15:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Stop Alert Chaos: Context Is the Key to Effective Incident Response",
       "link": "https://thehackernews.com/2025/09/stop-alert-chaos-context-is-key-to.html",
       "pubDate": "Tue, 30 Sep 2025 17:00:00 +0530"
-    },
-    {
-      "title": "Urgent: China-Linked Hackers Exploit New VMware Zero-Day Since October 2024",
-      "link": "https://thehackernews.com/2025/09/urgent-china-linked-hackers-exploit-new.html",
-      "pubDate": "Tue, 30 Sep 2025 16:27:00 +0530"
     }
   ]
 }
