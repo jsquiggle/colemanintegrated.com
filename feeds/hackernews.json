@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-01T09:12:26Z",
+  "updated": "2025-10-01T09:38:26Z",
   "items": [
+    {
+      "title": "New Android Banking Trojan \u201cKlopatra\u201d Uses Hidden VNC to Control Infected Smartphones",
+      "link": "https://thehackernews.com/2025/10/new-android-banking-trojan-klopatra.html",
+      "pubDate": "Wed, 01 Oct 2025 14:55:00 +0530"
+    },
     {
       "title": "Ukraine Warns of CABINETRAT Backdoor + XLL Add-ins Spread via Signal ZIPs",
       "link": "https://thehackernews.com/2025/10/ukraine-warns-of-cabinetrat-backdoor.html",
@@ -56,11 +61,6 @@
       "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems",
       "link": "https://thehackernews.com/2025/09/cisa-sounds-alarm-on-critical-sudo-flaw.html",
       "pubDate": "Tue, 30 Sep 2025 11:11:00 +0530"
-    },
-    {
-      "title": "EvilAI Malware Masquerades as AI Tools to Infiltrate Global Organizations",
-      "link": "https://thehackernews.com/2025/09/evilai-malware-masquerades-as-ai-tools.html",
-      "pubDate": "Mon, 29 Sep 2025 22:06:00 +0530"
     }
   ]
 }
