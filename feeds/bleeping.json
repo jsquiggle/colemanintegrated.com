@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-01T16:43:03Z",
+  "updated": "2025-10-01T17:09:39Z",
   "items": [
+    {
+      "title": "Microsoft to force install Microsoft 365 companion apps in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/",
+      "pubDate": "Wed, 01 Oct 2025 13:01:58 -0400"
+    },
     {
       "title": "WestJet data breach exposes travel details of 1.2 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/",
@@ -56,11 +61,6 @@
       "title": "Critical WD My Cloud bug allows remote command injection",
       "link": "https://www.bleepingcomputer.com/news/security/critical-wd-my-cloud-bug-allows-remote-command-injection/",
       "pubDate": "Tue, 30 Sep 2025 11:07:23 -0400"
-    },
-    {
-      "title": "Chinese hackers exploiting VMware zero-day since October 2024",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/",
-      "pubDate": "Tue, 30 Sep 2025 10:54:44 -0400"
     }
   ]
 }
