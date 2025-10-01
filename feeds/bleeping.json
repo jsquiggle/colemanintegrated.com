@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-01T19:32:38Z",
+  "updated": "2025-10-01T20:11:57Z",
   "items": [
+    {
+      "title": "Adobe Analytics bug leaked customer tracking data to other tenants",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/",
+      "pubDate": "Wed, 01 Oct 2025 15:58:04 -0400"
+    },
     {
       "title": "New bug in classic Outlook can only be fixed via Microsoft support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/",
@@ -56,11 +61,6 @@
       "title": "Sendit sued by the FTC for illegal collection of children data",
       "link": "https://www.bleepingcomputer.com/news/legal/sendit-sued-by-the-ftc-for-illegal-collection-of-children-data/",
       "pubDate": "Tue, 30 Sep 2025 15:57:34 -0400"
-    },
-    {
-      "title": "New MatrixPDF toolkit turns PDFs into phishing and malware lures",
-      "link": "https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/",
-      "pubDate": "Tue, 30 Sep 2025 14:57:53 -0400"
     }
   ]
 }
