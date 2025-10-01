@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-01T14:41:37Z",
+  "updated": "2025-10-01T15:10:58Z",
   "items": [
+    {
+      "title": "Google Drive for desktop gets AI-powered ransomware detection",
+      "link": "https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/",
+      "pubDate": "Wed, 01 Oct 2025 11:10:45 -0400"
+    },
+    {
+      "title": "Allianz Life says July data breach impacts 1.5 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/",
+      "pubDate": "Wed, 01 Oct 2025 10:56:24 -0400"
+    },
+    {
+      "title": "How To Simplify CISA's Zero Trust Roadmap with Modern Microsegmentation",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-simplify-cisas-zero-trust-roadmap-with-modern-microsegmentation/",
+      "pubDate": "Wed, 01 Oct 2025 10:02:12 -0400"
+    },
     {
       "title": "Microsoft: Media Creation Tool broken on Windows 11 Arm64 PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/",
@@ -46,21 +61,6 @@
       "title": "Chinese hackers exploiting VMware zero-day since October 2024",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/",
       "pubDate": "Tue, 30 Sep 2025 10:54:44 -0400"
-    },
-    {
-      "title": "VMware Certification Is Surging in a Shifting IT Landscape",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/",
-      "pubDate": "Tue, 30 Sep 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft fixes Windows DRM video playback issues for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/",
-      "pubDate": "Tue, 30 Sep 2025 09:47:45 -0400"
-    },
-    {
-      "title": "CISA warns of critical Linux Sudo flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/",
-      "pubDate": "Tue, 30 Sep 2025 09:42:53 -0400"
     }
   ]
 }
