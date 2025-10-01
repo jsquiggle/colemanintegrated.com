@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-01T18:15:06Z",
+  "updated": "2025-10-01T18:45:10Z",
   "items": [
+    {
+      "title": "New bug in classic Outlook can only be fixed via Microsoft support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/",
+      "pubDate": "Wed, 01 Oct 2025 14:43:41 -0400"
+    },
+    {
+      "title": "Android malware uses VNC to give attackers hands-on access",
+      "link": "https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/",
+      "pubDate": "Wed, 01 Oct 2025 14:33:55 -0400"
+    },
     {
       "title": "F-Droid project threatened by Google's new dev registration rules",
       "link": "https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/",
@@ -51,16 +61,6 @@
       "title": "New MatrixPDF toolkit turns PDFs into phishing and malware lures",
       "link": "https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/",
       "pubDate": "Tue, 30 Sep 2025 14:57:53 -0400"
-    },
-    {
-      "title": "Windows 11 2025 Update (25H2) is now available, Here's what's new",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2025-update-25h2-is-now-available-heres-whats-new/",
-      "pubDate": "Tue, 30 Sep 2025 13:58:43 -0400"
-    },
-    {
-      "title": "Nearly 50,000 Cisco firewalls vulnerable to actively exploited flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-50-000-cisco-firewalls-vulnerable-to-actively-exploited-flaws/",
-      "pubDate": "Tue, 30 Sep 2025 12:58:08 -0400"
     }
   ]
 }
