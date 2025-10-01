@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-01T16:13:12Z",
+  "updated": "2025-10-01T16:43:03Z",
   "items": [
+    {
+      "title": "WestJet data breach exposes travel details of 1.2 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/",
+      "pubDate": "Wed, 01 Oct 2025 12:27:32 -0400"
+    },
     {
       "title": "Google Drive for desktop gets AI-powered ransomware detection",
       "link": "https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/",
@@ -36,11 +41,6 @@
       "title": "New MatrixPDF toolkit turns PDFs into phishing and malware lures",
       "link": "https://www.bleepingcomputer.com/news/security/new-matrixpdf-toolkit-turns-pdfs-into-phishing-and-malware-lures/",
       "pubDate": "Tue, 30 Sep 2025 14:57:53 -0400"
-    },
-    {
-      "title": "WestJet confirms recent breach exposed customers' passports",
-      "link": "https://www.bleepingcomputer.com/news/security/westjet-confirms-recent-breach-exposed-customers-passports/",
-      "pubDate": "Tue, 30 Sep 2025 14:40:11 -0400"
     },
     {
       "title": "Windows 11 2025 Update (25H2) is now available, Here's what's new",
