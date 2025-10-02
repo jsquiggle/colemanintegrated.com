@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T17:33:57Z",
+  "updated": "2025-10-02T18:15:00Z",
   "items": [
+    {
+      "title": "Microsoft Outlook stops displaying inline SVG images used in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/",
+      "pubDate": "Thu, 02 Oct 2025 14:13:37 -0400"
+    },
+    {
+      "title": "DrayTek warns of remote code execution bug in Vigor routers",
+      "link": "https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/",
+      "pubDate": "Thu, 02 Oct 2025 13:37:46 -0400"
+    },
     {
       "title": "HackerOne paid $81 million in bug bounties over the past year",
       "link": "https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/",
@@ -51,16 +61,6 @@
       "title": "New bug in classic Outlook can only be fixed via Microsoft support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/",
       "pubDate": "Wed, 01 Oct 2025 14:43:41 -0400"
-    },
-    {
-      "title": "Android malware uses VNC to give attackers hands-on access",
-      "link": "https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/",
-      "pubDate": "Wed, 01 Oct 2025 14:33:55 -0400"
-    },
-    {
-      "title": "F-Droid project threatened by Google's new dev registration rules",
-      "link": "https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/",
-      "pubDate": "Wed, 01 Oct 2025 13:12:58 -0400"
     }
   ]
 }
