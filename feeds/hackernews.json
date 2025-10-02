@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-02T09:35:53Z",
+  "updated": "2025-10-02T10:10:21Z",
   "items": [
+    {
+      "title": "Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro",
+      "link": "https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html",
+      "pubDate": "Thu, 02 Oct 2025 14:54:00 +0530"
+    },
     {
       "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
       "link": "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits",
       "link": "https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html",
       "pubDate": "Tue, 30 Sep 2025 18:48:00 +0530"
-    },
-    {
-      "title": "Microsoft Expands Sentinel Into Agentic Security Platform With Unified Data Lake",
-      "link": "https://thehackernews.com/2025/09/microsoft-expands-sentinel-into-agentic.html",
-      "pubDate": "Tue, 30 Sep 2025 18:30:00 +0530"
     }
   ]
 }
