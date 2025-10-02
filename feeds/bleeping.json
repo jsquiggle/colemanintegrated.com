@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T15:10:51Z",
+  "updated": "2025-10-02T15:38:10Z",
   "items": [
+    {
+      "title": "HackerOne paid $81 million in bug bounties over the past year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/",
+      "pubDate": "Thu, 02 Oct 2025 11:35:44 -0400"
+    },
     {
       "title": "Brave browser surpasses the 100 million active monthly users mark",
       "link": "https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/",
@@ -56,11 +61,6 @@
       "title": "F-Droid project threatened by Google's new dev registration rules",
       "link": "https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/",
       "pubDate": "Wed, 01 Oct 2025 13:12:58 -0400"
-    },
-    {
-      "title": "Microsoft to force install Microsoft 365 companion apps in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/",
-      "pubDate": "Wed, 01 Oct 2025 13:01:58 -0400"
     }
   ]
 }
