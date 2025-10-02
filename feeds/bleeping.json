@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T14:39:08Z",
+  "updated": "2025-10-02T15:10:51Z",
   "items": [
+    {
+      "title": "Brave browser surpasses the 100 million active monthly users mark",
+      "link": "https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/",
+      "pubDate": "Thu, 02 Oct 2025 11:07:56 -0400"
+    },
     {
       "title": "Microsoft Defender bug triggers erroneous BIOS update alerts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to force install Microsoft 365 companion apps in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/",
       "pubDate": "Wed, 01 Oct 2025 13:01:58 -0400"
-    },
-    {
-      "title": "WestJet data breach exposes travel details of 1.2 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/",
-      "pubDate": "Wed, 01 Oct 2025 12:27:32 -0400"
     }
   ]
 }
