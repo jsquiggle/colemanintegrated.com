@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-02T07:32:48Z",
+  "updated": "2025-10-02T08:13:51Z",
   "items": [
     {
       "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
@@ -23,13 +23,13 @@
       "pubDate": "Wed, 01 Oct 2025 18:06:00 +0530"
     },
     {
-      "title": "2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising",
-      "link": "https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html",
+      "title": "Hackers Exploit Milesight Routers to Send Phishing SMS to European Users",
+      "link": "https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html",
       "pubDate": "Wed, 01 Oct 2025 16:37:00 +0530"
     },
     {
-      "title": "Hackers Exploit Milesight Routers to Send Phishing SMS to European Users",
-      "link": "https://thehackernews.com/2025/10/hackers-exploit-milesight-routers-to.html",
+      "title": "2025 Cybersecurity Reality Check: Breaches Hidden, Attack Surfaces Growing, and AI Misperceptions Rising",
+      "link": "https://thehackernews.com/2025/10/2025-cybersecurity-reality-check.html",
       "pubDate": "Wed, 01 Oct 2025 16:37:00 +0530"
     },
     {
