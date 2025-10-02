@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T10:38:20Z",
+  "updated": "2025-10-02T11:08:32Z",
   "items": [
+    {
+      "title": "Android spyware campaigns impersonate Signal and ToTok messengers",
+      "link": "https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/",
+      "pubDate": "Thu, 02 Oct 2025 06:53:18 -0400"
+    },
+    {
+      "title": "Red Hat confirms security incident after hackers claim GitHub breach",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
+      "pubDate": "Thu, 02 Oct 2025 02:15:17 -0400"
+    },
     {
       "title": "Clop extortion emails claim theft of Oracle E-Business Suite data",
       "link": "https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/",
@@ -51,16 +61,6 @@
       "title": "Allianz Life says July data breach impacts 1.5 million people",
       "link": "https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/",
       "pubDate": "Wed, 01 Oct 2025 10:56:24 -0400"
-    },
-    {
-      "title": "How To Simplify CISA's Zero Trust Roadmap with Modern Microsegmentation",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-simplify-cisas-zero-trust-roadmap-with-modern-microsegmentation/",
-      "pubDate": "Wed, 01 Oct 2025 10:02:12 -0400"
-    },
-    {
-      "title": "Microsoft: Media Creation Tool broken on Windows 11 Arm64 PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/",
-      "pubDate": "Wed, 01 Oct 2025 10:00:00 -0400"
     }
   ]
 }

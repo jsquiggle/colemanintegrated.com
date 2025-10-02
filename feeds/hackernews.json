@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-02T10:38:20Z",
+  "updated": "2025-10-02T11:08:32Z",
   "items": [
+    {
+      "title": "How to Close Threat Detection Gaps: Your SOC's Action Plan",
+      "link": "https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html",
+      "pubDate": "Thu, 02 Oct 2025 16:30:00 +0530"
+    },
     {
       "title": "Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro",
       "link": "https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html",
@@ -56,11 +61,6 @@
       "title": "Phantom Taurus: New China-Linked Hacker Group Hits Governments With Stealth Malware",
       "link": "https://thehackernews.com/2025/09/phantom-taurus-new-china-linked-hacker.html",
       "pubDate": "Tue, 30 Sep 2025 21:37:00 +0530"
-    },
-    {
-      "title": "Researchers Disclose Google Gemini AI Flaws Allowing Prompt Injection and Cloud Exploits",
-      "link": "https://thehackernews.com/2025/09/researchers-disclose-google-gemini-ai.html",
-      "pubDate": "Tue, 30 Sep 2025 18:48:00 +0530"
     }
   ]
 }
