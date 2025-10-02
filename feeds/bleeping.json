@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T03:08:11Z",
+  "updated": "2025-10-02T03:43:23Z",
   "items": [
+    {
+      "title": "Clop extortion emails claim theft of Oracle E-Business Suite data",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/",
+      "pubDate": "Wed, 01 Oct 2025 23:13:58 -0400"
+    },
     {
       "title": "Data breach at dealership software provider impacts 766k clients",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Media Creation Tool broken on Windows 11 Arm64 PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-media-creation-tool-broken-on-windows-11-arm64-pcs/",
       "pubDate": "Wed, 01 Oct 2025 10:00:00 -0400"
-    },
-    {
-      "title": "Imgur blocks UK users after data watchdog signals possible fine",
-      "link": "https://www.bleepingcomputer.com/news/technology/imgur-blocks-uk-users-after-data-watchdog-signals-possible-fine/",
-      "pubDate": "Tue, 30 Sep 2025 17:24:08 -0400"
     }
   ]
 }
