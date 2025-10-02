@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T14:10:47Z",
+  "updated": "2025-10-02T14:39:08Z",
   "items": [
+    {
+      "title": "Microsoft Defender bug triggers erroneous BIOS update alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/",
+      "pubDate": "Thu, 02 Oct 2025 10:20:12 -0400"
+    },
+    {
+      "title": "Your Service Desk is the New Attack Vector\u2014Here's How to Defend It.",
+      "link": "https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/",
+      "pubDate": "Thu, 02 Oct 2025 10:00:10 -0400"
+    },
     {
       "title": "Android spyware campaigns impersonate Signal and ToTok messengers",
       "link": "https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/",
@@ -51,16 +61,6 @@
       "title": "WestJet data breach exposes travel details of 1.2 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/",
       "pubDate": "Wed, 01 Oct 2025 12:27:32 -0400"
-    },
-    {
-      "title": "Google Drive for desktop gets AI-powered ransomware detection",
-      "link": "https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/",
-      "pubDate": "Wed, 01 Oct 2025 11:10:45 -0400"
-    },
-    {
-      "title": "Allianz Life says July data breach impacts 1.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/",
-      "pubDate": "Wed, 01 Oct 2025 10:56:24 -0400"
     }
   ]
 }
