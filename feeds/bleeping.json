@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-02T16:42:40Z",
+  "updated": "2025-10-02T17:08:01Z",
   "items": [
     {
       "title": "HackerOne paid $81 million in bug bounties over the past year",
@@ -28,8 +28,8 @@
       "pubDate": "Thu, 02 Oct 2025 06:53:18 -0400"
     },
     {
-      "title": "Red Hat confirms security incident after hackers claim GitHub breach",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
+      "title": "Red Hat confirms security incident after hackers breach GitLab instance",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/",
       "pubDate": "Thu, 02 Oct 2025 02:15:17 -0400"
     },
     {
