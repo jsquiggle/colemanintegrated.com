@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-03T16:12:07Z",
+  "updated": "2025-10-03T16:41:22Z",
   "items": [
+    {
+      "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
+      "link": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
+      "pubDate": "Fri, 03 Oct 2025 21:28:00 +0530"
+    },
     {
       "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
       "link": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
@@ -56,11 +61,6 @@
       "title": "Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro",
       "link": "https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html",
       "pubDate": "Thu, 02 Oct 2025 14:54:00 +0530"
-    },
-    {
-      "title": "New WireTap Attack Extracts Intel SGX ECDSA Key via DDR4 Memory-Bus Interposer",
-      "link": "https://thehackernews.com/2025/10/new-wiretap-attack-extracts-intel-sgx.html",
-      "pubDate": "Wed, 01 Oct 2025 22:50:00 +0530"
     }
   ]
 }
