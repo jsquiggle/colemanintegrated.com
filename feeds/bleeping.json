@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-03T11:32:36Z",
+  "updated": "2025-10-03T12:19:40Z",
   "items": [
+    {
+      "title": "Oracle links Clop extortion attacks to July 2025 vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/",
+      "pubDate": "Fri, 03 Oct 2025 08:14:29 -0400"
+    },
     {
       "title": "Gmail business users can now send encrypted emails to anyone",
       "link": "https://www.bleepingcomputer.com/news/google/gmail-business-users-can-now-send-encrypted-emails-to-anyone/",
@@ -56,11 +61,6 @@
       "title": "Data breach at dealership software provider impacts 766k clients",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/",
       "pubDate": "Wed, 01 Oct 2025 16:37:08 -0400"
-    },
-    {
-      "title": "Adobe Analytics bug leaked customer tracking data to other tenants",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/",
-      "pubDate": "Wed, 01 Oct 2025 15:58:04 -0400"
     }
   ]
 }
