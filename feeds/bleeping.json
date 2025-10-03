@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-03T14:10:26Z",
+  "updated": "2025-10-03T14:38:43Z",
   "items": [
+    {
+      "title": "ShinyHunters launches Salesforce data leak site to extort 39 victims",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/",
+      "pubDate": "Fri, 03 Oct 2025 10:16:16 -0400"
+    },
     {
       "title": "CommetJacking attack tricks Comet browser into stealing emails",
       "link": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/",
@@ -56,11 +61,6 @@
       "title": "Android spyware campaigns impersonate Signal and ToTok messengers",
       "link": "https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/",
       "pubDate": "Thu, 02 Oct 2025 06:53:18 -0400"
-    },
-    {
-      "title": "Red Hat confirms security incident after hackers breach GitLab instance",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/",
-      "pubDate": "Thu, 02 Oct 2025 02:15:17 -0400"
     }
   ]
 }
