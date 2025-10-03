@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-03T15:35:04Z",
+  "updated": "2025-10-03T16:12:07Z",
   "items": [
+    {
+      "title": "Renault and Dacia UK warn of data breach impacting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/",
+      "pubDate": "Fri, 03 Oct 2025 11:52:08 -0400"
+    },
     {
       "title": "Japanese beer giant Asahi confirms ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Defender bug triggers erroneous BIOS update alerts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/",
       "pubDate": "Thu, 02 Oct 2025 10:20:12 -0400"
-    },
-    {
-      "title": "Your Service Desk is the New Attack Vector\u2014Here's How to Defend It.",
-      "link": "https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/",
-      "pubDate": "Thu, 02 Oct 2025 10:00:10 -0400"
     }
   ]
 }
