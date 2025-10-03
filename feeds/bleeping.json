@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-03T11:08:45Z",
+  "updated": "2025-10-03T11:32:36Z",
   "items": [
+    {
+      "title": "Gmail business users can now send encrypted emails to anyone",
+      "link": "https://www.bleepingcomputer.com/news/google/gmail-business-users-can-now-send-encrypted-emails-to-anyone/",
+      "pubDate": "Fri, 03 Oct 2025 07:18:11 -0400"
+    },
     {
       "title": "Microsoft Outlook stops displaying inline SVG images used in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Adobe Analytics bug leaked customer tracking data to other tenants",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/",
       "pubDate": "Wed, 01 Oct 2025 15:58:04 -0400"
-    },
-    {
-      "title": "New bug in classic Outlook can only be fixed via Microsoft support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/",
-      "pubDate": "Wed, 01 Oct 2025 14:43:41 -0400"
     }
   ]
 }
