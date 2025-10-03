@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-03T18:14:39Z",
+  "updated": "2025-10-03T18:43:44Z",
   "items": [
+    {
+      "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
+      "link": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
+      "pubDate": "Fri, 03 Oct 2025 23:41:00 +0530"
+    },
     {
       "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
       "link": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
@@ -56,11 +61,6 @@
       "title": "How to Close Threat Detection Gaps: Your SOC's Action Plan",
       "link": "https://thehackernews.com/2025/10/how-to-close-threat-detection-gaps-your.html",
       "pubDate": "Thu, 02 Oct 2025 16:30:00 +0530"
-    },
-    {
-      "title": "Warning: Beware of Android Spyware Disguised as Signal Encryption Plugin and ToTok Pro",
-      "link": "https://thehackernews.com/2025/10/warning-beware-of-android-spyware.html",
-      "pubDate": "Thu, 02 Oct 2025 14:54:00 +0530"
     }
   ]
 }
