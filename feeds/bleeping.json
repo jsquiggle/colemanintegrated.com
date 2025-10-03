@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-03T13:40:15Z",
+  "updated": "2025-10-03T14:10:26Z",
   "items": [
+    {
+      "title": "CommetJacking attack tricks Comet browser into stealing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/",
+      "pubDate": "Fri, 03 Oct 2025 10:01:32 -0400"
+    },
+    {
+      "title": "Presenting AI to the Board as a CISO? Here\u2019s a Template.",
+      "link": "https://www.bleepingcomputer.com/news/security/presenting-ai-to-the-board-as-a-ciso-heres-a-template/",
+      "pubDate": "Fri, 03 Oct 2025 09:50:59 -0400"
+    },
     {
       "title": "Oracle links Clop extortion attacks to July 2025 vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/",
@@ -51,16 +61,6 @@
       "title": "Red Hat confirms security incident after hackers breach GitLab instance",
       "link": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-breach-gitlab-instance/",
       "pubDate": "Thu, 02 Oct 2025 02:15:17 -0400"
-    },
-    {
-      "title": "Clop extortion emails claim theft of Oracle E-Business Suite data",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/",
-      "pubDate": "Wed, 01 Oct 2025 23:13:58 -0400"
-    },
-    {
-      "title": "Data breach at dealership software provider impacts 766k clients",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/",
-      "pubDate": "Wed, 01 Oct 2025 16:37:08 -0400"
     }
   ]
 }
