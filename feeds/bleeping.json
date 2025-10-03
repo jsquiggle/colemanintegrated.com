@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-03T17:08:51Z",
+  "updated": "2025-10-03T17:34:45Z",
   "items": [
+    {
+      "title": "Signal adds new cryptographic defense against quantum attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/",
+      "pubDate": "Fri, 03 Oct 2025 13:15:44 -0400"
+    },
     {
       "title": "Renault and Dacia UK warn of data breach impacting customers",
       "link": "https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/",
@@ -56,11 +61,6 @@
       "title": "Brave browser surpasses the 100 million active monthly users mark",
       "link": "https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/",
       "pubDate": "Thu, 02 Oct 2025 11:07:56 -0400"
-    },
-    {
-      "title": "Microsoft Defender bug triggers erroneous BIOS update alerts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/",
-      "pubDate": "Thu, 02 Oct 2025 10:20:12 -0400"
     }
   ]
 }
