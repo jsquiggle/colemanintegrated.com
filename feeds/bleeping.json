@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-04T17:07:42Z",
+  "updated": "2025-10-04T17:32:38Z",
   "items": [
+    {
+      "title": "OpenAI wants ChatGPT to be your emotional support",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/",
+      "pubDate": "Sat, 04 Oct 2025 12:30:00 -0400"
+    },
     {
       "title": "OpenAI prepares $4 ChatGPT Go for several new countries",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/",
@@ -56,11 +61,6 @@
       "title": "Oracle links Clop extortion attacks to July 2025 vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/",
       "pubDate": "Fri, 03 Oct 2025 08:14:29 -0400"
-    },
-    {
-      "title": "Gmail business users can now send encrypted emails to anyone",
-      "link": "https://www.bleepingcomputer.com/news/google/gmail-business-users-can-now-send-encrypted-emails-to-anyone/",
-      "pubDate": "Fri, 03 Oct 2025 07:18:11 -0400"
     }
   ]
 }
