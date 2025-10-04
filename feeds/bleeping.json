@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-04T15:08:23Z",
+  "updated": "2025-10-04T15:32:29Z",
   "items": [
+    {
+      "title": "Massive surge in scans targeting Palo Alto Networks login portals",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/",
+      "pubDate": "Sat, 04 Oct 2025 10:18:29 -0400"
+    },
     {
       "title": "Hackers steal identifiable Discord user data in third-party breach",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-identifiable-discord-user-data-in-third-party-breach/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Outlook stops displaying inline SVG images used in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/",
       "pubDate": "Thu, 02 Oct 2025 14:13:37 -0400"
-    },
-    {
-      "title": "DrayTek warns of remote code execution bug in Vigor routers",
-      "link": "https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/",
-      "pubDate": "Thu, 02 Oct 2025 13:37:46 -0400"
     }
   ]
 }
