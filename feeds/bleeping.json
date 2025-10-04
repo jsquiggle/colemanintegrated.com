@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-04T20:33:37Z",
+  "updated": "2025-10-04T21:08:15Z",
   "items": [
+    {
+      "title": "Leaked Apple iPad Pro M5 benchmark shows it's faster than some laptop CPUs",
+      "link": "https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-its-faster-than-some-laptop-cpus/",
+      "pubDate": "Sat, 04 Oct 2025 16:35:48 -0400"
+    },
     {
       "title": "ChatGPT social could be a thing, as leak shows direct messages support",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/",
@@ -28,8 +33,8 @@
       "pubDate": "Sat, 04 Oct 2025 10:18:29 -0400"
     },
     {
-      "title": "Hackers steal identifiable Discord user data in third-party breach",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-identifiable-discord-user-data-in-third-party-breach/",
+      "title": "Discord discloses data breach after hackers steal support tickets",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-hackers-steal-support-tickets/",
       "pubDate": "Sat, 04 Oct 2025 07:16:33 -0400"
     },
     {
@@ -56,11 +61,6 @@
       "title": "ShinyHunters launches Salesforce data leak site to extort 39 victims",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/",
       "pubDate": "Fri, 03 Oct 2025 10:16:16 -0400"
-    },
-    {
-      "title": "CommetJacking attack tricks Comet browser into stealing emails",
-      "link": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/",
-      "pubDate": "Fri, 03 Oct 2025 10:01:32 -0400"
     }
   ]
 }
