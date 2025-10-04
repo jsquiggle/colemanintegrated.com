@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-04T15:32:29Z",
+  "updated": "2025-10-04T16:10:54Z",
   "items": [
+    {
+      "title": "OpenAI prepares $4 ChatGPT Go for several new countries",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/",
+      "pubDate": "Sat, 04 Oct 2025 11:42:39 -0400"
+    },
     {
       "title": "Massive surge in scans targeting Palo Alto Networks login portals",
       "link": "https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/",
@@ -56,11 +61,6 @@
       "title": "Gmail business users can now send encrypted emails to anyone",
       "link": "https://www.bleepingcomputer.com/news/google/gmail-business-users-can-now-send-encrypted-emails-to-anyone/",
       "pubDate": "Fri, 03 Oct 2025 07:18:11 -0400"
-    },
-    {
-      "title": "Microsoft Outlook stops displaying inline SVG images used in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-outlook-stops-displaying-inline-svg-images-used-in-attacks/",
-      "pubDate": "Thu, 02 Oct 2025 14:13:37 -0400"
     }
   ]
 }
