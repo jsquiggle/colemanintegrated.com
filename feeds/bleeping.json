@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-04T18:40:42Z",
+  "updated": "2025-10-04T19:07:11Z",
   "items": [
+    {
+      "title": "ChatGPT social could be a thing, as leak shows direct messages support",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/",
+      "pubDate": "Sat, 04 Oct 2025 15:00:00 -0400"
+    },
+    {
+      "title": "OpenAI rolls out GPT Codex Alpha with early access to new models",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/",
+      "pubDate": "Sat, 04 Oct 2025 13:30:00 -0400"
+    },
     {
       "title": "OpenAI wants ChatGPT to be your emotional support",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/",
@@ -51,16 +61,6 @@
       "title": "CommetJacking attack tricks Comet browser into stealing emails",
       "link": "https://www.bleepingcomputer.com/news/security/commetjacking-attack-tricks-comet-browser-into-stealing-emails/",
       "pubDate": "Fri, 03 Oct 2025 10:01:32 -0400"
-    },
-    {
-      "title": "Presenting AI to the Board as a CISO? Here\u2019s a Template.",
-      "link": "https://www.bleepingcomputer.com/news/security/presenting-ai-to-the-board-as-a-ciso-heres-a-template/",
-      "pubDate": "Fri, 03 Oct 2025 09:50:59 -0400"
-    },
-    {
-      "title": "Oracle links Clop extortion attacks to July 2025 vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-links-clop-extortion-attacks-to-july-security-flaws/",
-      "pubDate": "Fri, 03 Oct 2025 08:14:29 -0400"
     }
   ]
 }
