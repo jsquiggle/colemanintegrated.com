@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-05T14:33:43Z",
+  "updated": "2025-10-05T15:08:36Z",
   "items": [
+    {
+      "title": "Hackers exploited Zimbra flaw as zero-day using iCalendar files",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/",
+      "pubDate": "Sun, 05 Oct 2025 10:45:09 -0400"
+    },
     {
       "title": "ParkMobile pays... $1 each for 2021 data breach that hit 22 million",
       "link": "https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/",
@@ -56,11 +61,6 @@
       "title": "Renault and Dacia UK warn of data breach impacting customers",
       "link": "https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/",
       "pubDate": "Fri, 03 Oct 2025 11:52:08 -0400"
-    },
-    {
-      "title": "Japanese beer giant Asahi confirms ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/",
-      "pubDate": "Fri, 03 Oct 2025 10:51:00 -0400"
     }
   ]
 }
