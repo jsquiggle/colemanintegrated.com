@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-05T11:32:32Z",
+  "updated": "2025-10-05T12:17:33Z",
   "items": [
+    {
+      "title": "ParkMobile pays... $1 each for 2021 data breach that hit 22 million",
+      "link": "https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/",
+      "pubDate": "Sun, 05 Oct 2025 08:16:23 -0400"
+    },
     {
       "title": "Leaked Apple iPad Pro M5 benchmark shows massive improvements",
       "link": "https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/",
@@ -56,11 +61,6 @@
       "title": "Japanese beer giant Asahi confirms ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-confirms-ransomware-attack/",
       "pubDate": "Fri, 03 Oct 2025 10:51:00 -0400"
-    },
-    {
-      "title": "ShinyHunters launches Salesforce data leak site to extort 39 victims",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-starts-leaking-data-stolen-in-salesforce-attacks/",
-      "pubDate": "Fri, 03 Oct 2025 10:16:16 -0400"
     }
   ]
 }
