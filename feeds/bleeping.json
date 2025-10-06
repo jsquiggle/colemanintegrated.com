@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T16:42:43Z",
+  "updated": "2025-10-06T17:09:57Z",
   "items": [
+    {
+      "title": "ChatGPT Pulse is coming to the web, but no word on free or Plus roll out",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/",
+      "pubDate": "Mon, 06 Oct 2025 12:59:26 -0400"
+    },
     {
       "title": "OpenAI is testing ChatGPT-powered Agent Builder",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT social could be a thing, as leak shows direct messages support",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/",
       "pubDate": "Sat, 04 Oct 2025 15:00:00 -0400"
-    },
-    {
-      "title": "OpenAI rolls out GPT Codex Alpha with early access to new models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/",
-      "pubDate": "Sat, 04 Oct 2025 13:30:00 -0400"
     }
   ]
 }
