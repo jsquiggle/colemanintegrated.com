@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T20:37:35Z",
+  "updated": "2025-10-06T21:08:57Z",
   "items": [
+    {
+      "title": "Red Hat data breach escalates as ShinyHunters joins extortion",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/",
+      "pubDate": "Mon, 06 Oct 2025 17:08:24 -0400"
+    },
     {
       "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Oracle patches EBS zero-day exploited in Clop data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/",
       "pubDate": "Sun, 05 Oct 2025 21:37:24 -0400"
-    },
-    {
-      "title": "Hackers exploited Zimbra flaw as zero-day using iCalendar files",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/",
-      "pubDate": "Sun, 05 Oct 2025 10:45:09 -0400"
     }
   ]
 }
