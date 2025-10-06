@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T17:09:57Z",
+  "updated": "2025-10-06T17:36:27Z",
   "items": [
+    {
+      "title": "Microsoft: Running multiple Office apps causes Copilot issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/",
+      "pubDate": "Mon, 06 Oct 2025 13:16:55 -0400"
+    },
+    {
+      "title": "Zeroday Cloud hacking contest offers $4.5 million in bounties",
+      "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/",
+      "pubDate": "Mon, 06 Oct 2025 13:12:13 -0400"
+    },
     {
       "title": "ChatGPT Pulse is coming to the web, but no word on free or Plus roll out",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/",
@@ -51,16 +61,6 @@
       "title": "ParkMobile pays... $1 each for 2021 data breach that hit 22 million",
       "link": "https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/",
       "pubDate": "Sun, 05 Oct 2025 08:16:23 -0400"
-    },
-    {
-      "title": "Leaked Apple iPad Pro M5 benchmark shows massive improvements",
-      "link": "https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/",
-      "pubDate": "Sat, 04 Oct 2025 16:35:48 -0400"
-    },
-    {
-      "title": "ChatGPT social could be a thing, as leak shows direct messages support",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/",
-      "pubDate": "Sat, 04 Oct 2025 15:00:00 -0400"
     }
   ]
 }
