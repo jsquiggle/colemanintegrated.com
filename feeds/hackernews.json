@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-06T06:47:11Z",
+  "updated": "2025-10-06T07:11:59Z",
   "items": [
+    {
+      "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
+      "link": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
+      "pubDate": "Mon, 06 Oct 2025 11:31:00 +0530"
+    },
     {
       "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
       "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
@@ -56,11 +61,6 @@
       "title": "Alert: Malicious PyPI Package soopsocks Infects 2,653 Systems Before Takedown",
       "link": "https://thehackernews.com/2025/10/alert-malicious-pypi-package-soopsocks.html",
       "pubDate": "Thu, 02 Oct 2025 18:37:00 +0530"
-    },
-    {
-      "title": "Automating Pentest Delivery: 7 Key Workflows for Maximum Impact",
-      "link": "https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html",
-      "pubDate": "Thu, 02 Oct 2025 17:25:00 +0530"
     }
   ]
 }
