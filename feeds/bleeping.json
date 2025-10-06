@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T14:11:04Z",
+  "updated": "2025-10-06T14:40:28Z",
   "items": [
+    {
+      "title": "The role of Artificial Intelligence in today\u2019s cybersecurity landscape",
+      "link": "https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/",
+      "pubDate": "Mon, 06 Oct 2025 10:05:15 -0400"
+    },
     {
       "title": "Steam and Microsoft warn of Unity flaw exposing gamers to attacks",
       "link": "https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/",
@@ -56,11 +61,6 @@
       "title": "Massive surge in scans targeting Palo Alto Networks login portals",
       "link": "https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/",
       "pubDate": "Sat, 04 Oct 2025 10:18:29 -0400"
-    },
-    {
-      "title": "Discord discloses data breach after hackers steal support tickets",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-hackers-steal-support-tickets/",
-      "pubDate": "Sat, 04 Oct 2025 07:16:33 -0400"
     }
   ]
 }
