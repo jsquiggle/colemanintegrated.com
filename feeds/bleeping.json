@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T11:32:56Z",
+  "updated": "2025-10-06T12:20:47Z",
   "items": [
+    {
+      "title": "XWorm malware resurfaces with ransomware module, over 35 plugins",
+      "link": "https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/",
+      "pubDate": "Mon, 06 Oct 2025 07:42:17 -0400"
+    },
     {
       "title": "Oracle patches EBS zero-day exploited in Clop data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Opera wants you to pay $19.90 per month for its new AI browser",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/opera-wants-you-to-pay-1990-per-month-for-its-new-ai-browser/",
       "pubDate": "Fri, 03 Oct 2025 19:54:49 -0400"
-    },
-    {
-      "title": "Signal adds new cryptographic defense against quantum attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/",
-      "pubDate": "Fri, 03 Oct 2025 13:15:44 -0400"
     }
   ]
 }
