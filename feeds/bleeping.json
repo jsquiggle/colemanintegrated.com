@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T14:40:28Z",
+  "updated": "2025-10-06T15:10:59Z",
   "items": [
+    {
+      "title": "LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data",
+      "link": "https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/",
+      "pubDate": "Mon, 06 Oct 2025 10:54:08 -0400"
+    },
     {
       "title": "The role of Artificial Intelligence in today\u2019s cybersecurity landscape",
       "link": "https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/",
@@ -56,11 +61,6 @@
       "title": "OpenAI prepares $4 ChatGPT Go for several new countries",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/",
       "pubDate": "Sat, 04 Oct 2025 11:42:39 -0400"
-    },
-    {
-      "title": "Massive surge in scans targeting Palo Alto Networks login portals",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-surge-in-scans-targeting-palo-alto-networks-login-portals/",
-      "pubDate": "Sat, 04 Oct 2025 10:18:29 -0400"
     }
   ]
 }
