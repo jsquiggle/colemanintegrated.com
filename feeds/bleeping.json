@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T00:49:46Z",
+  "updated": "2025-10-06T02:18:43Z",
   "items": [
+    {
+      "title": "Oracle patches EBS zero-day exploited in Clop data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/",
+      "pubDate": "Sun, 05 Oct 2025 21:37:24 -0400"
+    },
     {
       "title": "Hackers exploited Zimbra flaw as zero-day using iCalendar files",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/",
@@ -56,11 +61,6 @@
       "title": "Signal adds new cryptographic defense against quantum attacks",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/",
       "pubDate": "Fri, 03 Oct 2025 13:15:44 -0400"
-    },
-    {
-      "title": "Renault and Dacia UK warn of data breach impacting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/renault-and-dacia-uk-warn-of-data-breach-impacting-customers/",
-      "pubDate": "Fri, 03 Oct 2025 11:52:08 -0400"
     }
   ]
 }
