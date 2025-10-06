@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T13:43:02Z",
+  "updated": "2025-10-06T14:11:04Z",
   "items": [
+    {
+      "title": "Steam and Microsoft warn of Unity flaw exposing gamers to attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/",
+      "pubDate": "Mon, 06 Oct 2025 09:56:22 -0400"
+    },
     {
       "title": "XWorm malware resurfaces with ransomware module, over 35 plugins",
       "link": "https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/",
@@ -56,11 +61,6 @@
       "title": "Discord discloses data breach after hackers steal support tickets",
       "link": "https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-hackers-steal-support-tickets/",
       "pubDate": "Sat, 04 Oct 2025 07:16:33 -0400"
-    },
-    {
-      "title": "Opera wants you to pay $19.90 per month for its new AI browser",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/opera-wants-you-to-pay-1990-per-month-for-its-new-ai-browser/",
-      "pubDate": "Fri, 03 Oct 2025 19:54:49 -0400"
     }
   ]
 }
