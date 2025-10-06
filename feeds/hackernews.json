@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-06T05:37:14Z",
+  "updated": "2025-10-06T06:17:01Z",
   "items": [
+    {
+      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
+      "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
+      "pubDate": "Mon, 06 Oct 2025 10:45:00 +0530"
+    },
     {
       "title": "CometJacking: One Click Can Turn Perplexity\u2019s Comet AI Browser Into a Data Thief",
       "link": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
@@ -56,11 +61,6 @@
       "title": "Automating Pentest Delivery: 7 Key Workflows for Maximum Impact",
       "link": "https://thehackernews.com/2025/10/automating-pentest-delivery-7-key.html",
       "pubDate": "Thu, 02 Oct 2025 17:25:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: CarPlay Exploit, BYOVD Tactics, SQL C2 Attacks, iCloud Backdoor Demand & More",
-      "link": "https://thehackernews.com/2025/10/threatsday-bulletin-carplay-exploit.html",
-      "pubDate": "Thu, 02 Oct 2025 17:00:00 +0530"
     }
   ]
 }
