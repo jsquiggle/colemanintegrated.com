@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T17:36:27Z",
+  "updated": "2025-10-06T18:15:21Z",
   "items": [
+    {
+      "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
+      "pubDate": "Mon, 06 Oct 2025 14:11:46 -0400"
+    },
     {
       "title": "Microsoft: Running multiple Office apps causes Copilot issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploited Zimbra flaw as zero-day using iCalendar files",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/",
       "pubDate": "Sun, 05 Oct 2025 10:45:09 -0400"
-    },
-    {
-      "title": "ParkMobile pays... $1 each for 2021 data breach that hit 22 million",
-      "link": "https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/",
-      "pubDate": "Sun, 05 Oct 2025 08:16:23 -0400"
     }
   ]
 }
