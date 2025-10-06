@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-06T15:37:56Z",
+  "updated": "2025-10-06T16:12:48Z",
   "items": [
+    {
+      "title": "OpenAI is testing ChatGPT-powered Agent Builder",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/",
+      "pubDate": "Mon, 06 Oct 2025 12:06:34 -0400"
+    },
+    {
+      "title": "Redis warns of critical flaw impacting thousands of instances",
+      "link": "https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/",
+      "pubDate": "Mon, 06 Oct 2025 11:55:51 -0400"
+    },
     {
       "title": "LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data",
       "link": "https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/",
@@ -51,16 +61,6 @@
       "title": "OpenAI rolls out GPT Codex Alpha with early access to new models",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/",
       "pubDate": "Sat, 04 Oct 2025 13:30:00 -0400"
-    },
-    {
-      "title": "OpenAI wants ChatGPT to be your emotional support",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/",
-      "pubDate": "Sat, 04 Oct 2025 12:30:00 -0400"
-    },
-    {
-      "title": "OpenAI prepares $4 ChatGPT Go for several new countries",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-4-chatgpt-go-for-several-new-countries/",
-      "pubDate": "Sat, 04 Oct 2025 11:42:39 -0400"
     }
   ]
 }
