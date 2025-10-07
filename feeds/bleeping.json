@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T16:42:55Z",
+  "updated": "2025-10-07T17:09:24Z",
   "items": [
+    {
+      "title": "North Korean hackers stole over $2 billion in crypto this year",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/",
+      "pubDate": "Tue, 07 Oct 2025 13:02:35 -0400"
+    },
     {
       "title": "Electronics giant Avnet confirms breach, says stolen data unreadable",
       "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/",
@@ -56,11 +61,6 @@
       "title": "Redis warns of critical flaw impacting thousands of instances",
       "link": "https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/",
       "pubDate": "Mon, 06 Oct 2025 11:55:51 -0400"
-    },
-    {
-      "title": "LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data",
-      "link": "https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/",
-      "pubDate": "Mon, 06 Oct 2025 10:54:08 -0400"
     }
   ]
 }
