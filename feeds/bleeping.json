@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T19:08:10Z",
+  "updated": "2025-10-07T19:32:31Z",
   "items": [
+    {
+      "title": "DraftKings warns of account breaches in credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/",
+      "pubDate": "Tue, 07 Oct 2025 15:09:36 -0400"
+    },
     {
       "title": "Clop exploited Oracle zero-day for data theft since early August",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT Pulse is coming to the web, but no word on free or Plus roll out",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/",
       "pubDate": "Mon, 06 Oct 2025 12:59:26 -0400"
-    },
-    {
-      "title": "OpenAI is testing ChatGPT-powered Agent Builder",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/",
-      "pubDate": "Mon, 06 Oct 2025 12:06:34 -0400"
     }
   ]
 }
