@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T13:02:47Z",
+  "updated": "2025-10-07T13:43:35Z",
   "items": [
+    {
+      "title": "Google's new AI bug bounty program pays up to $30,000 for flaws",
+      "link": "https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/",
+      "pubDate": "Tue, 07 Oct 2025 09:19:27 -0400"
+    },
     {
       "title": "Red Hat data breach escalates as ShinyHunters joins extortion",
       "link": "https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/",
@@ -56,11 +61,6 @@
       "title": "XWorm malware resurfaces with ransomware module, over 35 plugins",
       "link": "https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/",
       "pubDate": "Mon, 06 Oct 2025 07:42:17 -0400"
-    },
-    {
-      "title": "Oracle patches EBS zero-day exploited in Clop data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/",
-      "pubDate": "Sun, 05 Oct 2025 21:37:24 -0400"
     }
   ]
 }
