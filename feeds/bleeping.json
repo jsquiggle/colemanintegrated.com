@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T14:11:38Z",
+  "updated": "2025-10-07T14:41:29Z",
   "items": [
+    {
+      "title": "Redefining Security Validation with AI-Powered Breach and Attack Simulation",
+      "link": "https://www.bleepingcomputer.com/news/security/redefining-security-validation-with-ai-powered-breach-and-attack-simulation/",
+      "pubDate": "Tue, 07 Oct 2025 10:01:11 -0400"
+    },
     {
       "title": "Google's new AI bug bounty program pays up to $30,000 for flaws",
       "link": "https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/",
@@ -56,11 +61,6 @@
       "title": "Steam and Microsoft warn of Unity flaw exposing gamers to attacks",
       "link": "https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/",
       "pubDate": "Mon, 06 Oct 2025 09:56:22 -0400"
-    },
-    {
-      "title": "XWorm malware resurfaces with ransomware module, over 35 plugins",
-      "link": "https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/",
-      "pubDate": "Mon, 06 Oct 2025 07:42:17 -0400"
     }
   ]
 }
