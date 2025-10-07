@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-07T09:12:03Z",
+  "updated": "2025-10-07T09:37:46Z",
   "items": [
+    {
+      "title": "13-Year Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
+      "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+      "pubDate": "Tue, 07 Oct 2025 14:03:00 +0530"
+    },
+    {
+      "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
+      "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+      "pubDate": "Tue, 07 Oct 2025 13:45:00 +0530"
+    },
     {
       "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
       "link": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
@@ -51,16 +61,6 @@
       "title": "Detour Dog Caught Running DNS-Powered Malware Factory for Strela Stealer",
       "link": "https://thehackernews.com/2025/10/detour-dog-caught-running-dns-powered.html",
       "pubDate": "Fri, 03 Oct 2025 23:41:00 +0530"
-    },
-    {
-      "title": "Rhadamanthys Stealer Evolves: Adds Device Fingerprinting, PNG Steganography Payloads",
-      "link": "https://thehackernews.com/2025/10/rhadamanthys-stealer-evolves-adds.html",
-      "pubDate": "Fri, 03 Oct 2025 21:28:00 +0530"
-    },
-    {
-      "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
-      "link": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
-      "pubDate": "Fri, 03 Oct 2025 17:32:00 +0530"
     }
   ]
 }
