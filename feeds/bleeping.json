@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T17:09:24Z",
+  "updated": "2025-10-07T17:36:46Z",
   "items": [
+    {
+      "title": "Clop exploited Oracle zero-day for data theft since early August",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/",
+      "pubDate": "Tue, 07 Oct 2025 13:27:34 -0400"
+    },
     {
       "title": "North Korean hackers stole over $2 billion in crypto this year",
       "link": "https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/",
@@ -56,11 +61,6 @@
       "title": "OpenAI is testing ChatGPT-powered Agent Builder",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/",
       "pubDate": "Mon, 06 Oct 2025 12:06:34 -0400"
-    },
-    {
-      "title": "Redis warns of critical flaw impacting thousands of instances",
-      "link": "https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/",
-      "pubDate": "Mon, 06 Oct 2025 11:55:51 -0400"
     }
   ]
 }
