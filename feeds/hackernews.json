@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-07T05:37:18Z",
+  "updated": "2025-10-07T06:15:55Z",
   "items": [
+    {
+      "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
+      "link": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
+      "pubDate": "Tue, 07 Oct 2025 10:42:00 +0530"
+    },
     {
       "title": "New Report Links Research Firms BIETA and CIII to China\u2019s MSS Cyber Operations",
       "link": "https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Warn of Self-Spreading WhatsApp Malware Named SORVEPOTEL",
       "link": "https://thehackernews.com/2025/10/researchers-warn-of-self-spreading.html",
       "pubDate": "Fri, 03 Oct 2025 17:32:00 +0530"
-    },
-    {
-      "title": "Product Walkthrough: How Passwork 7 Addresses Complexity of Enterprise Security",
-      "link": "https://thehackernews.com/2025/10/product-walkthrough-how-passwork-7.html",
-      "pubDate": "Fri, 03 Oct 2025 17:00:00 +0530"
     }
   ]
 }
