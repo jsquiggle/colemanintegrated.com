@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-07T15:39:15Z",
+  "updated": "2025-10-07T16:12:59Z",
   "items": [
+    {
+      "title": "Google's New AI Doesn't Just Find Vulnerabilities \u2014 It Rewrites Code to Patch Them",
+      "link": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+      "pubDate": "Tue, 07 Oct 2025 20:48:00 +0530"
+    },
     {
       "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
       "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
@@ -56,11 +61,6 @@
       "title": "Zimbra Zero-Day Exploited to Target Brazilian Military via Malicious ICS Files",
       "link": "https://thehackernews.com/2025/10/zimbra-zero-day-exploited-to-target.html",
       "pubDate": "Mon, 06 Oct 2025 11:31:00 +0530"
-    },
-    {
-      "title": "CometJacking: One Click Can Turn Perplexity\u2019s Comet AI Browser Into a Data Thief",
-      "link": "https://thehackernews.com/2025/10/cometjacking-one-click-can-turn.html",
-      "pubDate": "Sat, 04 Oct 2025 20:07:00 +0530"
     }
   ]
 }
