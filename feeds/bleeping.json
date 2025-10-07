@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T16:12:59Z",
+  "updated": "2025-10-07T16:42:55Z",
   "items": [
+    {
+      "title": "Electronics giant Avnet confirms breach, says stolen data unreadable",
+      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/",
+      "pubDate": "Tue, 07 Oct 2025 12:19:56 -0400"
+    },
     {
       "title": "Microsoft kills more Microsoft Account bypasses in Windows 11",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/",
@@ -56,11 +61,6 @@
       "title": "LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data",
       "link": "https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/",
       "pubDate": "Mon, 06 Oct 2025 10:54:08 -0400"
-    },
-    {
-      "title": "The role of Artificial Intelligence in today\u2019s cybersecurity landscape",
-      "link": "https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/",
-      "pubDate": "Mon, 06 Oct 2025 10:05:15 -0400"
     }
   ]
 }
