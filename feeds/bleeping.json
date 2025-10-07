@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T20:11:32Z",
+  "updated": "2025-10-07T20:37:20Z",
   "items": [
+    {
+      "title": "Google won\u2019t fix ASCII smuggling attacks in Gemini",
+      "link": "https://www.bleepingcomputer.com/news/security/google-wont-fix-ascii-smuggling-attacks-in-gemini/",
+      "pubDate": "Tue, 07 Oct 2025 16:35:40 -0400"
+    },
     {
       "title": "DraftKings warns of account breaches in credential stuffing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/",
@@ -56,11 +61,6 @@
       "title": "Zeroday Cloud hacking contest offers $4.5 million in bounties",
       "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/",
       "pubDate": "Mon, 06 Oct 2025 13:12:13 -0400"
-    },
-    {
-      "title": "ChatGPT Pulse is coming to the web, but no word on free or Plus roll out",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/",
-      "pubDate": "Mon, 06 Oct 2025 12:59:26 -0400"
     }
   ]
 }
