@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T21:32:27Z",
+  "updated": "2025-10-07T22:10:11Z",
   "items": [
+    {
+      "title": "Docker makes Hardened Images Catalog affordable for small businesses",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
+      "pubDate": "Tue, 07 Oct 2025 18:09:48 -0400"
+    },
     {
       "title": "Google won\u2019t fix new ASCII smuggling attack in Gemini",
       "link": "https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Running multiple Office apps causes Copilot issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/",
       "pubDate": "Mon, 06 Oct 2025 13:16:55 -0400"
-    },
-    {
-      "title": "Zeroday Cloud hacking contest offers $4.5 million in bounties",
-      "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/",
-      "pubDate": "Mon, 06 Oct 2025 13:12:13 -0400"
     }
   ]
 }
