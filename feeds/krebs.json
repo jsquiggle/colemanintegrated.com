@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-10-07T22:36:00Z",
+  "updated": "2025-10-07T23:09:53Z",
   "items": [
+    {
+      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+      "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+      "pubDate": "Tue, 07 Oct 2025 22:45:35 +0000"
+    },
     {
       "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
       "link": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
@@ -46,11 +51,6 @@
       "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
       "link": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
       "pubDate": "Tue, 26 Aug 2025 14:05:12 +0000"
-    },
-    {
-      "title": "SIM-Swapper, Scattered Spider Hacker Gets 10 Years",
-      "link": "https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/",
-      "pubDate": "Thu, 21 Aug 2025 01:47:22 +0000"
     }
   ]
 }
