@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-08T19:32:47Z",
+  "updated": "2025-10-08T20:11:41Z",
   "items": [
+    {
+      "title": "New FileFix attack uses cache smuggling to evade security software",
+      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
+      "pubDate": "Wed, 08 Oct 2025 15:49:47 -0400"
+    },
     {
       "title": "Qilin ransomware claims Asahi brewery attack, leaks data",
       "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/",
@@ -56,11 +61,6 @@
       "title": "DraftKings warns of account breaches in credential stuffing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/",
       "pubDate": "Tue, 07 Oct 2025 15:09:36 -0400"
-    },
-    {
-      "title": "Clop exploited Oracle zero-day for data theft since early August",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/",
-      "pubDate": "Tue, 07 Oct 2025 13:27:34 -0400"
     }
   ]
 }
