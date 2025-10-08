@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-08T15:39:03Z",
+  "updated": "2025-10-08T16:13:10Z",
   "items": [
+    {
+      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
+      "pubDate": "Wed, 08 Oct 2025 11:57:53 -0400"
+    },
     {
       "title": "London police arrests suspects linked to nursery breach, child doxing",
       "link": "https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/",
@@ -56,11 +61,6 @@
       "title": "Redefining Security Validation with AI-Powered Breach and Attack Simulation",
       "link": "https://www.bleepingcomputer.com/news/security/redefining-security-validation-with-ai-powered-breach-and-attack-simulation/",
       "pubDate": "Tue, 07 Oct 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Google's new AI bug bounty program pays up to $30,000 for flaws",
-      "link": "https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/",
-      "pubDate": "Tue, 07 Oct 2025 09:19:27 -0400"
     }
   ]
 }
