@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-08T14:42:12Z",
+  "updated": "2025-10-08T15:11:21Z",
   "items": [
+    {
+      "title": "London police arrests suspects linked to nursery breach, child doxing",
+      "link": "https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/",
+      "pubDate": "Wed, 08 Oct 2025 10:49:08 -0400"
+    },
+    {
+      "title": "Defend the Target, Not Just the Door: A Modern Plan for Google Workspace",
+      "link": "https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/",
+      "pubDate": "Wed, 08 Oct 2025 10:02:12 -0400"
+    },
     {
       "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
@@ -51,16 +61,6 @@
       "title": "Google's new AI bug bounty program pays up to $30,000 for flaws",
       "link": "https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/",
       "pubDate": "Tue, 07 Oct 2025 09:19:27 -0400"
-    },
-    {
-      "title": "Red Hat data breach escalates as ShinyHunters joins extortion",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-data-breach-escalates-as-shinyhunters-joins-extortion/",
-      "pubDate": "Mon, 06 Oct 2025 17:08:24 -0400"
-    },
-    {
-      "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
-      "pubDate": "Mon, 06 Oct 2025 14:11:46 -0400"
     }
   ]
 }
