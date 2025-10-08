@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-08T17:09:18Z",
+  "updated": "2025-10-08T17:37:22Z",
   "items": [
+    {
+      "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+      "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+      "pubDate": "Wed, 08 Oct 2025 22:13:00 +0530"
+    },
     {
       "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
       "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
@@ -56,11 +61,6 @@
       "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
       "link": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
       "pubDate": "Tue, 07 Oct 2025 14:03:00 +0530"
-    },
-    {
-      "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
-      "link": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
-      "pubDate": "Tue, 07 Oct 2025 13:45:00 +0530"
     }
   ]
 }
