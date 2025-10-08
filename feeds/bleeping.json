@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-07T23:32:41Z",
+  "updated": "2025-10-08T00:47:39Z",
   "items": [
+    {
+      "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
+      "pubDate": "Tue, 07 Oct 2025 20:17:17 -0400"
+    },
     {
       "title": "Docker makes Hardened Images Catalog affordable for small businesses",
       "link": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
       "pubDate": "Mon, 06 Oct 2025 14:11:46 -0400"
-    },
-    {
-      "title": "Microsoft: Running multiple Office apps causes Copilot issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/",
-      "pubDate": "Mon, 06 Oct 2025 13:16:55 -0400"
     }
   ]
 }
