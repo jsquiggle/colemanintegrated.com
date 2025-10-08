@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-08T09:12:03Z",
+  "updated": "2025-10-08T09:38:21Z",
   "items": [
+    {
+      "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+      "link": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+      "pubDate": "Wed, 08 Oct 2025 14:27:00 +0530"
+    },
     {
       "title": "OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks",
       "link": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
@@ -56,11 +61,6 @@
       "title": "5 Critical Questions For Adopting an AI Security Solution",
       "link": "https://thehackernews.com/2025/10/5-critical-questions-for-adopting-ai.html",
       "pubDate": "Mon, 06 Oct 2025 17:08:00 +0530"
-    },
-    {
-      "title": "Oracle Rushes Patch for CVE-2025-61882 After Cl0p Exploited It in Data Theft Attacks",
-      "link": "https://thehackernews.com/2025/10/oracle-rushes-patch-for-cve-2025-61882.html",
-      "pubDate": "Mon, 06 Oct 2025 17:07:00 +0530"
     }
   ]
 }
