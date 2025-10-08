@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-08T18:15:56Z",
+  "updated": "2025-10-08T18:46:54Z",
   "items": [
+    {
+      "title": "Qilin ransomware claims Asahi brewery attack, leaks data",
+      "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/",
+      "pubDate": "Wed, 08 Oct 2025 14:42:22 -0400"
+    },
+    {
+      "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
+      "pubDate": "Wed, 08 Oct 2025 14:35:01 -0400"
+    },
     {
       "title": "Microsoft enables Exchange Online auto-archiving by default",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
@@ -51,16 +61,6 @@
       "title": "Clop exploited Oracle zero-day for data theft since early August",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/",
       "pubDate": "Tue, 07 Oct 2025 13:27:34 -0400"
-    },
-    {
-      "title": "North Korean hackers stole over $2 billion in crypto this year",
-      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/",
-      "pubDate": "Tue, 07 Oct 2025 13:02:35 -0400"
-    },
-    {
-      "title": "Electronics giant Avnet confirms breach, says stolen data unreadable",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/",
-      "pubDate": "Tue, 07 Oct 2025 12:19:56 -0400"
     }
   ]
 }
