@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T12:20:30Z",
+  "updated": "2025-10-09T13:03:05Z",
   "items": [
+    {
+      "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
+      "pubDate": "Thu, 09 Oct 2025 08:38:27 -0400"
+    },
     {
       "title": "Hacktivists target critical infrastructure, hit decoy plant",
       "link": "https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/",
@@ -56,11 +61,6 @@
       "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
       "pubDate": "Tue, 07 Oct 2025 20:17:17 -0400"
-    },
-    {
-      "title": "Docker makes Hardened Images Catalog affordable for small businesses",
-      "link": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
-      "pubDate": "Tue, 07 Oct 2025 18:09:48 -0400"
     }
   ]
 }
