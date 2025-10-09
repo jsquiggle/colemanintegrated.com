@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T19:32:27Z",
+  "updated": "2025-10-09T20:11:35Z",
   "items": [
+    {
+      "title": "Microsoft: Hackers target universities in \u201cpayroll pirate\u201d attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
+      "pubDate": "Thu, 09 Oct 2025 15:38:00 -0400"
+    },
     {
       "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Qilin ransomware claims Asahi brewery attack, leaks data",
       "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/",
       "pubDate": "Wed, 08 Oct 2025 14:42:22 -0400"
-    },
-    {
-      "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
-      "pubDate": "Wed, 08 Oct 2025 14:35:01 -0400"
     }
   ]
 }
