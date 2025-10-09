@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T17:09:46Z",
+  "updated": "2025-10-09T17:37:51Z",
   "items": [
+    {
+      "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
+      "pubDate": "Thu, 09 Oct 2025 13:17:28 -0400"
+    },
     {
       "title": "Microsoft: Windows Backup now available for enterprise users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/",
@@ -56,11 +61,6 @@
       "title": "Crimson Collective hackers target AWS cloud instances for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
       "pubDate": "Wed, 08 Oct 2025 13:33:38 -0400"
-    },
-    {
-      "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
-      "pubDate": "Wed, 08 Oct 2025 11:57:53 -0400"
     }
   ]
 }
