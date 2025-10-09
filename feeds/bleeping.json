@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T14:50:51Z",
+  "updated": "2025-10-09T15:27:23Z",
   "items": [
+    {
+      "title": "Microsoft: Windows Backup now available for enterprise users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/",
+      "pubDate": "Thu, 09 Oct 2025 10:56:57 -0400"
+    },
     {
       "title": "SonicWall: Firewall configs stolen for all cloud backup customers",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
       "pubDate": "Wed, 08 Oct 2025 11:57:53 -0400"
-    },
-    {
-      "title": "London police arrests suspects linked to nursery breach, child doxing",
-      "link": "https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/",
-      "pubDate": "Wed, 08 Oct 2025 10:49:08 -0400"
     }
   ]
 }
