@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T19:08:45Z",
+  "updated": "2025-10-09T19:32:27Z",
   "items": [
+    {
+      "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
+      "pubDate": "Thu, 09 Oct 2025 15:31:55 -0400"
+    },
     {
       "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
@@ -56,11 +61,6 @@
       "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
       "pubDate": "Wed, 08 Oct 2025 14:35:01 -0400"
-    },
-    {
-      "title": "Microsoft enables Exchange Online auto-archiving by default",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
-      "pubDate": "Wed, 08 Oct 2025 13:49:59 -0400"
     }
   ]
 }
