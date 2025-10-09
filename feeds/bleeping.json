@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T20:38:04Z",
+  "updated": "2025-10-09T21:09:22Z",
   "items": [
+    {
+      "title": "New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/",
+      "pubDate": "Thu, 09 Oct 2025 17:06:31 -0400"
+    },
     {
       "title": "Microsoft: Hackers target universities in \u201cpayroll pirate\u201d attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
@@ -56,11 +61,6 @@
       "title": "New FileFix attack uses cache smuggling to evade security software",
       "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
       "pubDate": "Wed, 08 Oct 2025 15:49:47 -0400"
-    },
-    {
-      "title": "Qilin ransomware claims Asahi brewery attack, leaks data",
-      "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/",
-      "pubDate": "Wed, 08 Oct 2025 14:42:22 -0400"
     }
   ]
 }
