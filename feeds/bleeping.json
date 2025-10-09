@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T14:11:10Z",
+  "updated": "2025-10-09T14:50:51Z",
   "items": [
+    {
+      "title": "SonicWall: Firewall configs stolen for all cloud backup customers",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/",
+      "pubDate": "Thu, 09 Oct 2025 10:13:04 -0400"
+    },
+    {
+      "title": "From infostealer to full RAT: dissecting the PureRAT attack chain",
+      "link": "https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/",
+      "pubDate": "Thu, 09 Oct 2025 10:01:11 -0400"
+    },
     {
       "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
       "link": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
@@ -51,16 +61,6 @@
       "title": "London police arrests suspects linked to nursery breach, child doxing",
       "link": "https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/",
       "pubDate": "Wed, 08 Oct 2025 10:49:08 -0400"
-    },
-    {
-      "title": "Defend the Target, Not Just the Door: A Modern Plan for Google Workspace",
-      "link": "https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/",
-      "pubDate": "Wed, 08 Oct 2025 10:02:12 -0400"
-    },
-    {
-      "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
-      "pubDate": "Tue, 07 Oct 2025 20:17:17 -0400"
     }
   ]
 }
