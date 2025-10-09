@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-09T09:37:24Z",
+  "updated": "2025-10-09T10:11:42Z",
   "items": [
+    {
+      "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
+      "link": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
+      "pubDate": "Thu, 09 Oct 2025 14:40:00 +0530"
+    },
     {
       "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
       "link": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
@@ -56,11 +61,6 @@
       "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
       "link": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
       "pubDate": "Tue, 07 Oct 2025 16:30:00 +0530"
-    },
-    {
-      "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
-      "link": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
-      "pubDate": "Tue, 07 Oct 2025 16:06:00 +0530"
     }
   ]
 }
