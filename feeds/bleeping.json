@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-08T23:32:43Z",
+  "updated": "2025-10-09T00:48:49Z",
   "items": [
+    {
+      "title": "Hackers claim Discord breach exposed data of 5.5 million users",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/",
+      "pubDate": "Wed, 08 Oct 2025 20:22:03 -0400"
+    },
     {
       "title": "New FileFix attack uses cache smuggling to evade security software",
       "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
@@ -56,11 +61,6 @@
       "title": "Google won\u2019t fix new ASCII smuggling attack in Gemini",
       "link": "https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/",
       "pubDate": "Tue, 07 Oct 2025 16:35:40 -0400"
-    },
-    {
-      "title": "DraftKings warns of account breaches in credential stuffing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/",
-      "pubDate": "Tue, 07 Oct 2025 15:09:36 -0400"
     }
   ]
 }
