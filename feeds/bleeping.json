@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-09T17:37:51Z",
+  "updated": "2025-10-09T18:15:09Z",
   "items": [
+    {
+      "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
+      "pubDate": "Thu, 09 Oct 2025 14:09:26 -0400"
+    },
     {
       "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
       "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft enables Exchange Online auto-archiving by default",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
       "pubDate": "Wed, 08 Oct 2025 13:49:59 -0400"
-    },
-    {
-      "title": "Crimson Collective hackers target AWS cloud instances for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
-      "pubDate": "Wed, 08 Oct 2025 13:33:38 -0400"
     }
   ]
 }
