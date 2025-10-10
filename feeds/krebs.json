@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-10-10T16:13:12Z",
+  "updated": "2025-10-10T16:42:08Z",
   "items": [
+    {
+      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
+      "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
+      "pubDate": "Fri, 10 Oct 2025 16:10:43 +0000"
+    },
     {
       "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
       "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
@@ -46,11 +51,6 @@
       "title": "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine",
       "link": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
       "pubDate": "Thu, 28 Aug 2025 17:21:32 +0000"
-    },
-    {
-      "title": "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019",
-      "link": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
-      "pubDate": "Tue, 26 Aug 2025 14:05:12 +0000"
     }
   ]
 }
