@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-10T19:32:30Z",
+  "updated": "2025-10-10T20:10:54Z",
   "items": [
+    {
+      "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
+      "pubDate": "Fri, 10 Oct 2025 15:34:13 -0400"
+    },
     {
       "title": "Hackers exploiting zero-day in Gladinet file sharing software",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
       "pubDate": "Thu, 09 Oct 2025 14:09:26 -0400"
-    },
-    {
-      "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
-      "pubDate": "Thu, 09 Oct 2025 13:17:28 -0400"
     }
   ]
 }
