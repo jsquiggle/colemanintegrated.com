@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-10T18:44:16Z",
+  "updated": "2025-10-10T19:08:02Z",
   "items": [
+    {
+      "title": "Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time",
+      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/",
+      "pubDate": "Fri, 10 Oct 2025 14:11:25 -0400"
+    },
     {
       "title": "Google Chrome to revoke notification access for inactive sites",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Windows Backup now available for enterprise users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/",
       "pubDate": "Thu, 09 Oct 2025 10:56:57 -0400"
-    },
-    {
-      "title": "SonicWall: Firewall configs stolen for all cloud backup customers",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/",
-      "pubDate": "Thu, 09 Oct 2025 10:13:04 -0400"
     }
   ]
 }
