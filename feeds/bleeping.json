@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-10T19:08:02Z",
+  "updated": "2025-10-10T19:32:30Z",
   "items": [
+    {
+      "title": "Hackers exploiting zero-day in Gladinet file sharing software",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
+      "pubDate": "Fri, 10 Oct 2025 15:08:12 -0400"
+    },
     {
       "title": "Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time",
       "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/",
@@ -56,11 +61,6 @@
       "title": "RondoDox botnet targets 56 n-day flaws in worldwide attacks",
       "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/",
       "pubDate": "Thu, 09 Oct 2025 13:17:28 -0400"
-    },
-    {
-      "title": "Microsoft: Windows Backup now available for enterprise users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/",
-      "pubDate": "Thu, 09 Oct 2025 10:56:57 -0400"
     }
   ]
 }
