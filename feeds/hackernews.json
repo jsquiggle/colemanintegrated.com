@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-10T14:10:49Z",
+  "updated": "2025-10-10T14:39:59Z",
   "items": [
+    {
+      "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
+      "link": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
+      "pubDate": "Fri, 10 Oct 2025 19:55:00 +0530"
+    },
+    {
+      "title": "Microsoft Warns of \u2018Payroll Pirates\u2019 Hijacking HR SaaS Accounts to Steal Employee Salaries",
+      "link": "https://thehackernews.com/2025/10/microsoft-warns-of-payroll-pirates.html",
+      "pubDate": "Fri, 10 Oct 2025 19:01:00 +0530"
+    },
     {
       "title": "From Detection to Patch: Fortra Reveals Full Timeline of CVE-2025-10035 Exploitation",
       "link": "https://thehackernews.com/2025/10/from-detection-to-patch-fortra-reveals.html",
@@ -51,16 +61,6 @@
       "title": "SaaS Breaches Start with Tokens - What Security Teams Must Watch",
       "link": "https://thehackernews.com/2025/10/saas-breaches-start-with-tokens-what.html",
       "pubDate": "Thu, 09 Oct 2025 17:00:00 +0530"
-    },
-    {
-      "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
-      "link": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-      "pubDate": "Thu, 09 Oct 2025 14:40:00 +0530"
-    },
-    {
-      "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
-      "link": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
-      "pubDate": "Thu, 09 Oct 2025 12:27:00 +0530"
     }
   ]
 }
