@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-10T11:08:59Z",
+  "updated": "2025-10-10T11:32:43Z",
   "items": [
+    {
+      "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
+      "link": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
+      "pubDate": "Fri, 10 Oct 2025 16:30:00 +0530"
+    },
+    {
+      "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
+      "link": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
+      "pubDate": "Fri, 10 Oct 2025 16:15:00 +0530"
+    },
     {
       "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
       "link": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
@@ -51,16 +61,6 @@
       "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
       "link": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
       "pubDate": "Wed, 08 Oct 2025 22:13:00 +0530"
-    },
-    {
-      "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
-      "link": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
-      "pubDate": "Wed, 08 Oct 2025 19:26:00 +0530"
-    },
-    {
-      "title": "Step Into the Password Graveyard\u2026 If You Dare (and Join the Live Session)",
-      "link": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
-      "pubDate": "Wed, 08 Oct 2025 17:38:00 +0530"
     }
   ]
 }
