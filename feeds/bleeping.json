@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-10T14:39:59Z",
+  "updated": "2025-10-10T15:10:31Z",
   "items": [
+    {
+      "title": "Copilot on Windows can now connect to email, create Office docs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
+      "pubDate": "Fri, 10 Oct 2025 10:49:09 -0400"
+    },
+    {
+      "title": "From Lab to Leadership: How VMware Certification Transformed My Career",
+      "link": "https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/",
+      "pubDate": "Fri, 10 Oct 2025 10:02:12 -0400"
+    },
     {
       "title": "FBI takes down BreachForums portal used for Salesforce extortion",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/",
@@ -51,16 +61,6 @@
       "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
       "link": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
       "pubDate": "Thu, 09 Oct 2025 08:38:27 -0400"
-    },
-    {
-      "title": "Hacktivists target critical infrastructure, hit decoy plant",
-      "link": "https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/",
-      "pubDate": "Thu, 09 Oct 2025 07:13:49 -0400"
-    },
-    {
-      "title": "Hackers claim Discord breach exposed data of 5.5 million users",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/",
-      "pubDate": "Wed, 08 Oct 2025 20:22:03 -0400"
     }
   ]
 }
