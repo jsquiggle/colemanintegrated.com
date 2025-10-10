@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-10T08:14:51Z",
+  "updated": "2025-10-10T08:42:52Z",
   "items": [
+    {
+      "title": "FBI takes down BreachForums portal used for Salesforce extortion",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/",
+      "pubDate": "Fri, 10 Oct 2025 04:24:16 -0400"
+    },
     {
       "title": "New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/",
@@ -56,11 +61,6 @@
       "title": "Hackers claim Discord breach exposed data of 5.5 million users",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/",
       "pubDate": "Wed, 08 Oct 2025 20:22:03 -0400"
-    },
-    {
-      "title": "New FileFix attack uses cache smuggling to evade security software",
-      "link": "https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/",
-      "pubDate": "Wed, 08 Oct 2025 15:49:47 -0400"
     }
   ]
 }
