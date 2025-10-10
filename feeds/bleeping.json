@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-10T16:42:08Z",
+  "updated": "2025-10-10T17:09:32Z",
   "items": [
+    {
+      "title": "Google Chrome to revoke notification access for inactive sites",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
+      "pubDate": "Fri, 10 Oct 2025 13:00:00 -0400"
+    },
+    {
+      "title": "Apple now offers $2 million for zero-click RCE vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/",
+      "pubDate": "Fri, 10 Oct 2025 12:50:35 -0400"
+    },
     {
       "title": "Copilot on Windows can now connect to email, create Office docs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
@@ -51,16 +61,6 @@
       "title": "SonicWall: Firewall configs stolen for all cloud backup customers",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/",
       "pubDate": "Thu, 09 Oct 2025 10:13:04 -0400"
-    },
-    {
-      "title": "From infostealer to full RAT: dissecting the PureRAT attack chain",
-      "link": "https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/",
-      "pubDate": "Thu, 09 Oct 2025 10:01:11 -0400"
-    },
-    {
-      "title": "Azure outage blocks access to Microsoft 365 services, admin portals",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/",
-      "pubDate": "Thu, 09 Oct 2025 08:38:27 -0400"
     }
   ]
 }
