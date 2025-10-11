@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-11T14:32:59Z",
+  "updated": "2025-10-11T15:08:13Z",
   "items": [
+    {
+      "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
+      "link": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
+      "pubDate": "Sat, 11 Oct 2025 19:00:00 +0530"
+    },
     {
       "title": "Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks",
       "link": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Access SonicWall Cloud Firewall Backups, Spark Urgent Security Checks",
       "link": "https://thehackernews.com/2025/10/hackers-access-sonicwall-cloud-firewall.html",
       "pubDate": "Thu, 09 Oct 2025 19:18:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: MS Teams Hack, MFA Hijacking, $2B Crypto Heist, Apple Siri Probe & More",
-      "link": "https://thehackernews.com/2025/10/threatsday-bulletin-ms-teams-hack-mfa.html",
-      "pubDate": "Thu, 09 Oct 2025 17:46:00 +0530"
     }
   ]
 }
