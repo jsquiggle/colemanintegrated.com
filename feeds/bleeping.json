@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-12T15:08:44Z",
+  "updated": "2025-10-12T15:32:38Z",
   "items": [
+    {
+      "title": "Fake 'Inflation Refund' texts target New Yorkers in new scam",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/",
+      "pubDate": "Sun, 12 Oct 2025 10:19:29 -0400"
+    },
+    {
+      "title": "Spain dismantles \u201cGXC Team\u201d cybercrime syndicate, arrests leader",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
+      "pubDate": "Sat, 11 Oct 2025 10:17:42 -0400"
+    },
     {
       "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
@@ -18,7 +28,7 @@
       "pubDate": "Fri, 10 Oct 2025 14:11:25 -0400"
     },
     {
-      "title": "Google Chrome to revoke notification access for inactive sites",
+      "title": "Google Chrome to revoke browser notifications for inactive sites",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
       "pubDate": "Fri, 10 Oct 2025 13:00:00 -0400"
     },
@@ -51,16 +61,6 @@
       "title": "Microsoft: Hackers target universities in \u201cpayroll pirate\u201d attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
       "pubDate": "Thu, 09 Oct 2025 15:38:00 -0400"
-    },
-    {
-      "title": "Hackers now use Velociraptor DFIR tool in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-use-velociraptor-dfir-tool-in-ransomware-attacks/",
-      "pubDate": "Thu, 09 Oct 2025 15:31:55 -0400"
-    },
-    {
-      "title": "Microsoft Defender mistakenly flags SQL Server as end-of-life",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/",
-      "pubDate": "Thu, 09 Oct 2025 14:09:26 -0400"
     }
   ]
 }
