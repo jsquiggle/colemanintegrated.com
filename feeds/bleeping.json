@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-13T17:36:19Z",
+  "updated": "2025-10-13T18:14:58Z",
   "items": [
+    {
+      "title": "Massive multi-country botnet targets RDP services in the US",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
+      "pubDate": "Mon, 13 Oct 2025 14:05:56 -0400"
+    },
     {
       "title": "SonicWall VPN accounts breached using stolen creds in widespread attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/",
@@ -56,11 +61,6 @@
       "title": "Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time",
       "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/",
       "pubDate": "Fri, 10 Oct 2025 14:11:25 -0400"
-    },
-    {
-      "title": "Google Chrome to revoke browser notifications for inactive sites",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/",
-      "pubDate": "Fri, 10 Oct 2025 13:00:00 -0400"
     }
   ]
 }
