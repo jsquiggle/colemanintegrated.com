@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-13T14:40:38Z",
+  "updated": "2025-10-13T15:10:57Z",
   "items": [
+    {
+      "title": "Oracle releases emergency patch for new E-Business Suite flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
+      "pubDate": "Mon, 13 Oct 2025 10:42:16 -0400"
+    },
     {
       "title": "Meet Varonis Interceptor: AI-Native Email Security",
       "link": "https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/",
@@ -56,11 +61,6 @@
       "title": "Copilot on Windows can now connect to email, create Office docs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/copilot-on-windows-can-now-connect-to-email-create-office-docs/",
       "pubDate": "Fri, 10 Oct 2025 10:49:09 -0400"
-    },
-    {
-      "title": "From Lab to Leadership: How VMware Certification Transformed My Career",
-      "link": "https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/",
-      "pubDate": "Fri, 10 Oct 2025 10:02:12 -0400"
     }
   ]
 }
