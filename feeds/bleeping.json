@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-13T19:32:36Z",
+  "updated": "2025-10-13T20:12:24Z",
   "items": [
+    {
+      "title": "SimonMed says 1.2 million patients impacted in January data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
+      "pubDate": "Mon, 13 Oct 2025 16:12:04 -0400"
+    },
     {
       "title": "Massive multi-country botnet targets RDP services in the US",
       "link": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploiting zero-day in Gladinet file sharing software",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
       "pubDate": "Fri, 10 Oct 2025 15:08:12 -0400"
-    },
-    {
-      "title": "Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/",
-      "pubDate": "Fri, 10 Oct 2025 14:11:25 -0400"
     }
   ]
 }
