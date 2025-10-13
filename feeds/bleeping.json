@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-13T13:03:39Z",
+  "updated": "2025-10-13T13:44:46Z",
   "items": [
+    {
+      "title": "Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/",
+      "pubDate": "Mon, 13 Oct 2025 09:22:16 -0400"
+    },
+    {
+      "title": "Harvard investigating breach linked to Oracle zero-day exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/",
+      "pubDate": "Mon, 13 Oct 2025 07:14:21 -0400"
+    },
     {
       "title": "Fake 'Inflation Refund' texts target New Yorkers in new scam",
       "link": "https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/",
@@ -46,21 +56,6 @@
       "title": "From Lab to Leadership: How VMware Certification Transformed My Career",
       "link": "https://www.bleepingcomputer.com/news/security/from-lab-to-leadership-how-vmware-certification-transformed-my-career/",
       "pubDate": "Fri, 10 Oct 2025 10:02:12 -0400"
-    },
-    {
-      "title": "FBI takes down BreachForums portal used for Salesforce extortion",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-takes-down-breachforums-portal-used-for-salesforce-extortion/",
-      "pubDate": "Fri, 10 Oct 2025 04:24:16 -0400"
-    },
-    {
-      "title": "New Android spyware ClayRat imitates WhatsApp, TikTok, YouTube",
-      "link": "https://www.bleepingcomputer.com/news/security/new-android-spyware-clayrat-imitates-whatsapp-tiktok-youtube/",
-      "pubDate": "Thu, 09 Oct 2025 17:06:31 -0400"
-    },
-    {
-      "title": "Microsoft: Hackers target universities in \u201cpayroll pirate\u201d attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-university-hr-employees-in-payroll-pirate-attacks/",
-      "pubDate": "Thu, 09 Oct 2025 15:38:00 -0400"
     }
   ]
 }
