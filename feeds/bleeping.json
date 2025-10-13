@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-13T21:32:26Z",
+  "updated": "2025-10-13T22:09:51Z",
   "items": [
+    {
+      "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
+      "pubDate": "Mon, 13 Oct 2025 17:51:47 -0400"
+    },
     {
       "title": "SimonMed says 1.2 million patients impacted in January data breach",
       "link": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
       "pubDate": "Fri, 10 Oct 2025 15:34:13 -0400"
-    },
-    {
-      "title": "Hackers exploiting zero-day in Gladinet file sharing software",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/",
-      "pubDate": "Fri, 10 Oct 2025 15:08:12 -0400"
     }
   ]
 }
