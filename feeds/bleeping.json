@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-13T13:44:46Z",
+  "updated": "2025-10-13T14:11:10Z",
   "items": [
+    {
+      "title": "Meet Varonis Interceptor: AI-Native Email Security",
+      "link": "https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/",
+      "pubDate": "Mon, 13 Oct 2025 10:04:14 -0400"
+    },
     {
       "title": "Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/",
