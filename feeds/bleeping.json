@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T18:16:01Z",
+  "updated": "2025-10-14T18:45:28Z",
   "items": [
+    {
+      "title": "Microsoft: Exchange 2016 and 2019 have reached end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/",
+      "pubDate": "Tue, 14 Oct 2025 14:26:16 -0400"
+    },
     {
       "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
@@ -56,11 +61,6 @@
       "title": "SimonMed says 1.2 million patients impacted in January data breach",
       "link": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
       "pubDate": "Mon, 13 Oct 2025 16:12:04 -0400"
-    },
-    {
-      "title": "Massive multi-country botnet targets RDP services in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
-      "pubDate": "Mon, 13 Oct 2025 14:05:56 -0400"
     }
   ]
 }
