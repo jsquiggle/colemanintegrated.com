@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-14T16:43:38Z",
+  "updated": "2025-10-14T17:10:09Z",
   "items": [
+    {
+      "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
+      "link": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
+      "pubDate": "Tue, 14 Oct 2025 22:25:00 +0530"
+    },
     {
       "title": "Moving Beyond Awareness: How Threat Hunting Builds Readiness",
       "link": "https://thehackernews.com/2025/10/moving-beyond-awareness-how-threat.html",
@@ -56,11 +61,6 @@
       "title": "Astaroth Banking Trojan Abuses GitHub to Remain Operational After Takedowns",
       "link": "https://thehackernews.com/2025/10/astaroth-banking-trojan-abuses-github.html",
       "pubDate": "Mon, 13 Oct 2025 12:22:00 +0530"
-    },
-    {
-      "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-      "link": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-      "pubDate": "Mon, 13 Oct 2025 10:42:00 +0530"
     }
   ]
 }
