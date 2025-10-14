@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T13:05:02Z",
+  "updated": "2025-10-14T13:44:40Z",
   "items": [
+    {
+      "title": "Secure Boot bypass risk on nearly 200,000 Linux Framework sytems",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/",
+      "pubDate": "Tue, 14 Oct 2025 09:22:14 -0400"
+    },
     {
       "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
@@ -56,11 +61,6 @@
       "title": "Fake 'Inflation Refund' texts target New Yorkers in new scam",
       "link": "https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/",
       "pubDate": "Sun, 12 Oct 2025 10:19:29 -0400"
-    },
-    {
-      "title": "Spain dismantles \u201cGXC Team\u201d cybercrime syndicate, arrests leader",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
-      "pubDate": "Sat, 11 Oct 2025 10:17:42 -0400"
     }
   ]
 }
