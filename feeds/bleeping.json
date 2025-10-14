@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T14:41:47Z",
+  "updated": "2025-10-14T15:12:27Z",
   "items": [
+    {
+      "title": "Microsoft warns that Windows 10 reaches end of support today",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/",
+      "pubDate": "Tue, 14 Oct 2025 10:54:35 -0400"
+    },
+    {
+      "title": "Security firms debate CVE credit in overlapping vulnerability reports",
+      "link": "https://www.bleepingcomputer.com/news/security/security-firms-debate-cve-credit-in-overlapping-vulnerability-reports/",
+      "pubDate": "Tue, 14 Oct 2025 10:52:13 -0400"
+    },
     {
       "title": "When AI Agents Join the Teams: The Hidden Security Shifts No One Expects",
       "link": "https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/",
@@ -51,16 +61,6 @@
       "title": "Meet Varonis Interceptor: AI-Native Email Security",
       "link": "https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/",
       "pubDate": "Mon, 13 Oct 2025 10:04:14 -0400"
-    },
-    {
-      "title": "Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/",
-      "pubDate": "Mon, 13 Oct 2025 09:22:16 -0400"
-    },
-    {
-      "title": "Harvard investigating breach linked to Oracle zero-day exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/",
-      "pubDate": "Mon, 13 Oct 2025 07:14:21 -0400"
     }
   ]
 }
