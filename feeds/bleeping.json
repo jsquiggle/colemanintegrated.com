@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T17:34:16Z",
+  "updated": "2025-10-14T18:16:01Z",
   "items": [
+    {
+      "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
+      "pubDate": "Tue, 14 Oct 2025 14:02:50 -0400"
+    },
+    {
+      "title": "Windows 11 KB5066835 and KB5066793 updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5066835-and-kb5066793-updates-released/",
+      "pubDate": "Tue, 14 Oct 2025 13:46:00 -0400"
+    },
+    {
+      "title": "US seizes $15 billion in crypto from 'pig butchering' kingpin",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/",
+      "pubDate": "Tue, 14 Oct 2025 13:37:43 -0400"
+    },
     {
       "title": "Oracles silently fixes zero-day exploit leaked by ShinyHunters",
       "link": "https://www.bleepingcomputer.com/news/security/oracles-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/",
@@ -46,21 +61,6 @@
       "title": "Massive multi-country botnet targets RDP services in the US",
       "link": "https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/",
       "pubDate": "Mon, 13 Oct 2025 14:05:56 -0400"
-    },
-    {
-      "title": "SonicWall VPN accounts breached using stolen creds in widespread attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/",
-      "pubDate": "Mon, 13 Oct 2025 11:58:45 -0400"
-    },
-    {
-      "title": "Microsoft investigates outage affecting Microsoft 365 apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/",
-      "pubDate": "Mon, 13 Oct 2025 11:58:17 -0400"
-    },
-    {
-      "title": "Oracle releases emergency patch for new E-Business Suite flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
-      "pubDate": "Mon, 13 Oct 2025 10:42:16 -0400"
     }
   ]
 }
