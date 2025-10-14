@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T18:45:28Z",
+  "updated": "2025-10-14T19:08:07Z",
   "items": [
+    {
+      "title": "Final Windows 10 Patch Tuesday update rolls out as support ends",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/",
+      "pubDate": "Tue, 14 Oct 2025 15:07:49 -0400"
+    },
+    {
+      "title": "New Android Pixnapping attack steals MFA codes pixel-by-pixel",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/",
+      "pubDate": "Tue, 14 Oct 2025 14:46:47 -0400"
+    },
     {
       "title": "Microsoft: Exchange 2016 and 2019 have reached end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/",
@@ -51,16 +61,6 @@
       "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
       "pubDate": "Tue, 14 Oct 2025 08:28:03 -0400"
-    },
-    {
-      "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
-      "pubDate": "Mon, 13 Oct 2025 17:51:47 -0400"
-    },
-    {
-      "title": "SimonMed says 1.2 million patients impacted in January data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/",
-      "pubDate": "Mon, 13 Oct 2025 16:12:04 -0400"
     }
   ]
 }
