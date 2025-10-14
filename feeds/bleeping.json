@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T21:33:03Z",
+  "updated": "2025-10-14T22:10:36Z",
   "items": [
+    {
+      "title": "Malicious crypto-stealing VSCode extensions resurface on OpenVSX",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/",
+      "pubDate": "Tue, 14 Oct 2025 17:35:12 -0400"
+    },
     {
       "title": "Final Windows 10 Patch Tuesday update rolls out as support ends",
       "link": "https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/",
@@ -56,11 +61,6 @@
       "title": "Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops",
       "link": "https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/",
       "pubDate": "Tue, 14 Oct 2025 09:22:14 -0400"
-    },
-    {
-      "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
-      "pubDate": "Tue, 14 Oct 2025 08:28:03 -0400"
     }
   ]
 }
