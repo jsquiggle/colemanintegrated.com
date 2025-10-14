@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T16:13:07Z",
+  "updated": "2025-10-14T16:43:38Z",
   "items": [
+    {
+      "title": "Oracles silently fixes zero-day exploit leaked by ShinyHunters",
+      "link": "https://www.bleepingcomputer.com/news/security/oracles-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/",
+      "pubDate": "Tue, 14 Oct 2025 12:38:48 -0400"
+    },
     {
       "title": "Microsoft warns that Windows 10 reaches end of support today",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/",
@@ -56,11 +61,6 @@
       "title": "Oracle releases emergency patch for new E-Business Suite flaw",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/",
       "pubDate": "Mon, 13 Oct 2025 10:42:16 -0400"
-    },
-    {
-      "title": "Meet Varonis Interceptor: AI-Native Email Security",
-      "link": "https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/",
-      "pubDate": "Mon, 13 Oct 2025 10:04:14 -0400"
     }
   ]
 }
