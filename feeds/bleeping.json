@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-14T12:21:30Z",
+  "updated": "2025-10-14T13:05:02Z",
   "items": [
+    {
+      "title": "Chinese hackers abuse geo-mapping tool for year-long persistence",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/",
+      "pubDate": "Tue, 14 Oct 2025 08:28:03 -0400"
+    },
     {
       "title": "Microsoft restricts IE mode access in Edge after zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/",
@@ -56,11 +61,6 @@
       "title": "Spain dismantles \u201cGXC Team\u201d cybercrime syndicate, arrests leader",
       "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
       "pubDate": "Sat, 11 Oct 2025 10:17:42 -0400"
-    },
-    {
-      "title": "Windows 11 23H2 Home and Pro reach end of support in 30 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/",
-      "pubDate": "Fri, 10 Oct 2025 15:34:13 -0400"
     }
   ]
 }
