@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T20:38:49Z",
+  "updated": "2025-10-15T21:09:33Z",
   "items": [
+    {
+      "title": "Capita to pay \u00a314 million for data breach impacting 6.6 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/",
+      "pubDate": "Wed, 15 Oct 2025 16:53:05 -0400"
+    },
     {
       "title": "PowerSchool hacker gets sentenced to four years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Exchange 2016 and 2019 have reached end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/",
       "pubDate": "Tue, 14 Oct 2025 14:26:16 -0400"
-    },
-    {
-      "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
-      "pubDate": "Tue, 14 Oct 2025 14:02:50 -0400"
     }
   ]
 }
