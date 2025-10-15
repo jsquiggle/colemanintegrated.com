@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T19:08:50Z",
+  "updated": "2025-10-15T19:32:46Z",
   "items": [
+    {
+      "title": "Fake LastPass, Bitwarden breach alerts lead to PC hijacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/",
+      "pubDate": "Wed, 15 Oct 2025 15:22:08 -0400"
+    },
     {
       "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
@@ -51,16 +56,6 @@
       "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
       "pubDate": "Tue, 14 Oct 2025 14:02:50 -0400"
-    },
-    {
-      "title": "Windows 11 KB5066835 and KB5066793 updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5066835-and-kb5066793-updates-released/",
-      "pubDate": "Tue, 14 Oct 2025 13:46:00 -0400"
-    },
-    {
-      "title": "US seizes $15 billion in crypto from 'pig butchering' kingpin",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/",
-      "pubDate": "Tue, 14 Oct 2025 13:37:43 -0400"
     }
   ]
 }
