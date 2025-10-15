@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T15:11:40Z",
+  "updated": "2025-10-15T15:36:29Z",
   "items": [
+    {
+      "title": "Clothing giant MANGO discloses data breach exposing customer info",
+      "link": "https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/",
+      "pubDate": "Wed, 15 Oct 2025 11:18:28 -0400"
+    },
     {
       "title": "How to spot dark web threats on your network using NDR",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/",
@@ -56,11 +61,6 @@
       "title": "Microsoft warns that Windows 10 reaches end of support today",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/",
       "pubDate": "Tue, 14 Oct 2025 10:54:35 -0400"
-    },
-    {
-      "title": "Security firms dispute credit for overlapping CVE reports",
-      "link": "https://www.bleepingcomputer.com/news/security/security-firms-dispute-credit-for-overlapping-cve-reports/",
-      "pubDate": "Tue, 14 Oct 2025 10:52:13 -0400"
     }
   ]
 }
