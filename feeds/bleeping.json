@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T17:37:23Z",
+  "updated": "2025-10-15T18:16:17Z",
   "items": [
+    {
+      "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
+      "pubDate": "Wed, 15 Oct 2025 14:01:34 -0400"
+    },
     {
       "title": "Microsoft: Sept Windows Server updates cause Active Directory issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/",
@@ -56,11 +61,6 @@
       "title": "US seizes $15 billion in crypto from 'pig butchering' kingpin",
       "link": "https://www.bleepingcomputer.com/news/security/us-seizes-15-billion-in-crypto-from-pig-butchering-kingpin/",
       "pubDate": "Tue, 14 Oct 2025 13:37:43 -0400"
-    },
-    {
-      "title": "Oracle silently fixes zero-day exploit leaked by ShinyHunters",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/",
-      "pubDate": "Tue, 14 Oct 2025 12:38:48 -0400"
     }
   ]
 }

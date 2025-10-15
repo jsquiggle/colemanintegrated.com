@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-15T17:37:23Z",
+  "updated": "2025-10-15T18:16:17Z",
   "items": [
+    {
+      "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
+      "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
+      "pubDate": "Wed, 15 Oct 2025 22:58:00 +0530"
+    },
     {
       "title": "F5 Breach Exposes BIG-IP Source Code \u2014 Nation-State Hackers Behind Massive Intrusion",
       "link": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
@@ -56,11 +61,6 @@
       "title": "New Pixnapping Android Flaw Lets Rogue Apps Steal 2FA Codes Without Permissions",
       "link": "https://thehackernews.com/2025/10/new-pixnapping-android-flaw-lets-rogue.html",
       "pubDate": "Tue, 14 Oct 2025 16:48:00 +0530"
-    },
-    {
-      "title": "What AI Reveals About Web Applications\u2014 and Why It Matters",
-      "link": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-      "pubDate": "Tue, 14 Oct 2025 16:30:00 +0530"
     }
   ]
 }
