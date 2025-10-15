@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T13:04:54Z",
+  "updated": "2025-10-15T13:46:04Z",
   "items": [
+    {
+      "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-to-steal-undisclosed-big-ip-flaws-source-code/",
+      "pubDate": "Wed, 15 Oct 2025 09:32:07 -0400"
+    },
     {
       "title": "Malicious crypto-stealing VSCode extensions resurface on OpenVSX",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/",
@@ -56,11 +61,6 @@
       "title": "When AI Agents Join the Teams: The Hidden Security Shifts No One Expects",
       "link": "https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/",
       "pubDate": "Tue, 14 Oct 2025 10:01:02 -0400"
-    },
-    {
-      "title": "Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/",
-      "pubDate": "Tue, 14 Oct 2025 09:22:14 -0400"
     }
   ]
 }
