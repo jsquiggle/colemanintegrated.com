@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T15:36:29Z",
+  "updated": "2025-10-15T16:11:35Z",
   "items": [
+    {
+      "title": "Microsoft: Sept Windows Server updates cause Active Directory issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/",
+      "pubDate": "Wed, 15 Oct 2025 11:54:51 -0400"
+    },
     {
       "title": "Clothing giant MANGO discloses data breach exposing customer info",
       "link": "https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/",
@@ -56,11 +61,6 @@
       "title": "Oracle silently fixes zero-day exploit leaked by ShinyHunters",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-silently-fixes-zero-day-exploit-leaked-by-shinyhunters/",
       "pubDate": "Tue, 14 Oct 2025 12:38:48 -0400"
-    },
-    {
-      "title": "Microsoft warns that Windows 10 reaches end of support today",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-that-windows-10-reaches-end-of-support-today/",
-      "pubDate": "Tue, 14 Oct 2025 10:54:35 -0400"
     }
   ]
 }
