@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-15T16:41:47Z",
+  "updated": "2025-10-15T17:09:51Z",
   "items": [
+    {
+      "title": "F5 Breach Exposes BIG-IP Source Code \u2014 Nation-State Hackers Behind Massive Intrusion",
+      "link": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
+      "pubDate": "Wed, 15 Oct 2025 21:36:00 +0530"
+    },
     {
       "title": "Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks",
       "link": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
@@ -56,11 +61,6 @@
       "title": "What AI Reveals About Web Applications\u2014 and Why It Matters",
       "link": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
       "pubDate": "Tue, 14 Oct 2025 16:30:00 +0530"
-    },
-    {
-      "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
-      "link": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-      "pubDate": "Tue, 14 Oct 2025 12:39:00 +0530"
     }
   ]
 }
