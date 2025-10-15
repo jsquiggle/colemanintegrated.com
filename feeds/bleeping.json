@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T19:32:46Z",
+  "updated": "2025-10-15T20:12:16Z",
   "items": [
+    {
+      "title": "PowerSchool hacker gets sentenced to four years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/",
+      "pubDate": "Wed, 15 Oct 2025 15:41:51 -0400"
+    },
     {
       "title": "Fake LastPass, Bitwarden breach alerts lead to PC hijacks",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/",
