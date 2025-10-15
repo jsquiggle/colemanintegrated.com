@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-15T07:36:53Z",
+  "updated": "2025-10-15T08:15:41Z",
   "items": [
+    {
+      "title": "Two CVSS 10.0 Bugs in Red Lion RTUs Could Hand Hackers Full Industrial Control",
+      "link": "https://thehackernews.com/2025/10/two-cvss-100-bugs-in-red-lion-rtus.html",
+      "pubDate": "Wed, 15 Oct 2025 12:20:00 +0530"
+    },
+    {
+      "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
+      "link": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
+      "pubDate": "Wed, 15 Oct 2025 11:46:00 +0530"
+    },
     {
       "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
       "link": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
@@ -51,16 +61,6 @@
       "title": "Why Unmonitored JavaScript Is Your Biggest Holiday Security Risk",
       "link": "https://thehackernews.com/2025/10/why-unmonitored-javascript-is-your.html",
       "pubDate": "Mon, 13 Oct 2025 17:20:00 +0530"
-    },
-    {
-      "title": "Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+ Vendors",
-      "link": "https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html",
-      "pubDate": "Mon, 13 Oct 2025 15:42:00 +0530"
-    },
-    {
-      "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor",
-      "link": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
-      "pubDate": "Mon, 13 Oct 2025 15:24:00 +0530"
     }
   ]
 }
