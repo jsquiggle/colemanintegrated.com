@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-15T23:32:34Z",
+  "updated": "2025-10-16T00:50:13Z",
   "items": [
+    {
+      "title": "YouTube is down worldwide with playback error",
+      "link": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
+      "pubDate": "Wed, 15 Oct 2025 20:09:53 -0400"
+    },
     {
       "title": "Capita to pay \u00a314 million for data breach impacting 6.6 million people",
       "link": "https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/",
@@ -56,11 +61,6 @@
       "title": "New Android Pixnapping attack steals MFA codes pixel-by-pixel",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/",
       "pubDate": "Tue, 14 Oct 2025 14:46:47 -0400"
-    },
-    {
-      "title": "Microsoft: Exchange 2016 and 2019 have reached end of support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-have-reached-end-of-support/",
-      "pubDate": "Tue, 14 Oct 2025 14:26:16 -0400"
     }
   ]
 }
