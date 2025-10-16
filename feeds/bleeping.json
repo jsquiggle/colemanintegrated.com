@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-16T12:21:35Z",
+  "updated": "2025-10-16T13:04:22Z",
   "items": [
+    {
+      "title": "Microsoft adds Copilot voice activation on Windows 11 PCs",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 -0400"
+    },
+    {
+      "title": "Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/",
+      "pubDate": "Thu, 16 Oct 2025 09:00:00 -0400"
+    },
     {
       "title": "YouTube is down worldwide with playback error",
       "link": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
@@ -51,16 +61,6 @@
       "title": "Malicious crypto-stealing VSCode extensions resurface on OpenVSX",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/",
       "pubDate": "Tue, 14 Oct 2025 17:35:12 -0400"
-    },
-    {
-      "title": "Final Windows 10 Patch Tuesday update rolls out as support ends",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/final-windows-10-patch-tuesday-update-rolls-out-as-support-ends/",
-      "pubDate": "Tue, 14 Oct 2025 15:07:49 -0400"
-    },
-    {
-      "title": "New Android Pixnapping attack steals MFA codes pixel-by-pixel",
-      "link": "https://www.bleepingcomputer.com/news/security/new-android-pixnapping-attack-steals-mfa-codes-pixel-by-pixel/",
-      "pubDate": "Tue, 14 Oct 2025 14:46:47 -0400"
     }
   ]
 }
