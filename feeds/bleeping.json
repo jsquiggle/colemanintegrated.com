@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-16T22:07:53Z",
+  "updated": "2025-10-16T22:34:34Z",
   "items": [
+    {
+      "title": "Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/",
+      "pubDate": "Thu, 16 Oct 2025 18:25:46 -0400"
+    },
     {
       "title": "Auction giant Sotheby\u2019s says data breach exposed customer information",
       "link": "https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-customer-information/",
@@ -56,11 +61,6 @@
       "title": "Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/",
       "pubDate": "Thu, 16 Oct 2025 09:00:00 -0400"
-    },
-    {
-      "title": "YouTube is down worldwide with playback error",
-      "link": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
-      "pubDate": "Wed, 15 Oct 2025 20:09:53 -0400"
     }
   ]
 }
