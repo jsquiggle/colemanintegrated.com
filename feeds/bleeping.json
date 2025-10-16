@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-16T15:39:10Z",
+  "updated": "2025-10-16T16:13:46Z",
   "items": [
+    {
+      "title": "Microsoft: Office 2016 and Office 2019 have reach end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/",
+      "pubDate": "Thu, 16 Oct 2025 11:50:04 -0400"
+    },
     {
       "title": "Gladinet fixes actively exploited zero-day in file-sharing software",
       "link": "https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/",
@@ -56,11 +61,6 @@
       "title": "F5 releases BIG-IP patches for stolen security vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/",
       "pubDate": "Wed, 15 Oct 2025 14:01:34 -0400"
-    },
-    {
-      "title": "Microsoft: Sept Windows Server updates cause Active Directory issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/",
-      "pubDate": "Wed, 15 Oct 2025 11:54:51 -0400"
     }
   ]
 }
