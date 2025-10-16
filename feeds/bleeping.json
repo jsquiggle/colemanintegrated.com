@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-16T19:07:35Z",
+  "updated": "2025-10-16T19:32:31Z",
   "items": [
+    {
+      "title": "Auction giant Sotheby\u2019s says data breach exposed customer information",
+      "link": "https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-customer-information/",
+      "pubDate": "Thu, 16 Oct 2025 15:24:13 -0400"
+    },
+    {
+      "title": "Have I Been Pwned: Prosper data breach impacts 17.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/",
+      "pubDate": "Thu, 16 Oct 2025 15:19:49 -0400"
+    },
     {
       "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
@@ -51,16 +61,6 @@
       "title": "YouTube is down worldwide with playback error",
       "link": "https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/",
       "pubDate": "Wed, 15 Oct 2025 20:09:53 -0400"
-    },
-    {
-      "title": "Capita to pay \u00a314 million for data breach impacting 6.6 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/",
-      "pubDate": "Wed, 15 Oct 2025 16:53:05 -0400"
-    },
-    {
-      "title": "PowerSchool hacker gets sentenced to four years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/",
-      "pubDate": "Wed, 15 Oct 2025 15:41:51 -0400"
     }
   ]
 }
