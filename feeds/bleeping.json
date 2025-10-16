@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-16T17:37:37Z",
+  "updated": "2025-10-16T18:15:38Z",
   "items": [
+    {
+      "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
+      "pubDate": "Thu, 16 Oct 2025 14:13:32 -0400"
+    },
     {
       "title": "Microsoft disrupts ransomware attacks targeting Teams users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/",
@@ -56,11 +61,6 @@
       "title": "PowerSchool hacker gets sentenced to four years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/",
       "pubDate": "Wed, 15 Oct 2025 15:41:51 -0400"
-    },
-    {
-      "title": "Fake LastPass, Bitwarden breach alerts lead to PC hijacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-bitwarden-breach-alerts-lead-to-pc-hijacks/",
-      "pubDate": "Wed, 15 Oct 2025 15:22:08 -0400"
     }
   ]
 }
