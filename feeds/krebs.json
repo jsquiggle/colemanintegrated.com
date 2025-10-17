@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-10-17T11:09:00Z",
+  "updated": "2025-10-17T11:32:59Z",
   "items": [
+    {
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "pubDate": "Fri, 17 Oct 2025 11:26:27 +0000"
+    },
     {
       "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
       "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
@@ -46,11 +51,6 @@
       "title": "GOP Cries Censorship Over Spam Filters That Work",
       "link": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
       "pubDate": "Sat, 06 Sep 2025 03:23:35 +0000"
-    },
-    {
-      "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
-      "link": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
-      "pubDate": "Mon, 01 Sep 2025 21:55:04 +0000"
     }
   ]
 }
