@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-17T03:46:13Z",
+  "updated": "2025-10-17T04:13:14Z",
   "items": [
     {
       "title": "Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections",
@@ -28,7 +28,7 @@
       "pubDate": "Thu, 16 Oct 2025 12:58:36 -0400"
     },
     {
-      "title": "Microsoft: Office 2016 and Office 2019 have reach end of support",
+      "title": "Microsoft: Office 2016 and Office 2019 have reached end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/",
       "pubDate": "Thu, 16 Oct 2025 11:50:04 -0400"
     },
