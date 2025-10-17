@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-17T11:32:59Z",
+  "updated": "2025-10-17T12:20:41Z",
   "items": [
+    {
+      "title": "Identity Security: Your First and Last Line of Defense",
+      "link": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+      "pubDate": "Fri, 17 Oct 2025 16:30:00 +0530"
+    },
     {
       "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
       "link": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
@@ -56,11 +61,6 @@
       "title": "Chinese Threat Group 'Jewelbug' Quietly Infiltrated Russian IT Network for Months",
       "link": "https://thehackernews.com/2025/10/chinese-threat-group-jewelbug-quietly.html",
       "pubDate": "Wed, 15 Oct 2025 22:58:00 +0530"
-    },
-    {
-      "title": "F5 Breach Exposes BIG-IP Source Code \u2014 Nation-State Hackers Behind Massive Intrusion",
-      "link": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
-      "pubDate": "Wed, 15 Oct 2025 21:36:00 +0530"
     }
   ]
 }

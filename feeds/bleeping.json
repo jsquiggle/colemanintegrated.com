@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-17T11:32:59Z",
+  "updated": "2025-10-17T12:20:41Z",
   "items": [
+    {
+      "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
+      "pubDate": "Fri, 17 Oct 2025 08:16:23 -0400"
+    },
     {
       "title": "Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/",
@@ -55,11 +60,6 @@
     {
       "title": "Microsoft adds Copilot voice activation on Windows 11 PCs",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/",
-      "pubDate": "Thu, 16 Oct 2025 09:00:00 -0400"
-    },
-    {
-      "title": "Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/",
       "pubDate": "Thu, 16 Oct 2025 09:00:00 -0400"
     }
   ]
