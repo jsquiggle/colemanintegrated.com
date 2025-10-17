@@ -1,5 +1,66 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-17T19:08:27Z",
-  "items": []
+  "updated": "2025-10-17T19:32:45Z",
+  "items": [
+    {
+      "title": "ConnectWise fixes Automate bug allowing AiTM update attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/",
+      "pubDate": "Fri, 17 Oct 2025 15:29:22 -0400"
+    },
+    {
+      "title": "American Airlines subsidiary Envoy confirms Oracle data theft attack",
+      "link": "https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/",
+      "pubDate": "Fri, 17 Oct 2025 15:11:52 -0400"
+    },
+    {
+      "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/",
+      "pubDate": "Fri, 17 Oct 2025 13:22:16 -0400"
+    },
+    {
+      "title": "Europol dismantles SIM box operation renting numbers for cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/",
+      "pubDate": "Fri, 17 Oct 2025 13:01:51 -0400"
+    },
+    {
+      "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
+      "pubDate": "Fri, 17 Oct 2025 11:35:49 -0400"
+    },
+    {
+      "title": "VMware Certification: Your Next Career Power Move",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-certification-your-next-career-power-move/",
+      "pubDate": "Fri, 17 Oct 2025 10:02:12 -0400"
+    },
+    {
+      "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/",
+      "pubDate": "Fri, 17 Oct 2025 09:58:27 -0400"
+    },
+    {
+      "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
+      "pubDate": "Fri, 17 Oct 2025 08:16:23 -0400"
+    },
+    {
+      "title": "Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/",
+      "pubDate": "Thu, 16 Oct 2025 18:25:46 -0400"
+    },
+    {
+      "title": "Auction giant Sotheby\u2019s says data breach exposed financial information",
+      "link": "https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-financial-information/",
+      "pubDate": "Thu, 16 Oct 2025 15:24:13 -0400"
+    },
+    {
+      "title": "Have I Been Pwned: Prosper data breach impacts 17.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/",
+      "pubDate": "Thu, 16 Oct 2025 15:19:49 -0400"
+    },
+    {
+      "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
+      "pubDate": "Thu, 16 Oct 2025 14:13:32 -0400"
+    }
+  ]
 }
