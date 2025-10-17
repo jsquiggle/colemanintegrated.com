@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-17T13:41:52Z",
+  "updated": "2025-10-17T14:10:58Z",
   "items": [
+    {
+      "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/",
+      "pubDate": "Fri, 17 Oct 2025 09:58:27 -0400"
+    },
     {
       "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
@@ -56,11 +61,6 @@
       "title": "North Korean hackers use EtherHiding to hide malware on the blockchain",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-etherhiding-to-hide-malware-on-the-blockchain/",
       "pubDate": "Thu, 16 Oct 2025 10:00:00 -0400"
-    },
-    {
-      "title": "Microsoft adds Copilot voice activation on Windows 11 PCs",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/",
-      "pubDate": "Thu, 16 Oct 2025 09:00:00 -0400"
     }
   ]
 }
