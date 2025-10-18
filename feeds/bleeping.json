@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-18T14:34:45Z",
+  "updated": "2025-10-18T15:08:53Z",
   "items": [
+    {
+      "title": "Google ads for fake Homebrew, LogMeIn sites push infostealers",
+      "link": "https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/",
+      "pubDate": "Sat, 18 Oct 2025 11:02:19 -0400"
+    },
     {
       "title": "ConnectWise fixes Automate bug allowing AiTM update attacks",
       "link": "https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/",
@@ -56,11 +61,6 @@
       "title": "Have I Been Pwned: Prosper data breach impacts 17.6 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/",
       "pubDate": "Thu, 16 Oct 2025 15:19:49 -0400"
-    },
-    {
-      "title": "Hackers exploit Cisco SNMP flaw to deploy rootkit on switches",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/",
-      "pubDate": "Thu, 16 Oct 2025 14:13:32 -0400"
     }
   ]
 }
