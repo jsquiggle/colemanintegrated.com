@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-19T18:13:39Z",
+  "updated": "2025-10-19T18:41:56Z",
   "items": [
+    {
+      "title": "TikTok videos continue to push infostealers in ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/",
+      "pubDate": "Sun, 19 Oct 2025 14:28:25 -0400"
+    },
+    {
+      "title": "Experian fined $3.2 million for mass-collecting personal data",
+      "link": "https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/",
+      "pubDate": "Sun, 19 Oct 2025 10:24:36 -0400"
+    },
     {
       "title": "OpenAI confirms GPT-6 is not shipping in 2025",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/",
@@ -51,16 +61,6 @@
       "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
       "pubDate": "Fri, 17 Oct 2025 08:16:23 -0400"
-    },
-    {
-      "title": "Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/",
-      "pubDate": "Thu, 16 Oct 2025 18:25:46 -0400"
-    },
-    {
-      "title": "Auction giant Sotheby\u2019s says data breach exposed financial information",
-      "link": "https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-financial-information/",
-      "pubDate": "Thu, 16 Oct 2025 15:24:13 -0400"
     }
   ]
 }
