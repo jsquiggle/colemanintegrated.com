@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T08:15:26Z",
+  "updated": "2025-10-20T08:43:59Z",
   "items": [
+    {
+      "title": "AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more",
+      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/",
+      "pubDate": "Mon, 20 Oct 2025 04:24:25 -0400"
+    },
     {
       "title": "TikTok videos continue to push infostealers in ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Windows bug breaking localhost HTTP connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-breaking-localhost-http-connections/",
       "pubDate": "Fri, 17 Oct 2025 09:58:27 -0400"
-    },
-    {
-      "title": "Over 266,000 F5 BIG-IP instances exposed to remote attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-266-000-f5-big-ip-instances-exposed-to-remote-attacks/",
-      "pubDate": "Fri, 17 Oct 2025 08:16:23 -0400"
     }
   ]
 }
