@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T15:11:02Z",
+  "updated": "2025-10-20T15:37:46Z",
   "items": [
+    {
+      "title": "Microsoft fixes Windows Server Active Directory sync issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
+      "pubDate": "Mon, 20 Oct 2025 11:27:59 -0400"
+    },
     {
       "title": "Microsoft warns of Windows smart card auth issues after October updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-security-updates-cause-windows-smart-card-auth-issues/",
@@ -56,11 +61,6 @@
       "title": "Europol dismantles SIM box operation renting numbers for cybercrime",
       "link": "https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/",
       "pubDate": "Fri, 17 Oct 2025 13:01:51 -0400"
-    },
-    {
-      "title": "Microsoft fixes highest-severity ASP.NET Core flaw ever",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-highest-severity-aspnet-core-flaw-ever/",
-      "pubDate": "Fri, 17 Oct 2025 11:35:49 -0400"
     }
   ]
 }
