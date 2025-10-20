@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T16:12:58Z",
+  "updated": "2025-10-20T16:43:58Z",
   "items": [
+    {
+      "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
+      "link": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
+      "pubDate": "Mon, 20 Oct 2025 12:13:20 -0400"
+    },
     {
       "title": "Microsoft fixes Windows Server Active Directory sync issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-active-directory-sync-issues/",
@@ -19,7 +24,7 @@
     },
     {
       "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
-      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/",
+      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-prime-video-fortnite-perplexity-and-more/",
       "pubDate": "Mon, 20 Oct 2025 04:24:25 -0400"
     },
     {
@@ -56,11 +61,6 @@
       "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/",
       "pubDate": "Fri, 17 Oct 2025 13:22:16 -0400"
-    },
-    {
-      "title": "Europol dismantles SIM box operation renting numbers for cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/",
-      "pubDate": "Fri, 17 Oct 2025 13:01:51 -0400"
     }
   ]
 }
