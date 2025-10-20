@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T17:09:22Z",
+  "updated": "2025-10-20T17:37:03Z",
   "items": [
+    {
+      "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
+      "pubDate": "Mon, 20 Oct 2025 13:18:16 -0400"
+    },
     {
       "title": "Self-spreading GlassWorm malware hits OpenVSX,  VS Code registries",
       "link": "https://www.bleepingcomputer.com/news/security/self-spreading-glassworm-malware-hits-openvsx-vs-code-registries/",
@@ -56,11 +61,6 @@
       "title": "American Airlines subsidiary Envoy confirms Oracle data theft attack",
       "link": "https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/",
       "pubDate": "Fri, 17 Oct 2025 15:11:52 -0400"
-    },
-    {
-      "title": "Microsoft lifts more safeguard holds blocking Windows 11 updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/",
-      "pubDate": "Fri, 17 Oct 2025 13:22:16 -0400"
     }
   ]
 }
