@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T20:39:42Z",
+  "updated": "2025-10-20T21:09:44Z",
   "items": [
+    {
+      "title": "DNS0.EU private DNS service shuts down over sustainability issues",
+      "link": "https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/",
+      "pubDate": "Mon, 20 Oct 2025 17:05:17 -0400"
+    },
     {
       "title": "Microsoft: October updates break USB input in Windows Recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/",
@@ -56,11 +61,6 @@
       "title": "Experian fined $3.2 million for mass-collecting personal data",
       "link": "https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/",
       "pubDate": "Sun, 19 Oct 2025 10:24:36 -0400"
-    },
-    {
-      "title": "OpenAI confirms GPT-6 is not shipping in 2025",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/",
-      "pubDate": "Sat, 18 Oct 2025 17:51:29 -0400"
     }
   ]
 }
