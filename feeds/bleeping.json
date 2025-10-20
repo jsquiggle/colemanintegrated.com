@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T18:16:07Z",
+  "updated": "2025-10-20T18:47:56Z",
   "items": [
+    {
+      "title": "Retail giant Muji halts online sales after ransomware attack on supplier",
+      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/",
+      "pubDate": "Mon, 20 Oct 2025 14:45:33 -0400"
+    },
     {
       "title": "Over 75,000 WatchGuard security devices vulnerable to critical RCE",
       "link": "https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/",
@@ -56,11 +61,6 @@
       "title": "Google ads for fake Homebrew, LogMeIn sites push infostealers",
       "link": "https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/",
       "pubDate": "Sat, 18 Oct 2025 11:02:19 -0400"
-    },
-    {
-      "title": "ConnectWise fixes Automate bug allowing AiTM update attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/",
-      "pubDate": "Fri, 17 Oct 2025 15:29:22 -0400"
     }
   ]
 }
