@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-20T06:17:07Z",
+  "updated": "2025-10-20T06:48:14Z",
   "items": [
+    {
+      "title": "MSS Claims NSA Used 42 Cyber Tools in Multi-Stage Attack on Beijing Time Systems",
+      "link": "https://thehackernews.com/2025/10/mss-claims-nsa-used-42-cyber-tools-in.html",
+      "pubDate": "Mon, 20 Oct 2025 11:02:00 +0530"
+    },
     {
       "title": "Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide",
       "link": "https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html",
@@ -56,11 +61,6 @@
       "title": "Architectures, Risks, and Adoption: How to Assess and Choose the Right AI-SOC Platform",
       "link": "https://thehackernews.com/2025/10/architectures-risks-and-adoption-how-to.html",
       "pubDate": "Thu, 16 Oct 2025 17:25:00 +0530"
-    },
-    {
-      "title": "Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in 'Zero Disco' Attacks",
-      "link": "https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html",
-      "pubDate": "Thu, 16 Oct 2025 17:08:00 +0530"
     }
   ]
 }
