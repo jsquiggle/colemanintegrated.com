@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-20T17:37:03Z",
+  "updated": "2025-10-20T18:16:07Z",
   "items": [
+    {
+      "title": "Over 75,000 WatchGuard security devices vulnerable to critical RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/",
+      "pubDate": "Mon, 20 Oct 2025 13:42:08 -0400"
+    },
     {
       "title": "CISA: High-severity Windows SMB flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-high-severity-windows-smb-flaw-now-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "ConnectWise fixes Automate bug allowing AiTM update attacks",
       "link": "https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/",
       "pubDate": "Fri, 17 Oct 2025 15:29:22 -0400"
-    },
-    {
-      "title": "American Airlines subsidiary Envoy confirms Oracle data theft attack",
-      "link": "https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/",
-      "pubDate": "Fri, 17 Oct 2025 15:11:52 -0400"
     }
   ]
 }
