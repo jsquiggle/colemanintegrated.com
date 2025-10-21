@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-21T13:48:34Z",
+  "updated": "2025-10-21T14:10:58Z",
   "items": [
+    {
+      "title": "Maximizing gateway security: Beyond the basic configuration",
+      "link": "https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/",
+      "pubDate": "Tue, 21 Oct 2025 10:01:11 -0400"
+    },
     {
       "title": "Microsoft fixes bug preventing users from opening classic Outlook",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/",
@@ -56,11 +61,6 @@
       "title": "Find hidden malicious OAuth apps in Microsoft 365 using Cazadora",
       "link": "https://www.bleepingcomputer.com/news/security/find-hidden-malicious-oauth-apps-in-microsoft-365-using-cazadora/",
       "pubDate": "Mon, 20 Oct 2025 10:00:10 -0400"
-    },
-    {
-      "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
-      "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-prime-video-fortnite-perplexity-and-more/",
-      "pubDate": "Mon, 20 Oct 2025 04:24:25 -0400"
     }
   ]
 }
