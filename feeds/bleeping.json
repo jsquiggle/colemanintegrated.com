@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-21T08:52:19Z",
+  "updated": "2025-10-21T09:13:34Z",
   "items": [
+    {
+      "title": "Windows 11 KB5070773 emergency update fixes Windows Recovery issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/",
+      "pubDate": "Tue, 21 Oct 2025 05:01:44 -0400"
+    },
     {
       "title": "DNS0.EU private DNS service shuts down over sustainability issues",
       "link": "https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/",
@@ -56,11 +61,6 @@
       "title": "TikTok videos continue to push infostealers in ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/",
       "pubDate": "Sun, 19 Oct 2025 14:28:25 -0400"
-    },
-    {
-      "title": "Experian fined $3.2 million for mass-collecting personal data",
-      "link": "https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/",
-      "pubDate": "Sun, 19 Oct 2025 10:24:36 -0400"
     }
   ]
 }
