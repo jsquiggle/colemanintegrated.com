@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-21T12:21:48Z",
+  "updated": "2025-10-21T13:06:01Z",
   "items": [
+    {
+      "title": "Microsoft fixes bug preventing users from opening classic Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/",
+      "pubDate": "Tue, 21 Oct 2025 08:59:48 -0400"
+    },
     {
       "title": "Windows 11 KB5070773 emergency update fixes Windows Recovery issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/",
@@ -56,11 +61,6 @@
       "title": "AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more",
       "link": "https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-prime-video-fortnite-perplexity-and-more/",
       "pubDate": "Mon, 20 Oct 2025 04:24:25 -0400"
-    },
-    {
-      "title": "TikTok videos continue to push infostealers in ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/",
-      "pubDate": "Sun, 19 Oct 2025 14:28:25 -0400"
     }
   ]
 }
