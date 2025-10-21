@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-21T22:09:58Z",
+  "updated": "2025-10-21T22:35:36Z",
   "items": [
+    {
+      "title": "Vidar Stealer 2.0 adds multi-threaded data theft, better evasion",
+      "link": "https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/",
+      "pubDate": "Tue, 21 Oct 2025 18:26:02 -0400"
+    },
     {
       "title": "TP-Link warns of critical command injection flaw in Omada gateways",
       "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: October updates break USB input in Windows Recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/",
       "pubDate": "Mon, 20 Oct 2025 15:06:40 -0400"
-    },
-    {
-      "title": "Retail giant Muji halts online sales after ransomware attack on supplier",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/",
-      "pubDate": "Mon, 20 Oct 2025 14:45:33 -0400"
     }
   ]
 }
