@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-21T21:09:43Z",
+  "updated": "2025-10-21T21:32:55Z",
   "items": [
+    {
+      "title": "TP-Link warns of critical command injection flaw in Omada gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/",
+      "pubDate": "Tue, 21 Oct 2025 17:11:35 -0400"
+    },
     {
       "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
@@ -56,11 +61,6 @@
       "title": "Retail giant Muji halts online sales after ransomware attack on supplier",
       "link": "https://www.bleepingcomputer.com/news/security/retail-giant-muji-halts-online-sales-after-ransomware-attack-on-supplier/",
       "pubDate": "Mon, 20 Oct 2025 14:45:33 -0400"
-    },
-    {
-      "title": "Over 75,000 WatchGuard security devices vulnerable to critical RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/over-75-000-watchguard-security-devices-vulnerable-to-critical-rce/",
-      "pubDate": "Mon, 20 Oct 2025 13:42:08 -0400"
     }
   ]
 }
