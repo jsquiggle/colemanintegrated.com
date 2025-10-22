@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-22T10:12:32Z",
+  "updated": "2025-10-22T10:43:07Z",
   "items": [
+    {
+      "title": "Sharepoint ToolShell attacks targeted orgs across four continents",
+      "link": "https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/",
+      "pubDate": "Wed, 22 Oct 2025 06:24:29 -0400"
+    },
     {
       "title": "Vidar Stealer 2.0 adds multi-threaded data theft, better evasion",
       "link": "https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/",
@@ -56,11 +61,6 @@
       "title": "DNS0.EU private DNS service shuts down over sustainability issues",
       "link": "https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/",
       "pubDate": "Mon, 20 Oct 2025 17:05:17 -0400"
-    },
-    {
-      "title": "Microsoft: October updates break USB input in Windows Recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/",
-      "pubDate": "Mon, 20 Oct 2025 15:06:40 -0400"
     }
   ]
 }
