@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-22T13:06:52Z",
+  "updated": "2025-10-22T13:48:01Z",
   "items": [
+    {
+      "title": "PhantomCaptcha ClickFix attack targets Ukraine war relief orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/",
+      "pubDate": "Wed, 22 Oct 2025 09:37:17 -0400"
+    },
     {
       "title": "Sharepoint ToolShell attacks targeted orgs across four continents",
       "link": "https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5070773 emergency update fixes Windows Recovery issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/",
       "pubDate": "Tue, 21 Oct 2025 05:01:44 -0400"
-    },
-    {
-      "title": "DNS0.EU private DNS service shuts down over sustainability issues",
-      "link": "https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/",
-      "pubDate": "Mon, 20 Oct 2025 17:05:17 -0400"
     }
   ]
 }
