@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-22T18:16:57Z",
+  "updated": "2025-10-22T18:48:05Z",
   "items": [
+    {
+      "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
+      "pubDate": "Wed, 22 Oct 2025 14:41:37 -0400"
+    },
     {
       "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Recent Windows updates cause login issues on some PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/",
       "pubDate": "Tue, 21 Oct 2025 12:56:36 -0400"
-    },
-    {
-      "title": "Russian hackers evolve malware pushed in \"I am not a robot\" captchas",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/",
-      "pubDate": "Tue, 21 Oct 2025 11:13:19 -0400"
     }
   ]
 }
