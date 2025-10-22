@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-22T17:10:39Z",
+  "updated": "2025-10-22T17:35:04Z",
   "items": [
+    {
+      "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
+      "pubDate": "Wed, 22 Oct 2025 13:21:24 -0400"
+    },
     {
       "title": "Meta launches new anti-scam tools for WhatsApp and Messenger",
       "link": "https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/",
@@ -56,11 +61,6 @@
       "title": "Russian hackers evolve malware pushed in \"I am not a robot\" captchas",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/",
       "pubDate": "Tue, 21 Oct 2025 11:13:19 -0400"
-    },
-    {
-      "title": "Maximizing gateway security: Beyond the basic configuration",
-      "link": "https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/",
-      "pubDate": "Tue, 21 Oct 2025 10:01:11 -0400"
     }
   ]
 }
