@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-23T12:21:37Z",
+  "updated": "2025-10-23T13:05:27Z",
   "items": [
+    {
+      "title": "North Korean Lazarus hackers targeted European defense companies",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/",
+      "pubDate": "Thu, 23 Oct 2025 08:38:39 -0400"
+    },
     {
       "title": "Iranian hackers targeted over 100 govt orgs with Phoenix backdoor",
       "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-over-100-govt-orgs-with-phoenix-backdoor/",
@@ -56,11 +61,6 @@
       "title": "CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/",
       "pubDate": "Tue, 21 Oct 2025 15:15:34 -0400"
-    },
-    {
-      "title": "Cursor, Windsurf IDEs riddled with 94+ n-day Chromium vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-windsurf-ides-riddled-with-94-plus-n-day-chromium-vulnerabilities/",
-      "pubDate": "Tue, 21 Oct 2025 15:00:00 -0400"
     }
   ]
 }
