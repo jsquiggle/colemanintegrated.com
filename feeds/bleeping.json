@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-23T17:09:48Z",
+  "updated": "2025-10-23T17:37:20Z",
   "items": [
+    {
+      "title": "Meet the new Clippy: Microsoft unveils Copilot's \"Mico\" avatar",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/",
+      "pubDate": "Thu, 23 Oct 2025 13:28:59 -0400"
+    },
     {
       "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "FinWise data breach shows why encryption is your last defense",
       "link": "https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/",
       "pubDate": "Wed, 22 Oct 2025 11:11:21 -0400"
-    },
-    {
-      "title": "PhantomCaptcha ClickFix attack targets Ukraine war relief orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/",
-      "pubDate": "Wed, 22 Oct 2025 09:37:17 -0400"
     }
   ]
 }
