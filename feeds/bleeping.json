@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-23T22:10:06Z",
+  "updated": "2025-10-23T22:37:18Z",
   "items": [
+    {
+      "title": "Toys \u201cR\u201d Us Canada warns customers' info leaked in data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
+      "pubDate": "Thu, 23 Oct 2025 18:25:35 -0400"
+    },
     {
       "title": "HP pulls update that broke Microsoft Entra ID auth on some AI PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/",
@@ -56,11 +61,6 @@
       "title": "TARmageddon flaw in abandoned Rust library enables RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/",
       "pubDate": "Wed, 22 Oct 2025 13:21:24 -0400"
-    },
-    {
-      "title": "Meta launches new anti-scam tools for WhatsApp and Messenger",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/",
-      "pubDate": "Wed, 22 Oct 2025 11:11:54 -0400"
     }
   ]
 }
