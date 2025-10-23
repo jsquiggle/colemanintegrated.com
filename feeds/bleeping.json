@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-23T16:13:16Z",
+  "updated": "2025-10-23T16:44:15Z",
   "items": [
+    {
+      "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
+      "pubDate": "Thu, 23 Oct 2025 12:24:06 -0400"
+    },
     {
       "title": "Microsoft disables File Explorer preview for downloads to block attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "PhantomCaptcha ClickFix attack targets Ukraine war relief orgs",
       "link": "https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/",
       "pubDate": "Wed, 22 Oct 2025 09:37:17 -0400"
-    },
-    {
-      "title": "Sharepoint ToolShell attacks targeted orgs across four continents",
-      "link": "https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/",
-      "pubDate": "Wed, 22 Oct 2025 06:24:29 -0400"
     }
   ]
 }
