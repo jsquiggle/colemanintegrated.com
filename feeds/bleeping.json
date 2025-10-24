@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-24T19:08:45Z",
+  "updated": "2025-10-24T19:32:57Z",
   "items": [
+    {
+      "title": "Hackers launch mass attacks exploiting outdated WordPress plugins",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/",
+      "pubDate": "Fri, 24 Oct 2025 15:28:42 -0400"
+    },
     {
       "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
       "pubDate": "Thu, 23 Oct 2025 12:24:06 -0400"
-    },
-    {
-      "title": "Microsoft disables File Explorer preview for downloads to block attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/",
-      "pubDate": "Thu, 23 Oct 2025 11:57:41 -0400"
     }
   ]
 }
