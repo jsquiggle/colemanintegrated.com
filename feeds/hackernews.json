@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-24T11:34:22Z",
+  "updated": "2025-10-24T12:21:28Z",
   "items": [
+    {
+      "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+      "link": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+      "pubDate": "Fri, 24 Oct 2025 16:30:00 +0530"
+    },
     {
       "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
       "link": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
@@ -56,11 +61,6 @@
       "title": "Ukraine Aid Groups Targeted Through Fake Zoom Meetings and Weaponized PDF Files",
       "link": "https://thehackernews.com/2025/10/ukraine-aid-groups-targeted-through.html",
       "pubDate": "Wed, 22 Oct 2025 22:25:00 +0530"
-    },
-    {
-      "title": "Chinese Threat Actors Exploit ToolShell SharePoint Flaw Weeks After Microsoft's July Patch",
-      "link": "https://thehackernews.com/2025/10/chinese-threat-actors-exploit-toolshell.html",
-      "pubDate": "Wed, 22 Oct 2025 18:26:00 +0530"
     }
   ]
 }
