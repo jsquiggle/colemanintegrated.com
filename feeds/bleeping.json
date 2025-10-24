@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-24T15:11:17Z",
+  "updated": "2025-10-24T15:38:31Z",
   "items": [
+    {
+      "title": "Amazon: This week\u2019s AWS outage caused by major DNS failure",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/",
+      "pubDate": "Fri, 24 Oct 2025 11:33:58 -0400"
+    },
     {
       "title": "Fake LastPass death claims used to breach password vaults",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/",
@@ -56,11 +61,6 @@
       "title": "Zero Trust Has a Blind Spot\u2014Your AI Agents",
       "link": "https://www.bleepingcomputer.com/news/security/zero-trust-has-a-blind-spot-your-ai-agents/",
       "pubDate": "Thu, 23 Oct 2025 10:15:25 -0400"
-    },
-    {
-      "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
-      "link": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
-      "pubDate": "Thu, 23 Oct 2025 10:09:18 -0400"
     }
   ]
 }
