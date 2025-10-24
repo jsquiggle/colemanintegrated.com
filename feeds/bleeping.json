@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-24T13:04:38Z",
+  "updated": "2025-10-24T13:45:07Z",
   "items": [
+    {
+      "title": "Mozilla: New Firefox extensions must disclose data collection practices",
+      "link": "https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/",
+      "pubDate": "Fri, 24 Oct 2025 09:17:00 -0400"
+    },
     {
       "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
@@ -56,11 +61,6 @@
       "title": "Iranian hackers targeted over 100 govt orgs with Phoenix backdoor",
       "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-over-100-govt-orgs-with-phoenix-backdoor/",
       "pubDate": "Wed, 22 Oct 2025 17:19:33 -0400"
-    },
-    {
-      "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
-      "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
-      "pubDate": "Wed, 22 Oct 2025 14:52:53 -0400"
     }
   ]
 }
