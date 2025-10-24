@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-24T14:41:41Z",
+  "updated": "2025-10-24T15:11:17Z",
   "items": [
+    {
+      "title": "Fake LastPass death claims used to breach password vaults",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/",
+      "pubDate": "Fri, 24 Oct 2025 10:47:48 -0400"
+    },
     {
       "title": "How to reduce costs with self-service password resets",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/",
@@ -56,11 +61,6 @@
       "title": "Spoofed AI sidebars can trick Atlas, Comet users into dangerous actions",
       "link": "https://www.bleepingcomputer.com/news/security/spoofed-ai-sidebars-can-trick-atlas-comet-users-into-dangerous-actions/",
       "pubDate": "Thu, 23 Oct 2025 10:09:18 -0400"
-    },
-    {
-      "title": "North Korean Lazarus hackers targeted European defense companies",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-hackers-targeted-european-defense-companies/",
-      "pubDate": "Thu, 23 Oct 2025 08:38:39 -0400"
     }
   ]
 }
