@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-24T07:10:44Z",
+  "updated": "2025-10-24T07:34:44Z",
   "items": [
+    {
+      "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
+      "pubDate": "Fri, 24 Oct 2025 03:27:56 -0400"
+    },
     {
       "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/",
@@ -56,11 +61,6 @@
       "title": "Pwn2Own Day 2: Hackers exploit 22 zero-days for $267.500",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s25-hacked-on-day-two-of-pwn2own-ireland-2025/",
       "pubDate": "Wed, 22 Oct 2025 14:52:53 -0400"
-    },
-    {
-      "title": "Hackers exploiting critical \"SessionReaper\" flaw in Adobe Magento",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-sessionreaper-flaw-in-adobe-magento/",
-      "pubDate": "Wed, 22 Oct 2025 14:41:37 -0400"
     }
   ]
 }
