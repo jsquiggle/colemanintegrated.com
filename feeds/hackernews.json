@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-24T16:44:23Z",
+  "updated": "2025-10-24T17:09:41Z",
   "items": [
+    {
+      "title": "Microsoft Issues Emergency Patch for Actively Exploited Critical WSUS Vulnerability",
+      "link": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+      "pubDate": "Fri, 24 Oct 2025 22:00:00 +0530"
+    },
     {
       "title": "APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign",
       "link": "https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html",
@@ -43,7 +48,7 @@
       "pubDate": "Thu, 23 Oct 2025 16:30:00 +0530"
     },
     {
-      "title": "\u201cJingle Thief\u201d Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+      "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
       "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
       "pubDate": "Thu, 23 Oct 2025 13:22:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms",
       "link": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
       "pubDate": "Thu, 23 Oct 2025 11:07:00 +0530"
-    },
-    {
-      "title": "Iran-Linked MuddyWater Targets 100+ Organisations in Global Espionage Campaign",
-      "link": "https://thehackernews.com/2025/10/iran-linked-muddywater-targets-100.html",
-      "pubDate": "Wed, 22 Oct 2025 22:51:00 +0530"
     }
   ]
 }
