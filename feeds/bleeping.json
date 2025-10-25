@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-25T16:11:06Z",
+  "updated": "2025-10-25T16:40:10Z",
   "items": [
+    {
+      "title": "New CoPhish attack steals OAuth tokens via Copilot Studio agents",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/",
+      "pubDate": "Sat, 25 Oct 2025 12:16:00 -0400"
+    },
     {
       "title": "Hackers launch mass attacks exploiting outdated WordPress plugins",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/",
@@ -56,11 +61,6 @@
       "title": "Meet the new Clippy: Microsoft unveils Copilot's \"Mico\" avatar",
       "link": "https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/",
       "pubDate": "Thu, 23 Oct 2025 13:28:59 -0400"
-    },
-    {
-      "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
-      "pubDate": "Thu, 23 Oct 2025 12:24:06 -0400"
     }
   ]
 }
