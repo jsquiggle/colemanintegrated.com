@@ -1,9 +1,9 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T13:47:31Z",
+  "updated": "2025-10-27T14:11:38Z",
   "items": [
     {
-      "title": "CISA orders feds to patch actively exploited Windows Server WSUS flaw",
+      "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
       "pubDate": "Mon, 27 Oct 2025 09:27:35 -0400"
     },
