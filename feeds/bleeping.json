@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T18:16:16Z",
+  "updated": "2025-10-27T18:46:39Z",
   "items": [
+    {
+      "title": "Windows will soon prompt for memory scans after BSOD crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
+      "pubDate": "Mon, 27 Oct 2025 14:36:05 -0400"
+    },
     {
       "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
       "link": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
@@ -56,11 +61,6 @@
       "title": "Amazon: This week\u2019s AWS outage caused by major DNS failure",
       "link": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/",
       "pubDate": "Fri, 24 Oct 2025 11:33:58 -0400"
-    },
-    {
-      "title": "Fake LastPass death claims used to breach password vaults",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/",
-      "pubDate": "Fri, 24 Oct 2025 10:47:48 -0400"
     }
   ]
 }
