@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T20:09:57Z",
+  "updated": "2025-10-27T20:38:05Z",
   "items": [
+    {
+      "title": "Google disputes false claims of massive Gmail data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
+      "pubDate": "Mon, 27 Oct 2025 16:32:01 -0400"
+    },
     {
       "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
       "link": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
@@ -56,11 +61,6 @@
       "title": "New CoPhish attack steals OAuth tokens via Copilot Studio agents",
       "link": "https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/",
       "pubDate": "Sat, 25 Oct 2025 12:16:00 -0400"
-    },
-    {
-      "title": "Hackers launch mass attacks exploiting outdated WordPress plugins",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/",
-      "pubDate": "Fri, 24 Oct 2025 15:28:42 -0400"
     }
   ]
 }
