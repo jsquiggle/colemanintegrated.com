@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T16:13:55Z",
+  "updated": "2025-10-27T16:45:41Z",
   "items": [
+    {
+      "title": "Italian spyware vendor linked to Chrome zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/",
+      "pubDate": "Mon, 27 Oct 2025 12:37:28 -0400"
+    },
     {
       "title": "Google says everyone will be able to vibe code video games",
       "link": "https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/",
@@ -56,11 +61,6 @@
       "title": "How to reduce costs with self-service password resets",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/",
       "pubDate": "Fri, 24 Oct 2025 10:06:16 -0400"
-    },
-    {
-      "title": "Mozilla: New Firefox extensions must disclose data collection practices",
-      "link": "https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/",
-      "pubDate": "Fri, 24 Oct 2025 09:17:00 -0400"
     }
   ]
 }

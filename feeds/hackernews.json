@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-27T16:13:55Z",
+  "updated": "2025-10-27T16:45:41Z",
   "items": [
+    {
+      "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
+      "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+      "pubDate": "Mon, 27 Oct 2025 21:42:00 +0530"
+    },
     {
       "title": "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands",
       "link": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
@@ -56,11 +61,6 @@
       "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
       "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
       "pubDate": "Thu, 23 Oct 2025 20:59:00 +0530"
-    },
-    {
-      "title": "Secure AI at Scale and Speed \u2014 Learn the Framework in this Free Webinar",
-      "link": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-      "pubDate": "Thu, 23 Oct 2025 17:25:00 +0530"
     }
   ]
 }
