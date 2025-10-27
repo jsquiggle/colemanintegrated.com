@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T19:08:50Z",
+  "updated": "2025-10-27T19:32:52Z",
   "items": [
+    {
+      "title": "Ransomware profits drop as victims stop paying hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/",
+      "pubDate": "Mon, 27 Oct 2025 15:22:38 -0400"
+    },
     {
       "title": "Windows will soon prompt for memory scans after BSOD crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
@@ -56,11 +61,6 @@
       "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
       "pubDate": "Fri, 24 Oct 2025 12:28:14 -0400"
-    },
-    {
-      "title": "Amazon: This week\u2019s AWS outage caused by major DNS failure",
-      "link": "https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/",
-      "pubDate": "Fri, 24 Oct 2025 11:33:58 -0400"
     }
   ]
 }
