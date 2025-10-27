@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T15:11:54Z",
+  "updated": "2025-10-27T15:36:44Z",
   "items": [
+    {
+      "title": "Microsoft: New policy removes pre-installed Microsoft Store apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/",
+      "pubDate": "Mon, 27 Oct 2025 11:13:58 -0400"
+    },
+    {
+      "title": "The State of Exposure Management in 2025: Insights From 3,000+ Organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/",
+      "pubDate": "Mon, 27 Oct 2025 10:01:11 -0400"
+    },
     {
       "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
@@ -46,16 +56,6 @@
       "title": "Mozilla: New Firefox extensions must disclose data collection practices",
       "link": "https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/",
       "pubDate": "Fri, 24 Oct 2025 09:17:00 -0400"
-    },
-    {
-      "title": "Windows Server emergency patches fix WSUS bug with PoC exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/",
-      "pubDate": "Fri, 24 Oct 2025 03:27:56 -0400"
-    },
-    {
-      "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/",
-      "pubDate": "Fri, 24 Oct 2025 02:36:55 -0400"
     }
   ]
 }
