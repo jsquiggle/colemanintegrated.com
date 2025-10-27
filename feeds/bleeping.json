@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T19:32:52Z",
+  "updated": "2025-10-27T20:09:57Z",
   "items": [
+    {
+      "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
+      "link": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
+      "pubDate": "Mon, 27 Oct 2025 15:36:11 -0400"
+    },
     {
       "title": "Ransomware profits drop as victims stop paying hackers",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/",
@@ -56,11 +61,6 @@
       "title": "Hackers launch mass attacks exploiting outdated WordPress plugins",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/",
       "pubDate": "Fri, 24 Oct 2025 15:28:42 -0400"
-    },
-    {
-      "title": "Critical WSUS flaw in Windows Server now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/",
-      "pubDate": "Fri, 24 Oct 2025 12:28:14 -0400"
     }
   ]
 }
