@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T13:05:24Z",
+  "updated": "2025-10-27T13:47:31Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch actively exploited Windows Server WSUS flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
+      "pubDate": "Mon, 27 Oct 2025 09:27:35 -0400"
+    },
     {
       "title": "Hackers steal Discord accounts with RedTiger-based infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/",
@@ -51,11 +56,6 @@
       "title": "Hackers earn $1,024,750 for 73 zero-days at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/",
       "pubDate": "Fri, 24 Oct 2025 02:36:55 -0400"
-    },
-    {
-      "title": "Toys \u201cR\u201d Us Canada warns customers' info leaked in data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
-      "pubDate": "Thu, 23 Oct 2025 18:25:35 -0400"
     }
   ]
 }
