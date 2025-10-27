@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-27T10:13:33Z",
+  "updated": "2025-10-27T10:43:33Z",
   "items": [
+    {
+      "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
+      "link": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+      "pubDate": "Mon, 27 Oct 2025 14:25:00 +0530"
+    },
     {
       "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
       "link": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
@@ -56,11 +61,6 @@
       "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
       "link": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
       "pubDate": "Thu, 23 Oct 2025 16:30:00 +0530"
-    },
-    {
-      "title": "'Jingle Thief' Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
-      "link": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
-      "pubDate": "Thu, 23 Oct 2025 13:22:00 +0530"
     }
   ]
 }
