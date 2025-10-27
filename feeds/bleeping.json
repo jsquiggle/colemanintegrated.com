@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T09:14:19Z",
+  "updated": "2025-10-27T09:40:53Z",
   "items": [
+    {
+      "title": "Hackers steal Discord accounts with RedTiger-based infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/",
+      "pubDate": "Sun, 26 Oct 2025 10:26:36 -0400"
+    },
     {
       "title": "New CoPhish attack steals OAuth tokens via Copilot Studio agents",
       "link": "https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/",
@@ -56,11 +61,6 @@
       "title": "HP pulls update that broke Microsoft Entra ID auth on some AI PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/",
       "pubDate": "Thu, 23 Oct 2025 17:50:41 -0400"
-    },
-    {
-      "title": "Meet the new Clippy: Microsoft unveils Copilot's \"Mico\" avatar",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/",
-      "pubDate": "Thu, 23 Oct 2025 13:28:59 -0400"
     }
   ]
 }
