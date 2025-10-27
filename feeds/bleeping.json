@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T15:36:44Z",
+  "updated": "2025-10-27T16:13:55Z",
   "items": [
+    {
+      "title": "Google says everyone will be able to vibe code video games",
+      "link": "https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/",
+      "pubDate": "Mon, 27 Oct 2025 11:59:36 -0400"
+    },
     {
       "title": "Microsoft: New policy removes pre-installed Microsoft Store apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/",
