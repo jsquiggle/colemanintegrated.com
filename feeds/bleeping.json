@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T12:21:38Z",
+  "updated": "2025-10-27T13:05:24Z",
   "items": [
     {
       "title": "Hackers steal Discord accounts with RedTiger-based infostealer",
@@ -56,11 +56,6 @@
       "title": "Toys \u201cR\u201d Us Canada warns customers' info leaked in data breach",
       "link": "https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/",
       "pubDate": "Thu, 23 Oct 2025 18:25:35 -0400"
-    },
-    {
-      "title": "HP pulls update that broke Microsoft Entra ID auth on some AI PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/",
-      "pubDate": "Thu, 23 Oct 2025 17:50:41 -0400"
     }
   ]
 }
