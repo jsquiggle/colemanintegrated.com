@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-27T16:45:41Z",
+  "updated": "2025-10-27T17:09:58Z",
   "items": [
+    {
+      "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
+      "link": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
+      "pubDate": "Mon, 27 Oct 2025 12:55:02 -0400"
+    },
     {
       "title": "Italian spyware vendor linked to Chrome zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/",
@@ -56,11 +61,6 @@
       "title": "Fake LastPass death claims used to breach password vaults",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/",
       "pubDate": "Fri, 24 Oct 2025 10:47:48 -0400"
-    },
-    {
-      "title": "How to reduce costs with self-service password resets",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/",
-      "pubDate": "Fri, 24 Oct 2025 10:06:16 -0400"
     }
   ]
 }
