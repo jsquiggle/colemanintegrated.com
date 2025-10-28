@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T21:09:30Z",
+  "updated": "2025-10-28T21:35:18Z",
   "items": [
+    {
+      "title": "Advertising giant Dentsu reports data breach at subsidiary Merkle",
+      "link": "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/",
+      "pubDate": "Tue, 28 Oct 2025 17:16:26 -0400"
+    },
     {
       "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
       "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
@@ -56,11 +61,6 @@
       "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
       "link": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
       "pubDate": "Mon, 27 Oct 2025 15:36:11 -0400"
-    },
-    {
-      "title": "Ransomware profits drop as victims stop paying hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/",
-      "pubDate": "Mon, 27 Oct 2025 15:22:38 -0400"
     }
   ]
 }
