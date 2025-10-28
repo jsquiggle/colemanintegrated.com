@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T17:39:24Z",
+  "updated": "2025-10-28T18:16:38Z",
   "items": [
+    {
+      "title": "Microsoft: Copilot now lets you build apps, automate workflows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/",
+      "pubDate": "Tue, 28 Oct 2025 13:59:18 -0400"
+    },
+    {
+      "title": "Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/",
+      "pubDate": "Tue, 28 Oct 2025 13:59:05 -0400"
+    },
     {
       "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
       "link": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
@@ -51,16 +61,6 @@
       "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
       "link": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
       "pubDate": "Mon, 27 Oct 2025 12:55:02 -0400"
-    },
-    {
-      "title": "Italian spyware vendor linked to Chrome zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/",
-      "pubDate": "Mon, 27 Oct 2025 12:37:28 -0400"
-    },
-    {
-      "title": "Google says everyone will be able to vibe code video games",
-      "link": "https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/",
-      "pubDate": "Mon, 27 Oct 2025 11:59:36 -0400"
     }
   ]
 }
