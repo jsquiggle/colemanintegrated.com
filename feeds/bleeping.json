@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T18:48:55Z",
+  "updated": "2025-10-28T19:08:39Z",
   "items": [
+    {
+      "title": "CISA warns of two more actively exploited Dassault vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/",
+      "pubDate": "Tue, 28 Oct 2025 14:59:49 -0400"
+    },
     {
       "title": "Microsoft: Copilot now lets you build apps, automate workflows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/",
@@ -56,11 +61,6 @@
       "title": "Windows will soon prompt for memory scans after BSOD crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
       "pubDate": "Mon, 27 Oct 2025 14:36:05 -0400"
-    },
-    {
-      "title": "QNAP warns of critical ASP.NET flaw in its Windows backup software",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
-      "pubDate": "Mon, 27 Oct 2025 12:55:02 -0400"
     }
   ]
 }
