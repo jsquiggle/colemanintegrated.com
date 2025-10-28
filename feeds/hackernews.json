@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-28T04:13:27Z",
+  "updated": "2025-10-28T04:41:28Z",
   "items": [
+    {
+      "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
+      "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
+      "pubDate": "Tue, 28 Oct 2025 09:31:00 +0530"
+    },
     {
       "title": "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts",
       "link": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
@@ -56,11 +61,6 @@
       "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
       "link": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
       "pubDate": "Fri, 24 Oct 2025 12:30:00 +0530"
-    },
-    {
-      "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
-      "link": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
-      "pubDate": "Thu, 23 Oct 2025 20:59:00 +0530"
     }
   ]
 }
