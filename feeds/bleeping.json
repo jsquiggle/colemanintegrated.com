@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T22:10:31Z",
+  "updated": "2025-10-28T22:39:05Z",
   "items": [
+    {
+      "title": "Python rejects $1.5M grant from U.S. govt. fearing ethical compromise",
+      "link": "https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/",
+      "pubDate": "Tue, 28 Oct 2025 18:16:37 -0400"
+    },
     {
       "title": "Advertising giant Dentsu reports data breach at subsidiary Merkle",
       "link": "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/",
@@ -56,11 +61,6 @@
       "title": "Google disputes false claims of massive Gmail data breach",
       "link": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
       "pubDate": "Mon, 27 Oct 2025 16:32:01 -0400"
-    },
-    {
-      "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
-      "link": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
-      "pubDate": "Mon, 27 Oct 2025 15:36:11 -0400"
     }
   ]
 }
