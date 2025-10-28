@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T23:10:14Z",
+  "updated": "2025-10-28T23:34:41Z",
   "items": [
+    {
+      "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
+      "pubDate": "Tue, 28 Oct 2025 19:31:28 -0400"
+    },
     {
       "title": "Python rejects $1.5M grant from U.S. govt. fearing ethical compromise",
       "link": "https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/",
@@ -56,11 +61,6 @@
       "title": "New Herodotus Android malware fakes human typing to avoid detection",
       "link": "https://www.bleepingcomputer.com/news/security/new-herodotus-android-malware-fakes-human-typing-to-avoid-detection/",
       "pubDate": "Tue, 28 Oct 2025 06:00:00 -0400"
-    },
-    {
-      "title": "Google disputes false claims of massive Gmail data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
-      "pubDate": "Mon, 27 Oct 2025 16:32:01 -0400"
     }
   ]
 }
