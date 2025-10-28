@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T16:47:19Z",
+  "updated": "2025-10-28T17:10:54Z",
   "items": [
+    {
+      "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
+      "link": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
+      "pubDate": "Tue, 28 Oct 2025 13:00:00 -0400"
+    },
+    {
+      "title": "Google Chrome to warn users before opening insecure HTTP sites",
+      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
+      "pubDate": "Tue, 28 Oct 2025 13:00:00 -0400"
+    },
     {
       "title": "BiDi Swap: The bidirectional text trick that makes fake URLs look real",
       "link": "https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/",
@@ -51,16 +61,6 @@
       "title": "Google says everyone will be able to vibe code video games",
       "link": "https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/",
       "pubDate": "Mon, 27 Oct 2025 11:59:36 -0400"
-    },
-    {
-      "title": "Microsoft: New policy removes pre-installed Microsoft Store apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/",
-      "pubDate": "Mon, 27 Oct 2025 11:13:58 -0400"
-    },
-    {
-      "title": "The State of Exposure Management in 2025: Insights From 3,000+ Organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/",
-      "pubDate": "Mon, 27 Oct 2025 10:01:11 -0400"
     }
   ]
 }
