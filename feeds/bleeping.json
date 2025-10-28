@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-28T13:03:54Z",
+  "updated": "2025-10-28T13:45:20Z",
   "items": [
+    {
+      "title": "New Atroposia malware comes with a local vulnerability scanner",
+      "link": "https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/",
+      "pubDate": "Tue, 28 Oct 2025 09:15:11 -0400"
+    },
+    {
+      "title": "New Herodotus Android malware fakes human typing to avoid detection",
+      "link": "https://www.bleepingcomputer.com/news/security/new-herodotus-android-malware-fakes-human-typing-to-avoid-detection/",
+      "pubDate": "Tue, 28 Oct 2025 06:00:00 -0400"
+    },
     {
       "title": "Google disputes false claims of massive Gmail data breach",
       "link": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
@@ -51,16 +61,6 @@
       "title": "CISA orders feds to patch Windows Server WSUS flaw used in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
       "pubDate": "Mon, 27 Oct 2025 09:27:35 -0400"
-    },
-    {
-      "title": "Hackers steal Discord accounts with RedTiger-based infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/",
-      "pubDate": "Sun, 26 Oct 2025 10:26:36 -0400"
-    },
-    {
-      "title": "New CoPhish attack steals OAuth tokens via Copilot Studio agents",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/",
-      "pubDate": "Sat, 25 Oct 2025 12:16:00 -0400"
     }
   ]
 }
