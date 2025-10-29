@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-29T15:41:34Z",
+  "updated": "2025-10-29T16:14:05Z",
   "items": [
+    {
+      "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
+      "link": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
+      "pubDate": "Wed, 29 Oct 2025 21:08:00 +0530"
+    },
+    {
+      "title": "New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts",
+      "link": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
+      "pubDate": "Wed, 29 Oct 2025 20:27:00 +0530"
+    },
     {
       "title": "Discover Practical AI Tactics for GRC \u2014 Join the Free Expert Webinar",
       "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
@@ -51,16 +61,6 @@
       "title": "Is Your Google Workspace as Secure as You Think it is?",
       "link": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
       "pubDate": "Tue, 28 Oct 2025 16:00:00 +0530"
-    },
-    {
-      "title": "Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware",
-      "link": "https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html",
-      "pubDate": "Tue, 28 Oct 2025 13:52:00 +0530"
-    },
-    {
-      "title": "SideWinder Adopts New ClickOnce-Based Attack Chain Targeting South Asian Diplomats",
-      "link": "https://thehackernews.com/2025/10/sidewinder-adopts-new-clickonce-based.html",
-      "pubDate": "Tue, 28 Oct 2025 09:31:00 +0530"
     }
   ]
 }
