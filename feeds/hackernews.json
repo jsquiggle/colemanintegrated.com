@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-29T09:38:40Z",
+  "updated": "2025-10-29T10:12:44Z",
   "items": [
+    {
+      "title": "10 npm Packages Caught Stealing Developer Credentials on Windows, macOS, and Linux",
+      "link": "https://thehackernews.com/2025/10/10-npm-packages-caught-stealing.html",
+      "pubDate": "Wed, 29 Oct 2025 14:04:00 +0530"
+    },
     {
       "title": "Active Exploits Hit Dassault and XWiki \u2014 CISA Confirms Critical Flaws Under Attack",
       "link": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens",
       "link": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
       "pubDate": "Mon, 27 Oct 2025 18:21:00 +0530"
-    },
-    {
-      "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
-      "link": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
-      "pubDate": "Mon, 27 Oct 2025 14:25:00 +0530"
     }
   ]
 }
