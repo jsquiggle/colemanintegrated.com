@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-29T23:10:34Z",
+  "updated": "2025-10-29T23:35:09Z",
   "items": [
+    {
+      "title": "Malicious NPM packages fetch infostealer for Windows, Linux, macOS",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/",
+      "pubDate": "Wed, 29 Oct 2025 19:16:10 -0400"
+    },
     {
       "title": "WordPress security plugin exposes private data to site subscribers",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/",
@@ -56,11 +61,6 @@
       "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
       "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
       "pubDate": "Tue, 28 Oct 2025 15:11:33 -0400"
-    },
-    {
-      "title": "CISA warns of two more actively exploited Dassault vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/",
-      "pubDate": "Tue, 28 Oct 2025 14:59:49 -0400"
     }
   ]
 }
