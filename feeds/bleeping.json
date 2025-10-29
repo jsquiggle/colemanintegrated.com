@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-29T18:47:24Z",
+  "updated": "2025-10-29T19:08:33Z",
   "items": [
+    {
+      "title": "Canada says hacktivists breached water and energy facilities",
+      "link": "https://www.bleepingcomputer.com/news/security/canada-says-hacktivists-breached-water-and-energy-facilities/",
+      "pubDate": "Wed, 29 Oct 2025 15:03:06 -0400"
+    },
     {
       "title": "Microsoft fixes Media Creation Tool broken on some Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Copilot now lets you build apps, automate workflows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/",
       "pubDate": "Tue, 28 Oct 2025 13:59:18 -0400"
-    },
-    {
-      "title": "Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/",
-      "pubDate": "Tue, 28 Oct 2025 13:59:05 -0400"
     }
   ]
 }
