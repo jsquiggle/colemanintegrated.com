@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-29T16:47:34Z",
+  "updated": "2025-10-29T17:11:04Z",
   "items": [
+    {
+      "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
+      "pubDate": "Wed, 29 Oct 2025 12:49:33 -0400"
+    },
     {
       "title": "PhantomRaven attack floods npm with credential-stealing packages",
       "link": "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/",
@@ -55,11 +60,6 @@
     {
       "title": "TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs",
       "link": "https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/",
-      "pubDate": "Tue, 28 Oct 2025 13:00:00 -0400"
-    },
-    {
-      "title": "Google Chrome to warn users before opening insecure HTTP sites",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/",
       "pubDate": "Tue, 28 Oct 2025 13:00:00 -0400"
     }
   ]
