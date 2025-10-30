@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-30T11:34:00Z",
+  "updated": "2025-10-30T12:21:02Z",
   "items": [
+    {
+      "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
+      "pubDate": "Thu, 30 Oct 2025 07:42:03 -0400"
+    },
     {
       "title": "Malicious NPM packages fetch infostealer for Windows, Linux, macOS",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/",
@@ -56,11 +61,6 @@
       "title": "Advertising giant Dentsu reports data breach at subsidiary Merkle",
       "link": "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/",
       "pubDate": "Tue, 28 Oct 2025 17:16:26 -0400"
-    },
-    {
-      "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
-      "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
-      "pubDate": "Tue, 28 Oct 2025 15:11:33 -0400"
     }
   ]
 }
