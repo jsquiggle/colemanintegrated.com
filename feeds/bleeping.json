@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-30T16:14:26Z",
+  "updated": "2025-10-30T16:45:28Z",
   "items": [
+    {
+      "title": "Ex-L3Harris exec guilty of selling cyber exploits to Russian broker",
+      "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/",
+      "pubDate": "Thu, 30 Oct 2025 12:43:51 -0400"
+    },
     {
       "title": "CISA and NSA share tips on securing Microsoft Exchange servers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
       "pubDate": "Wed, 29 Oct 2025 10:32:56 -0400"
-    },
-    {
-      "title": "Visibility Gaps: Streamlining Patching and Vulnerability Remediation",
-      "link": "https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/",
-      "pubDate": "Wed, 29 Oct 2025 10:02:12 -0400"
     }
   ]
 }
