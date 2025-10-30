@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-30T15:40:56Z",
+  "updated": "2025-10-30T16:14:26Z",
   "items": [
+    {
+      "title": "New \"Brash\" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL",
+      "link": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
+      "pubDate": "Thu, 30 Oct 2025 20:15:00 +0530"
+    },
     {
       "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
       "link": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
@@ -56,11 +61,6 @@
       "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
       "link": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
       "pubDate": "Wed, 29 Oct 2025 00:46:00 +0530"
-    },
-    {
-      "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
-      "link": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
-      "pubDate": "Tue, 28 Oct 2025 22:03:00 +0530"
     }
   ]
 }
