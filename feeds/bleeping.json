@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-30T17:39:13Z",
+  "updated": "2025-10-30T18:15:23Z",
   "items": [
+    {
+      "title": "WhatsApp adds passwordless chat backups on iOS and Android",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/",
+      "pubDate": "Thu, 30 Oct 2025 14:02:49 -0400"
+    },
     {
       "title": "Ex-L3Harris exec guilty of selling cyber exploits to Russian broker",
       "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/",
@@ -56,11 +61,6 @@
       "title": "PhantomRaven attack floods npm with credential-stealing packages",
       "link": "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/",
       "pubDate": "Wed, 29 Oct 2025 12:26:38 -0400"
-    },
-    {
-      "title": "Microsoft fixes 0x800F081F errors causing Windows update failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/",
-      "pubDate": "Wed, 29 Oct 2025 10:32:56 -0400"
     }
   ]
 }
