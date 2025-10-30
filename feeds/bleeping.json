@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-30T18:47:32Z",
+  "updated": "2025-10-30T19:08:56Z",
   "items": [
+    {
+      "title": "Major telecom services provider Ribbon breached by state hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/",
+      "pubDate": "Thu, 30 Oct 2025 15:03:37 -0400"
+    },
     {
       "title": "BPO giant Conduent confirms data breach impacts 10.5 million people",
       "link": "https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Media Creation Tool broken on some Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/",
       "pubDate": "Wed, 29 Oct 2025 13:41:28 -0400"
-    },
-    {
-      "title": "Microsoft: DNS outage impacts Azure and Microsoft 365 services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/",
-      "pubDate": "Wed, 29 Oct 2025 12:49:33 -0400"
     }
   ]
 }
