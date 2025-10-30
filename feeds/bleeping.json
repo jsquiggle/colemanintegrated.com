@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-30T20:12:00Z",
+  "updated": "2025-10-30T20:38:58Z",
   "items": [
+    {
+      "title": "Massive surge of NFC relay malware steals Europeans\u2019 credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/",
+      "pubDate": "Thu, 30 Oct 2025 16:17:03 -0400"
+    },
     {
       "title": "CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/",
@@ -56,11 +61,6 @@
       "title": "WordPress security plugin exposes private data to site subscribers",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/",
       "pubDate": "Wed, 29 Oct 2025 16:44:00 -0400"
-    },
-    {
-      "title": "Canada says hacktivists breached water and energy facilities",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-says-hacktivists-breached-water-and-energy-facilities/",
-      "pubDate": "Wed, 29 Oct 2025 15:03:06 -0400"
     }
   ]
 }
