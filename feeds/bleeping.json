@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-31T13:44:23Z",
+  "updated": "2025-10-31T14:11:11Z",
   "items": [
+    {
+      "title": "Why password controls still matter in cybersecurity",
+      "link": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
+      "pubDate": "Fri, 31 Oct 2025 10:02:12 -0400"
+    },
+    {
+      "title": "Alleged Meduza Stealer malware admins arrested after hacking Russian org",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/",
+      "pubDate": "Fri, 31 Oct 2025 09:45:17 -0400"
+    },
     {
       "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/",
@@ -51,16 +61,6 @@
       "title": "WhatsApp adds passwordless chat backups on iOS and Android",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/",
       "pubDate": "Thu, 30 Oct 2025 14:02:49 -0400"
-    },
-    {
-      "title": "Ex-L3Harris exec guilty of selling cyber exploits to Russian broker",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/",
-      "pubDate": "Thu, 30 Oct 2025 12:43:51 -0400"
-    },
-    {
-      "title": "CISA and NSA share tips on securing Microsoft Exchange servers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/",
-      "pubDate": "Thu, 30 Oct 2025 12:11:00 -0400"
     }
   ]
 }
