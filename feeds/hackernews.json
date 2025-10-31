@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-31T08:14:32Z",
+  "updated": "2025-10-31T08:43:56Z",
   "items": [
+    {
+      "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
+      "link": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
+      "pubDate": "Fri, 31 Oct 2025 13:32:00 +0530"
+    },
     {
       "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
       "link": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
@@ -56,11 +61,6 @@
       "title": "Discover Practical AI Tactics for GRC \u2014 Join the Free Expert Webinar",
       "link": "https://thehackernews.com/2025/10/discover-practical-ai-tactics-for-grc.html",
       "pubDate": "Wed, 29 Oct 2025 17:28:00 +0530"
-    },
-    {
-      "title": "Preparing for the Digital Battlefield of 2026: Ghost Identities, Poisoned Accounts, & AI Agent Havoc",
-      "link": "https://thehackernews.com/2025/10/preparing-for-digital-battlefield-of.html",
-      "pubDate": "Wed, 29 Oct 2025 17:25:00 +0530"
     }
   ]
 }
