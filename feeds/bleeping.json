@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-31T13:03:39Z",
+  "updated": "2025-10-31T13:44:23Z",
   "items": [
+    {
+      "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/",
+      "pubDate": "Fri, 31 Oct 2025 09:05:49 -0400"
+    },
     {
       "title": "Google says Search AI Mode will know everything about you",
       "link": "https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/",
@@ -56,11 +61,6 @@
       "title": "CISA and NSA share tips on securing Microsoft Exchange servers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/",
       "pubDate": "Thu, 30 Oct 2025 12:11:00 -0400"
-    },
-    {
-      "title": "Rethinking identity security in the age of autonomous AI agents",
-      "link": "https://www.bleepingcomputer.com/news/security/rethinking-identity-security-in-the-age-of-autonomous-ai-agents/",
-      "pubDate": "Thu, 30 Oct 2025 10:00:10 -0400"
     }
   ]
 }
