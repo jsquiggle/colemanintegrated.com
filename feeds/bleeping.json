@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-31T11:32:51Z",
+  "updated": "2025-10-31T12:21:42Z",
   "items": [
+    {
+      "title": "Google says Search AI Mode will know everything about you",
+      "link": "https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/",
+      "pubDate": "Fri, 31 Oct 2025 07:55:49 -0400"
+    },
     {
       "title": "Windows zero-day actively exploited to spy on European diplomats",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
@@ -56,11 +61,6 @@
       "title": "Rethinking identity security in the age of autonomous AI agents",
       "link": "https://www.bleepingcomputer.com/news/security/rethinking-identity-security-in-the-age-of-autonomous-ai-agents/",
       "pubDate": "Thu, 30 Oct 2025 10:00:10 -0400"
-    },
-    {
-      "title": "LinkedIn phishing targets finance execs with fake board invites",
-      "link": "https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/",
-      "pubDate": "Thu, 30 Oct 2025 09:00:00 -0400"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-31T11:32:51Z",
+  "updated": "2025-10-31T12:21:42Z",
   "items": [
+    {
+      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
+      "link": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
+      "pubDate": "Fri, 31 Oct 2025 17:00:00 +0530"
+    },
     {
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
       "link": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
@@ -56,11 +61,6 @@
       "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
       "link": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
       "pubDate": "Wed, 29 Oct 2025 21:08:00 +0530"
-    },
-    {
-      "title": "New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts",
-      "link": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
-      "pubDate": "Wed, 29 Oct 2025 20:27:00 +0530"
     }
   ]
 }
