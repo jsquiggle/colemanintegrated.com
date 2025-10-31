@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-31T09:38:42Z",
+  "updated": "2025-10-31T10:12:06Z",
   "items": [
+    {
+      "title": "Ukrainian extradited from Ireland on Conti ransomware charges",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/",
+      "pubDate": "Fri, 31 Oct 2025 05:40:17 -0400"
+    },
     {
       "title": "OpenAI confirms GPT-5 is now better at handling mental and emotional distress",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/",
@@ -56,11 +61,6 @@
       "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
       "pubDate": "Thu, 30 Oct 2025 07:42:03 -0400"
-    },
-    {
-      "title": "Malicious NPM packages fetch infostealer for Windows, Linux, macOS",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/",
-      "pubDate": "Wed, 29 Oct 2025 19:16:10 -0400"
     }
   ]
 }
