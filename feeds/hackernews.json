@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-10-31T16:13:01Z",
+  "updated": "2025-10-31T16:44:33Z",
   "items": [
+    {
+      "title": "Nation-State Hackers Deploy New Airstalk Malware in Suspected Supply Chain Attack",
+      "link": "https://thehackernews.com/2025/10/nation-state-hackers-deploy-new.html",
+      "pubDate": "Fri, 31 Oct 2025 21:38:00 +0530"
+    },
     {
       "title": "China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats",
       "link": "https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html",
@@ -56,11 +61,6 @@
       "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
       "link": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
       "pubDate": "Thu, 30 Oct 2025 17:25:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
-      "link": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-      "pubDate": "Thu, 30 Oct 2025 16:24:00 +0530"
     }
   ]
 }
