@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-31T18:16:09Z",
+  "updated": "2025-10-31T18:46:49Z",
   "items": [
+    {
+      "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data",
+      "link": "https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/",
+      "pubDate": "Fri, 31 Oct 2025 14:32:39 -0400"
+    },
     {
       "title": "Microsoft Edge gets scareware sensor for faster scam detection",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/",
       "pubDate": "Thu, 30 Oct 2025 16:01:40 -0400"
-    },
-    {
-      "title": "Major telecom services provider Ribbon breached by state hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/",
-      "pubDate": "Thu, 30 Oct 2025 15:03:37 -0400"
     }
   ]
 }
