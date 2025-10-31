@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-10-31T11:09:05Z",
+  "updated": "2025-10-31T11:32:51Z",
   "items": [
+    {
+      "title": "Windows zero-day actively exploited to spy on European diplomats",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
+      "pubDate": "Fri, 31 Oct 2025 07:29:29 -0400"
+    },
     {
       "title": "Ukrainian extradited from Ireland on Conti ransomware charges",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/",
@@ -56,11 +61,6 @@
       "title": "LinkedIn phishing targets finance execs with fake board invites",
       "link": "https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/",
       "pubDate": "Thu, 30 Oct 2025 09:00:00 -0400"
-    },
-    {
-      "title": "Microsoft promises more Copilot features in Microsoft 365 companion apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/",
-      "pubDate": "Thu, 30 Oct 2025 07:42:03 -0400"
     }
   ]
 }
