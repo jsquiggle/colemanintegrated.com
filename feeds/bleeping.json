@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-01T16:10:59Z",
+  "updated": "2025-11-01T16:39:00Z",
   "items": [
+    {
+      "title": "Windows 11 Build 26220.7051 released with three features for Insiders",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-three-features-for-insiders/",
+      "pubDate": "Sat, 01 Nov 2025 12:17:22 -0400"
+    },
     {
       "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Ukrainian extradited from Ireland on Conti ransomware charges",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/",
       "pubDate": "Fri, 31 Oct 2025 05:40:17 -0400"
-    },
-    {
-      "title": "OpenAI confirms GPT-5 is now better at handling mental and emotional distress",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/",
-      "pubDate": "Thu, 30 Oct 2025 18:12:28 -0400"
     }
   ]
 }
