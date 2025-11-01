@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-01T14:35:04Z",
+  "updated": "2025-11-01T15:08:39Z",
   "items": [
+    {
+      "title": "ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability",
+      "link": "https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html",
+      "pubDate": "Sat, 01 Nov 2025 19:13:00 +0530"
+    },
     {
       "title": "OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically",
       "link": "https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html",
@@ -56,11 +61,6 @@
       "title": "Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks",
       "link": "https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html",
       "pubDate": "Thu, 30 Oct 2025 22:10:00 +0530"
-    },
-    {
-      "title": "New \"Brash\" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL",
-      "link": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
-      "pubDate": "Thu, 30 Oct 2025 20:15:00 +0530"
     }
   ]
 }
