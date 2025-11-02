@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-02T21:32:17Z",
+  "updated": "2025-11-02T22:09:26Z",
   "items": [
+    {
+      "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
+      "pubDate": "Sun, 02 Nov 2025 17:07:14 -0500"
+    },
+    {
+      "title": "Open VSX rotates access tokens used in supply-chain malware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
+      "pubDate": "Sun, 02 Nov 2025 10:09:19 -0500"
+    },
+    {
+      "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/",
+      "pubDate": "Sat, 01 Nov 2025 16:00:00 -0400"
+    },
     {
       "title": "Google confirms AI search will have ads, but they may look different",
       "link": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/",
@@ -46,21 +61,6 @@
       "title": "Alleged Meduza Stealer malware admins arrested after hacking Russian org",
       "link": "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/",
       "pubDate": "Fri, 31 Oct 2025 09:45:17 -0400"
-    },
-    {
-      "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/",
-      "pubDate": "Fri, 31 Oct 2025 09:05:49 -0400"
-    },
-    {
-      "title": "Google says Search AI Mode will know everything about you",
-      "link": "https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/",
-      "pubDate": "Fri, 31 Oct 2025 07:55:49 -0400"
-    },
-    {
-      "title": "Windows zero-day actively exploited to spy on European diplomats",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/",
-      "pubDate": "Fri, 31 Oct 2025 07:29:29 -0400"
     }
   ]
 }
