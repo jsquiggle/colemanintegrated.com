@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T09:41:47Z",
+  "updated": "2025-11-03T10:13:26Z",
   "items": [
+    {
+      "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/",
+      "pubDate": "Mon, 03 Nov 2025 05:12:47 -0500"
+    },
     {
       "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
@@ -56,11 +61,6 @@
       "title": "Why password controls still matter in cybersecurity",
       "link": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
       "pubDate": "Fri, 31 Oct 2025 10:02:12 -0400"
-    },
-    {
-      "title": "Alleged Meduza Stealer malware admins arrested after hacking Russian org",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/",
-      "pubDate": "Fri, 31 Oct 2025 09:45:17 -0400"
     }
   ]
 }
