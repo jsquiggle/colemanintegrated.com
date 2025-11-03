@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T21:35:13Z",
+  "updated": "2025-11-03T22:10:49Z",
   "items": [
+    {
+      "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol",
+      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/",
+      "pubDate": "Mon, 03 Nov 2025 16:53:35 -0500"
+    },
     {
       "title": "Fake Solidity VSCode extension on Open VSX backdoors developers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/",
@@ -56,11 +61,6 @@
       "title": "Google confirms AI search will have ads, but they may look different",
       "link": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/",
       "pubDate": "Sat, 01 Nov 2025 12:56:00 -0400"
-    },
-    {
-      "title": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/",
-      "pubDate": "Sat, 01 Nov 2025 12:17:22 -0400"
     }
   ]
 }
