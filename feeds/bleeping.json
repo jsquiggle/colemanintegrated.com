@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T15:11:40Z",
+  "updated": "2025-11-03T15:39:56Z",
   "items": [
+    {
+      "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
+      "pubDate": "Mon, 03 Nov 2025 10:22:12 -0500"
+    },
+    {
+      "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
+      "link": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
+      "pubDate": "Mon, 03 Nov 2025 10:11:21 -0500"
+    },
     {
       "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/",
@@ -51,16 +61,6 @@
       "title": "Microsoft Edge gets scareware sensor for faster scam detection",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/",
       "pubDate": "Fri, 31 Oct 2025 13:15:06 -0400"
-    },
-    {
-      "title": "Australia warns of BadCandy infections on unpatched Cisco devices",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/",
-      "pubDate": "Fri, 31 Oct 2025 11:38:55 -0400"
-    },
-    {
-      "title": "Why password controls still matter in cybersecurity",
-      "link": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
-      "pubDate": "Fri, 31 Oct 2025 10:02:12 -0400"
     }
   ]
 }
