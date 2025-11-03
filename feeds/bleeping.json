@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T17:09:57Z",
+  "updated": "2025-11-03T17:38:47Z",
   "items": [
+    {
+      "title": "US cybersecurity experts indicted for BlackCat ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/",
+      "pubDate": "Mon, 03 Nov 2025 12:15:39 -0500"
+    },
     {
       "title": "Hackers use RMM tools to breach freighters and steal cargo shipments",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/",
       "pubDate": "Fri, 31 Oct 2025 16:59:02 -0400"
-    },
-    {
-      "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data",
-      "link": "https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/",
-      "pubDate": "Fri, 31 Oct 2025 14:32:39 -0400"
     }
   ]
 }
