@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T18:15:50Z",
+  "updated": "2025-11-03T18:43:49Z",
   "items": [
+    {
+      "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/",
+      "pubDate": "Mon, 03 Nov 2025 13:35:15 -0500"
+    },
     {
       "title": "US cybersecurity experts indicted for BlackCat ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/",
       "pubDate": "Sat, 01 Nov 2025 10:16:26 -0400"
-    },
-    {
-      "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/",
-      "pubDate": "Fri, 31 Oct 2025 16:59:02 -0400"
     }
   ]
 }
