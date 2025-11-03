@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T16:44:27Z",
+  "updated": "2025-11-03T17:09:57Z",
   "items": [
+    {
+      "title": "Hackers use RMM tools to breach freighters and steal cargo shipments",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/",
+      "pubDate": "Mon, 03 Nov 2025 11:46:40 -0500"
+    },
     {
       "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
@@ -56,11 +61,6 @@
       "title": "\u2018We got hacked\u2019 emails threaten to leak University of Pennsylvania data",
       "link": "https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/",
       "pubDate": "Fri, 31 Oct 2025 14:32:39 -0400"
-    },
-    {
-      "title": "Microsoft Edge gets scareware sensor for faster scam detection",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/",
-      "pubDate": "Fri, 31 Oct 2025 13:15:06 -0400"
     }
   ]
 }
