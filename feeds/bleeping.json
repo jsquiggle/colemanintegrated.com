@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-03T20:39:31Z",
+  "updated": "2025-11-03T21:10:15Z",
   "items": [
+    {
+      "title": "Fake Solidity VSCode extension on Open VSX backdoors developers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/",
+      "pubDate": "Mon, 03 Nov 2025 15:50:10 -0500"
+    },
     {
       "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 Build 26220.7051 released with \u201cAsk Copilot\u201d feature",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-ask-copilot-feature/",
       "pubDate": "Sat, 01 Nov 2025 12:17:22 -0400"
-    },
-    {
-      "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/",
-      "pubDate": "Sat, 01 Nov 2025 10:16:26 -0400"
     }
   ]
 }
