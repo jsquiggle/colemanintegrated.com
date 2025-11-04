@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T20:12:49Z",
+  "updated": "2025-11-04T20:40:20Z",
   "items": [
+    {
+      "title": "Malicious Android apps on Google Play downloaded 42 million times",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/",
+      "pubDate": "Tue, 04 Nov 2025 15:26:26 -0500"
+    },
     {
       "title": "Microsoft removing Defender Application Guard from Office",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/",
       "pubDate": "Mon, 03 Nov 2025 13:35:15 -0500"
-    },
-    {
-      "title": "US cybersecurity experts indicted for BlackCat ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/",
-      "pubDate": "Mon, 03 Nov 2025 12:15:39 -0500"
     }
   ]
 }
