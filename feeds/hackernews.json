@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-04T16:14:02Z",
+  "updated": "2025-11-04T16:45:12Z",
   "items": [
+    {
+      "title": "Europol and Eurojust Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
+      "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
+      "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530"
+    },
     {
       "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
       "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
@@ -56,11 +61,6 @@
       "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
       "link": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
       "pubDate": "Mon, 03 Nov 2025 17:26:00 +0530"
-    },
-    {
-      "title": "Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing Financial Data",
-      "link": "https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html",
-      "pubDate": "Mon, 03 Nov 2025 16:44:00 +0530"
     }
   ]
 }

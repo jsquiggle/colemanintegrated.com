@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T16:14:02Z",
+  "updated": "2025-11-04T16:45:12Z",
   "items": [
+    {
+      "title": "Media giant Nikkei reports data breach impacting 17,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/",
+      "pubDate": "Tue, 04 Nov 2025 11:28:19 -0500"
+    },
     {
       "title": "Police arrests suspects linked to \u20ac600 million crypto fraud ring",
       "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
       "pubDate": "Mon, 03 Nov 2025 10:22:12 -0500"
-    },
-    {
-      "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
-      "pubDate": "Mon, 03 Nov 2025 10:11:21 -0500"
     }
   ]
 }
