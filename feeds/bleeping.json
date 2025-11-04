@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T21:10:05Z",
+  "updated": "2025-11-04T21:34:55Z",
   "items": [
+    {
+      "title": "Apache OpenOffice disputes data breach claims by ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/",
+      "pubDate": "Tue, 04 Nov 2025 16:18:43 -0500"
+    },
     {
       "title": "Malicious Android apps on Google Play downloaded 42 million times",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/",
@@ -56,11 +61,6 @@
       "title": "Fake Solidity VSCode extension on Open VSX backdoors developers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/",
       "pubDate": "Mon, 03 Nov 2025 15:50:10 -0500"
-    },
-    {
-      "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/",
-      "pubDate": "Mon, 03 Nov 2025 13:35:15 -0500"
     }
   ]
 }
