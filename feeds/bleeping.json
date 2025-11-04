@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T14:42:40Z",
+  "updated": "2025-11-04T15:12:15Z",
   "items": [
+    {
+      "title": "Police arrests suspects linked to \u20ac600 million crypto fraud ring",
+      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
+      "pubDate": "Tue, 04 Nov 2025 10:09:22 -0500"
+    },
+    {
+      "title": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools",
+      "link": "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/",
+      "pubDate": "Tue, 04 Nov 2025 10:02:12 -0500"
+    },
     {
       "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
@@ -51,16 +61,6 @@
       "title": "OAuth Device Code Phishing: Azure vs. Google Compared",
       "link": "https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/",
       "pubDate": "Mon, 03 Nov 2025 10:11:21 -0500"
-    },
-    {
-      "title": "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/",
-      "pubDate": "Mon, 03 Nov 2025 05:12:47 -0500"
-    },
-    {
-      "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
-      "pubDate": "Sun, 02 Nov 2025 17:07:14 -0500"
     }
   ]
 }
