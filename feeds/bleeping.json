@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T13:08:20Z",
+  "updated": "2025-11-04T13:48:11Z",
   "items": [
+    {
+      "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
+      "pubDate": "Tue, 04 Nov 2025 08:31:05 -0500"
+    },
     {
       "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
@@ -56,11 +61,6 @@
       "title": "Open VSX rotates access tokens used in supply-chain malware attack",
       "link": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
       "pubDate": "Sun, 02 Nov 2025 10:09:19 -0500"
-    },
-    {
-      "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/",
-      "pubDate": "Sat, 01 Nov 2025 16:00:00 -0400"
     }
   ]
 }
