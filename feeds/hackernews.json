@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-04T18:47:07Z",
+  "updated": "2025-11-04T19:08:53Z",
   "items": [
+    {
+      "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
+      "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
+      "pubDate": "Tue, 04 Nov 2025 22:55:00 +0530"
+    },
     {
       "title": "Europol and Eurojust Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
       "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
       "link": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
       "pubDate": "Mon, 03 Nov 2025 18:26:00 +0530"
-    },
-    {
-      "title": "The Evolution of SOC Operations: How Continuous Exposure Management Transforms Security Operations",
-      "link": "https://thehackernews.com/2025/11/the-evolution-of-soc-operations-how.html",
-      "pubDate": "Mon, 03 Nov 2025 17:26:00 +0530"
     }
   ]
 }
