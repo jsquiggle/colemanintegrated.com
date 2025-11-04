@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-04T06:17:23Z",
+  "updated": "2025-11-04T06:48:42Z",
   "items": [
+    {
+      "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
+      "link": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+      "pubDate": "Tue, 04 Nov 2025 11:28:00 +0530"
+    },
     {
       "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
       "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems",
       "link": "https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html",
       "pubDate": "Fri, 31 Oct 2025 18:56:00 +0530"
-    },
-    {
-      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
-      "link": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
-      "pubDate": "Fri, 31 Oct 2025 17:00:00 +0530"
     }
   ]
 }
