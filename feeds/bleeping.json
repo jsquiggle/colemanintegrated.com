@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T16:45:12Z",
+  "updated": "2025-11-04T17:08:30Z",
   "items": [
+    {
+      "title": "Data breach at major Swedish software supplier impacts 1.5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/",
+      "pubDate": "Tue, 04 Nov 2025 11:53:27 -0500"
+    },
     {
       "title": "Media giant Nikkei reports data breach impacting 17,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/",
@@ -56,11 +61,6 @@
       "title": "Hackers use RMM tools to breach freighters and steal cargo shipments",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/",
       "pubDate": "Mon, 03 Nov 2025 11:46:40 -0500"
-    },
-    {
-      "title": "Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/",
-      "pubDate": "Mon, 03 Nov 2025 10:22:12 -0500"
     }
   ]
 }
