@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T08:46:30Z",
+  "updated": "2025-11-04T09:13:23Z",
   "items": [
+    {
+      "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
+      "pubDate": "Tue, 04 Nov 2025 02:49:31 -0500"
+    },
     {
       "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol",
       "link": "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/",
@@ -56,11 +61,6 @@
       "title": "OpenAI is going Meta route, as it considers memory-based ads on ChatGPT",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-going-meta-route-as-it-considers-memory-based-ads-on-chatgpt/",
       "pubDate": "Sat, 01 Nov 2025 16:00:00 -0400"
-    },
-    {
-      "title": "Google confirms AI search will have ads, but they may look different",
-      "link": "https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/",
-      "pubDate": "Sat, 01 Nov 2025 12:56:00 -0400"
     }
   ]
 }
