@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-04T13:48:11Z",
+  "updated": "2025-11-04T14:11:39Z",
   "items": [
+    {
+      "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
+      "pubDate": "Tue, 04 Nov 2025 09:00:00 -0500"
+    },
     {
       "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
@@ -56,11 +61,6 @@
       "title": "Penn hacker claims to have stolen 1.2 million donor records in data breach",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-hacker-claims-1.2-million-donor-data-breach/",
       "pubDate": "Sun, 02 Nov 2025 17:07:14 -0500"
-    },
-    {
-      "title": "Open VSX rotates access tokens used in supply-chain malware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/open-vsx-rotates-tokens-used-in-supply-chain-malware-attack/",
-      "pubDate": "Sun, 02 Nov 2025 10:09:19 -0500"
     }
   ]
 }
