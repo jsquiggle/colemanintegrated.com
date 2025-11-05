@@ -1,14 +1,19 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-05T06:17:27Z",
+  "updated": "2025-11-05T06:48:28Z",
   "items": [
+    {
+      "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
+      "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
+      "pubDate": "Wed, 05 Nov 2025 11:42:00 +0530"
+    },
     {
       "title": "A Cybercrime Merger Like No Other \u2014 Scattered Spider, LAPSUS$, and ShinyHunters Join Forces",
       "link": "https://thehackernews.com/2025/11/a-cybercrime-merger-like-no-other.html",
       "pubDate": "Tue, 04 Nov 2025 22:55:00 +0530"
     },
     {
-      "title": "Europol and Eurojust Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
+      "title": "European Authorities Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
       "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
       "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Cybercriminals Exploit Remote Monitoring Tools to Infiltrate Logistics and Freight Networks",
       "link": "https://thehackernews.com/2025/11/cybercriminals-exploit-remote.html",
       "pubDate": "Mon, 03 Nov 2025 18:48:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Lazarus Hits Web3, Intel/AMD TEEs Cracked, Dark Web Leak Tool & More",
-      "link": "https://thehackernews.com/2025/11/weekly-recap-lazarus-hits-web3-intelamd.html",
-      "pubDate": "Mon, 03 Nov 2025 18:26:00 +0530"
     }
   ]
 }
