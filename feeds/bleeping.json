@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T15:38:58Z",
+  "updated": "2025-11-05T16:14:10Z",
   "items": [
+    {
+      "title": "University of Pennsylvania confirms data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/",
+      "pubDate": "Wed, 05 Nov 2025 11:04:50 -0500"
+    },
     {
       "title": "Cyber theory vs practice: Are you navigating with faulty instruments?",
       "link": "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/",
@@ -56,11 +61,6 @@
       "title": "Media giant Nikkei reports data breach impacting 17,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/",
       "pubDate": "Tue, 04 Nov 2025 11:28:19 -0500"
-    },
-    {
-      "title": "Police arrests suspects linked to \u20ac600 million crypto fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
-      "pubDate": "Tue, 04 Nov 2025 10:09:22 -0500"
     }
   ]
 }
