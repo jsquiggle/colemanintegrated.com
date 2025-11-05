@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T14:42:39Z",
+  "updated": "2025-11-05T15:12:08Z",
   "items": [
+    {
+      "title": "Cyber theory vs practice: Are you navigating with faulty instruments?",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/",
+      "pubDate": "Wed, 05 Nov 2025 10:01:11 -0500"
+    },
+    {
+      "title": "Google warns of new AI-powered malware families deployed in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/",
+      "pubDate": "Wed, 05 Nov 2025 09:59:59 -0500"
+    },
     {
       "title": "Police busts credit card fraud rings with 4.3 million victims",
       "link": "https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/",
@@ -51,16 +61,6 @@
       "title": "Police arrests suspects linked to \u20ac600 million crypto fraud ring",
       "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/",
       "pubDate": "Tue, 04 Nov 2025 10:09:22 -0500"
-    },
-    {
-      "title": "The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/",
-      "pubDate": "Tue, 04 Nov 2025 10:02:12 -0500"
-    },
-    {
-      "title": "Russian hackers abuse Hyper-V to hide malware in Linux VMs",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/",
-      "pubDate": "Tue, 04 Nov 2025 09:00:00 -0500"
     }
   ]
 }
