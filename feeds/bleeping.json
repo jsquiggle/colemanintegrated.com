@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T10:12:49Z",
+  "updated": "2025-11-05T10:43:10Z",
   "items": [
+    {
+      "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud",
+      "link": "https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/",
+      "pubDate": "Wed, 05 Nov 2025 05:34:38 -0500"
+    },
     {
       "title": "Microsoft: October Windows updates trigger BitLocker recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
@@ -56,11 +61,6 @@
       "title": "Windows 10 update bug triggers incorrect end-of-support alerts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/",
       "pubDate": "Tue, 04 Nov 2025 08:31:05 -0500"
-    },
-    {
-      "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
-      "pubDate": "Tue, 04 Nov 2025 02:49:31 -0500"
     }
   ]
 }
