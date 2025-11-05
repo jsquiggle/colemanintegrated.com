@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T17:10:59Z",
+  "updated": "2025-11-05T17:38:39Z",
   "items": [
+    {
+      "title": "Windows 11 Store gets Ninite-style multi-app installer feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/",
+      "pubDate": "Wed, 05 Nov 2025 12:28:34 -0500"
+    },
+    {
+      "title": "SonicWall says state-sponsored hackers behind September security breach",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/",
+      "pubDate": "Wed, 05 Nov 2025 12:13:07 -0500"
+    },
     {
       "title": "UK carriers to block spoofed phone numbers in fraud crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/",
@@ -51,16 +61,6 @@
       "title": "Malicious Android apps on Google Play downloaded 42 million times",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/",
       "pubDate": "Tue, 04 Nov 2025 15:26:26 -0500"
-    },
-    {
-      "title": "Microsoft removing Defender Application Guard from Office",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/",
-      "pubDate": "Tue, 04 Nov 2025 14:02:33 -0500"
-    },
-    {
-      "title": "Data breach at major Swedish software supplier impacts 1.5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/",
-      "pubDate": "Tue, 04 Nov 2025 11:53:27 -0500"
     }
   ]
 }
