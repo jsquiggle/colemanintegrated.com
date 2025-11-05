@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T16:14:10Z",
+  "updated": "2025-11-05T16:47:27Z",
   "items": [
+    {
+      "title": "UK carriers to block spoofed phone numbers in fraud crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/",
+      "pubDate": "Wed, 05 Nov 2025 11:33:51 -0500"
+    },
     {
       "title": "University of Pennsylvania confirms data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Data breach at major Swedish software supplier impacts 1.5 million",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/",
       "pubDate": "Tue, 04 Nov 2025 11:53:27 -0500"
-    },
-    {
-      "title": "Media giant Nikkei reports data breach impacting 17,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/",
-      "pubDate": "Tue, 04 Nov 2025 11:28:19 -0500"
     }
   ]
 }
