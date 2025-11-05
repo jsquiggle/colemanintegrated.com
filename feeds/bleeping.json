@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T08:46:38Z",
+  "updated": "2025-11-05T09:12:52Z",
   "items": [
+    {
+      "title": "Microsoft: October Windows updates trigger BitLocker recovery",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
+      "pubDate": "Wed, 05 Nov 2025 03:56:22 -0500"
+    },
     {
       "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit critical auth bypass flaw in JobMonster WordPress theme",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/",
       "pubDate": "Tue, 04 Nov 2025 02:49:31 -0500"
-    },
-    {
-      "title": "Hacker steals over $120 million from Balancer DeFi crypto protocol",
-      "link": "https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/",
-      "pubDate": "Mon, 03 Nov 2025 16:53:35 -0500"
     }
   ]
 }
