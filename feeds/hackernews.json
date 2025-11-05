@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-05T11:34:48Z",
+  "updated": "2025-11-05T12:21:39Z",
   "items": [
+    {
+      "title": "Securing the Open Android Ecosystem with Samsung Knox",
+      "link": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
+      "pubDate": "Wed, 05 Nov 2025 17:25:00 +0530"
+    },
     {
       "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions",
       "link": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
@@ -56,11 +61,6 @@
       "title": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit",
       "link": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
       "pubDate": "Tue, 04 Nov 2025 13:40:00 +0530"
-    },
-    {
-      "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
-      "link": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
-      "pubDate": "Tue, 04 Nov 2025 13:15:00 +0530"
     }
   ]
 }
