@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T18:15:38Z",
+  "updated": "2025-11-05T18:47:15Z",
   "items": [
+    {
+      "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/",
+      "pubDate": "Wed, 05 Nov 2025 13:26:25 -0500"
+    },
     {
       "title": "Windows 11 Store gets Ninite-style multi-app installer feature",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/",
@@ -56,11 +61,6 @@
       "title": "Apache OpenOffice disputes data breach claims by ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/",
       "pubDate": "Tue, 04 Nov 2025 16:18:43 -0500"
-    },
-    {
-      "title": "Malicious Android apps on Google Play downloaded 42 million times",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/",
-      "pubDate": "Tue, 04 Nov 2025 15:26:26 -0500"
     }
   ]
 }
