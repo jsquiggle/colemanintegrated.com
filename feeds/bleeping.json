@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-05T21:33:47Z",
+  "updated": "2025-11-05T22:10:20Z",
   "items": [
+    {
+      "title": "Gootloader malware is back with new tricks after 7-month break",
+      "link": "https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/",
+      "pubDate": "Wed, 05 Nov 2025 16:52:45 -0500"
+    },
     {
       "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses",
       "link": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: October Windows updates trigger BitLocker recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/",
       "pubDate": "Wed, 05 Nov 2025 03:56:22 -0500"
-    },
-    {
-      "title": "Hackers exploit WordPress plugin Post SMTP to hijack admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/",
-      "pubDate": "Tue, 04 Nov 2025 16:46:50 -0500"
     }
   ]
 }
