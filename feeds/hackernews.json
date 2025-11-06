@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-06T11:09:44Z",
+  "updated": "2025-11-06T11:34:47Z",
   "items": [
+    {
+      "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner\u00ae Market Guide for Managed Detection and Response",
+      "link": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
+      "pubDate": "Thu, 06 Nov 2025 16:13:00 +0530"
+    },
     {
       "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
       "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
@@ -56,11 +61,6 @@
       "title": "European Authorities Dismantle \u20ac600 Million Crypto Fraud Network in Global Sweep",
       "link": "https://thehackernews.com/2025/11/europol-and-eurojust-dismantle-600.html",
       "pubDate": "Tue, 04 Nov 2025 21:27:00 +0530"
-    },
-    {
-      "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
-      "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-      "pubDate": "Tue, 04 Nov 2025 19:54:00 +0530"
     }
   ]
 }
