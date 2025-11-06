@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-06T14:42:15Z",
+  "updated": "2025-11-06T15:12:18Z",
   "items": [
+    {
+      "title": "Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense",
+      "link": "https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/",
+      "pubDate": "Thu, 06 Nov 2025 10:02:12 -0500"
+    },
     {
       "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/",
@@ -56,11 +61,6 @@
       "title": "Cyber theory vs practice: Are you navigating with faulty instruments?",
       "link": "https://www.bleepingcomputer.com/news/security/cyber-theory-vs-practice-are-you-navigating-with-faulty-instruments/",
       "pubDate": "Wed, 05 Nov 2025 10:01:11 -0500"
-    },
-    {
-      "title": "Google warns of new AI-powered malware families deployed in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/",
-      "pubDate": "Wed, 05 Nov 2025 09:59:59 -0500"
     }
   ]
 }
