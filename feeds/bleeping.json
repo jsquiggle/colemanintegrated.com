@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-06T13:04:55Z",
+  "updated": "2025-11-06T13:46:30Z",
   "items": [
+    {
+      "title": "Critical Cisco UCCX flaw lets attackers run commands as root",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/",
+      "pubDate": "Thu, 06 Nov 2025 08:31:10 -0500"
+    },
     {
       "title": "Sandworm hackers use data wipers to disrupt Ukraine's grain sector",
       "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/",
@@ -56,11 +61,6 @@
       "title": "Police busts credit card fraud rings with 4.3 million victims",
       "link": "https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/",
       "pubDate": "Wed, 05 Nov 2025 07:29:24 -0500"
-    },
-    {
-      "title": "US sanctions North Korean bankers linked to cybercrime, IT worker fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/",
-      "pubDate": "Wed, 05 Nov 2025 05:34:38 -0500"
     }
   ]
 }
