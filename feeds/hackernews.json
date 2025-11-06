@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-06T05:39:48Z",
+  "updated": "2025-11-06T06:17:27Z",
   "items": [
+    {
+      "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
+      "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
+      "pubDate": "Thu, 06 Nov 2025 11:10:00 +0530"
+    },
     {
       "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
       "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
       "link": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
       "pubDate": "Tue, 04 Nov 2025 19:30:00 +0530"
-    },
-    {
-      "title": "Ransomware Defense Using the Wazuh Open Source Platform",
-      "link": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
-      "pubDate": "Tue, 04 Nov 2025 16:36:00 +0530"
     }
   ]
 }
