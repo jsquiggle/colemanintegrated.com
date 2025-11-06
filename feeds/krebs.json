@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-11-06T00:52:36Z",
+  "updated": "2025-11-06T02:27:38Z",
   "items": [
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "pubDate": "Thu, 06 Nov 2025 02:04:36 +0000"
+    },
     {
       "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
       "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
@@ -46,11 +51,6 @@
       "title": "Self-Replicating Worm Hits 180+ Software Packages",
       "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
       "pubDate": "Tue, 16 Sep 2025 14:08:02 +0000"
-    },
-    {
-      "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
-      "link": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
-      "pubDate": "Thu, 11 Sep 2025 17:40:22 +0000"
     }
   ]
 }
