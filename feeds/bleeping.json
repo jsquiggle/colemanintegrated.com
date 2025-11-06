@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-06T14:11:36Z",
+  "updated": "2025-11-06T14:42:15Z",
   "items": [
+    {
+      "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/",
+      "pubDate": "Thu, 06 Nov 2025 09:00:00 -0500"
+    },
     {
       "title": "Critical Cisco UCCX flaw lets attackers run commands as root",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/",
@@ -56,11 +61,6 @@
       "title": "Google warns of new AI-powered malware families deployed in the wild",
       "link": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-ai-powered-malware-families-deployed-in-the-wild/",
       "pubDate": "Wed, 05 Nov 2025 09:59:59 -0500"
-    },
-    {
-      "title": "Police busts credit card fraud rings with 4.3 million victims",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-credit-card-fraud-rings-stole-eur-300-million-from-43-million-cardholders/",
-      "pubDate": "Wed, 05 Nov 2025 07:29:24 -0500"
     }
   ]
 }
