@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-06T07:35:49Z",
+  "updated": "2025-11-06T08:15:18Z",
   "items": [
+    {
+      "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
+      "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
+      "pubDate": "Thu, 06 Nov 2025 12:52:00 +0530"
+    },
     {
       "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
       "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
@@ -56,11 +61,6 @@
       "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
       "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
       "pubDate": "Tue, 04 Nov 2025 19:54:00 +0530"
-    },
-    {
-      "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
-      "link": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
-      "pubDate": "Tue, 04 Nov 2025 19:30:00 +0530"
     }
   ]
 }
