@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-06T15:41:37Z",
+  "updated": "2025-11-06T16:14:35Z",
   "items": [
+    {
+      "title": "Trojanized ESET Installers Drop Kalambur Backdoor in Phishing Attacks on Ukraine",
+      "link": "https://thehackernews.com/2025/11/trojanized-eset-installers-drop.html",
+      "pubDate": "Thu, 06 Nov 2025 21:01:00 +0530"
+    },
+    {
+      "title": "Cisco Warns of New Firewall Attack Exploiting CVE-2025-20333 and CVE-2025-20362",
+      "link": "https://thehackernews.com/2025/11/cisco-warns-of-new-firewall-attack.html",
+      "pubDate": "Thu, 06 Nov 2025 20:28:00 +0530"
+    },
     {
       "title": "From Tabletop to Turnkey: Building Cyber Resilience in Financial Services",
       "link": "https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html",
@@ -51,16 +61,6 @@
       "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
       "link": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
       "pubDate": "Wed, 05 Nov 2025 16:25:00 +0530"
-    },
-    {
-      "title": "Why SOC Burnout Can Be Avoided: Practical Steps",
-      "link": "https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html",
-      "pubDate": "Wed, 05 Nov 2025 16:00:00 +0530"
-    },
-    {
-      "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
-      "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
-      "pubDate": "Wed, 05 Nov 2025 11:42:00 +0530"
     }
   ]
 }
