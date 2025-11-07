@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-06T23:33:52Z",
+  "updated": "2025-11-07T00:52:36Z",
   "items": [
+    {
+      "title": "U.S. Congressional Budget Office hit by suspected foreign cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/",
+      "pubDate": "Thu, 06 Nov 2025 19:22:30 -0500"
+    },
     {
       "title": "AI-Slop ransomware test sneaks on to VS Code marketplace",
       "link": "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/",
@@ -56,11 +61,6 @@
       "title": "SonicWall says state-sponsored hackers behind September security breach",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/",
       "pubDate": "Wed, 05 Nov 2025 12:13:07 -0500"
-    },
-    {
-      "title": "UK carriers to block spoofed phone numbers in fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/",
-      "pubDate": "Wed, 05 Nov 2025 11:33:51 -0500"
     }
   ]
 }
