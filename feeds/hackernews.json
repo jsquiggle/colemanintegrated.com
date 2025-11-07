@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-07T16:11:32Z",
+  "updated": "2025-11-07T16:42:46Z",
   "items": [
+    {
+      "title": "From Log4j to IIS, China\u2019s Hackers Turn Legacy Bugs into Global Espionage Tools",
+      "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
+      "pubDate": "Fri, 07 Nov 2025 21:37:00 +0530"
+    },
     {
       "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
       "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
@@ -56,11 +61,6 @@
       "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
       "link": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
       "pubDate": "Thu, 06 Nov 2025 11:10:00 +0530"
-    },
-    {
-      "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
-      "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
-      "pubDate": "Wed, 05 Nov 2025 21:03:00 +0530"
     }
   ]
 }
