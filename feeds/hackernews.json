@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-07T09:38:14Z",
+  "updated": "2025-11-07T10:12:33Z",
   "items": [
+    {
+      "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
+      "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
+      "pubDate": "Fri, 07 Nov 2025 14:45:00 +0530"
+    },
     {
       "title": "Vibe-Coded Malicious VS Code Extension Found with Built-In Ransomware Capabilities",
       "link": "https://thehackernews.com/2025/11/vibe-coded-malicious-vs-code-extension.html",
@@ -56,11 +61,6 @@
       "title": "Securing the Open Android Ecosystem with Samsung Knox",
       "link": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
       "pubDate": "Wed, 05 Nov 2025 17:25:00 +0530"
-    },
-    {
-      "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions",
-      "link": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
-      "pubDate": "Wed, 05 Nov 2025 16:50:00 +0530"
     }
   ]
 }
