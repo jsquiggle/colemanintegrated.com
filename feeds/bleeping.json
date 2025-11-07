@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-07T13:03:06Z",
+  "updated": "2025-11-07T13:42:25Z",
   "items": [
+    {
+      "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
+      "pubDate": "Fri, 07 Nov 2025 08:06:11 -0500"
+    },
     {
       "title": "U.S. Congressional Budget Office hit by suspected foreign cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/",
@@ -51,16 +56,6 @@
       "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/",
       "pubDate": "Wed, 05 Nov 2025 13:26:25 -0500"
-    },
-    {
-      "title": "Windows 11 Store gets Ninite-style multi-app installer feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/",
-      "pubDate": "Wed, 05 Nov 2025 12:28:34 -0500"
-    },
-    {
-      "title": "SonicWall says state-sponsored hackers behind September security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/",
-      "pubDate": "Wed, 05 Nov 2025 12:13:07 -0500"
     }
   ]
 }
