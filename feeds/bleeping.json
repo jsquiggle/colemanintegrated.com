@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-07T15:38:50Z",
+  "updated": "2025-11-07T16:11:32Z",
   "items": [
+    {
+      "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
+      "pubDate": "Fri, 07 Nov 2025 10:44:31 -0500"
+    },
     {
       "title": "ID verification laws are fueling the next wave of breaches",
       "link": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
