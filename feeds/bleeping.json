@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-07T14:40:18Z",
+  "updated": "2025-11-07T15:11:10Z",
   "items": [
+    {
+      "title": "ID verification laws are fueling the next wave of breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
+      "pubDate": "Fri, 07 Nov 2025 10:05:15 -0500"
+    },
     {
       "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
@@ -51,11 +56,6 @@
       "title": "Hyundai AutoEver America data breach exposes SSNs, drivers licenses",
       "link": "https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/",
       "pubDate": "Wed, 05 Nov 2025 16:19:02 -0500"
-    },
-    {
-      "title": "CISA warns of critical CentOS Web Panel bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/",
-      "pubDate": "Wed, 05 Nov 2025 13:26:25 -0500"
     }
   ]
 }
