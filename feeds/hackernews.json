@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-08T14:36:01Z",
+  "updated": "2025-11-08T15:09:40Z",
   "items": [
+    {
+      "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+      "link": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+      "pubDate": "Sat, 08 Nov 2025 19:59:00 +0530"
+    },
     {
       "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
       "link": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
@@ -56,11 +61,6 @@
       "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner\u00ae Market Guide for Managed Detection and Response",
       "link": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
       "pubDate": "Thu, 06 Nov 2025 16:13:00 +0530"
-    },
-    {
-      "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
-      "link": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
-      "pubDate": "Thu, 06 Nov 2025 12:52:00 +0530"
     }
   ]
 }
