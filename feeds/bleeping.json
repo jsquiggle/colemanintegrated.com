@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-08T22:08:34Z",
+  "updated": "2025-11-08T22:35:17Z",
   "items": [
+    {
+      "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
+      "pubDate": "Sat, 08 Nov 2025 17:29:44 -0500"
+    },
+    {
+      "title": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
+      "pubDate": "Sat, 08 Nov 2025 11:17:28 -0500"
+    },
+    {
+      "title": "Still on Windows 10? Enroll in free ESU before next week\u2019s Patch Tuesday",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/still-on-windows-10-enroll-in-free-extended-security-updates/",
+      "pubDate": "Sat, 08 Nov 2025 10:09:19 -0500"
+    },
     {
       "title": "Malicious NuGet packages drop disruptive 'time bombs'",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/",
@@ -46,21 +61,6 @@
       "title": "AI-Slop ransomware test sneaks on to VS Code marketplace",
       "link": "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/",
       "pubDate": "Thu, 06 Nov 2025 16:52:47 -0500"
-    },
-    {
-      "title": "How a ransomware gang encrypted Nevada government's systems",
-      "link": "https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/",
-      "pubDate": "Thu, 06 Nov 2025 14:02:16 -0500"
-    },
-    {
-      "title": "Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense",
-      "link": "https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/",
-      "pubDate": "Thu, 06 Nov 2025 10:02:12 -0500"
-    },
-    {
-      "title": "ClickFix malware attacks evolve with multi-OS support, video tutorials",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/",
-      "pubDate": "Thu, 06 Nov 2025 09:00:00 -0500"
     }
   ]
 }
