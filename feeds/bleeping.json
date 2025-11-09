@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-09T15:33:35Z",
+  "updated": "2025-11-09T16:11:24Z",
   "items": [
+    {
+      "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features",
+      "link": "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/",
+      "pubDate": "Sun, 09 Nov 2025 10:30:40 -0500"
+    },
+    {
+      "title": "Lost iPhone? Don\u2019t fall for phishing texts saying it was found",
+      "link": "https://www.bleepingcomputer.com/news/security/lost-iphone-dont-fall-for-phishing-texts-saying-it-was-found/",
+      "pubDate": "Sun, 09 Nov 2025 10:12:22 -0500"
+    },
+    {
+      "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
+      "link": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
+      "pubDate": "Sun, 09 Nov 2025 10:11:12 -0500"
+    },
     {
       "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
@@ -46,21 +61,6 @@
       "title": "ID verification laws are fueling the next wave of breaches",
       "link": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
       "pubDate": "Fri, 07 Nov 2025 10:05:15 -0500"
-    },
-    {
-      "title": "Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/",
-      "pubDate": "Fri, 07 Nov 2025 08:06:11 -0500"
-    },
-    {
-      "title": "U.S. Congressional Budget Office hit by suspected foreign cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/",
-      "pubDate": "Thu, 06 Nov 2025 19:22:30 -0500"
-    },
-    {
-      "title": "AI-Slop ransomware test sneaks on to VS Code marketplace",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/",
-      "pubDate": "Thu, 06 Nov 2025 16:52:47 -0500"
     }
   ]
 }
