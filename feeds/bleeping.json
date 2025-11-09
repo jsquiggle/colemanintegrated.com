@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-09T23:09:47Z",
+  "updated": "2025-11-09T23:33:08Z",
   "items": [
+    {
+      "title": "How to use the new Windows 11 Start menu, now rolling out",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/",
+      "pubDate": "Sun, 09 Nov 2025 18:28:57 -0500"
+    },
     {
       "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features",
       "link": "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/",
@@ -56,11 +61,6 @@
       "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
       "pubDate": "Fri, 07 Nov 2025 10:44:31 -0500"
-    },
-    {
-      "title": "ID verification laws are fueling the next wave of breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/",
-      "pubDate": "Fri, 07 Nov 2025 10:05:15 -0500"
     }
   ]
 }
