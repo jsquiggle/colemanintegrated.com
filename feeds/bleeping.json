@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-10T19:09:07Z",
+  "updated": "2025-11-10T19:32:32Z",
   "items": [
+    {
+      "title": "Yanluowang initial access broker to plead guilty to ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-to-plead-guilty-to-ransomware-attacks/",
+      "pubDate": "Mon, 10 Nov 2025 14:12:51 -0500"
+    },
     {
       "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/",
@@ -56,11 +61,6 @@
       "title": "Microsoft testing faster Quick Machine Recovery in Windows 11",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/",
       "pubDate": "Fri, 07 Nov 2025 14:46:32 -0500"
-    },
-    {
-      "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
-      "pubDate": "Fri, 07 Nov 2025 13:24:43 -0500"
     }
   ]
 }
