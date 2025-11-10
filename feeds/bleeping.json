@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-10T18:15:52Z",
+  "updated": "2025-11-10T18:46:37Z",
   "items": [
+    {
+      "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/",
+      "pubDate": "Mon, 10 Nov 2025 13:32:29 -0500"
+    },
     {
       "title": "5 reasons why attackers are phishing over LinkedIn",
       "link": "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/",
@@ -56,11 +61,6 @@
       "title": "QNAP fixes seven NAS zero-day flaws exploited at Pwn2Own",
       "link": "https://www.bleepingcomputer.com/news/security/qnap-fixes-seven-nas-zero-day-vulnerabilities-exploited-at-pwn2own/",
       "pubDate": "Fri, 07 Nov 2025 13:24:43 -0500"
-    },
-    {
-      "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/",
-      "pubDate": "Fri, 07 Nov 2025 13:23:25 -0500"
     }
   ]
 }
