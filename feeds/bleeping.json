@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-10T14:41:39Z",
+  "updated": "2025-11-10T15:13:02Z",
   "items": [
+    {
+      "title": "5 reasons why attackers are phishing over LinkedIn",
+      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/",
+      "pubDate": "Mon, 10 Nov 2025 10:01:11 -0500"
+    },
     {
       "title": "How to use the new Windows 11 Start menu, now rolling out",
       "link": "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/",
@@ -56,11 +61,6 @@
       "title": "New LandFall spyware exploited Samsung zero-day via WhatsApp messages",
       "link": "https://www.bleepingcomputer.com/news/security/new-landfall-spyware-exploited-samsung-zero-day-via-whatsapp-messages/",
       "pubDate": "Fri, 07 Nov 2025 13:23:25 -0500"
-    },
-    {
-      "title": "Cisco: Actively exploited firewall flaws now abused for DoS attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-actively-exploited-firewall-flaws-now-abused-for-dos-attacks/",
-      "pubDate": "Fri, 07 Nov 2025 10:44:31 -0500"
     }
   ]
 }
