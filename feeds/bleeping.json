@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-11T19:32:57Z",
+  "updated": "2025-11-11T20:12:18Z",
   "items": [
+    {
+      "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
+      "pubDate": "Tue, 11 Nov 2025 15:01:59 -0500"
+    },
     {
       "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/",
@@ -56,11 +61,6 @@
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
       "pubDate": "Mon, 10 Nov 2025 19:46:40 -0500"
-    },
-    {
-      "title": "Mozilla Firefox gets new anti-fingerprinting defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/",
-      "pubDate": "Mon, 10 Nov 2025 17:25:55 -0500"
     }
   ]
 }
