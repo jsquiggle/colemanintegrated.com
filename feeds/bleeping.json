@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-10T23:34:58Z",
+  "updated": "2025-11-11T00:53:20Z",
   "items": [
+    {
+      "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
+      "pubDate": "Mon, 10 Nov 2025 19:46:40 -0500"
+    },
     {
       "title": "Mozilla Firefox gets new anti-fingerprinting defenses",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/",
@@ -56,11 +61,6 @@
       "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
       "pubDate": "Sat, 08 Nov 2025 17:29:44 -0500"
-    },
-    {
-      "title": "GlassWorm malware returns on OpenVSX with 3 new VSCode extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-on-openvsx-with-3-new-vscode-extensions/",
-      "pubDate": "Sat, 08 Nov 2025 11:17:28 -0500"
     }
   ]
 }
