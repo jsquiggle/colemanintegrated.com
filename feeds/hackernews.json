@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-11T11:34:28Z",
+  "updated": "2025-11-11T12:21:25Z",
   "items": [
+    {
+      "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+      "link": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+      "pubDate": "Tue, 11 Nov 2025 17:28:00 +0530"
+    },
+    {
+      "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+      "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+      "pubDate": "Tue, 11 Nov 2025 17:25:00 +0530"
+    },
+    {
+      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+      "link": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+      "pubDate": "Tue, 11 Nov 2025 17:14:00 +0530"
+    },
     {
       "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
       "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
@@ -46,21 +61,6 @@
       "title": "From Log4j to IIS, China\u2019s Hackers Turn Legacy Bugs into Global Espionage Tools",
       "link": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
       "pubDate": "Fri, 07 Nov 2025 21:37:00 +0530"
-    },
-    {
-      "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
-      "link": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
-      "pubDate": "Fri, 07 Nov 2025 17:25:00 +0530"
-    },
-    {
-      "title": "Enterprise Credentials at Risk \u2013 Same Old, Same Old?",
-      "link": "https://thehackernews.com/2025/11/enterprise-credentials-at-risk-same-old.html",
-      "pubDate": "Fri, 07 Nov 2025 16:00:00 +0530"
-    },
-    {
-      "title": "Google Launches New Maps Feature to Help Businesses Report Review-Based Extortion Attempts",
-      "link": "https://thehackernews.com/2025/11/google-launches-new-maps-feature-to.html",
-      "pubDate": "Fri, 07 Nov 2025 14:45:00 +0530"
     }
   ]
 }
