@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-11T22:10:49Z",
+  "updated": "2025-11-11T22:38:57Z",
   "items": [
+    {
+      "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
+      "pubDate": "Tue, 11 Nov 2025 17:34:46 -0500"
+    },
     {
       "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
@@ -56,11 +61,6 @@
       "title": "Webinar: Modern Patch Management \u2013 Strategies to patch faster with less risk",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
       "pubDate": "Tue, 11 Nov 2025 08:10:18 -0500"
-    },
-    {
-      "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
-      "pubDate": "Mon, 10 Nov 2025 19:46:40 -0500"
     }
   ]
 }
