@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-11T14:11:06Z",
+  "updated": "2025-11-11T14:42:11Z",
   "items": [
+    {
+      "title": "Webinar: Modern Patch Management \u2013 Strategies to patch faster with less risk",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
+      "pubDate": "Tue, 11 Nov 2025 08:10:18 -0500"
+    },
     {
       "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
@@ -56,11 +61,6 @@
       "title": "Dangerous runC flaws could allow hackers to escape Docker containers",
       "link": "https://www.bleepingcomputer.com/news/security/dangerous-runc-flaws-could-allow-hackers-to-escape-docker-containers/",
       "pubDate": "Sun, 09 Nov 2025 10:11:12 -0500"
-    },
-    {
-      "title": "OpenAI plans to release GPT-5.1, GPT-5.1 Reasoning, and GPT-5.1 Pro",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-release-gpt-51-gpt-51-reasoning-and-gpt-51-pro/",
-      "pubDate": "Sat, 08 Nov 2025 17:29:44 -0500"
     }
   ]
 }
