@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-11T18:15:33Z",
+  "updated": "2025-11-11T18:46:23Z",
   "items": [
+    {
+      "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/",
+      "pubDate": "Tue, 11 Nov 2025 13:45:29 -0500"
+    },
+    {
+      "title": "Windows 11 KB5068861\u00a0& KB5068865\u00a0cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5068861-and-kb5068865-cumulative-updates-released/",
+      "pubDate": "Tue, 11 Nov 2025 13:32:29 -0500"
+    },
+    {
+      "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/",
+      "pubDate": "Tue, 11 Nov 2025 13:28:18 -0500"
+    },
     {
       "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam",
       "link": "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/",
@@ -46,21 +61,6 @@
       "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/",
       "pubDate": "Mon, 10 Nov 2025 15:00:34 -0500"
-    },
-    {
-      "title": "Yanluowang initial access broker pleaded guilty to ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-initial-access-broker-pleaded-guilty-to-ransomware-attacks/",
-      "pubDate": "Mon, 10 Nov 2025 14:12:51 -0500"
-    },
-    {
-      "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/",
-      "pubDate": "Mon, 10 Nov 2025 13:32:29 -0500"
-    },
-    {
-      "title": "5 reasons why attackers are phishing over LinkedIn",
-      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/",
-      "pubDate": "Mon, 10 Nov 2025 10:01:11 -0500"
     }
   ]
 }
