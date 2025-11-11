@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-11T16:45:51Z",
+  "updated": "2025-11-11T17:10:21Z",
   "items": [
+    {
+      "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam",
+      "link": "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/",
+      "pubDate": "Tue, 11 Nov 2025 12:07:44 -0500"
+    },
     {
       "title": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor",
       "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/",
@@ -56,11 +61,6 @@
       "title": "5 reasons why attackers are phishing over LinkedIn",
       "link": "https://www.bleepingcomputer.com/news/security/5-reasons-why-attackers-are-phishing-over-linkedin/",
       "pubDate": "Mon, 10 Nov 2025 10:01:11 -0500"
-    },
-    {
-      "title": "How to use the new Windows 11 Start menu, now rolling out",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/",
-      "pubDate": "Sun, 09 Nov 2025 18:28:57 -0500"
     }
   ]
 }
