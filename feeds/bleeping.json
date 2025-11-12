@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-12T20:40:24Z",
+  "updated": "2025-11-12T21:10:27Z",
   "items": [
+    {
+      "title": "Google sues to dismantle Chinese platform behind global toll scams",
+      "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-platform-behind-global-toll-scams/",
+      "pubDate": "Wed, 12 Nov 2025 15:59:44 -0500"
+    },
     {
       "title": "Windows 11 now supports 3rd-party apps for native passkey management",
       "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
@@ -56,11 +61,6 @@
       "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
       "pubDate": "Tue, 11 Nov 2025 15:01:59 -0500"
-    },
-    {
-      "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/",
-      "pubDate": "Tue, 11 Nov 2025 14:12:17 -0500"
     }
   ]
 }
