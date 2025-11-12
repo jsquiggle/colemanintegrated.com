@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-12T08:46:53Z",
+  "updated": "2025-11-12T09:13:16Z",
   "items": [
+    {
+      "title": "Google Launches 'Private AI Compute' \u2014 Secure AI Processing with On-Device-Level Privacy",
+      "link": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html",
+      "pubDate": "Wed, 12 Nov 2025 14:05:00 +0530"
+    },
     {
       "title": "WhatsApp Malware 'Maverick' Hijacks Browser Sessions to Target Brazil's Biggest Banks",
       "link": "https://thehackernews.com/2025/11/whatsapp-malware-maverick-hijacks.html",
@@ -18,7 +23,7 @@
       "pubDate": "Tue, 11 Nov 2025 17:28:00 +0530"
     },
     {
-      "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+      "title": "Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise",
       "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
       "pubDate": "Tue, 11 Nov 2025 17:25:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
       "link": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
       "pubDate": "Mon, 10 Nov 2025 14:21:00 +0530"
-    },
-    {
-      "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
-      "link": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-      "pubDate": "Sat, 08 Nov 2025 19:59:00 +0530"
     }
   ]
 }
