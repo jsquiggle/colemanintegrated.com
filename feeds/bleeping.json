@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-11T23:35:00Z",
+  "updated": "2025-11-12T00:53:01Z",
   "items": [
+    {
+      "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
+      "link": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
+      "pubDate": "Tue, 11 Nov 2025 19:14:19 -0500"
+    },
     {
       "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
@@ -56,11 +61,6 @@
       "title": "How a CPU spike led to uncovering a RansomHub ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/",
       "pubDate": "Tue, 11 Nov 2025 10:01:11 -0500"
-    },
-    {
-      "title": "Webinar: Modern Patch Management \u2013 Strategies to patch faster with less risk",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/",
-      "pubDate": "Tue, 11 Nov 2025 08:10:18 -0500"
     }
   ]
 }
