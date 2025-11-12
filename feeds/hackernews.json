@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-12T16:15:03Z",
+  "updated": "2025-11-12T16:47:41Z",
   "items": [
+    {
+      "title": "Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform",
+      "link": "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
+      "pubDate": "Wed, 12 Nov 2025 21:18:00 +0530"
+    },
     {
       "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
       "link": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
       "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
       "pubDate": "Tue, 11 Nov 2025 02:19:00 +0530"
-    },
-    {
-      "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon",
-      "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
-      "pubDate": "Tue, 11 Nov 2025 01:59:00 +0530"
     }
   ]
 }
