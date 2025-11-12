@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-12T15:12:16Z",
+  "updated": "2025-11-12T15:41:56Z",
   "items": [
+    {
+      "title": "Microsoft fixes bug causing false Windows 10 end-of-support alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/",
+      "pubDate": "Wed, 12 Nov 2025 10:29:13 -0500"
+    },
+    {
+      "title": "Extending Zero Trust to AI Agents: \u201cNever Trust, Always Verify\u201d Goes Autonomous",
+      "link": "https://www.bleepingcomputer.com/news/security/extending-zero-trust-to-ai-agents-never-trust-always-verify-goes-autonomous/",
+      "pubDate": "Wed, 12 Nov 2025 10:25:35 -0500"
+    },
     {
       "title": "New UK laws to strengthen critical infrastructure cyber defenses",
       "link": "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/",
@@ -51,16 +61,6 @@
       "title": "Microsoft November 2025 Patch Tuesday fixes 1 zero-day, 63 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/",
       "pubDate": "Tue, 11 Nov 2025 13:45:29 -0500"
-    },
-    {
-      "title": "Windows 11 KB5068861\u00a0& KB5068865\u00a0cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5068861-and-kb5068865-cumulative-updates-released/",
-      "pubDate": "Tue, 11 Nov 2025 13:32:29 -0500"
-    },
-    {
-      "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/",
-      "pubDate": "Tue, 11 Nov 2025 13:28:18 -0500"
     }
   ]
 }
