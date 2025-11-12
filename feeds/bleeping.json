@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-12T13:48:05Z",
+  "updated": "2025-11-12T14:12:08Z",
   "items": [
+    {
+      "title": "New UK laws to strengthen critical infrastructure cyber defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/",
+      "pubDate": "Wed, 12 Nov 2025 09:08:54 -0500"
+    },
+    {
+      "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/",
+      "pubDate": "Wed, 12 Nov 2025 09:00:00 -0500"
+    },
     {
       "title": "Synnovis notifies of data breach after 2024 ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
@@ -51,16 +61,6 @@
       "title": "Microsoft: Emergency Windows 10 update fixes ESU enrollment bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-windows-10-update-fixes-esu-enrollment-bug/",
       "pubDate": "Tue, 11 Nov 2025 13:28:18 -0500"
-    },
-    {
-      "title": "\u201cBitcoin Queen\u201d gets 11 years in prison for $7.3 billion Bitcoin scam",
-      "link": "https://www.bleepingcomputer.com/news/security/bitcoin-queen-gets-11-years-in-prison-for-73-billion-bitcoin-scam/",
-      "pubDate": "Tue, 11 Nov 2025 12:07:44 -0500"
-    },
-    {
-      "title": "SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/",
-      "pubDate": "Tue, 11 Nov 2025 10:38:55 -0500"
     }
   ]
 }
