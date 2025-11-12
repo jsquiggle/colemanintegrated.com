@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-12T18:16:29Z",
+  "updated": "2025-11-12T18:45:01Z",
   "items": [
+    {
+      "title": "Windows 11 now supports 3rd-party apps for native passkey management",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
+      "pubDate": "Wed, 12 Nov 2025 13:18:11 -0500"
+    },
     {
       "title": "DanaBot malware is back to infecting Windows after 6-month break",
       "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Windows 11 23H2 Home and Pro reach end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/",
       "pubDate": "Tue, 11 Nov 2025 14:12:17 -0500"
-    },
-    {
-      "title": "Microsoft releases KB5068781 \u2014 The first Windows 10 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/",
-      "pubDate": "Tue, 11 Nov 2025 14:09:57 -0500"
     }
   ]
 }
