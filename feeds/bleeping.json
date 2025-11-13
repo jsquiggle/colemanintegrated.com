@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-13T10:43:48Z",
+  "updated": "2025-11-13T11:10:06Z",
   "items": [
+    {
+      "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
+      "link": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
+      "pubDate": "Thu, 13 Nov 2025 05:53:39 -0500"
+    },
     {
       "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
       "link": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
       "pubDate": "Tue, 11 Nov 2025 19:14:19 -0500"
-    },
-    {
-      "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
-      "pubDate": "Tue, 11 Nov 2025 17:34:46 -0500"
     }
   ]
 }
