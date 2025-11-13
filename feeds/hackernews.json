@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-13T07:37:08Z",
+  "updated": "2025-11-13T08:15:10Z",
   "items": [
+    {
+      "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
+      "link": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
+      "pubDate": "Thu, 13 Nov 2025 12:53:00 +0530"
+    },
     {
       "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack",
       "link": "https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html",
@@ -56,11 +61,6 @@
       "title": "Npm Package Targeting GitHub-Owned Repositories Flagged as Red Team Exercise",
       "link": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
       "pubDate": "Tue, 11 Nov 2025 17:25:00 +0530"
-    },
-    {
-      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
-      "link": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
-      "pubDate": "Tue, 11 Nov 2025 17:14:00 +0530"
     }
   ]
 }
