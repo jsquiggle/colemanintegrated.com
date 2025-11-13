@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-11-13T14:38:49Z",
+  "updated": "2025-11-13T15:13:18Z",
   "items": [
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "pubDate": "Thu, 13 Nov 2025 14:47:22 +0000"
+    },
     {
       "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
       "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
@@ -46,11 +51,6 @@
       "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
       "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
       "pubDate": "Tue, 07 Oct 2025 22:45:35 +0000"
-    },
-    {
-      "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
-      "link": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "pubDate": "Wed, 24 Sep 2025 11:48:31 +0000"
     }
   ]
 }
