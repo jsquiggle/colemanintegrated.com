@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-13T22:11:02Z",
+  "updated": "2025-11-13T22:39:20Z",
   "items": [
+    {
+      "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/",
+      "pubDate": "Thu, 13 Nov 2025 17:32:42 -0500"
+    },
     {
       "title": "New \u2018IndonesianFoods\u2019 worm floods npm with 100,000 packages",
       "link": "https://www.bleepingcomputer.com/news/security/new-indonesianfoods-worm-floods-npm-with-100-000-packages/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 now supports 3rd-party apps for native passkey management",
       "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
       "pubDate": "Wed, 12 Nov 2025 13:18:11 -0500"
-    },
-    {
-      "title": "DanaBot malware is back to infecting Windows after 6-month break",
-      "link": "https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/",
-      "pubDate": "Wed, 12 Nov 2025 11:34:54 -0500"
     }
   ]
 }
