@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-13T13:48:05Z",
+  "updated": "2025-11-13T14:11:21Z",
   "items": [
+    {
+      "title": "Microsoft rolls out screen capture prevention for Teams users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-screen-capture-prevention-for-teams-users/",
+      "pubDate": "Thu, 13 Nov 2025 08:50:58 -0500"
+    },
     {
       "title": "Popular Android-based photo frames download malware on boot",
       "link": "https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/",
       "pubDate": "Wed, 12 Nov 2025 09:00:00 -0500"
-    },
-    {
-      "title": "Synnovis notifies of data breach after 2024 ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
-      "pubDate": "Wed, 12 Nov 2025 07:28:42 -0500"
     }
   ]
 }
