@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-13T11:34:40Z",
+  "updated": "2025-11-13T12:22:05Z",
   "items": [
+    {
+      "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
+      "pubDate": "Thu, 13 Nov 2025 07:05:55 -0500"
+    },
     {
       "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
       "link": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Windows Task Manager bug affecting performance",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/",
       "pubDate": "Wed, 12 Nov 2025 05:42:34 -0500"
-    },
-    {
-      "title": "Rhadamanthys infostealer disrupted as cybercriminals lose server access",
-      "link": "https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/",
-      "pubDate": "Tue, 11 Nov 2025 19:14:19 -0500"
     }
   ]
 }
