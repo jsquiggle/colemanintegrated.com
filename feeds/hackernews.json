@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-13T20:12:56Z",
+  "updated": "2025-11-13T20:40:16Z",
   "items": [
+    {
+      "title": "Russian Hackers Create 4,300 Fake Travel Sites to Steal Hotel Guests' Payment Data",
+      "link": "https://thehackernews.com/2025/11/russian-hackers-create-4300-fake-travel.html",
+      "pubDate": "Fri, 14 Nov 2025 01:57:00 +0530"
+    },
     {
       "title": "Fake Chrome Extension \u201cSafery\u201d Steals Ethereum Wallet Seed Phrases Using Sui Blockchain",
       "link": "https://thehackernews.com/2025/11/fake-chrome-extension-safery-steals.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack",
       "link": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
       "pubDate": "Wed, 12 Nov 2025 15:51:00 +0530"
-    },
-    {
-      "title": "Google Launches 'Private AI Compute' \u2014 Secure AI Processing with On-Device-Level Privacy",
-      "link": "https://thehackernews.com/2025/11/google-launches-private-ai-compute.html",
-      "pubDate": "Wed, 12 Nov 2025 14:05:00 +0530"
     }
   ]
 }
