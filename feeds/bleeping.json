@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-13T09:40:23Z",
+  "updated": "2025-11-13T10:12:56Z",
   "items": [
+    {
+      "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
+      "pubDate": "Thu, 13 Nov 2025 05:03:52 -0500"
+    },
     {
       "title": "Google sues to dismantle Chinese phishing platform behind US toll scams",
       "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/",
@@ -56,11 +61,6 @@
       "title": "Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/",
       "pubDate": "Tue, 11 Nov 2025 17:34:46 -0500"
-    },
-    {
-      "title": "Hackers abuse Triofox antivirus feature to deploy remote access tools",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/",
-      "pubDate": "Tue, 11 Nov 2025 15:01:59 -0500"
     }
   ]
 }
