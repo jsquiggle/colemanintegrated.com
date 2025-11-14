@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-14T16:46:12Z",
+  "updated": "2025-11-14T17:09:40Z",
   "items": [
+    {
+      "title": "Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/",
+      "pubDate": "Fri, 14 Nov 2025 12:00:42 -0500"
+    },
     {
       "title": "Checkout.com snubs hackers after data breach, to donate ransom instead",
       "link": "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/",
@@ -56,11 +61,6 @@
       "title": "Washington Post data breach impacts nearly 10K employees, contractors",
       "link": "https://www.bleepingcomputer.com/news/security/washington-post-data-breach-impacts-nearly-10k-employees-contractors/",
       "pubDate": "Thu, 13 Nov 2025 11:00:36 -0500"
-    },
-    {
-      "title": "Kerberoasting in 2025: How to protect your service accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/kerberoasting-in-2025-how-to-protect-your-service-accounts/",
-      "pubDate": "Thu, 13 Nov 2025 10:02:12 -0500"
     }
   ]
 }
