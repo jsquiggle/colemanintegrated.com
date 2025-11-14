@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-14T11:09:19Z",
+  "updated": "2025-11-14T11:33:59Z",
   "items": [
+    {
+      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+      "link": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+      "pubDate": "Fri, 14 Nov 2025 16:07:00 +0530"
+    },
     {
       "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
       "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
@@ -56,11 +61,6 @@
       "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
       "link": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
       "pubDate": "Wed, 12 Nov 2025 19:30:00 +0530"
-    },
-    {
-      "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
-      "link": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
-      "pubDate": "Wed, 12 Nov 2025 17:25:00 +0530"
     }
   ]
 }
