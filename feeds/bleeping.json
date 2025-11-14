@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-14T09:39:38Z",
+  "updated": "2025-11-14T10:13:06Z",
   "items": [
+    {
+      "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
+      "pubDate": "Fri, 14 Nov 2025 04:52:37 -0500"
+    },
     {
       "title": "DoorDash hit by new data breach in October exposing user information",
       "link": "https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/",
@@ -56,11 +61,6 @@
       "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
       "pubDate": "Thu, 13 Nov 2025 07:05:55 -0500"
-    },
-    {
-      "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
-      "link": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
-      "pubDate": "Thu, 13 Nov 2025 05:53:39 -0500"
     }
   ]
 }
