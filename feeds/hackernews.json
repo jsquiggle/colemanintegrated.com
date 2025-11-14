@@ -1,9 +1,14 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-14T10:13:06Z",
+  "updated": "2025-11-14T10:42:00Z",
   "items": [
     {
-      "title": "Fortinet FortiWeb Flaw Actively Exploited in the Wild Before Company's Silent Patch",
+      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
+      "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
+      "pubDate": "Fri, 14 Nov 2025 15:23:00 +0530"
+    },
+    {
+      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
       "link": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
       "pubDate": "Fri, 14 Nov 2025 14:30:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
       "link": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
       "pubDate": "Wed, 12 Nov 2025 17:25:00 +0530"
-    },
-    {
-      "title": "Active Directory Under Siege: Why Critical Infrastructure Needs Stronger Security",
-      "link": "https://thehackernews.com/2025/11/active-directory-under-siege-why.html",
-      "pubDate": "Wed, 12 Nov 2025 16:37:00 +0530"
     }
   ]
 }
