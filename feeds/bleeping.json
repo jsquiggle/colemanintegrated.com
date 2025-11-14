@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-14T04:14:58Z",
+  "updated": "2025-11-14T04:41:40Z",
   "items": [
+    {
+      "title": "DoorDash hit by yet another data breach this October",
+      "link": "https://www.bleepingcomputer.com/news/security/doordash-hit-by-yet-another-data-breach-this-october/",
+      "pubDate": "Thu, 13 Nov 2025 23:38:44 -0500"
+    },
     {
       "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users",
       "link": "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/",
@@ -56,11 +61,6 @@
       "title": "Police disrupts Rhadamanthys, VenomRAT, and Elysium malware operations",
       "link": "https://www.bleepingcomputer.com/news/security/police-disrupts-rhadamanthys-venomrat-and-elysium-malware-operations/",
       "pubDate": "Thu, 13 Nov 2025 05:53:39 -0500"
-    },
-    {
-      "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
-      "pubDate": "Thu, 13 Nov 2025 05:03:52 -0500"
     }
   ]
 }
