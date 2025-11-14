@@ -1,56 +1,5 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-11-14T03:32:35Z",
-  "items": [
-    {
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "pubDate": "Thu, 13 Nov 2025 14:47:22 +0000"
-    },
-    {
-      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
-      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "pubDate": "Sun, 09 Nov 2025 18:14:40 +0000"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "pubDate": "Thu, 06 Nov 2025 02:04:36 +0000"
-    },
-    {
-      "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
-      "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "pubDate": "Sun, 02 Nov 2025 20:37:24 +0000"
-    },
-    {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "pubDate": "Wed, 29 Oct 2025 00:51:05 +0000"
-    },
-    {
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "link": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "pubDate": "Wed, 22 Oct 2025 17:21:36 +0000"
-    },
-    {
-      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
-      "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
-      "pubDate": "Fri, 17 Oct 2025 11:26:27 +0000"
-    },
-    {
-      "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
-      "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "pubDate": "Tue, 14 Oct 2025 22:57:38 +0000"
-    },
-    {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "pubDate": "Fri, 10 Oct 2025 16:10:43 +0000"
-    },
-    {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "pubDate": "Tue, 07 Oct 2025 22:45:35 +0000"
-    }
-  ]
+  "updated": "2025-11-14T04:14:58Z",
+  "items": []
 }
