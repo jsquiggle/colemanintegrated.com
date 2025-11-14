@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-14T02:27:10Z",
+  "updated": "2025-11-14T03:32:35Z",
   "items": [
+    {
+      "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users",
+      "link": "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/",
+      "pubDate": "Thu, 13 Nov 2025 21:41:28 -0500"
+    },
+    {
+      "title": "Kraken ransomware benchmarks systems for optimal encryption choice",
+      "link": "https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/",
+      "pubDate": "Thu, 13 Nov 2025 17:53:45 -0500"
+    },
     {
       "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/",
@@ -51,16 +61,6 @@
       "title": "CISA warns of WatchGuard firewall flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-watchguard-firewall-flaw-exploited-in-attacks/",
       "pubDate": "Thu, 13 Nov 2025 05:03:52 -0500"
-    },
-    {
-      "title": "Google sues to dismantle Chinese phishing platform behind US toll scams",
-      "link": "https://www.bleepingcomputer.com/news/security/google-sues-to-dismantle-chinese-phishing-platform-behind-us-toll-scams/",
-      "pubDate": "Wed, 12 Nov 2025 15:59:44 -0500"
-    },
-    {
-      "title": "Windows 11 now supports 3rd-party apps for native passkey management",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-now-supports-3rd-party-apps-for-native-passkey-management/",
-      "pubDate": "Wed, 12 Nov 2025 13:18:11 -0500"
     }
   ]
 }
