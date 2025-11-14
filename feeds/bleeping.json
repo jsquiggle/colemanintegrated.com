@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-14T11:33:59Z",
+  "updated": "2025-11-14T12:21:53Z",
   "items": [
+    {
+      "title": "Google backpedals on new Android developer registration rules",
+      "link": "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/",
+      "pubDate": "Fri, 14 Nov 2025 06:54:44 -0500"
+    },
     {
       "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
       "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
@@ -56,11 +61,6 @@
       "title": "Popular Android-based photo frames download malware on boot",
       "link": "https://www.bleepingcomputer.com/news/security/popular-android-based-photo-frames-download-malware-on-boot/",
       "pubDate": "Thu, 13 Nov 2025 08:00:00 -0500"
-    },
-    {
-      "title": "CISA warns feds to fully patch actively exploited Cisco flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-fully-patch-actively-exploited-cisco-flaws/",
-      "pubDate": "Thu, 13 Nov 2025 07:05:55 -0500"
     }
   ]
 }
