@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-15T17:08:21Z",
+  "updated": "2025-11-15T17:33:16Z",
   "items": [
+    {
+      "title": "Jaguar Land Rover cyberattack cost the company over $220 million",
+      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/",
+      "pubDate": "Sat, 15 Nov 2025 10:09:19 -0500"
+    },
     {
       "title": "Logitech confirms data breach after Clop extortion attack",
       "link": "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/",
@@ -56,11 +61,6 @@
       "title": "Kraken ransomware benchmarks systems for optimal encryption choice",
       "link": "https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/",
       "pubDate": "Thu, 13 Nov 2025 17:53:45 -0500"
-    },
-    {
-      "title": "CISA warns of Akira ransomware Linux encryptor targeting Nutanix VMs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-akira-ransomware-linux-encryptor-targeting-nutanix-vms/",
-      "pubDate": "Thu, 13 Nov 2025 17:32:42 -0500"
     }
   ]
 }
