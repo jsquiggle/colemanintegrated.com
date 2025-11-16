@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-11-16T21:33:15Z",
+  "updated": "2025-11-16T22:09:50Z",
   "items": [
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "pubDate": "Sun, 16 Nov 2025 21:47:14 +0000"
+    },
     {
       "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
       "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
@@ -46,11 +51,6 @@
       "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
       "link": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
       "pubDate": "Fri, 10 Oct 2025 16:10:43 +0000"
-    },
-    {
-      "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
-      "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
-      "pubDate": "Tue, 07 Oct 2025 22:45:35 +0000"
     }
   ]
 }
