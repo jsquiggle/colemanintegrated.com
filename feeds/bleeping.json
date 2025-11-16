@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-16T15:34:13Z",
+  "updated": "2025-11-16T16:11:20Z",
   "items": [
+    {
+      "title": "Google to flag Android apps with excessive battery use on the Play Store",
+      "link": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
+      "pubDate": "Sun, 16 Nov 2025 10:15:25 -0500"
+    },
     {
       "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
@@ -56,11 +61,6 @@
       "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
       "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
       "pubDate": "Fri, 14 Nov 2025 04:52:37 -0500"
-    },
-    {
-      "title": "DoorDash hit by new data breach in October exposing user information",
-      "link": "https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/",
-      "pubDate": "Thu, 13 Nov 2025 23:38:44 -0500"
     }
   ]
 }
