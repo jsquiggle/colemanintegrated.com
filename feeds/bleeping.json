@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T14:11:14Z",
+  "updated": "2025-11-17T14:42:14Z",
   "items": [
     {
       "title": "Google to flag Android apps with excessive battery use on the Play Store",
@@ -56,11 +56,6 @@
       "title": "Google backpedals on new Android developer registration rules",
       "link": "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/",
       "pubDate": "Fri, 14 Nov 2025 06:54:44 -0500"
-    },
-    {
-      "title": "ASUS warns of critical auth bypass flaw in DSL series routers",
-      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/",
-      "pubDate": "Fri, 14 Nov 2025 04:52:37 -0500"
     }
   ]
 }
