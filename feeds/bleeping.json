@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T21:36:40Z",
+  "updated": "2025-11-17T22:10:39Z",
   "items": [
+    {
+      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
+      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
+      "pubDate": "Mon, 17 Nov 2025 16:52:21 -0500"
+    },
     {
       "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
       "link": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
@@ -56,11 +61,6 @@
       "title": "Jaguar Land Rover cyberattack cost the company over $220 million",
       "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/",
       "pubDate": "Sat, 15 Nov 2025 10:09:19 -0500"
-    },
-    {
-      "title": "Logitech confirms data breach after Clop extortion attack",
-      "link": "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/",
-      "pubDate": "Fri, 14 Nov 2025 17:18:36 -0500"
     }
   ]
 }
