@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T19:32:58Z",
+  "updated": "2025-11-17T20:12:42Z",
   "items": [
+    {
+      "title": "Princeton University discloses data breach affecting donors, alumni",
+      "link": "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
+      "pubDate": "Mon, 17 Nov 2025 14:36:52 -0500"
+    },
     {
       "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
@@ -56,11 +61,6 @@
       "title": "Five plead guilty to helping North Koreans infiltrate US firms",
       "link": "https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/",
       "pubDate": "Fri, 14 Nov 2025 15:11:26 -0500"
-    },
-    {
-      "title": "Anthropic claims of Claude AI-automated cyberattacks met with doubt",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/",
-      "pubDate": "Fri, 14 Nov 2025 13:31:16 -0500"
     }
   ]
 }
