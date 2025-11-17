@@ -1,66 +1,66 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-17T13:46:42Z",
+  "updated": "2025-11-17T14:11:14Z",
   "items": [
     {
       "title": "\u26a1 Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
       "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
-      "pubDate": "Mon, 17 Nov 2025 12:34:00 +0000"
+      "pubDate": "Mon, 17 Nov 2025 18:04:00 +0530"
     },
     {
       "title": "5 Reasons Why Attackers Are Phishing Over LinkedIn",
       "link": "https://thehackernews.com/2025/11/5-reasons-why-attackers-are-phishing.html",
-      "pubDate": "Mon, 17 Nov 2025 11:55:00 +0000"
+      "pubDate": "Mon, 17 Nov 2025 17:25:00 +0530"
     },
     {
       "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
       "link": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
-      "pubDate": "Mon, 17 Nov 2025 11:20:00 +0000"
+      "pubDate": "Mon, 17 Nov 2025 16:50:00 +0530"
     },
     {
       "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
       "link": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
-      "pubDate": "Mon, 17 Nov 2025 06:02:00 +0000"
+      "pubDate": "Mon, 17 Nov 2025 11:32:00 +0530"
     },
     {
       "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
       "link": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
-      "pubDate": "Sat, 15 Nov 2025 16:35:00 +0000"
+      "pubDate": "Sat, 15 Nov 2025 22:05:00 +0530"
     },
     {
       "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
       "link": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
-      "pubDate": "Sat, 15 Nov 2025 10:21:00 +0000"
+      "pubDate": "Sat, 15 Nov 2025 15:51:00 +0530"
     },
     {
       "title": "North Korean Hackers Turn JSON Services into Covert Malware Delivery Channels",
       "link": "https://thehackernews.com/2025/11/north-korean-hackers-turn-json-services.html",
-      "pubDate": "Fri, 14 Nov 2025 18:25:00 +0000"
+      "pubDate": "Fri, 14 Nov 2025 23:55:00 +0530"
     },
     {
       "title": "Researchers Find Serious AI Bugs Exposing Meta, Nvidia, and Microsoft Inference Frameworks",
       "link": "https://thehackernews.com/2025/11/researchers-find-serious-ai-bugs.html",
-      "pubDate": "Fri, 14 Nov 2025 15:20:00 +0000"
+      "pubDate": "Fri, 14 Nov 2025 20:50:00 +0530"
     },
     {
       "title": "Iranian Hackers Launch \u2018SpearSpecter\u2019 Spy Operation on Defense & Government Targets",
       "link": "https://thehackernews.com/2025/11/iranian-hackers-launch-spearspecter-spy.html",
-      "pubDate": "Fri, 14 Nov 2025 14:40:00 +0000"
+      "pubDate": "Fri, 14 Nov 2025 20:10:00 +0530"
     },
     {
       "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
       "link": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
-      "pubDate": "Fri, 14 Nov 2025 10:37:00 +0000"
+      "pubDate": "Fri, 14 Nov 2025 16:07:00 +0530"
     },
     {
       "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
       "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
-      "pubDate": "Fri, 14 Nov 2025 09:53:00 +0000"
+      "pubDate": "Fri, 14 Nov 2025 15:23:00 +0530"
     },
     {
       "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
       "link": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
-      "pubDate": "Fri, 14 Nov 2025 09:00:00 +0000"
+      "pubDate": "Fri, 14 Nov 2025 14:30:00 +0530"
     }
   ]
 }
