@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-17T06:49:39Z",
+  "updated": "2025-11-17T07:12:13Z",
   "items": [
+    {
+      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
+      "link": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
+      "pubDate": "Mon, 17 Nov 2025 11:32:00 +0530"
+    },
     {
       "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
       "link": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
@@ -56,11 +61,6 @@
       "title": "When Attacks Come Faster Than Patches: Why 2026 Will be the Year of Machine-Speed Security",
       "link": "https://thehackernews.com/2025/11/when-attacks-come-faster-than-patches.html",
       "pubDate": "Thu, 13 Nov 2025 17:00:00 +0530"
-    },
-    {
-      "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
-      "link": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
-      "pubDate": "Thu, 13 Nov 2025 16:46:00 +0530"
     }
   ]
 }
