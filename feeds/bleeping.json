@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T14:42:14Z",
+  "updated": "2025-11-17T15:13:02Z",
   "items": [
+    {
+      "title": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/",
+      "pubDate": "Mon, 17 Nov 2025 09:54:31 -0500"
+    },
     {
       "title": "Google to flag Android apps with excessive battery use on the Play Store",
       "link": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
@@ -51,11 +56,6 @@
       "title": "US announces new strike force targeting Chinese crypto scammers",
       "link": "https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/",
       "pubDate": "Fri, 14 Nov 2025 09:54:30 -0500"
-    },
-    {
-      "title": "Google backpedals on new Android developer registration rules",
-      "link": "https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/",
-      "pubDate": "Fri, 14 Nov 2025 06:54:44 -0500"
     }
   ]
 }
