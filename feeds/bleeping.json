@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T19:08:04Z",
+  "updated": "2025-11-17T19:32:58Z",
   "items": [
+    {
+      "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
+      "pubDate": "Mon, 17 Nov 2025 14:19:31 -0500"
+    },
     {
       "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
@@ -56,11 +61,6 @@
       "title": "Anthropic claims of Claude AI-automated cyberattacks met with doubt",
       "link": "https://www.bleepingcomputer.com/news/security/anthropic-claims-of-claude-ai-automated-cyberattacks-met-with-doubt/",
       "pubDate": "Fri, 14 Nov 2025 13:31:16 -0500"
-    },
-    {
-      "title": "Fortinet confirms silent patch for FortiWeb zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-silent-patch-for-fortiweb-zero-day-exploited-in-attacks/",
-      "pubDate": "Fri, 14 Nov 2025 12:00:42 -0500"
     }
   ]
 }
