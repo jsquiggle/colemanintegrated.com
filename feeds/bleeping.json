@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T16:15:02Z",
+  "updated": "2025-11-17T16:48:00Z",
   "items": [
+    {
+      "title": "DoorDash email spoofing vulnerability sparks messy disclosure dispute",
+      "link": "https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/",
+      "pubDate": "Mon, 17 Nov 2025 11:32:09 -0500"
+    },
     {
       "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
       "link": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
@@ -56,11 +61,6 @@
       "title": "Checkout.com snubs hackers after data breach, to donate ransom instead",
       "link": "https://www.bleepingcomputer.com/news/security/checkoutcom-snubs-shinyhunters-hackers-to-donate-ransom-instead/",
       "pubDate": "Fri, 14 Nov 2025 11:25:42 -0500"
-    },
-    {
-      "title": "US announces new strike force targeting Chinese crypto scammers",
-      "link": "https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/",
-      "pubDate": "Fri, 14 Nov 2025 09:54:30 -0500"
     }
   ]
 }
