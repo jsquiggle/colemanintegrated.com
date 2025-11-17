@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T21:10:21Z",
+  "updated": "2025-11-17T21:36:40Z",
   "items": [
+    {
+      "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
+      "pubDate": "Mon, 17 Nov 2025 16:14:28 -0500"
+    },
     {
       "title": "Princeton University discloses data breach affecting donors, alumni",
       "link": "https://www.bleepingcomputer.com/news/security/princeton-university-discloses-data-breach-affecting-donors-alumni/",
@@ -56,11 +61,6 @@
       "title": "Logitech confirms data breach after Clop extortion attack",
       "link": "https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/",
       "pubDate": "Fri, 14 Nov 2025 17:18:36 -0500"
-    },
-    {
-      "title": "Five plead guilty to helping North Koreans infiltrate US firms",
-      "link": "https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-helping-north-koreans-infiltrate-us-firms/",
-      "pubDate": "Fri, 14 Nov 2025 15:11:26 -0500"
     }
   ]
 }
