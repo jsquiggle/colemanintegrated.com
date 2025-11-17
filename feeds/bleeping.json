@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T22:39:45Z",
+  "updated": "2025-11-17T23:10:21Z",
   "items": [
+    {
+      "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
+      "pubDate": "Mon, 17 Nov 2025 17:56:28 -0500"
+    },
+    {
+      "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
+      "pubDate": "Mon, 17 Nov 2025 17:41:30 -0500"
+    },
     {
       "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
       "link": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
@@ -51,16 +61,6 @@
       "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
       "pubDate": "Sat, 15 Nov 2025 15:42:45 -0500"
-    },
-    {
-      "title": "Decades-old \u2018Finger\u2019 protocol abused in ClickFix malware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/",
-      "pubDate": "Sat, 15 Nov 2025 13:46:19 -0500"
-    },
-    {
-      "title": "Jaguar Land Rover cyberattack cost the company over $220 million",
-      "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-cyberattack-cost-the-company-over-220-million/",
-      "pubDate": "Sat, 15 Nov 2025 10:09:19 -0500"
     }
   ]
 }
