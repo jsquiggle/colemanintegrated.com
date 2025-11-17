@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T15:41:12Z",
+  "updated": "2025-11-17T16:15:02Z",
   "items": [
+    {
+      "title": "Pennsylvania AG confirms data breach after INC Ransom attack",
+      "link": "https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/",
+      "pubDate": "Mon, 17 Nov 2025 10:57:48 -0500"
+    },
     {
       "title": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/",
