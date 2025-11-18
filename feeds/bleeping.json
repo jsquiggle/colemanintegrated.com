@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-18T19:09:08Z",
+  "updated": "2025-11-18T19:32:36Z",
   "items": [
+    {
+      "title": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/",
+      "pubDate": "Tue, 18 Nov 2025 14:29:52 -0500"
+    },
     {
       "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "RondoDox botnet malware now hacks servers using XWiki flaw",
       "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/",
       "pubDate": "Mon, 17 Nov 2025 17:41:30 -0500"
-    },
-    {
-      "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
-      "pubDate": "Mon, 17 Nov 2025 16:52:21 -0500"
     }
   ]
 }
