@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-18T16:48:39Z",
+  "updated": "2025-11-18T17:11:46Z",
   "items": [
+    {
+      "title": "French agency Pajemploi reports data breach affecting 1.2M people",
+      "link": "https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/",
+      "pubDate": "Tue, 18 Nov 2025 11:59:27 -0500"
+    },
     {
       "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA",
       "link": "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/",
@@ -56,11 +61,6 @@
       "title": "Dutch police seizes 250 servers used by \u201cbulletproof hosting\u201d service",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-seizes-250-servers-used-by-bulletproof-hosting-service/",
       "pubDate": "Mon, 17 Nov 2025 14:19:31 -0500"
-    },
-    {
-      "title": "Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/",
-      "pubDate": "Mon, 17 Nov 2025 12:13:15 -0500"
     }
   ]
 }
