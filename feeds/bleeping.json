@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-17T23:35:44Z",
+  "updated": "2025-11-18T00:52:33Z",
   "items": [
+    {
+      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
+      "pubDate": "Mon, 17 Nov 2025 19:22:11 -0500"
+    },
+    {
+      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
+      "pubDate": "Mon, 17 Nov 2025 18:47:46 -0500"
+    },
     {
       "title": "xAI's Grok 4.1 rolls out with improved quality and speed for free",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/",
@@ -51,16 +61,6 @@
       "title": "Microsoft: Windows bug blocks Microsoft 365 desktop app installs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/",
       "pubDate": "Mon, 17 Nov 2025 09:54:31 -0500"
-    },
-    {
-      "title": "Google to flag Android apps with excessive battery use on the Play Store",
-      "link": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
-      "pubDate": "Sun, 16 Nov 2025 10:15:25 -0500"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/",
-      "pubDate": "Sat, 15 Nov 2025 15:42:45 -0500"
     }
   ]
 }
