@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-18T04:42:07Z",
+  "updated": "2025-11-18T05:11:21Z",
   "items": [
+    {
+      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
+      "link": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
+      "pubDate": "Tue, 18 Nov 2025 10:14:00 +0530"
+    },
     {
       "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
       "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
@@ -56,11 +61,6 @@
       "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
       "link": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
       "pubDate": "Fri, 14 Nov 2025 16:07:00 +0530"
-    },
-    {
-      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
-      "link": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
-      "pubDate": "Fri, 14 Nov 2025 15:23:00 +0530"
     }
   ]
 }
