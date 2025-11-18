@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-18T18:49:03Z",
+  "updated": "2025-11-18T19:09:08Z",
   "items": [
+    {
+      "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
+      "pubDate": "Tue, 18 Nov 2025 14:01:39 -0500"
+    },
     {
       "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
@@ -56,11 +61,6 @@
       "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
       "link": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
       "pubDate": "Mon, 17 Nov 2025 16:52:21 -0500"
-    },
-    {
-      "title": "Eurofiber France warns of breach after hacker tries to sell customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/eurofiber-france-warns-of-breach-after-hacker-tries-to-sell-customer-data/",
-      "pubDate": "Mon, 17 Nov 2025 16:14:28 -0500"
     }
   ]
 }
