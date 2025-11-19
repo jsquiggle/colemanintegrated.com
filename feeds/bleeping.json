@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-19T17:10:31Z",
+  "updated": "2025-11-19T17:36:26Z",
   "items": [
+    {
+      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
+      "link": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
+      "pubDate": "Wed, 19 Nov 2025 12:34:45 -0500"
+    },
     {
       "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/",
       "pubDate": "Tue, 18 Nov 2025 14:29:52 -0500"
-    },
-    {
-      "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
-      "pubDate": "Tue, 18 Nov 2025 14:01:39 -0500"
     }
   ]
 }
