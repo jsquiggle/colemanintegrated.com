@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-19T13:05:58Z",
+  "updated": "2025-11-19T13:47:01Z",
   "items": [
+    {
+      "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/",
+      "pubDate": "Wed, 19 Nov 2025 08:44:56 -0500"
+    },
+    {
+      "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters",
+      "link": "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/",
+      "pubDate": "Wed, 19 Nov 2025 08:01:09 -0500"
+    },
     {
       "title": "California man admits to laundering crypto stolen in $230M heist",
       "link": "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/",
@@ -51,16 +61,6 @@
       "title": "French agency Pajemploi reports data breach affecting 1.2M people",
       "link": "https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/",
       "pubDate": "Tue, 18 Nov 2025 11:59:27 -0500"
-    },
-    {
-      "title": "The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/",
-      "pubDate": "Tue, 18 Nov 2025 10:01:11 -0500"
-    },
-    {
-      "title": "Cloudflare hit by outage affecting Global Network services",
-      "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
-      "pubDate": "Tue, 18 Nov 2025 07:24:59 -0500"
     }
   ]
 }
