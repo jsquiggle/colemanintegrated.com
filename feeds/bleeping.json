@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-19T16:14:42Z",
+  "updated": "2025-11-19T16:46:59Z",
   "items": [
+    {
+      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
+      "pubDate": "Wed, 19 Nov 2025 11:43:46 -0500"
+    },
     {
       "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers",
       "link": "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/",
@@ -56,11 +61,6 @@
       "title": "Fortinet warns of new FortiWeb zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/",
       "pubDate": "Tue, 18 Nov 2025 14:01:39 -0500"
-    },
-    {
-      "title": "Microsoft to integrate Sysmon directly into Windows 11, Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/",
-      "pubDate": "Tue, 18 Nov 2025 12:25:18 -0500"
     }
   ]
 }
