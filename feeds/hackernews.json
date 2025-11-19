@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-19T10:12:28Z",
+  "updated": "2025-11-19T10:43:27Z",
   "items": [
+    {
+      "title": "EdgeStepper Implant Reroutes DNS Queries to Deploy Malware via Hijacked Software Updates",
+      "link": "https://thehackernews.com/2025/11/edgestepper-implant-reroutes-dns.html",
+      "pubDate": "Wed, 19 Nov 2025 15:30:00 +0530"
+    },
+    {
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "pubDate": "Wed, 19 Nov 2025 15:29:00 +0530"
+    },
     {
       "title": "Fortinet Warns of New FortiWeb CVE-2025-58034 Vulnerability Exploited in the Wild",
       "link": "https://thehackernews.com/2025/11/fortinet-warns-of-new-fortiweb-cve-2025.html",
@@ -51,16 +61,6 @@
       "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
       "link": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
       "pubDate": "Tue, 18 Nov 2025 10:14:00 +0530"
-    },
-    {
-      "title": "New EVALUSION ClickFix Campaign Delivers Amatera Stealer and NetSupport RAT",
-      "link": "https://thehackernews.com/2025/11/new-evalusion-clickfix-campaign.html",
-      "pubDate": "Mon, 17 Nov 2025 22:23:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Fortinet Exploited, China's AI Hacks, PhaaS Empire Falls & More",
-      "link": "https://thehackernews.com/2025/11/weekly-recap-fortinet-exploited-chinas.html",
-      "pubDate": "Mon, 17 Nov 2025 18:04:00 +0530"
     }
   ]
 }
