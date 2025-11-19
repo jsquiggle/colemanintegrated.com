@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-19T15:38:05Z",
+  "updated": "2025-11-19T16:14:42Z",
   "items": [
+    {
+      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
+      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
+      "pubDate": "Wed, 19 Nov 2025 21:05:00 +0530"
+    },
     {
       "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
       "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
@@ -56,11 +61,6 @@
       "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
       "link": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
       "pubDate": "Tue, 18 Nov 2025 16:30:00 +0530"
-    },
-    {
-      "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
-      "link": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
-      "pubDate": "Tue, 18 Nov 2025 16:07:00 +0530"
     }
   ]
 }
