@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-19T09:40:11Z",
+  "updated": "2025-11-19T10:12:28Z",
   "items": [
+    {
+      "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
+      "pubDate": "Wed, 19 Nov 2025 05:00:00 -0500"
+    },
     {
       "title": "Thunderbird adds native support for Microsoft Exchange accounts",
       "link": "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/",
@@ -43,7 +48,7 @@
       "pubDate": "Tue, 18 Nov 2025 10:01:11 -0500"
     },
     {
-      "title": "Cloudflare hit by outage affecting global network services",
+      "title": "Cloudflare hit by outage affecting Global Network services",
       "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
       "pubDate": "Tue, 18 Nov 2025 07:24:59 -0500"
     },
@@ -56,11 +61,6 @@
       "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
       "pubDate": "Mon, 17 Nov 2025 19:22:11 -0500"
-    },
-    {
-      "title": "Malicious NPM packages abuse Adspect redirects to evade security",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/",
-      "pubDate": "Mon, 17 Nov 2025 18:47:46 -0500"
     }
   ]
 }
