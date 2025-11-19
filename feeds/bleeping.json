@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-19T20:35:54Z",
+  "updated": "2025-11-19T21:08:48Z",
   "items": [
+    {
+      "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
+      "pubDate": "Wed, 19 Nov 2025 15:39:28 -0500"
+    },
     {
       "title": "Google Search is now using AI to create interactive UI to answer your questions",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/",
@@ -56,11 +61,6 @@
       "title": "Thunderbird adds native support for Microsoft Exchange accounts",
       "link": "https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/",
       "pubDate": "Tue, 18 Nov 2025 17:09:32 -0500"
-    },
-    {
-      "title": "New ShadowRay attacks convert Ray clusters into crypto miners",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/",
-      "pubDate": "Tue, 18 Nov 2025 15:56:00 -0500"
     }
   ]
 }
