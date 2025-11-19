@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-19T10:43:27Z",
+  "updated": "2025-11-19T11:09:25Z",
   "items": [
+    {
+      "title": "Cloudflare blames this week's massive outage on database issues",
+      "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
+      "pubDate": "Wed, 19 Nov 2025 05:54:54 -0500"
+    },
     {
       "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
@@ -56,11 +61,6 @@
       "title": "Google fixes new Chrome zero-day flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/",
       "pubDate": "Tue, 18 Nov 2025 05:13:17 -0500"
-    },
-    {
-      "title": "Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/",
-      "pubDate": "Mon, 17 Nov 2025 19:22:11 -0500"
     }
   ]
 }
