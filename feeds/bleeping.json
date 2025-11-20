@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-20T15:41:05Z",
+  "updated": "2025-11-20T16:14:13Z",
   "items": [
+    {
+      "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
+      "pubDate": "Thu, 20 Nov 2025 10:56:00 -0500"
+    },
     {
       "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers",
       "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
@@ -56,11 +61,6 @@
       "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
       "pubDate": "Wed, 19 Nov 2025 11:43:46 -0500"
-    },
-    {
-      "title": "New WrtHug campaign hijacks thousands of end-of-life ASUS routers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/",
-      "pubDate": "Wed, 19 Nov 2025 09:35:15 -0500"
     }
   ]
 }
