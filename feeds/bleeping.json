@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-20T22:10:42Z",
+  "updated": "2025-11-20T22:36:54Z",
   "items": [
+    {
+      "title": "Google exposes BadAudio malware used in APT24 espionage campaigns",
+      "link": "https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/",
+      "pubDate": "Thu, 20 Nov 2025 17:12:32 -0500"
+    },
     {
       "title": "Hacker claims to steal 2.3TB data from Italian rail group, Almavia",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-steal-23tb-data-from-italian-rail-group-almavia/",
@@ -56,11 +61,6 @@
       "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
       "link": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
       "pubDate": "Wed, 19 Nov 2025 16:59:46 -0500"
-    },
-    {
-      "title": "Google's Gemini 3 is living up to the hype and creating games in one shot",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/",
-      "pubDate": "Wed, 19 Nov 2025 15:39:28 -0500"
     }
   ]
 }
