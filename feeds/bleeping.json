@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-20T13:04:14Z",
+  "updated": "2025-11-20T13:44:29Z",
   "items": [
+    {
+      "title": "TV streaming piracy service with 26M yearly visits shut down",
+      "link": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
+      "pubDate": "Thu, 20 Nov 2025 08:31:43 -0500"
+    },
     {
       "title": "Crypto mixer founders sent to prison for laundering over $237 million",
       "link": "https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/",
@@ -56,11 +61,6 @@
       "title": "CISA gives govt agencies 7 days to patch new Fortinet flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/",
       "pubDate": "Wed, 19 Nov 2025 08:44:56 -0500"
-    },
-    {
-      "title": "Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters",
-      "link": "https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/",
-      "pubDate": "Wed, 19 Nov 2025 08:01:09 -0500"
     }
   ]
 }
