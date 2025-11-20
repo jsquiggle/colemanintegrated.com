@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-20T16:47:19Z",
+  "updated": "2025-11-20T17:09:29Z",
   "items": [
+    {
+      "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/",
+      "pubDate": "Thu, 20 Nov 2025 12:08:55 -0500"
+    },
+    {
+      "title": "Salesforce investigates customer data theft via Gainsight breach",
+      "link": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
+      "pubDate": "Thu, 20 Nov 2025 11:47:20 -0500"
+    },
     {
       "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
       "link": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
@@ -51,16 +61,6 @@
       "title": "Google Search is now using AI to create interactive UI to answer your questions",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/",
       "pubDate": "Wed, 19 Nov 2025 14:45:05 -0500"
-    },
-    {
-      "title": "W3 Total Cache WordPress plugin vulnerable to PHP command injection",
-      "link": "https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/",
-      "pubDate": "Wed, 19 Nov 2025 12:34:45 -0500"
-    },
-    {
-      "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
-      "pubDate": "Wed, 19 Nov 2025 11:43:46 -0500"
     }
   ]
 }
