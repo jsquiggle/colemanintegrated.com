@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-20T09:38:56Z",
+  "updated": "2025-11-20T10:12:27Z",
   "items": [
+    {
+      "title": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages",
+      "link": "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/",
+      "pubDate": "Thu, 20 Nov 2025 05:00:00 -0500"
+    },
+    {
+      "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/",
+      "pubDate": "Wed, 19 Nov 2025 19:00:00 -0500"
+    },
     {
       "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
       "link": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
@@ -51,16 +61,6 @@
       "title": "California man admits to laundering crypto stolen in $230M heist",
       "link": "https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/",
       "pubDate": "Wed, 19 Nov 2025 07:13:34 -0500"
-    },
-    {
-      "title": "Cloudflare blames this week's massive outage on database issues",
-      "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/",
-      "pubDate": "Wed, 19 Nov 2025 05:54:54 -0500"
-    },
-    {
-      "title": "\u2018PlushDaemon\u2019 hackers hijack software updates in supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
-      "pubDate": "Wed, 19 Nov 2025 05:00:00 -0500"
     }
   ]
 }
