@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-11-20T19:09:06Z",
+  "updated": "2025-11-20T19:32:26Z",
   "items": [
+    {
+      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "pubDate": "Thu, 20 Nov 2025 19:06:51 +0000"
+    },
     {
       "title": "The Cloudflare Outage May Be a Security Roadmap",
       "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
@@ -46,11 +51,6 @@
       "title": "Email Bombs Exploit Lax Authentication in Zendesk",
       "link": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
       "pubDate": "Fri, 17 Oct 2025 11:26:27 +0000"
-    },
-    {
-      "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
-      "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
-      "pubDate": "Tue, 14 Oct 2025 22:57:38 +0000"
     }
   ]
 }
