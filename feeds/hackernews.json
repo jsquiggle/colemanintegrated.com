@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-20T08:15:45Z",
+  "updated": "2025-11-20T08:46:12Z",
   "items": [
+    {
+      "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
+      "link": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+      "pubDate": "Thu, 20 Nov 2025 13:05:00 +0530"
+    },
     {
       "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
       "link": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
@@ -56,11 +61,6 @@
       "title": "Learn How Leading Companies Secure Cloud Workloads and Infrastructure at Scale",
       "link": "https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html",
       "pubDate": "Tue, 18 Nov 2025 20:55:00 +0530"
-    },
-    {
-      "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
-      "link": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
-      "pubDate": "Tue, 18 Nov 2025 19:30:00 +0530"
     }
   ]
 }
