@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T19:32:34Z",
+  "updated": "2025-11-21T20:12:02Z",
   "items": [
+    {
+      "title": "Nvidia confirms October Windows updates cause gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
+      "pubDate": "Fri, 21 Nov 2025 14:57:48 -0500"
+    },
     {
       "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
@@ -56,11 +61,6 @@
       "title": "Salesforce investigates customer data theft via Gainsight breach",
       "link": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
       "pubDate": "Thu, 20 Nov 2025 11:47:20 -0500"
-    },
-    {
-      "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
-      "pubDate": "Thu, 20 Nov 2025 10:56:00 -0500"
     }
   ]
 }
