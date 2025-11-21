@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T16:41:53Z",
+  "updated": "2025-11-21T17:09:59Z",
   "items": [
+    {
+      "title": "CrowdStrike catches insider feeding information to hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
+      "pubDate": "Fri, 21 Nov 2025 11:48:41 -0500"
+    },
     {
       "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks",
       "link": "https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/",
@@ -56,11 +61,6 @@
       "title": "Turn your Windows 11 migration into a security opportunity",
       "link": "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/",
       "pubDate": "Thu, 20 Nov 2025 10:05:15 -0500"
-    },
-    {
-      "title": "TV streaming piracy service with 26M yearly visits shut down",
-      "link": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
-      "pubDate": "Thu, 20 Nov 2025 08:31:43 -0500"
     }
   ]
 }
