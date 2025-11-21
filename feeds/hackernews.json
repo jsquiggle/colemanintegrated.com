@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-21T11:33:38Z",
+  "updated": "2025-11-21T12:20:37Z",
   "items": [
+    {
+      "title": "Why IT Admins Choose Samsung for Mobile Security",
+      "link": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
+      "pubDate": "Fri, 21 Nov 2025 16:30:00 +0530"
+    },
+    {
+      "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
+      "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
+      "pubDate": "Fri, 21 Nov 2025 16:12:00 +0530"
+    },
     {
       "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
       "link": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
@@ -51,16 +61,6 @@
       "title": "NHS Warns of PoC Exploit for 7-Zip Symbolic Link\u2013Based RCE Vulnerability",
       "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
       "pubDate": "Wed, 19 Nov 2025 21:57:00 +0530"
-    },
-    {
-      "title": "Python-Based WhatsApp Worm Spreads Eternidade Stealer Across Brazilian Devices",
-      "link": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html",
-      "pubDate": "Wed, 19 Nov 2025 21:05:00 +0530"
-    },
-    {
-      "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
-      "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
-      "pubDate": "Wed, 19 Nov 2025 18:30:00 +0530"
     }
   ]
 }
