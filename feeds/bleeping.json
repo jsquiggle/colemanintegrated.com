@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T17:37:44Z",
+  "updated": "2025-11-21T18:16:25Z",
   "items": [
+    {
+      "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
+      "pubDate": "Fri, 21 Nov 2025 13:02:05 -0500"
+    },
+    {
+      "title": "Grafana warns of max severity admin spoofing vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/",
+      "pubDate": "Fri, 21 Nov 2025 12:58:32 -0500"
+    },
     {
       "title": "CrowdStrike catches insider feeding information to hackers",
       "link": "https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/",
@@ -51,16 +61,6 @@
       "title": "New SonicWall SonicOS flaw allows hackers to crash firewalls",
       "link": "https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/",
       "pubDate": "Thu, 20 Nov 2025 10:56:00 -0500"
-    },
-    {
-      "title": "D-Link warns of new RCE flaws in end-of-life DIR-878 routers",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
-      "pubDate": "Thu, 20 Nov 2025 10:38:56 -0500"
-    },
-    {
-      "title": "Turn your Windows 11 migration into a security opportunity",
-      "link": "https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/",
-      "pubDate": "Thu, 20 Nov 2025 10:05:15 -0500"
     }
   ]
 }
