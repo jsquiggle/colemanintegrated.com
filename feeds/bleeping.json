@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T15:33:53Z",
+  "updated": "2025-11-21T16:13:47Z",
   "items": [
+    {
+      "title": "FCC rolls back cybersecurity rules for telcos, despite state-hacking risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/",
+      "pubDate": "Fri, 21 Nov 2025 11:01:41 -0500"
+    },
+    {
+      "title": "'Scattered Spider' teens plead not guilty to UK transport hack",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/",
+      "pubDate": "Fri, 21 Nov 2025 10:41:24 -0500"
+    },
     {
       "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/",
@@ -51,16 +61,6 @@
       "title": "TV streaming piracy service with 26M yearly visits shut down",
       "link": "https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/",
       "pubDate": "Thu, 20 Nov 2025 08:31:43 -0500"
-    },
-    {
-      "title": "Crypto mixer founders sent to prison for laundering over $237 million",
-      "link": "https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/",
-      "pubDate": "Thu, 20 Nov 2025 05:49:37 -0500"
-    },
-    {
-      "title": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages",
-      "link": "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/",
-      "pubDate": "Thu, 20 Nov 2025 05:00:00 -0500"
     }
   ]
 }

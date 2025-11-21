@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-21T15:33:53Z",
+  "updated": "2025-11-21T16:13:47Z",
   "items": [
+    {
+      "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+      "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+      "pubDate": "Fri, 21 Nov 2025 21:10:00 +0530"
+    },
     {
       "title": "Google Brings AirDrop Compatibility to Android\u2019s Quick Share Using Rust-Hardened Security",
       "link": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
@@ -56,11 +61,6 @@
       "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
       "link": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
       "pubDate": "Thu, 20 Nov 2025 13:05:00 +0530"
-    },
-    {
-      "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
-      "link": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
-      "pubDate": "Thu, 20 Nov 2025 09:36:00 +0530"
     }
   ]
 }
