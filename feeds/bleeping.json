@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T12:20:37Z",
+  "updated": "2025-11-21T13:03:12Z",
   "items": [
+    {
+      "title": "Google begins showing ads in AI Mode (AI answers)",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
+      "pubDate": "Fri, 21 Nov 2025 08:02:11 -0500"
+    },
     {
       "title": "Google exposes BadAudio malware used in APT24 espionage campaigns",
       "link": "https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/",
@@ -56,11 +61,6 @@
       "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/",
       "pubDate": "Wed, 19 Nov 2025 19:00:00 -0500"
-    },
-    {
-      "title": "Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack",
-      "link": "https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/",
-      "pubDate": "Wed, 19 Nov 2025 16:59:46 -0500"
     }
   ]
 }
