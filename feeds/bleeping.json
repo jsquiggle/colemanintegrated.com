@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T14:40:10Z",
+  "updated": "2025-11-21T15:10:58Z",
   "items": [
+    {
+      "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/",
+      "pubDate": "Fri, 21 Nov 2025 10:00:10 -0500"
+    },
     {
       "title": "Google begins showing ads in AI Mode (AI answers)",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
@@ -56,11 +61,6 @@
       "title": "Multi-threat Android malware Sturnus steals Signal, WhatsApp messages",
       "link": "https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/",
       "pubDate": "Thu, 20 Nov 2025 05:00:00 -0500"
-    },
-    {
-      "title": "OpenAI says its latest GPT-5.1 Codex can code independently for hours",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/",
-      "pubDate": "Wed, 19 Nov 2025 19:00:00 -0500"
     }
   ]
 }
