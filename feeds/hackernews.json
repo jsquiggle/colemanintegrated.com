@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-21T07:37:20Z",
+  "updated": "2025-11-21T08:16:16Z",
   "items": [
+    {
+      "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
+      "link": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
+      "pubDate": "Fri, 21 Nov 2025 13:35:00 +0530"
+    },
     {
       "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
       "link": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
@@ -56,11 +61,6 @@
       "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
       "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
       "pubDate": "Wed, 19 Nov 2025 18:30:00 +0530"
-    },
-    {
-      "title": "Application Containment: How to Use Ringfencing to Prevent the Weaponization of Trusted Software",
-      "link": "https://thehackernews.com/2025/11/application-containment-how-to-use.html",
-      "pubDate": "Wed, 19 Nov 2025 17:25:00 +0530"
     }
   ]
 }
