@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-21T23:34:28Z",
+  "updated": "2025-11-22T00:50:17Z",
   "items": [
+    {
+      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
+      "pubDate": "Fri, 21 Nov 2025 18:50:27 -0500"
+    },
     {
       "title": "Nvidia confirms October Windows updates cause gaming issues",
       "link": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
@@ -56,11 +61,6 @@
       "title": "GlobalProtect VPN portals probed with 2.3 million scan sessions",
       "link": "https://www.bleepingcomputer.com/news/security/globalprotect-vpn-portals-probed-with-23-million-scan-sessions/",
       "pubDate": "Thu, 20 Nov 2025 12:08:55 -0500"
-    },
-    {
-      "title": "Salesforce investigates customer data theft via Gainsight breach",
-      "link": "https://www.bleepingcomputer.com/news/security/salesforce-investigates-customer-data-theft-via-gainsight-breach/",
-      "pubDate": "Thu, 20 Nov 2025 11:47:20 -0500"
     }
   ]
 }
