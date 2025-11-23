@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-23T13:37:06Z",
+  "updated": "2025-11-23T14:09:06Z",
   "items": [
+    {
+      "title": "Iberia discloses customer data leak after vendor security breach",
+      "link": "https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/",
+      "pubDate": "Sun, 23 Nov 2025 08:46:25 -0500"
+    },
+    {
+      "title": "New Costco Gold Star Members also get a $40 Digital Costco Shop Card*",
+      "link": "https://www.bleepingcomputer.com/news/security/new-costco-gold-star-members-also-get-a-40-digital-costco-shop-card-/",
+      "pubDate": "Sun, 23 Nov 2025 08:09:17 -0500"
+    },
     {
       "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/",
@@ -51,16 +61,6 @@
       "title": "'Scattered Spider' teens plead not guilty to UK transport hack",
       "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/",
       "pubDate": "Fri, 21 Nov 2025 10:41:24 -0500"
-    },
-    {
-      "title": "Avast Makes AI-Driven Scam Defense Available for Free Worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/",
-      "pubDate": "Fri, 21 Nov 2025 10:00:10 -0500"
-    },
-    {
-      "title": "Google begins showing ads in AI Mode (AI answers)",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
-      "pubDate": "Fri, 21 Nov 2025 08:02:11 -0500"
     }
   ]
 }
