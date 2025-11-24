@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-24T14:12:05Z",
+  "updated": "2025-11-24T14:42:19Z",
   "items": [
+    {
+      "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
+      "pubDate": "Mon, 24 Nov 2025 09:32:40 -0500"
+    },
     {
       "title": "Harvard University discloses data breach affecting alumni, donors",
       "link": "https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/",
@@ -56,11 +61,6 @@
       "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
       "link": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
       "pubDate": "Sat, 22 Nov 2025 08:45:53 -0500"
-    },
-    {
-      "title": "CISA warns Oracle Identity Manager RCE flaw is being actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/",
-      "pubDate": "Fri, 21 Nov 2025 18:50:27 -0500"
     }
   ]
 }
