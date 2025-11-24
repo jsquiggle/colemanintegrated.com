@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-24T08:17:06Z",
+  "updated": "2025-11-24T08:48:03Z",
   "items": [
+    {
+      "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
+      "link": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
+      "pubDate": "Mon, 24 Nov 2025 12:48:00 +0530"
+    },
     {
       "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
       "link": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
@@ -56,11 +61,6 @@
       "title": "Tsundere Botnet Expands Using Game Lures and Ethereum-Based C2 on Windows",
       "link": "https://thehackernews.com/2025/11/tsundere-botnet-expands-using-game.html",
       "pubDate": "Thu, 20 Nov 2025 22:27:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: 0-Days, LinkedIn Spies, Crypto Crimes, IoT Flaws and New Malware Waves",
-      "link": "https://thehackernews.com/2025/11/threatsday-bulletin-0-days-linkedin.html",
-      "pubDate": "Thu, 20 Nov 2025 17:59:00 +0530"
     }
   ]
 }
