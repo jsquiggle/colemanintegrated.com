@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-24T15:12:38Z",
+  "updated": "2025-11-24T15:41:55Z",
   "items": [
+    {
+      "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching",
+      "link": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
+      "pubDate": "Mon, 24 Nov 2025 10:01:11 -0500"
+    },
     {
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
@@ -56,11 +61,6 @@
       "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
       "link": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
       "pubDate": "Sat, 22 Nov 2025 10:16:23 -0500"
-    },
-    {
-      "title": "Piecing Together the Puzzle: A Qilin Ransomware Investigation",
-      "link": "https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/",
-      "pubDate": "Sat, 22 Nov 2025 08:45:53 -0500"
     }
   ]
 }
