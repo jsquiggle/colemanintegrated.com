@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-24T13:06:56Z",
+  "updated": "2025-11-24T13:48:40Z",
   "items": [
+    {
+      "title": "Microsoft tests File Explorer preloading for faster performance",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/",
+      "pubDate": "Mon, 24 Nov 2025 08:08:08 -0500"
+    },
     {
       "title": "Microsoft to remove WINS support after Windows Server 2025",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/",
@@ -56,11 +61,6 @@
       "title": "Nvidia confirms October Windows updates cause gaming issues",
       "link": "https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/",
       "pubDate": "Fri, 21 Nov 2025 14:57:48 -0500"
-    },
-    {
-      "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/",
-      "pubDate": "Fri, 21 Nov 2025 13:02:05 -0500"
     }
   ]
 }
