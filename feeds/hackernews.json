@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-24T15:41:55Z",
+  "updated": "2025-11-24T16:12:12Z",
   "items": [
+    {
+      "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
+      "pubDate": "Mon, 24 Nov 2025 20:33:00 +0530"
+    },
     {
       "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
       "link": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
@@ -56,11 +61,6 @@
       "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
       "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
       "pubDate": "Fri, 21 Nov 2025 16:12:00 +0530"
-    },
-    {
-      "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
-      "link": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
-      "pubDate": "Fri, 21 Nov 2025 13:35:00 +0530"
     }
   ]
 }
