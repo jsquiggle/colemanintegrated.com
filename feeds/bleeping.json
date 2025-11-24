@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-24T17:10:47Z",
+  "updated": "2025-11-24T17:39:48Z",
   "items": [
+    {
+      "title": "Real-estate finance services giant SitusAMC breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
+      "pubDate": "Mon, 24 Nov 2025 12:36:28 -0500"
+    },
     {
       "title": "SCCM and WSUS in a Hybrid World: Why It\u2019s Time for Cloud-native Patching",
       "link": "https://www.bleepingcomputer.com/news/security/sccm-and-wsus-in-a-hybrid-world-why-its-time-for-cloud-native-patching/",
@@ -56,11 +61,6 @@
       "title": "WhatsApp API flaw let researchers scrape 3.5 billion accounts",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/",
       "pubDate": "Sat, 22 Nov 2025 13:53:21 -0500"
-    },
-    {
-      "title": "Cox Enterprises discloses Oracle E-Business Suite data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/",
-      "pubDate": "Sat, 22 Nov 2025 10:16:23 -0500"
     }
   ]
 }
