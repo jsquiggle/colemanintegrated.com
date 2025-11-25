@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-25T11:10:21Z",
+  "updated": "2025-11-25T11:36:20Z",
   "items": [
+    {
+      "title": "Dartmouth College confirms data breach after Clop extortion attack",
+      "link": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
+      "pubDate": "Tue, 25 Nov 2025 06:12:19 -0500"
+    },
     {
       "title": "Malicious Blender model files deliver StealC infostealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/",
@@ -56,11 +61,6 @@
       "title": "Enterprise password security and secrets management with Passwork 7",
       "link": "https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/",
       "pubDate": "Sun, 23 Nov 2025 09:45:54 -0500"
-    },
-    {
-      "title": "Iberia discloses customer data leak after vendor security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/",
-      "pubDate": "Sun, 23 Nov 2025 08:46:25 -0500"
     }
   ]
 }
