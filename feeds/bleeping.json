@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-25T17:12:27Z",
+  "updated": "2025-11-25T17:40:28Z",
   "items": [
+    {
+      "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/",
+      "pubDate": "Tue, 25 Nov 2025 12:23:23 -0500"
+    },
     {
       "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
       "link": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
@@ -56,11 +61,6 @@
       "title": "Shai-Hulud malware infects 500 npm packages, leaks secrets on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-malware-infects-500-npm-packages-leaks-secrets-on-github/",
       "pubDate": "Mon, 24 Nov 2025 09:32:40 -0500"
-    },
-    {
-      "title": "Harvard University discloses data breach affecting alumni, donors",
-      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/",
-      "pubDate": "Mon, 24 Nov 2025 09:06:36 -0500"
     }
   ]
 }
