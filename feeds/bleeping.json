@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-25T16:14:32Z",
+  "updated": "2025-11-25T16:49:06Z",
   "items": [
+    {
+      "title": "Microsoft: Exchange Online outage blocks access to Outlook mailboxes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/",
+      "pubDate": "Tue, 25 Nov 2025 11:18:12 -0500"
+    },
     {
       "title": "Microsoft is speeding up the Teams desktop client for Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/",
@@ -56,11 +61,6 @@
       "title": "Microsoft tests File Explorer preloading for faster performance",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/",
       "pubDate": "Mon, 24 Nov 2025 08:08:08 -0500"
-    },
-    {
-      "title": "Microsoft to remove WINS support after Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/",
-      "pubDate": "Mon, 24 Nov 2025 06:47:01 -0500"
     }
   ]
 }
