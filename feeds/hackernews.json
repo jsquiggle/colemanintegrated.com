@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-25T06:18:03Z",
+  "updated": "2025-11-25T06:51:01Z",
   "items": [
+    {
+      "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
+      "link": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
+      "pubDate": "Tue, 25 Nov 2025 12:12:00 +0530"
+    },
     {
       "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
       "link": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
@@ -56,11 +61,6 @@
       "title": "Why IT Admins Choose Samsung for Mobile Security",
       "link": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
       "pubDate": "Fri, 21 Nov 2025 16:30:00 +0530"
-    },
-    {
-      "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
-      "link": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
-      "pubDate": "Fri, 21 Nov 2025 16:12:00 +0530"
     }
   ]
 }
