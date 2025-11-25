@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-25T16:49:06Z",
+  "updated": "2025-11-25T17:12:27Z",
   "items": [
+    {
+      "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
+      "pubDate": "Tue, 25 Nov 2025 12:09:19 -0500"
+    },
     {
       "title": "Microsoft: Exchange Online outage blocks access to Outlook mailboxes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/",
@@ -56,11 +61,6 @@
       "title": "Harvard University discloses data breach affecting alumni, donors",
       "link": "https://www.bleepingcomputer.com/news/security/harvard-university-discloses-data-breach-affecting-alumni-donors/",
       "pubDate": "Mon, 24 Nov 2025 09:06:36 -0500"
-    },
-    {
-      "title": "Microsoft tests File Explorer preloading for faster performance",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/",
-      "pubDate": "Mon, 24 Nov 2025 08:08:08 -0500"
     }
   ]
 }
