@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-26T11:35:25Z",
+  "updated": "2025-11-26T12:22:26Z",
   "items": [
+    {
+      "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
+      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
+      "pubDate": "Wed, 26 Nov 2025 06:41:00 -0500"
+    },
     {
       "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
       "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
@@ -56,11 +61,6 @@
       "title": "ClickFix attack uses fake Windows Update screen to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-update-screen-to-push-malware/",
       "pubDate": "Mon, 24 Nov 2025 15:42:35 -0500"
-    },
-    {
-      "title": "Real-estate finance services giant SitusAMC breach exposes client data",
-      "link": "https://www.bleepingcomputer.com/news/security/real-estate-finance-services-giant-situsamc-breach-exposes-client-data/",
-      "pubDate": "Mon, 24 Nov 2025 12:36:28 -0500"
     }
   ]
 }
