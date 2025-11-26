@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-26T19:32:25Z",
+  "updated": "2025-11-26T20:12:20Z",
   "items": [
+    {
+      "title": "NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/",
+      "pubDate": "Wed, 26 Nov 2025 15:00:37 -0500"
+    },
+    {
+      "title": "Popular Forge library gets fix for signature verification bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-forge-library-gets-fix-for-signature-verification-bypass-flaw/",
+      "pubDate": "Wed, 26 Nov 2025 14:32:42 -0500"
+    },
     {
       "title": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers",
       "link": "https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/",
@@ -51,16 +61,6 @@
       "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
       "link": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
       "pubDate": "Tue, 25 Nov 2025 12:09:19 -0500"
-    },
-    {
-      "title": "Microsoft: Exchange Online outage blocks access to Outlook mailboxes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/",
-      "pubDate": "Tue, 25 Nov 2025 11:18:12 -0500"
-    },
-    {
-      "title": "Microsoft is speeding up the Teams desktop client for Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/",
-      "pubDate": "Tue, 25 Nov 2025 09:24:54 -0500"
     }
   ]
 }
