@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-26T22:10:49Z",
+  "updated": "2025-11-26T22:38:55Z",
   "items": [
+    {
+      "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
+      "pubDate": "Wed, 26 Nov 2025 17:24:14 -0500"
+    },
     {
       "title": "NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/",
@@ -56,11 +61,6 @@
       "title": "FBI: Cybercriminals stole $262M by impersonating bank support teams",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/",
       "pubDate": "Tue, 25 Nov 2025 12:23:23 -0500"
-    },
-    {
-      "title": "Tor switches to new Counter Galois Onion relay encryption algorithm",
-      "link": "https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/",
-      "pubDate": "Tue, 25 Nov 2025 12:09:19 -0500"
     }
   ]
 }
