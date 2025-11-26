@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-26T14:43:01Z",
+  "updated": "2025-11-26T15:10:16Z",
   "items": [
+    {
+      "title": "Microsoft: Security keys may prompt for PIN after recent updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/",
+      "pubDate": "Wed, 26 Nov 2025 09:43:57 -0500"
+    },
     {
       "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
@@ -56,11 +61,6 @@
       "title": "Code beautifiers expose credentials from banks, govt, tech orgs",
       "link": "https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/",
       "pubDate": "Tue, 25 Nov 2025 07:01:20 -0500"
-    },
-    {
-      "title": "Dartmouth College confirms data breach after Clop extortion attack",
-      "link": "https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/",
-      "pubDate": "Tue, 25 Nov 2025 06:12:19 -0500"
     }
   ]
 }
