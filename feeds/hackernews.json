@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-26T17:39:25Z",
+  "updated": "2025-11-26T18:14:14Z",
   "items": [
+    {
+      "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
+      "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
+      "pubDate": "Wed, 26 Nov 2025 23:38:00 +0530"
+    },
     {
       "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
       "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware",
       "link": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
       "pubDate": "Tue, 25 Nov 2025 16:58:00 +0530"
-    },
-    {
-      "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
-      "link": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
-      "pubDate": "Tue, 25 Nov 2025 12:12:00 +0530"
     }
   ]
 }
