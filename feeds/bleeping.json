@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-26T18:14:14Z",
+  "updated": "2025-11-26T18:44:53Z",
   "items": [
+    {
+      "title": "Comcast to pay $1.5M fine for vendor breach affecting 270K customers",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-to-pay-15-million-fine-after-a-vendor-data-breach-affecting-270-000-customers/",
+      "pubDate": "Wed, 26 Nov 2025 13:30:10 -0500"
+    },
     {
       "title": "Multiple London councils' IT systems disrupted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft is speeding up the Teams desktop client for Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/",
       "pubDate": "Tue, 25 Nov 2025 09:24:54 -0500"
-    },
-    {
-      "title": "Year-end approaches: How to maximize your cyber spend",
-      "link": "https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/",
-      "pubDate": "Tue, 25 Nov 2025 09:03:20 -0500"
     }
   ]
 }
