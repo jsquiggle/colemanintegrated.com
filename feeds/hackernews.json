@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-27T10:43:38Z",
+  "updated": "2025-11-27T11:10:22Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
+      "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
+      "pubDate": "Thu, 27 Nov 2025 15:33:00 +0530"
+    },
     {
       "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
       "link": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
@@ -56,11 +61,6 @@
       "title": "ToddyCat\u2019s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
       "link": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
       "pubDate": "Tue, 25 Nov 2025 17:06:00 +0530"
-    },
-    {
-      "title": "3 SOC Challenges You Need to Solve Before 2026",
-      "link": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
-      "pubDate": "Tue, 25 Nov 2025 17:00:00 +0530"
     }
   ]
 }
