@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-27T15:39:09Z",
+  "updated": "2025-11-27T16:13:22Z",
   "items": [
+    {
+      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
+      "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
+      "pubDate": "Thu, 27 Nov 2025 21:07:00 +0530"
+    },
+    {
+      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+      "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+      "pubDate": "Thu, 27 Nov 2025 20:29:00 +0530"
+    },
     {
       "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
       "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
@@ -28,11 +38,6 @@
       "pubDate": "Wed, 26 Nov 2025 17:25:00 +0530"
     },
     {
-      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-      "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-      "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530"
-    },
-    {
       "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
       "link": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
       "pubDate": "Wed, 26 Nov 2025 16:40:00 +0530"
@@ -56,11 +61,6 @@
       "title": "JackFix Uses Fake Windows Update Pop-Ups on Adult Sites to Deliver Multiple Stealers",
       "link": "https://thehackernews.com/2025/11/jackfix-uses-fake-windows-update-pop.html",
       "pubDate": "Tue, 25 Nov 2025 19:48:00 +0530"
-    },
-    {
-      "title": "ToddyCat\u2019s New Hacking Tools Steal Outlook Emails and Microsoft 365 Access Tokens",
-      "link": "https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html",
-      "pubDate": "Tue, 25 Nov 2025 17:06:00 +0530"
     }
   ]
 }
