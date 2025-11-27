@@ -1,9 +1,9 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-11-27T04:14:56Z",
+  "updated": "2025-11-27T04:43:33Z",
   "items": [
     {
-      "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
+      "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
       "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
       "pubDate": "Wed, 26 Nov 2025 23:38:00 +0530"
     },
