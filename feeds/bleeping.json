@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-28T17:37:23Z",
+  "updated": "2025-11-28T18:15:18Z",
   "items": [
+    {
+      "title": "Microsoft: Windows updates make password login option invisible",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/",
+      "pubDate": "Fri, 28 Nov 2025 13:07:17 -0500"
+    },
+    {
+      "title": "Public GitLab repositories exposed more than 17,000 secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
+      "pubDate": "Fri, 28 Nov 2025 12:43:02 -0500"
+    },
     {
       "title": "French Football Federation discloses data breach after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/",
@@ -46,16 +56,6 @@
       "title": "Multiple London councils' IT systems disrupted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/multiple-london-councils-it-systems-disrupted-by-cyberattack/",
       "pubDate": "Wed, 26 Nov 2025 12:26:11 -0500"
-    },
-    {
-      "title": "Microsoft: Security keys may prompt for PIN after recent updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fido2-security-keys-may-prompt-for-pin-after-recent-windows-updates/",
-      "pubDate": "Wed, 26 Nov 2025 09:43:57 -0500"
-    },
-    {
-      "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
-      "pubDate": "Wed, 26 Nov 2025 08:26:06 -0500"
     }
   ]
 }
