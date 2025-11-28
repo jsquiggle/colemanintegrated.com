@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-28T15:37:58Z",
+  "updated": "2025-11-28T16:13:18Z",
   "items": [
+    {
+      "title": "French Football Federation discloses data breach after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/",
+      "pubDate": "Fri, 28 Nov 2025 11:12:03 -0500"
+    },
     {
       "title": "Malicious LLMs empower inexperienced hackers with advanced tools",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/",
