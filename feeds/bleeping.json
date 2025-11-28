@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-11-28T13:04:37Z",
+  "updated": "2025-11-28T13:44:22Z",
   "items": [
+    {
+      "title": "Malicious LLMs empower inexperienced hackers with advanced tools",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/",
+      "pubDate": "Thu, 27 Nov 2025 12:15:27 -0500"
+    },
+    {
+      "title": "GreyNoise launches free scanner to check if you're part of a botnet",
+      "link": "https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/",
+      "pubDate": "Thu, 27 Nov 2025 10:11:21 -0500"
+    },
     {
       "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
       "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
@@ -41,26 +51,6 @@
       "title": "Microsoft to secure Entra ID sign-ins from script injection attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/",
       "pubDate": "Wed, 26 Nov 2025 08:26:06 -0500"
-    },
-    {
-      "title": "ASUS warns of new critical auth bypass flaw in AiCloud routers",
-      "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/",
-      "pubDate": "Wed, 26 Nov 2025 06:41:00 -0500"
-    },
-    {
-      "title": "Passwork 7: Self-hosted password and secrets manager for enterprise teams",
-      "link": "https://www.bleepingcomputer.com/news/security/passwork-7-self-hosted-password-and-secrets-manager-for-enterprise-teams/",
-      "pubDate": "Wed, 26 Nov 2025 05:12:17 -0500"
-    },
-    {
-      "title": "OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide",
-      "link": "https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/",
-      "pubDate": "Tue, 25 Nov 2025 16:48:40 -0500"
-    },
-    {
-      "title": "The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals",
-      "link": "https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/",
-      "pubDate": "Tue, 25 Nov 2025 14:14:06 -0500"
     }
   ]
 }
