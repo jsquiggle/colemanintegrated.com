@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-01T17:45:47Z",
+  "updated": "2025-12-01T18:18:27Z",
   "items": [
+    {
+      "title": "India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud",
+      "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
+      "pubDate": "Mon, 01 Dec 2025 23:25:00 +0530"
+    },
+    {
+      "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
+      "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
+      "pubDate": "Mon, 01 Dec 2025 22:59:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
       "link": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
@@ -51,16 +61,6 @@
       "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
       "link": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
       "pubDate": "Thu, 27 Nov 2025 23:43:00 +0530"
-    },
-    {
-      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
-      "link": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
-      "pubDate": "Thu, 27 Nov 2025 21:07:00 +0530"
-    },
-    {
-      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-      "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-      "pubDate": "Thu, 27 Nov 2025 20:29:00 +0530"
     }
   ]
 }
