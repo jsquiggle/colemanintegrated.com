@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-01T08:50:26Z",
+  "updated": "2025-12-01T09:18:16Z",
   "items": [
+    {
+      "title": "Police takes down Cryptomixer cryptocurrency mixing service",
+      "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/",
+      "pubDate": "Mon, 01 Dec 2025 04:00:00 -0500"
+    },
     {
       "title": "Japanese beer giant Asahi says data breach hit 1.5 million people",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/",
@@ -51,11 +56,6 @@
       "title": "New ShadowV2 botnet malware used AWS outage as a test opportunity",
       "link": "https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/",
       "pubDate": "Wed, 26 Nov 2025 17:24:14 -0500"
-    },
-    {
-      "title": "NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/",
-      "pubDate": "Wed, 26 Nov 2025 15:00:37 -0500"
     }
   ]
 }
