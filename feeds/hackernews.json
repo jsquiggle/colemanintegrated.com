@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-01T05:46:35Z",
+  "updated": "2025-12-01T06:19:23Z",
   "items": [
+    {
+      "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
+      "link": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
+      "pubDate": "Mon, 01 Dec 2025 10:37:00 +0530"
+    },
     {
       "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
       "link": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
@@ -56,11 +61,6 @@
       "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
       "link": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
       "pubDate": "Wed, 26 Nov 2025 23:38:00 +0530"
-    },
-    {
-      "title": "Qilin Ransomware Turns South Korean MSP Breach Into 28-Victim 'Korean Leaks' Data Heist",
-      "link": "https://thehackernews.com/2025/11/qilin-ransomware-turns-south-korean-msp.html",
-      "pubDate": "Wed, 26 Nov 2025 20:01:00 +0530"
     }
   ]
 }
