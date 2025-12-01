@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-01T20:37:19Z",
+  "updated": "2025-12-01T21:09:32Z",
   "items": [
+    {
+      "title": "Glassworm malware returns in third wave of malicious VS Code packages",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/",
+      "pubDate": "Mon, 01 Dec 2025 16:08:15 -0500"
+    },
     {
       "title": "SmartTube YouTube app for Android TV breached to push malicious update",
       "link": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Windows updates make password login option invisible",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/",
       "pubDate": "Fri, 28 Nov 2025 13:07:17 -0500"
-    },
-    {
-      "title": "Public GitLab repositories exposed more than 17,000 secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
-      "pubDate": "Fri, 28 Nov 2025 12:43:02 -0500"
     }
   ]
 }
