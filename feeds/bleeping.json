@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-01T14:45:01Z",
+  "updated": "2025-12-01T15:12:34Z",
   "items": [
+    {
+      "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
+      "pubDate": "Mon, 01 Dec 2025 10:01:40 -0500"
+    },
     {
       "title": "Google deletes X post after getting caught using a \u2018stolen\u2019 AI recipe infographic",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
@@ -51,11 +56,6 @@
       "title": "GreyNoise launches free scanner to check if you're part of a botnet",
       "link": "https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/",
       "pubDate": "Thu, 27 Nov 2025 10:11:21 -0500"
-    },
-    {
-      "title": "OpenAI discloses API customer data breach via Mixpanel vendor hack",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/",
-      "pubDate": "Thu, 27 Nov 2025 06:27:06 -0500"
     }
   ]
 }
