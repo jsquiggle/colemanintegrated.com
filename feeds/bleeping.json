@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-01T16:15:49Z",
+  "updated": "2025-12-01T16:49:38Z",
   "items": [
+    {
+      "title": "Retail giant Coupang data breach impacts 33.7 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/",
+      "pubDate": "Mon, 01 Dec 2025 11:29:35 -0500"
+    },
     {
       "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats",
       "link": "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/",
@@ -56,11 +61,6 @@
       "title": "Malicious LLMs empower inexperienced hackers with advanced tools",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/",
       "pubDate": "Thu, 27 Nov 2025 12:15:27 -0500"
-    },
-    {
-      "title": "GreyNoise launches free scanner to check if you're part of a botnet",
-      "link": "https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/",
-      "pubDate": "Thu, 27 Nov 2025 10:11:21 -0500"
     }
   ]
 }
