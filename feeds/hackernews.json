@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-01T12:22:48Z",
+  "updated": "2025-12-01T13:09:11Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Hot CVEs, npm Worm Returns, Firefox RCE, M365 Email Raid & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-hot-cves-npm-worm-returns.html",
+      "pubDate": "Mon, 01 Dec 2025 18:17:00 +0530"
+    },
     {
       "title": "Webinar: The \"Agentic\" Trojan Horse: Why the New AI Browsers War is a Nightmare for Security Teams",
       "link": "https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html",
@@ -56,11 +61,6 @@
       "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
       "link": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
       "pubDate": "Thu, 27 Nov 2025 20:29:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
-      "link": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
-      "pubDate": "Thu, 27 Nov 2025 15:33:00 +0530"
     }
   ]
 }
