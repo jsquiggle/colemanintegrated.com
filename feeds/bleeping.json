@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-01T15:12:34Z",
+  "updated": "2025-12-01T15:41:48Z",
   "items": [
+    {
+      "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats",
+      "link": "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/",
+      "pubDate": "Mon, 01 Dec 2025 10:15:25 -0500"
+    },
     {
       "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
       "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
