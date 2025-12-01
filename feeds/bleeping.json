@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-01T18:54:05Z",
+  "updated": "2025-12-01T19:14:01Z",
   "items": [
+    {
+      "title": "SmartTube YouTube app for Android TV breached to push malicious update",
+      "link": "https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/",
+      "pubDate": "Mon, 01 Dec 2025 13:56:18 -0500"
+    },
     {
       "title": "Microsoft says new Outlook can't open some Excel attachments",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/",
@@ -56,11 +61,6 @@
       "title": "Public GitLab repositories exposed more than 17,000 secrets",
       "link": "https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/",
       "pubDate": "Fri, 28 Nov 2025 12:43:02 -0500"
-    },
-    {
-      "title": "French Football Federation discloses data breach after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/",
-      "pubDate": "Fri, 28 Nov 2025 11:12:03 -0500"
     }
   ]
 }
