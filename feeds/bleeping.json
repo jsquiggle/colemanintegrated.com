@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-02T14:45:24Z",
+  "updated": "2025-12-02T15:13:05Z",
   "items": [
+    {
+      "title": "North Korea lures engineers to rent identities in fake IT worker scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
+      "pubDate": "Tue, 02 Dec 2025 09:57:26 -0500"
+    },
     {
       "title": "Google fixes two Android zero days exploited in attacks, 107 flaws",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/",
@@ -56,11 +61,6 @@
       "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
       "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
       "pubDate": "Mon, 01 Dec 2025 10:01:40 -0500"
-    },
-    {
-      "title": "Google deletes X post after getting caught using a \u2018stolen\u2019 AI recipe infographic",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
-      "pubDate": "Mon, 01 Dec 2025 07:23:10 -0500"
     }
   ]
 }
