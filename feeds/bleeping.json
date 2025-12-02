@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-02T15:13:05Z",
+  "updated": "2025-12-02T15:43:23Z",
   "items": [
+    {
+      "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/",
+      "pubDate": "Tue, 02 Dec 2025 10:10:20 -0500"
+    },
     {
       "title": "North Korea lures engineers to rent identities in fake IT worker scheme",
       "link": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
@@ -56,11 +61,6 @@
       "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats",
       "link": "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/",
       "pubDate": "Mon, 01 Dec 2025 10:15:25 -0500"
-    },
-    {
-      "title": "ShadyPanda browser extensions amass 4.3M installs in malicious campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/",
-      "pubDate": "Mon, 01 Dec 2025 10:01:40 -0500"
     }
   ]
 }

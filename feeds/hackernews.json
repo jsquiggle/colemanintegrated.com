@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-02T15:13:05Z",
+  "updated": "2025-12-02T15:43:23Z",
   "items": [
+    {
+      "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
+      "link": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
+      "pubDate": "Tue, 02 Dec 2025 20:32:00 +0530"
+    },
+    {
+      "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
+      "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
+      "pubDate": "Tue, 02 Dec 2025 20:31:00 +0530"
+    },
+    {
+      "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
+      "link": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
+      "pubDate": "Tue, 02 Dec 2025 19:47:00 +0530"
+    },
     {
       "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
       "link": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
@@ -46,21 +61,6 @@
       "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
       "link": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
       "pubDate": "Mon, 01 Dec 2025 10:37:00 +0530"
-    },
-    {
-      "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-      "link": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-      "pubDate": "Sun, 30 Nov 2025 14:53:00 +0530"
-    },
-    {
-      "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
-      "link": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
-      "pubDate": "Fri, 28 Nov 2025 21:57:00 +0530"
-    },
-    {
-      "title": "North Korean Hackers Deploy 197 npm Packages to Spread Updated OtterCookie Malware",
-      "link": "https://thehackernews.com/2025/11/north-korean-hackers-deploy-197-npm.html",
-      "pubDate": "Fri, 28 Nov 2025 21:48:00 +0530"
     }
   ]
 }
