@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-02T11:37:26Z",
+  "updated": "2025-12-02T12:23:45Z",
   "items": [
+    {
+      "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
+      "link": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
+      "pubDate": "Tue, 02 Dec 2025 17:00:00 +0530"
+    },
     {
       "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
       "link": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
@@ -56,11 +61,6 @@
       "title": "Why Organizations Are Turning to RPAM",
       "link": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
       "pubDate": "Fri, 28 Nov 2025 16:39:00 +0530"
-    },
-    {
-      "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
-      "link": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
-      "pubDate": "Fri, 28 Nov 2025 14:03:00 +0530"
     }
   ]
 }
