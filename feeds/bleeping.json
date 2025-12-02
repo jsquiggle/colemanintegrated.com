@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-02T21:35:20Z",
+  "updated": "2025-12-02T22:10:26Z",
   "items": [
+    {
+      "title": "Korea arrests suspects selling intimate videos from hacked IP cameras",
+      "link": "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/",
+      "pubDate": "Tue, 02 Dec 2025 16:42:48 -0500"
+    },
     {
       "title": "FTC settlement requires Illuminate to delete unnecessary student data",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5070311 update fixes File Explorer freezes, search issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/",
       "pubDate": "Tue, 02 Dec 2025 06:19:31 -0500"
-    },
-    {
-      "title": "Glassworm malware returns in third wave of malicious VS Code packages",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/",
-      "pubDate": "Mon, 01 Dec 2025 16:08:15 -0500"
     }
   ]
 }
