@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-02T15:43:23Z",
+  "updated": "2025-12-02T16:15:32Z",
   "items": [
+    {
+      "title": "Microsoft Defender portal outage disrupts threat hunting alerts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/",
+      "pubDate": "Tue, 02 Dec 2025 11:10:06 -0500"
+    },
     {
       "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/",
@@ -56,11 +61,6 @@
       "title": "Retail giant Coupang data breach impacts 33.7 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/",
       "pubDate": "Mon, 01 Dec 2025 11:29:35 -0500"
-    },
-    {
-      "title": "When Hackers Wear Suits: Protecting Your Team from Insider Cyber Threats",
-      "link": "https://www.bleepingcomputer.com/news/security/when-hackers-wear-suits-protecting-your-team-from-insider-cyber-threats/",
-      "pubDate": "Mon, 01 Dec 2025 10:15:25 -0500"
     }
   ]
 }
