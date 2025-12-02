@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-02T14:12:51Z",
+  "updated": "2025-12-02T14:45:24Z",
   "items": [
+    {
+      "title": "Google fixes two Android zero days exploited in attacks, 107 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/",
+      "pubDate": "Tue, 02 Dec 2025 09:36:44 -0500"
+    },
+    {
+      "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/",
+      "pubDate": "Tue, 02 Dec 2025 09:00:00 -0500"
+    },
     {
       "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/",
@@ -51,16 +61,6 @@
       "title": "Google deletes X post after getting caught using a \u2018stolen\u2019 AI recipe infographic",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/",
       "pubDate": "Mon, 01 Dec 2025 07:23:10 -0500"
-    },
-    {
-      "title": "Police takes down Cryptomixer cryptocurrency mixing service",
-      "link": "https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/",
-      "pubDate": "Mon, 01 Dec 2025 04:00:00 -0500"
-    },
-    {
-      "title": "Japanese beer giant Asahi says data breach hit 1.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/",
-      "pubDate": "Sat, 29 Nov 2025 10:17:23 -0500"
     }
   ]
 }
