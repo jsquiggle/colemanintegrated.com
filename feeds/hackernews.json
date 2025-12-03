@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-03T12:22:57Z",
+  "updated": "2025-12-03T13:09:17Z",
   "items": [
+    {
+      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
+      "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+      "pubDate": "Wed, 03 Dec 2025 17:29:00 +0530"
+    },
     {
       "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage",
       "link": "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html",
@@ -56,11 +61,6 @@
       "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
       "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
       "pubDate": "Mon, 01 Dec 2025 23:25:00 +0530"
-    },
-    {
-      "title": "ShadyPanda Turns Popular Browser Extensions with 4.3 Million Installs Into Spyware",
-      "link": "https://thehackernews.com/2025/12/shadypanda-turns-popular-browser.html",
-      "pubDate": "Mon, 01 Dec 2025 22:59:00 +0530"
     }
   ]
 }
