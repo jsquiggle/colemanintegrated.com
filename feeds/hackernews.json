@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-03T17:42:47Z",
+  "updated": "2025-12-03T18:17:26Z",
   "items": [
+    {
+      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
+      "link": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
+      "pubDate": "Wed, 03 Dec 2025 23:16:36 +0530"
+    },
     {
       "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
       "link": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
@@ -56,11 +61,6 @@
       "title": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
       "link": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
       "pubDate": "Tue, 02 Dec 2025 19:07:00 +0530"
-    },
-    {
-      "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
-      "link": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
-      "pubDate": "Tue, 02 Dec 2025 17:00:00 +0530"
     }
   ]
 }
