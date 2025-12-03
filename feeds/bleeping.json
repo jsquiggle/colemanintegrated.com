@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-03T16:16:24Z",
+  "updated": "2025-12-03T16:50:43Z",
   "items": [
+    {
+      "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
+      "pubDate": "Wed, 03 Dec 2025 11:45:30 -0500"
+    },
     {
       "title": "Deep dive into DragonForce ransomware and its Scattered Spider connection",
       "link": "https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/",
@@ -56,11 +61,6 @@
       "title": "Google fixes two Android zero days exploited in attacks, 107 flaws",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/",
       "pubDate": "Tue, 02 Dec 2025 09:36:44 -0500"
-    },
-    {
-      "title": "Fake Calendly invites spoof top brands to hijack ad manager accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/",
-      "pubDate": "Tue, 02 Dec 2025 09:00:00 -0500"
     }
   ]
 }

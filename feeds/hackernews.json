@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-03T16:16:24Z",
+  "updated": "2025-12-03T16:50:43Z",
   "items": [
+    {
+      "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
+      "link": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
+      "pubDate": "Wed, 03 Dec 2025 21:02:00 +0530"
+    },
     {
       "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
       "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
@@ -56,11 +61,6 @@
       "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
       "link": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
       "pubDate": "Tue, 02 Dec 2025 12:47:00 +0530"
-    },
-    {
-      "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
-      "link": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
-      "pubDate": "Mon, 01 Dec 2025 23:25:00 +0530"
     }
   ]
 }
