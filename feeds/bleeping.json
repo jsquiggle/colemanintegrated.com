@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-03T17:15:14Z",
+  "updated": "2025-12-03T17:42:47Z",
   "items": [
+    {
+      "title": "Russia blocks Roblox over distribution of LGBT \"propaganda\"",
+      "link": "https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/",
+      "pubDate": "Wed, 03 Dec 2025 12:33:57 -0500"
+    },
+    {
+      "title": "Google expands Android scam protection feature to Chase, Cash App in U.S.",
+      "link": "https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/",
+      "pubDate": "Wed, 03 Dec 2025 12:00:00 -0500"
+    },
     {
       "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
@@ -51,16 +61,6 @@
       "title": "Cybercrime Goes SaaS: Renting Tools, Access, and Infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/cybercrime-goes-saas-renting-tools-access-and-infrastructure/",
       "pubDate": "Tue, 02 Dec 2025 10:10:20 -0500"
-    },
-    {
-      "title": "North Korea lures engineers to rent identities in fake IT worker scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/",
-      "pubDate": "Tue, 02 Dec 2025 09:57:26 -0500"
-    },
-    {
-      "title": "Google fixes two Android zero days exploited in attacks, 107 flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/",
-      "pubDate": "Tue, 02 Dec 2025 09:36:44 -0500"
     }
   ]
 }
