@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-03T13:51:16Z",
+  "updated": "2025-12-03T14:12:16Z",
   "items": [
+    {
+      "title": "Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/",
+      "pubDate": "Wed, 03 Dec 2025 09:01:04 -0500"
+    },
     {
       "title": "University of Phoenix discloses data breach after Oracle hack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: KB5070311 triggers File Explorer white flash in dark mode",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/",
       "pubDate": "Tue, 02 Dec 2025 08:39:51 -0500"
-    },
-    {
-      "title": "University of Pennsylvania confirms new data breach after Oracle hack",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/",
-      "pubDate": "Tue, 02 Dec 2025 07:55:59 -0500"
     }
   ]
 }
