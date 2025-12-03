@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-03T21:33:34Z",
+  "updated": "2025-12-03T22:12:06Z",
   "items": [
+    {
+      "title": "Marquis data breach impacts over 74 US banks, credit unions",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
+      "pubDate": "Wed, 03 Dec 2025 17:06:07 -0500"
+    },
     {
       "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "FTC settlement requires Illuminate to delete unnecessary student data",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/",
       "pubDate": "Tue, 02 Dec 2025 15:50:13 -0500"
-    },
-    {
-      "title": "ChatGPT is down worldwide, conversations disappeared for users",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/",
-      "pubDate": "Tue, 02 Dec 2025 14:52:16 -0500"
     }
   ]
 }
