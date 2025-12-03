@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-03T19:10:45Z",
+  "updated": "2025-12-03T19:35:20Z",
   "items": [
     {
       "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
