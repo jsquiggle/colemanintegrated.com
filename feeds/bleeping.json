@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-03T21:10:45Z",
+  "updated": "2025-12-03T21:33:34Z",
   "items": [
+    {
+      "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/",
+      "pubDate": "Wed, 03 Dec 2025 16:31:20 -0500"
+    },
     {
       "title": "French DIY retail giant Leroy Merlin discloses a data breach",
       "link": "https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT is down worldwide, conversations disappeared for users",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/",
       "pubDate": "Tue, 02 Dec 2025 14:52:16 -0500"
-    },
-    {
-      "title": "Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/",
-      "pubDate": "Tue, 02 Dec 2025 14:06:20 -0500"
     }
   ]
 }
