@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-04T06:51:44Z",
+  "updated": "2025-12-04T07:13:37Z",
   "items": [
+    {
+      "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
+      "link": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
+      "pubDate": "Thu, 04 Dec 2025 12:22:00 +0530"
+    },
     {
       "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
@@ -56,11 +61,6 @@
       "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
       "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
       "pubDate": "Tue, 02 Dec 2025 20:31:00 +0530"
-    },
-    {
-      "title": "Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools",
-      "link": "https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html",
-      "pubDate": "Tue, 02 Dec 2025 19:47:00 +0530"
     }
   ]
 }
