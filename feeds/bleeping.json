@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-04T19:11:36Z",
+  "updated": "2025-12-04T19:36:29Z",
   "items": [
+    {
+      "title": "Russia blocks FaceTime and Snapchat over use in terrorist attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/",
+      "pubDate": "Thu, 04 Dec 2025 14:12:18 -0500"
+    },
     {
       "title": "CISA warns of Chinese \"BrickStorm\" malware attacks on VMware servers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/",
@@ -56,11 +61,6 @@
       "title": "Google expands Android scam protection feature to Chase, Cash App in U.S.",
       "link": "https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/",
       "pubDate": "Wed, 03 Dec 2025 12:00:00 -0500"
-    },
-    {
-      "title": "Microsoft \"mitigates\" Windows LNK flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/",
-      "pubDate": "Wed, 03 Dec 2025 11:45:30 -0500"
     }
   ]
 }
