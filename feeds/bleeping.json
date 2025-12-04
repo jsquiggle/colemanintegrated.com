@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-04T14:45:00Z",
+  "updated": "2025-12-04T15:13:44Z",
   "items": [
+    {
+      "title": "Critical React, Next.js flaw lets hackers execute code on servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
+      "pubDate": "Thu, 04 Dec 2025 10:11:54 -0500"
+    },
     {
       "title": "Microsoft 365 license check bug blocks desktop app downloads",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/",
@@ -56,11 +61,6 @@
       "title": "University of Phoenix discloses data breach after Oracle hack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/",
       "pubDate": "Wed, 03 Dec 2025 08:23:10 -0500"
-    },
-    {
-      "title": "Korea arrests suspects selling intimate videos from hacked IP cameras",
-      "link": "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/",
-      "pubDate": "Tue, 02 Dec 2025 16:42:48 -0500"
     }
   ]
 }
