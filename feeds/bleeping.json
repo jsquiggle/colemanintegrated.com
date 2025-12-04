@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-04T13:09:44Z",
+  "updated": "2025-12-04T13:51:59Z",
   "items": [
+    {
+      "title": "Microsoft 365 license check bug blocks desktop app downloads",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/",
+      "pubDate": "Thu, 04 Dec 2025 08:18:08 -0500"
+    },
     {
       "title": "Marquis data breach impacts over 74 US banks, credit unions",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
@@ -56,11 +61,6 @@
       "title": "Korea arrests suspects selling intimate videos from hacked IP cameras",
       "link": "https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/",
       "pubDate": "Tue, 02 Dec 2025 16:42:48 -0500"
-    },
-    {
-      "title": "FTC settlement requires Illuminate to delete unnecessary student data",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/",
-      "pubDate": "Tue, 02 Dec 2025 15:50:13 -0500"
     }
   ]
 }
