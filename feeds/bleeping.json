@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-04T22:39:03Z",
+  "updated": "2025-12-04T23:10:41Z",
   "items": [
+    {
+      "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/",
+      "pubDate": "Thu, 04 Dec 2025 18:05:05 -0500"
+    },
     {
       "title": "NCSC's \u2018Proactive Notifications\u2019 warns orgs of flaws in exposed devices",
       "link": "https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/",
@@ -56,11 +61,6 @@
       "title": "French DIY retail giant Leroy Merlin discloses a data breach",
       "link": "https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/",
       "pubDate": "Wed, 03 Dec 2025 15:52:36 -0500"
-    },
-    {
-      "title": "Freedom Mobile discloses data breach exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/",
-      "pubDate": "Wed, 03 Dec 2025 15:28:01 -0500"
     }
   ]
 }

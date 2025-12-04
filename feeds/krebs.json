@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-12-04T22:39:03Z",
+  "updated": "2025-12-04T23:10:41Z",
   "items": [
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "pubDate": "Thu, 04 Dec 2025 23:02:34 +0000"
+    },
     {
       "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
       "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
@@ -46,11 +51,6 @@
       "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
       "link": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
       "pubDate": "Sun, 02 Nov 2025 20:37:24 +0000"
-    },
-    {
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "link": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "pubDate": "Wed, 29 Oct 2025 00:51:05 +0000"
     }
   ]
 }
