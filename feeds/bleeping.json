@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-04T16:15:27Z",
+  "updated": "2025-12-04T16:50:24Z",
   "items": [
+    {
+      "title": "Contractors with hacking records accused of wiping 96 govt databases",
+      "link": "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/",
+      "pubDate": "Thu, 04 Dec 2025 11:30:59 -0500"
+    },
     {
       "title": "Critical React, Next.js flaw lets hackers execute code on servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
@@ -56,11 +61,6 @@
       "title": "Deep dive into DragonForce ransomware and its Scattered Spider connection",
       "link": "https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/",
       "pubDate": "Wed, 03 Dec 2025 10:05:15 -0500"
-    },
-    {
-      "title": "Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/",
-      "pubDate": "Wed, 03 Dec 2025 09:01:04 -0500"
     }
   ]
 }
