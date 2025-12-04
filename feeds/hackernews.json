@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-04T12:23:18Z",
+  "updated": "2025-12-04T13:09:44Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014 and 15 More Stories",
+      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html",
+      "pubDate": "Thu, 04 Dec 2025 17:28:00 +0530"
+    },
     {
       "title": "5 Threats That Reshaped Web Security This Year [2025]",
       "link": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
@@ -56,11 +61,6 @@
       "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
       "link": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
       "pubDate": "Wed, 03 Dec 2025 14:09:00 +0530"
-    },
-    {
-      "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
-      "link": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
-      "pubDate": "Tue, 02 Dec 2025 23:16:00 +0530"
     }
   ]
 }
