@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-04T09:15:23Z",
+  "updated": "2025-12-04T09:42:34Z",
   "items": [
+    {
+      "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
+      "link": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
+      "pubDate": "Thu, 04 Dec 2025 14:57:00 +0530"
+    },
     {
       "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
       "link": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera",
       "link": "https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html",
       "pubDate": "Tue, 02 Dec 2025 20:32:00 +0530"
-    },
-    {
-      "title": "GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools",
-      "link": "https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html",
-      "pubDate": "Tue, 02 Dec 2025 20:31:00 +0530"
     }
   ]
 }
