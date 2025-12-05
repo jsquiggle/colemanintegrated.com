@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-05T18:15:02Z",
+  "updated": "2025-12-05T18:46:53Z",
   "items": [
+    {
+      "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails",
+      "link": "https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html",
+      "pubDate": "Fri, 05 Dec 2025 23:23:00 +0530"
+    },
     {
       "title": "Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch",
       "link": "https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html",
@@ -56,11 +61,6 @@
       "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
       "link": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
       "pubDate": "Thu, 04 Dec 2025 12:22:00 +0530"
-    },
-    {
-      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
-      "pubDate": "Wed, 03 Dec 2025 23:49:00 +0530"
     }
   ]
 }
