@@ -1,14 +1,24 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-05T16:14:15Z",
+  "updated": "2025-12-05T16:46:56Z",
   "items": [
+    {
+      "title": "FBI warns of virtual kidnapping scams using altered social media photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/",
+      "pubDate": "Fri, 05 Dec 2025 11:37:28 -0500"
+    },
+    {
+      "title": "A Practical Guide to Continuous Attack Surface Visibility",
+      "link": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
+      "pubDate": "Fri, 05 Dec 2025 10:00:10 -0500"
+    },
     {
       "title": "EU fines X $140 million over deceptive blue checkmarks",
       "link": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
       "pubDate": "Fri, 05 Dec 2025 09:41:01 -0500"
     },
     {
-      "title": "Cloudflare blames today's outage on emergency React2Shell patch",
+      "title": "Cloudflare blames today's outage on React2Shell mitigations",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "pubDate": "Fri, 05 Dec 2025 08:53:26 -0500"
     },
@@ -51,16 +61,6 @@
       "title": "CISA warns of Chinese \"BrickStorm\" malware attacks on VMware servers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/",
       "pubDate": "Thu, 04 Dec 2025 13:19:55 -0500"
-    },
-    {
-      "title": "Contractors with hacking records accused of wiping 96 govt databases",
-      "link": "https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/",
-      "pubDate": "Thu, 04 Dec 2025 11:30:59 -0500"
-    },
-    {
-      "title": "Critical React, Next.js flaw lets hackers execute code on servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
-      "pubDate": "Thu, 04 Dec 2025 10:11:54 -0500"
     }
   ]
 }
