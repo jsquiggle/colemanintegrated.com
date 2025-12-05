@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-05T14:42:13Z",
+  "updated": "2025-12-05T15:12:37Z",
   "items": [
+    {
+      "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
+      "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
+      "pubDate": "Fri, 05 Dec 2025 19:40:00 +0530"
+    },
     {
       "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery",
       "link": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
@@ -56,11 +61,6 @@
       "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
       "link": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
       "pubDate": "Wed, 03 Dec 2025 23:26:00 +0530"
-    },
-    {
-      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
-      "link": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
-      "pubDate": "Wed, 03 Dec 2025 23:16:36 +0530"
     }
   ]
 }
