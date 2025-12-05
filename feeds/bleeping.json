@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-05T12:22:36Z",
+  "updated": "2025-12-05T13:06:05Z",
   "items": [
+    {
+      "title": "Pharma firm Inotiv discloses data breach after ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/",
+      "pubDate": "Fri, 05 Dec 2025 08:05:52 -0500"
+    },
     {
       "title": "React2Shell critical flaw actively exploited in China-linked attacks",
       "link": "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft 365 license check bug blocks desktop app downloads",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bug-in-microsoft-365-license-checks-blocks-desktop-app-downloads/",
       "pubDate": "Thu, 04 Dec 2025 08:18:08 -0500"
-    },
-    {
-      "title": "Marquis data breach impacts over 74 US banks, credit unions",
-      "link": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
-      "pubDate": "Wed, 03 Dec 2025 17:06:07 -0500"
     }
   ]
 }
