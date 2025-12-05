@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-05T08:46:36Z",
+  "updated": "2025-12-05T09:13:11Z",
   "items": [
+    {
+      "title": "Cloudflare down, websites offline with 500 Internal Server Error",
+      "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/",
+      "pubDate": "Fri, 05 Dec 2025 04:01:55 -0500"
+    },
     {
       "title": "Hackers are exploiting ArrayOS AG VPN flaw to plant webshells",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/",
@@ -56,11 +61,6 @@
       "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/",
       "pubDate": "Wed, 03 Dec 2025 16:31:20 -0500"
-    },
-    {
-      "title": "French DIY retail giant Leroy Merlin discloses a data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/",
-      "pubDate": "Wed, 03 Dec 2025 15:52:36 -0500"
     }
   ]
 }
