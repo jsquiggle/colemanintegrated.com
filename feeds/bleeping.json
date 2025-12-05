@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-05T11:11:15Z",
+  "updated": "2025-12-05T11:35:45Z",
   "items": [
+    {
+      "title": "React2Shell critical flaw actively exploited in China-linked attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/",
+      "pubDate": "Fri, 05 Dec 2025 06:26:07 -0500"
+    },
     {
       "title": "Cloudflare down, websites offline with 500 Internal Server Error",
       "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/",
@@ -56,11 +61,6 @@
       "title": "Marquis data breach impacts over 74 US banks, credit unions",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/",
       "pubDate": "Wed, 03 Dec 2025 17:06:07 -0500"
-    },
-    {
-      "title": "Critical flaw in WordPress add-on for Elementor exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/",
-      "pubDate": "Wed, 03 Dec 2025 16:31:20 -0500"
     }
   ]
 }
