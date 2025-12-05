@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-05T14:11:51Z",
+  "updated": "2025-12-05T14:42:13Z",
   "items": [
+    {
+      "title": "EU fines X $140 million over deceptive blue checkmarks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
+      "pubDate": "Fri, 05 Dec 2025 09:41:01 -0500"
+    },
     {
       "title": "Cloudflare blames today's outage on emergency React2Shell patch",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
@@ -13,7 +18,7 @@
       "pubDate": "Fri, 05 Dec 2025 08:05:52 -0500"
     },
     {
-      "title": "React2Shell critical flaw actively exploited in China-linked attacks",
+      "title": "Critical React2Shell flaw actively exploited in China-linked attacks",
       "link": "https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/",
       "pubDate": "Fri, 05 Dec 2025 06:26:07 -0500"
     },
@@ -56,11 +61,6 @@
       "title": "Critical React, Next.js flaw lets hackers execute code on servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/",
       "pubDate": "Thu, 04 Dec 2025 10:11:54 -0500"
-    },
-    {
-      "title": "How strong password policies secure OT systems against cyber threats",
-      "link": "https://www.bleepingcomputer.com/news/security/how-strong-password-policies-secure-ot-systems-against-cyber-threats/",
-      "pubDate": "Thu, 04 Dec 2025 10:11:22 -0500"
     }
   ]
 }
