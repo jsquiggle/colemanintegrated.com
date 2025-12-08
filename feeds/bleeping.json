@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-08T20:41:33Z",
+  "updated": "2025-12-08T21:10:13Z",
   "items": [
+    {
+      "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
+      "link": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
+      "pubDate": "Mon, 08 Dec 2025 16:07:30 -0500"
+    },
     {
       "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment",
       "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/",
@@ -56,11 +61,6 @@
       "title": "EU fines X $140 million over deceptive blue checkmarks",
       "link": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
       "pubDate": "Fri, 05 Dec 2025 09:41:01 -0500"
-    },
-    {
-      "title": "Cloudflare blames today's outage on React2Shell mitigations",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
-      "pubDate": "Fri, 05 Dec 2025 08:53:26 -0500"
     }
   ]
 }
