@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-08T18:49:46Z",
+  "updated": "2025-12-08T19:09:22Z",
   "items": [
+    {
+      "title": "Poland arrests Ukrainians utilizing 'advanced' hacking equipment",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-ukrainians-utilizing-advanced-hacking-equipment/",
+      "pubDate": "Mon, 08 Dec 2025 13:31:13 -0500"
+    },
     {
       "title": "Google Chrome adds new security layer for Gemini AI agentic browsing",
       "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/",
@@ -56,11 +61,6 @@
       "title": "Cloudflare blames today's outage on React2Shell mitigations",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/",
       "pubDate": "Fri, 05 Dec 2025 08:53:26 -0500"
-    },
-    {
-      "title": "Pharma firm Inotiv discloses data breach after ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/",
-      "pubDate": "Fri, 05 Dec 2025 08:05:52 -0500"
     }
   ]
 }
