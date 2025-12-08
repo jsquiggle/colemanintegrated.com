@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-08T10:45:15Z",
+  "updated": "2025-12-08T11:10:59Z",
   "items": [
+    {
+      "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
+      "link": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
+      "pubDate": "Mon, 08 Dec 2025 16:30:00 +0530"
+    },
     {
       "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
       "link": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
@@ -56,11 +61,6 @@
       "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways",
       "link": "https://thehackernews.com/2025/12/jpcert-confirms-active-command.html",
       "pubDate": "Fri, 05 Dec 2025 11:10:00 +0530"
-    },
-    {
-      "title": "Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China",
-      "link": "https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html",
-      "pubDate": "Thu, 04 Dec 2025 22:55:00 +0530"
     }
   ]
 }
