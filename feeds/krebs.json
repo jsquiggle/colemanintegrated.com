@@ -1,5 +1,56 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-12-07T23:33:58Z",
-  "items": []
+  "updated": "2025-12-08T00:55:04Z",
+  "items": [
+    {
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "pubDate": "Sat, 06 Dec 2025 14:45:03 +0000"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "pubDate": "Thu, 04 Dec 2025 23:02:34 +0000"
+    },
+    {
+      "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
+      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "pubDate": "Wed, 26 Nov 2025 17:22:36 +0000"
+    },
+    {
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "link": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "pubDate": "Mon, 24 Nov 2025 18:44:52 +0000"
+    },
+    {
+      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+      "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "pubDate": "Thu, 20 Nov 2025 19:06:51 +0000"
+    },
+    {
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "pubDate": "Wed, 19 Nov 2025 14:07:03 +0000"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "pubDate": "Sun, 16 Nov 2025 21:47:14 +0000"
+    },
+    {
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "pubDate": "Thu, 13 Nov 2025 14:47:22 +0000"
+    },
+    {
+      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
+      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "pubDate": "Sun, 09 Nov 2025 18:14:40 +0000"
+    },
+    {
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "pubDate": "Thu, 06 Nov 2025 02:04:36 +0000"
+    }
+  ]
 }
