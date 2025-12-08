@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-08T22:10:57Z",
+  "updated": "2025-12-08T22:40:32Z",
   "items": [
+    {
+      "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
+      "pubDate": "Mon, 08 Dec 2025 17:30:19 -0500"
+    },
     {
       "title": "FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024",
       "link": "https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/",
@@ -56,11 +61,6 @@
       "title": "A Practical Guide to Continuous Attack Surface Visibility",
       "link": "https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/",
       "pubDate": "Fri, 05 Dec 2025 10:00:10 -0500"
-    },
-    {
-      "title": "EU fines X $140 million over deceptive blue checkmarks",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/",
-      "pubDate": "Fri, 05 Dec 2025 09:41:01 -0500"
     }
   ]
 }
