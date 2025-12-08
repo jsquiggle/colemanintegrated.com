@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-08T13:08:17Z",
+  "updated": "2025-12-08T13:49:40Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html",
+      "pubDate": "Mon, 08 Dec 2025 18:14:00 +0530"
+    },
+    {
+      "title": "How Can Retailers Cyber-Prepare for the Most Vulnerable Time of the Year?",
+      "link": "https://thehackernews.com/2025/12/how-can-retailers-cyber-prepare-for.html",
+      "pubDate": "Mon, 08 Dec 2025 17:28:00 +0530"
+    },
     {
       "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
       "link": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
@@ -51,16 +61,6 @@
       "title": "\"Getting to Yes\": An Anti-Sales Guide for MSPs",
       "link": "https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html",
       "pubDate": "Fri, 05 Dec 2025 17:00:00 +0530"
-    },
-    {
-      "title": "CISA Reports PRC Hackers Using BRICKSTORM for Long-Term Access in U.S. Systems",
-      "link": "https://thehackernews.com/2025/12/cisa-reports-prc-hackers-using.html",
-      "pubDate": "Fri, 05 Dec 2025 13:44:00 +0530"
-    },
-    {
-      "title": "JPCERT Confirms Active Command Injection Attacks on Array AG Gateways",
-      "link": "https://thehackernews.com/2025/12/jpcert-confirms-active-command.html",
-      "pubDate": "Fri, 05 Dec 2025 11:10:00 +0530"
     }
   ]
 }
