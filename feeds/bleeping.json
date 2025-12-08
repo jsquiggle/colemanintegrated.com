@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-08T17:40:59Z",
+  "updated": "2025-12-08T18:17:46Z",
   "items": [
+    {
+      "title": "Google Chrome adds new security layer for Gemini AI agentic browsing",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-new-security-layer-for-gemini-ai-agentic-browsing/",
+      "pubDate": "Mon, 08 Dec 2025 13:08:52 -0500"
+    },
     {
       "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies",
       "link": "https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/",
