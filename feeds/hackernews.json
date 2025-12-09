@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-09T19:09:04Z",
+  "updated": "2025-12-09T19:32:43Z",
   "items": [
+    {
+      "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
+      "link": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+      "pubDate": "Tue, 09 Dec 2025 23:55:00 +0530"
+    },
     {
       "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
       "link": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
@@ -56,11 +61,6 @@
       "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
       "link": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
       "pubDate": "Mon, 08 Dec 2025 14:45:00 +0530"
-    },
-    {
-      "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
-      "link": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
-      "pubDate": "Mon, 08 Dec 2025 12:16:00 +0530"
     }
   ]
 }
