@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-09T08:17:03Z",
+  "updated": "2025-12-09T08:49:20Z",
   "items": [
+    {
+      "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
+      "link": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
+      "pubDate": "Tue, 09 Dec 2025 13:37:00 +0530"
+    },
     {
       "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
       "link": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
@@ -56,11 +61,6 @@
       "title": "Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability",
       "link": "https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html",
       "pubDate": "Fri, 05 Dec 2025 19:40:00 +0530"
-    },
-    {
-      "title": "Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery",
-      "link": "https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html",
-      "pubDate": "Fri, 05 Dec 2025 17:17:00 +0530"
     }
   ]
 }
