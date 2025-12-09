@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-12-09T23:10:49Z",
+  "updated": "2025-12-09T23:35:12Z",
   "items": [
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "pubDate": "Tue, 09 Dec 2025 23:18:29 +0000"
+    },
     {
       "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
       "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
@@ -46,11 +51,6 @@
       "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
       "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
       "pubDate": "Sun, 09 Nov 2025 18:14:40 +0000"
-    },
-    {
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "pubDate": "Thu, 06 Nov 2025 02:04:36 +0000"
     }
   ]
 }
