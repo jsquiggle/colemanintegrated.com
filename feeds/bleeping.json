@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-09T20:37:53Z",
+  "updated": "2025-12-09T21:09:38Z",
   "items": [
+    {
+      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
+      "pubDate": "Tue, 09 Dec 2025 15:45:20 -0500"
+    },
     {
       "title": "Microsoft releases Windows 10 KB5071546 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
@@ -56,11 +61,6 @@
       "title": "Ransomware gangs turn to Shanya EXE packer to hide EDR killers",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/",
       "pubDate": "Mon, 08 Dec 2025 19:00:05 -0500"
-    },
-    {
-      "title": "Malicious VSCode extensions on Microsoft's registry drop infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/",
-      "pubDate": "Mon, 08 Dec 2025 17:30:19 -0500"
     }
   ]
 }
