@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-09T15:41:22Z",
+  "updated": "2025-12-09T16:15:12Z",
   "items": [
+    {
+      "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
+      "pubDate": "Tue, 09 Dec 2025 10:43:05 -0500"
+    },
     {
       "title": "Ransomware IAB abuses EDR for stealthy malware execution",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/",
@@ -56,11 +61,6 @@
       "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
       "link": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
       "pubDate": "Sat, 06 Dec 2025 14:07:33 -0500"
-    },
-    {
-      "title": "New wave of VPN login attempts targets Palo Alto GlobalProtect portals",
-      "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/",
-      "pubDate": "Sat, 06 Dec 2025 10:18:19 -0500"
     }
   ]
 }
