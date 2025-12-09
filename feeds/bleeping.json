@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-09T12:23:03Z",
+  "updated": "2025-12-09T13:09:30Z",
   "items": [
     {
       "title": "Microsoft investigates Copilot outage affecting users in Europe",
@@ -56,11 +56,6 @@
       "title": "New wave of VPN login attempts targets Palo Alto GlobalProtect portals",
       "link": "https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/",
       "pubDate": "Sat, 06 Dec 2025 10:18:19 -0500"
-    },
-    {
-      "title": "Barts Health NHS discloses data breach after Oracle zero-day hack",
-      "link": "https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/",
-      "pubDate": "Fri, 05 Dec 2025 13:55:26 -0500"
     }
   ]
 }
