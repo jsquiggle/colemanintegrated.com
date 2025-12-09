@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-09T16:48:06Z",
+  "updated": "2025-12-09T17:12:45Z",
   "items": [
+    {
+      "title": "Ivanti warns of critical Endpoint Manager code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/",
+      "pubDate": "Tue, 09 Dec 2025 12:10:25 -0500"
+    },
+    {
+      "title": "Maintaining enterprise IT hygiene using Wazuh SIEM/XDR",
+      "link": "https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/",
+      "pubDate": "Tue, 09 Dec 2025 12:09:33 -0500"
+    },
+    {
+      "title": "Spain arrests teen who stole 64 million personal data records",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
+      "pubDate": "Tue, 09 Dec 2025 11:57:06 -0500"
+    },
     {
       "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
@@ -46,21 +61,6 @@
       "title": "How Agentic BAS AI Turns Threat Headlines Into Defense Strategies",
       "link": "https://www.bleepingcomputer.com/news/security/how-agentic-bas-ai-turns-threat-headlines-into-defense-strategies/",
       "pubDate": "Mon, 08 Dec 2025 10:02:12 -0500"
-    },
-    {
-      "title": "OpenAI denies rolling out ads on ChatGPT paid plans",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/",
-      "pubDate": "Sun, 07 Dec 2025 15:51:08 -0500"
-    },
-    {
-      "title": "Portugal updates cybercrime law to exempt security researchers",
-      "link": "https://www.bleepingcomputer.com/news/security/portugal-updates-cybercrime-law-to-exempt-security-researchers/",
-      "pubDate": "Sun, 07 Dec 2025 10:09:44 -0500"
-    },
-    {
-      "title": "React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable",
-      "link": "https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/",
-      "pubDate": "Sat, 06 Dec 2025 14:07:33 -0500"
     }
   ]
 }
