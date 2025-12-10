@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-10T21:41:22Z",
+  "updated": "2025-12-10T22:12:05Z",
   "items": [
+    {
+      "title": "New DroidLock malware locks Android devices and demands a ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/",
+      "pubDate": "Wed, 10 Dec 2025 16:53:12 -0500"
+    },
     {
       "title": "Microsoft Teams to warn of suspicious traffic with external domains",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5072033 & KB5071417 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/",
       "pubDate": "Tue, 09 Dec 2025 13:31:38 -0500"
-    },
-    {
-      "title": "Ivanti warns of critical Endpoint Manager code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/",
-      "pubDate": "Tue, 09 Dec 2025 12:10:25 -0500"
     }
   ]
 }
