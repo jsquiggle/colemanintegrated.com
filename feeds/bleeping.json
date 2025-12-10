@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-10T14:46:22Z",
+  "updated": "2025-12-10T15:14:31Z",
   "items": [
+    {
+      "title": "Why a secure software development life cycle is critical for manufacturers",
+      "link": "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/",
+      "pubDate": "Wed, 10 Dec 2025 10:00:10 -0500"
+    },
+    {
+      "title": "New Spiderman phishing service targets dozens of European banks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/",
+      "pubDate": "Wed, 10 Dec 2025 09:53:00 -0500"
+    },
     {
       "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
@@ -51,16 +61,6 @@
       "title": "Spain arrests teen who stole 64 million personal data records",
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/",
       "pubDate": "Tue, 09 Dec 2025 11:57:06 -0500"
-    },
-    {
-      "title": "North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/",
-      "pubDate": "Tue, 09 Dec 2025 10:43:05 -0500"
-    },
-    {
-      "title": "Ransomware IAB abuses EDR for stealthy malware execution",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/",
-      "pubDate": "Tue, 09 Dec 2025 10:24:00 -0500"
     }
   ]
 }
