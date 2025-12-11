@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-11T22:41:28Z",
+  "updated": "2025-12-11T23:10:58Z",
   "items": [
+    {
+      "title": "Brave browser starts testing agentic AI mode for automated tasks",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
+      "pubDate": "Thu, 11 Dec 2025 18:03:37 -0500"
+    },
     {
       "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/",
@@ -56,11 +61,6 @@
       "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/",
       "pubDate": "Wed, 10 Dec 2025 18:50:56 -0500"
-    },
-    {
-      "title": "New DroidLock malware locks Android devices and demands a ransom",
-      "link": "https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/",
-      "pubDate": "Wed, 10 Dec 2025 16:53:12 -0500"
     }
   ]
 }
