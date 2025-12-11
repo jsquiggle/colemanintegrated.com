@@ -1,5 +1,66 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-11T05:43:31Z",
-  "items": []
+  "updated": "2025-12-11T06:19:34Z",
+  "items": [
+    {
+      "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
+      "link": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
+      "pubDate": "Thu, 11 Dec 2025 01:49:00 +0530"
+    },
+    {
+      "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
+      "link": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
+      "pubDate": "Thu, 11 Dec 2025 00:51:00 +0530"
+    },
+    {
+      "title": "Three PCIe Encryption Weaknesses Expose PCIe 5.0+ Systems to Faulty Data Handling",
+      "link": "https://thehackernews.com/2025/12/three-pcie-encryption-weaknesses-expose.html",
+      "pubDate": "Wed, 10 Dec 2025 19:02:00 +0530"
+    },
+    {
+      "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
+      "link": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+      "pubDate": "Wed, 10 Dec 2025 17:24:00 +0530"
+    },
+    {
+      "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
+      "link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
+      "pubDate": "Wed, 10 Dec 2025 17:24:00 +0530"
+    },
+    {
+      "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
+      "link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
+      "pubDate": "Wed, 10 Dec 2025 14:20:00 +0530"
+    },
+    {
+      "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
+      "link": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
+      "pubDate": "Wed, 10 Dec 2025 10:20:00 +0530"
+    },
+    {
+      "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
+      "link": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
+      "pubDate": "Tue, 09 Dec 2025 23:55:00 +0530"
+    },
+    {
+      "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
+      "link": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
+      "pubDate": "Tue, 09 Dec 2025 21:31:00 +0530"
+    },
+    {
+      "title": "Storm-0249 Escalates Ransomware Attacks with ClickFix, Fileless PowerShell, and DLL Sideloading",
+      "link": "https://thehackernews.com/2025/12/storm-0249-escalates-ransomware-attacks.html",
+      "pubDate": "Tue, 09 Dec 2025 19:07:00 +0530"
+    },
+    {
+      "title": "How to Streamline Zero Trust Using the Shared Signals Framework",
+      "link": "https://thehackernews.com/2025/12/how-to-streamline-zero-trust-using.html",
+      "pubDate": "Tue, 09 Dec 2025 17:00:00 +0530"
+    },
+    {
+      "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
+      "link": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
+      "pubDate": "Tue, 09 Dec 2025 16:44:00 +0530"
+    }
+  ]
 }
