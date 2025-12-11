@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-11T14:43:04Z",
+  "updated": "2025-12-11T15:13:53Z",
   "items": [
+    {
+      "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
+      "link": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
+      "pubDate": "Thu, 11 Dec 2025 10:10:49 -0500"
+    },
+    {
+      "title": "AI is accelerating cyberattacks. Is your network prepared?",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
+      "pubDate": "Thu, 11 Dec 2025 10:05:15 -0500"
+    },
     {
       "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
       "pubDate": "Wed, 10 Dec 2025 07:26:32 -0500"
-    },
-    {
-      "title": "SAP fixes three critical vulnerabilities across multiple products",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-three-critical-vulnerabilities-across-multiple-products/",
-      "pubDate": "Tue, 09 Dec 2025 17:41:26 -0500"
-    },
-    {
-      "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
-      "pubDate": "Tue, 09 Dec 2025 15:45:20 -0500"
     }
   ]
 }
