@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-11T13:10:58Z",
+  "updated": "2025-12-11T13:53:44Z",
   "items": [
+    {
+      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
+      "pubDate": "Thu, 11 Dec 2025 08:19:50 -0500"
+    },
     {
       "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
@@ -56,11 +61,6 @@
       "title": "Windows PowerShell now warns when running Invoke-WebRequest scripts",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-windows-powershell-now-warns-when-running-invoke-webrequest-scripts/",
       "pubDate": "Tue, 09 Dec 2025 15:45:20 -0500"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5071546 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-      "pubDate": "Tue, 09 Dec 2025 14:54:26 -0500"
     }
   ]
 }
