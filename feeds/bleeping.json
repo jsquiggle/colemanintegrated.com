@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-11T16:53:23Z",
+  "updated": "2025-12-11T17:18:47Z",
   "items": [
+    {
+      "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/",
+      "pubDate": "Thu, 11 Dec 2025 12:09:00 -0500"
+    },
     {
       "title": "Microsoft bounty program now includes any flaw impacting its services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/",
@@ -56,11 +61,6 @@
       "title": "Why a secure software development life cycle is critical for manufacturers",
       "link": "https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/",
       "pubDate": "Wed, 10 Dec 2025 10:00:10 -0500"
-    },
-    {
-      "title": "New Spiderman phishing service targets dozens of European banks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/",
-      "pubDate": "Wed, 10 Dec 2025 09:53:00 -0500"
     }
   ]
 }
