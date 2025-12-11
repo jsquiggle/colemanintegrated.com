@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-11T15:45:25Z",
+  "updated": "2025-12-11T16:16:49Z",
   "items": [
+    {
+      "title": "Microsoft bounty program now includes any flaw impacting its services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/",
+      "pubDate": "Thu, 11 Dec 2025 11:00:46 -0500"
+    },
     {
       "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
       "link": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
@@ -56,11 +61,6 @@
       "title": "New Spiderman phishing service targets dozens of European banks",
       "link": "https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/",
       "pubDate": "Wed, 10 Dec 2025 09:53:00 -0500"
-    },
-    {
-      "title": "Ukrainian hacker charged with helping Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/",
-      "pubDate": "Wed, 10 Dec 2025 07:26:32 -0500"
     }
   ]
 }
