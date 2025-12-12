@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-12T11:11:43Z",
+  "updated": "2025-12-12T11:38:12Z",
   "items": [
+    {
+      "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
+      "pubDate": "Fri, 12 Dec 2025 06:28:06 -0500"
+    },
     {
       "title": "CISA orders feds to patch actively exploited Geoserver flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
@@ -56,11 +61,6 @@
       "title": "AI is accelerating cyberattacks. Is your network prepared?",
       "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
       "pubDate": "Thu, 11 Dec 2025 10:05:15 -0500"
-    },
-    {
-      "title": "Hackers exploit unpatched Gogs zero-day to breach 700 servers",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/",
-      "pubDate": "Thu, 11 Dec 2025 08:19:50 -0500"
     }
   ]
 }
