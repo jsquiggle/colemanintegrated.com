@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-12T08:17:00Z",
+  "updated": "2025-12-12T08:50:23Z",
   "items": [
+    {
+      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
+      "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
+      "pubDate": "Fri, 12 Dec 2025 03:43:16 -0500"
+    },
     {
       "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
       "link": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Windows Explorer white flashes in dark mode",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/",
       "pubDate": "Thu, 11 Dec 2025 05:09:52 -0500"
-    },
-    {
-      "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
-      "pubDate": "Thu, 11 Dec 2025 03:01:21 -0500"
     }
   ]
 }
