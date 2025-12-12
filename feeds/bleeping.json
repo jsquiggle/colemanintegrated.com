@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-12T15:13:02Z",
+  "updated": "2025-12-12T15:41:40Z",
   "items": [
+    {
+      "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
+      "pubDate": "Fri, 12 Dec 2025 10:27:16 -0500"
+    },
+    {
+      "title": "Shadow spreadsheets: The security gap your tools can\u2019t see",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
+      "pubDate": "Fri, 12 Dec 2025 10:01:11 -0500"
+    },
     {
       "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
@@ -51,16 +61,6 @@
       "title": "Microsoft bounty program now includes any flaw impacting its services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/",
       "pubDate": "Thu, 11 Dec 2025 11:00:46 -0500"
-    },
-    {
-      "title": "New ConsentFix attack hijacks Microsoft accounts via Azure CLI",
-      "link": "https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/",
-      "pubDate": "Thu, 11 Dec 2025 10:10:49 -0500"
-    },
-    {
-      "title": "AI is accelerating cyberattacks. Is your network prepared?",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/",
-      "pubDate": "Thu, 11 Dec 2025 10:05:15 -0500"
     }
   ]
 }
