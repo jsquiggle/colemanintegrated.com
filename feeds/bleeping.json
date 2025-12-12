@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-12T06:53:11Z",
+  "updated": "2025-12-12T07:15:47Z",
   "items": [
+    {
+      "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
+      "link": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
+      "pubDate": "Fri, 12 Dec 2025 02:14:31 -0500"
+    },
     {
       "title": "Brave browser starts testing agentic AI mode for automated tasks",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
@@ -56,11 +61,6 @@
       "title": "Google fixes eighth Chrome zero-day exploited in attacks in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/",
       "pubDate": "Thu, 11 Dec 2025 03:01:21 -0500"
-    },
-    {
-      "title": "Google ads for shared ChatGPT, Grok guides push macOS infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/",
-      "pubDate": "Wed, 10 Dec 2025 18:50:56 -0500"
     }
   ]
 }
