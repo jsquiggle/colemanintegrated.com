@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-12T23:11:35Z",
+  "updated": "2025-12-12T23:36:56Z",
   "items": [
+    {
+      "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
+      "pubDate": "Fri, 12 Dec 2025 18:23:25 -0500"
+    },
     {
       "title": "Coupang data breach traced to ex-employee who retained system access",
       "link": "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/",
@@ -56,11 +61,6 @@
       "title": "Notepad++ fixes flaw that let attackers push malicious update files",
       "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/",
       "pubDate": "Thu, 11 Dec 2025 16:04:15 -0500"
-    },
-    {
-      "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/",
-      "pubDate": "Thu, 11 Dec 2025 15:54:21 -0500"
     }
   ]
 }
