@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-12T18:17:35Z",
+  "updated": "2025-12-12T18:50:37Z",
   "items": [
+    {
+      "title": "Coupang data breach traced to ex-employee who retained system access",
+      "link": "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/",
+      "pubDate": "Fri, 12 Dec 2025 13:28:30 -0500"
+    },
     {
       "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles",
       "link": "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/",
@@ -56,11 +61,6 @@
       "title": "Malicious VSCode Marketplace extensions hid trojan in fake PNG file",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-vscode-marketplace-extensions-hid-trojan-in-fake-png-file/",
       "pubDate": "Thu, 11 Dec 2025 15:54:21 -0500"
-    },
-    {
-      "title": "UK fines LastPass over 2022 data breach impacting 1.6 million users",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-lastpass-over-2022-data-breach-impacting-16-million-users/",
-      "pubDate": "Thu, 11 Dec 2025 12:09:00 -0500"
     }
   ]
 }
