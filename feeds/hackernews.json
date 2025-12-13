@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-13T12:19:54Z",
+  "updated": "2025-12-13T13:02:01Z",
   "items": [
+    {
+      "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
+      "link": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
+      "pubDate": "Sat, 13 Dec 2025 18:03:00 +0530"
+    },
     {
       "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
       "link": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
@@ -56,11 +61,6 @@
       "title": "WIRTE Leverages AshenLoader Sideloading to Install the AshTag Espionage Backdoor",
       "link": "https://thehackernews.com/2025/12/wirte-leverages-ashenloader-sideloading.html",
       "pubDate": "Thu, 11 Dec 2025 16:30:00 +0530"
-    },
-    {
-      "title": "Unpatched Gogs Zero-Day Exploited Across 700+ Instances Amid Active Attacks",
-      "link": "https://thehackernews.com/2025/12/unpatched-gogs-zero-day-exploited.html",
-      "pubDate": "Thu, 11 Dec 2025 16:00:00 +0530"
     }
   ]
 }
