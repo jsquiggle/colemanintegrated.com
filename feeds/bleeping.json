@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-14T15:36:47Z",
+  "updated": "2025-12-14T16:12:44Z",
   "items": [
+    {
+      "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
+      "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+      "pubDate": "Sun, 14 Dec 2025 11:06:10 -0500"
+    },
+    {
+      "title": "CyberVolk\u2019s ransomware debut stumbles on cryptography weakness",
+      "link": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/",
+      "pubDate": "Sat, 13 Dec 2025 10:11:21 -0500"
+    },
     {
       "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
@@ -51,16 +61,6 @@
       "title": "Brave browser starts testing agentic AI mode for automated tasks",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
       "pubDate": "Thu, 11 Dec 2025 18:03:37 -0500"
-    },
-    {
-      "title": "Hackers exploit Gladinet CentreStack cryptographic flaw in RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-gladinet-centrestack-cryptographic-flaw-in-rce-attacks/",
-      "pubDate": "Thu, 11 Dec 2025 16:49:10 -0500"
-    },
-    {
-      "title": "Notepad++ fixes flaw that let attackers push malicious update files",
-      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-fixes-flaw-that-let-attackers-push-malicious-update-files/",
-      "pubDate": "Thu, 11 Dec 2025 16:04:15 -0500"
     }
   ]
 }
