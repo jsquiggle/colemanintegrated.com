@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-15T14:50:21Z",
+  "updated": "2025-12-15T15:16:14Z",
   "items": [
+    {
+      "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
+      "link": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
+      "pubDate": "Mon, 15 Dec 2025 20:02:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Apple 0-Days, WinRAR Exploit, LastPass Fines, .NET RCE, OAuth Scams & More",
       "link": "https://thehackernews.com/2025/12/weekly-recap-apple-0-days-winrar.html",
@@ -56,11 +61,6 @@
       "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
       "link": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
       "pubDate": "Fri, 12 Dec 2025 14:11:00 +0530"
-    },
-    {
-      "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-      "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-      "pubDate": "Fri, 12 Dec 2025 10:31:00 +0530"
     }
   ]
 }
