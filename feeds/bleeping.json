@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T08:52:14Z",
+  "updated": "2025-12-15T09:21:32Z",
   "items": [
+    {
+      "title": "Microsoft: December security updates cause Message Queuing failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
+      "pubDate": "Mon, 15 Dec 2025 04:04:59 -0500"
+    },
     {
       "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
       "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
@@ -56,11 +61,6 @@
       "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
       "link": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
       "pubDate": "Fri, 12 Dec 2025 02:14:31 -0500"
-    },
-    {
-      "title": "Brave browser starts testing agentic AI mode for automated tasks",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/brave-browser-starts-testing-agentic-ai-mode-for-automated-tasks/",
-      "pubDate": "Thu, 11 Dec 2025 18:03:37 -0500"
     }
   ]
 }
