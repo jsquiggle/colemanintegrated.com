@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T16:17:41Z",
+  "updated": "2025-12-15T16:54:39Z",
   "items": [
+    {
+      "title": "700Credit data breach impacts 5.8 million vehicle dealership customers",
+      "link": "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/",
+      "pubDate": "Mon, 15 Dec 2025 11:49:03 -0500"
+    },
     {
       "title": "2025\u2019s Top Phishing Trends and What They Mean for Your Security Strategy",
       "link": "https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/",
@@ -56,11 +61,6 @@
       "title": "Kali Linux 2025.4 released with 3 new tools, desktop updates",
       "link": "https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/",
       "pubDate": "Fri, 12 Dec 2025 10:27:16 -0500"
-    },
-    {
-      "title": "Shadow spreadsheets: The security gap your tools can\u2019t see",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
-      "pubDate": "Fri, 12 Dec 2025 10:01:11 -0500"
     }
   ]
 }
