@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T14:16:16Z",
+  "updated": "2025-12-15T14:50:21Z",
   "items": [
+    {
+      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
+      "pubDate": "Mon, 15 Dec 2025 09:34:31 -0500"
+    },
     {
       "title": "Google links more Chinese hacking groups to React2Shell attacks",
       "link": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
@@ -51,11 +56,6 @@
       "title": "Shadow spreadsheets: The security gap your tools can\u2019t see",
       "link": "https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/",
       "pubDate": "Fri, 12 Dec 2025 10:01:11 -0500"
-    },
-    {
-      "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
-      "pubDate": "Fri, 12 Dec 2025 06:28:06 -0500"
     }
   ]
 }
