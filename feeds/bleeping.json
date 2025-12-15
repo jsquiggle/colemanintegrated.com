@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T22:41:21Z",
+  "updated": "2025-12-15T23:11:33Z",
   "items": [
+    {
+      "title": "New SantaStealer malware steals data from browsers, crypto wallets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
+      "pubDate": "Mon, 15 Dec 2025 17:43:10 -0500"
+    },
     {
       "title": "PornHub extorted after hackers steal Premium member activity data",
       "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
@@ -56,11 +61,6 @@
       "title": "Apple fixes two zero-day flaws exploited in 'sophisticated' attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/",
       "pubDate": "Fri, 12 Dec 2025 18:23:25 -0500"
-    },
-    {
-      "title": "Coupang data breach traced to ex-employee who retained system access",
-      "link": "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/",
-      "pubDate": "Fri, 12 Dec 2025 13:28:30 -0500"
     }
   ]
 }
