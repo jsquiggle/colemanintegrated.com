@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T12:24:59Z",
+  "updated": "2025-12-15T13:12:09Z",
   "items": [
+    {
+      "title": "Google links more Chinese hacking groups to React2Shell attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
+      "pubDate": "Mon, 15 Dec 2025 07:46:50 -0500"
+    },
     {
       "title": "French Interior Ministry confirms cyberattack on email servers",
       "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
@@ -51,16 +56,6 @@
       "title": "New Windows RasMan zero-day flaw gets free, unofficial patches",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-rasman-zero-day-flaw-gets-free-unofficial-patches/",
       "pubDate": "Fri, 12 Dec 2025 06:28:06 -0500"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Geoserver flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-geoserver-flaw/",
-      "pubDate": "Fri, 12 Dec 2025 04:48:31 -0500"
-    },
-    {
-      "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
-      "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
-      "pubDate": "Fri, 12 Dec 2025 03:43:16 -0500"
     }
   ]
 }
