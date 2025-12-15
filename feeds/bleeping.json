@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T21:11:10Z",
+  "updated": "2025-12-15T21:39:03Z",
   "items": [
+    {
+      "title": "PornHub extorted after hackers steal Premium member activity data",
+      "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
+      "pubDate": "Mon, 15 Dec 2025 16:27:07 -0500"
+    },
     {
       "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
       "link": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
@@ -56,11 +61,6 @@
       "title": "Coupang data breach traced to ex-employee who retained system access",
       "link": "https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/",
       "pubDate": "Fri, 12 Dec 2025 13:28:30 -0500"
-    },
-    {
-      "title": "Fake \u2018One Battle After Another\u2019 torrent hides malware in subtitles",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/",
-      "pubDate": "Fri, 12 Dec 2025 12:12:47 -0500"
     }
   ]
 }
