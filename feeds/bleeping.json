@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T10:49:02Z",
+  "updated": "2025-12-15T11:11:38Z",
   "items": [
+    {
+      "title": "French Interior Ministry confirms cyberattack on email servers",
+      "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
+      "pubDate": "Mon, 15 Dec 2025 06:06:10 -0500"
+    },
     {
       "title": "Microsoft: December security updates cause Message Queuing failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
@@ -56,11 +61,6 @@
       "title": "MITRE shares 2025's top 25 most dangerous software weaknesses",
       "link": "https://www.bleepingcomputer.com/news/security/mitre-shares-2025s-top-25-most-dangerous-software-weaknesses/",
       "pubDate": "Fri, 12 Dec 2025 03:43:16 -0500"
-    },
-    {
-      "title": "MKVCinemas streaming piracy service with 142M visits shuts down",
-      "link": "https://www.bleepingcomputer.com/news/security/mkvcinemas-streaming-piracy-service-with-142m-visits-shuts-down/",
-      "pubDate": "Fri, 12 Dec 2025 02:14:31 -0500"
     }
   ]
 }
