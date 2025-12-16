@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T19:36:37Z",
+  "updated": "2025-12-16T20:13:30Z",
   "items": [
+    {
+      "title": "Amazon disrupts Russian GRU hackers attacking edge network devices",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/",
+      "pubDate": "Tue, 16 Dec 2025 15:13:09 -0500"
+    },
     {
       "title": "Texas sues TV makers for taking screenshots of what people watch",
       "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
@@ -56,11 +61,6 @@
       "title": "PornHub extorted after hackers steal Premium member activity data",
       "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
       "pubDate": "Mon, 15 Dec 2025 16:27:07 -0500"
-    },
-    {
-      "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
-      "link": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
-      "pubDate": "Mon, 15 Dec 2025 13:20:47 -0500"
     }
   ]
 }
