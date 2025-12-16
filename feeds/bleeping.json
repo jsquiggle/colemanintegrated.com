@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T12:23:57Z",
+  "updated": "2025-12-16T13:10:14Z",
   "items": [
+    {
+      "title": "Microsoft to block Exchange Online access for outdated mobile devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
+      "pubDate": "Tue, 16 Dec 2025 07:53:25 -0500"
+    },
     {
       "title": "European authorities dismantle call center fraud ring in Ukraine",
       "link": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
@@ -56,11 +61,6 @@
       "title": "Google links more Chinese hacking groups to React2Shell attacks",
       "link": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
       "pubDate": "Mon, 15 Dec 2025 07:46:50 -0500"
-    },
-    {
-      "title": "French Interior Ministry confirms cyberattack on email servers",
-      "link": "https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/",
-      "pubDate": "Mon, 15 Dec 2025 06:06:10 -0500"
     }
   ]
 }
