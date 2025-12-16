@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-16T11:37:55Z",
+  "updated": "2025-12-16T12:23:57Z",
   "items": [
+    {
+      "title": "Why Data Security and Privacy Need to Start in Code",
+      "link": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
+      "pubDate": "Tue, 16 Dec 2025 17:00:00 +0530"
+    },
     {
       "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
       "link": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
@@ -56,11 +61,6 @@
       "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
       "link": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
       "pubDate": "Sat, 13 Dec 2025 11:02:00 +0530"
-    },
-    {
-      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
-      "link": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
-      "pubDate": "Sat, 13 Dec 2025 00:20:00 +0530"
     }
   ]
 }
