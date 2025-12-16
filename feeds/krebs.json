@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-12-16T14:15:06Z",
+  "updated": "2025-12-16T14:47:43Z",
   "items": [
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "pubDate": "Tue, 16 Dec 2025 14:14:48 +0000"
+    },
     {
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
@@ -46,11 +51,6 @@
       "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
       "link": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
       "pubDate": "Thu, 13 Nov 2025 14:47:22 +0000"
-    },
-    {
-      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
-      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "pubDate": "Sun, 09 Nov 2025 18:14:40 +0000"
     }
   ]
 }
