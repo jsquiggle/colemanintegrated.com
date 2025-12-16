@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T22:11:57Z",
+  "updated": "2025-12-16T22:40:24Z",
   "items": [
+    {
+      "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
+      "pubDate": "Tue, 16 Dec 2025 17:17:46 -0500"
+    },
     {
       "title": "Amazon disrupts Russian GRU hackers attacking edge network devices",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-gru-hackers-attacking-edge-network-devices/",
@@ -56,11 +61,6 @@
       "title": "New SantaStealer malware steals data from browsers, crypto wallets",
       "link": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
       "pubDate": "Mon, 15 Dec 2025 17:43:10 -0500"
-    },
-    {
-      "title": "PornHub extorted after hackers steal Premium member activity data",
-      "link": "https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/",
-      "pubDate": "Mon, 15 Dec 2025 16:27:07 -0500"
     }
   ]
 }
