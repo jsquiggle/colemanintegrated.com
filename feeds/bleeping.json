@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T22:40:24Z",
+  "updated": "2025-12-16T23:10:27Z",
   "items": [
+    {
+      "title": "Cellik Android malware builds malicious versions from Google Play apps",
+      "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
+      "pubDate": "Tue, 16 Dec 2025 17:59:35 -0500"
+    },
     {
       "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
       "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
@@ -56,11 +61,6 @@
       "title": "Askul confirms theft of 740k customer records in ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/",
       "pubDate": "Mon, 15 Dec 2025 18:13:44 -0500"
-    },
-    {
-      "title": "New SantaStealer malware steals data from browsers, crypto wallets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/",
-      "pubDate": "Mon, 15 Dec 2025 17:43:10 -0500"
     }
   ]
 }
