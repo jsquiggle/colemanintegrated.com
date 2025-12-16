@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-15T23:38:05Z",
+  "updated": "2025-12-16T00:56:30Z",
   "items": [
+    {
+      "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
+      "link": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
+      "pubDate": "Mon, 15 Dec 2025 19:38:47 -0500"
+    },
     {
       "title": "Google is shutting down its dark web report feature in January",
       "link": "https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: December security updates cause Message Queuing failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/",
       "pubDate": "Mon, 15 Dec 2025 04:04:59 -0500"
-    },
-    {
-      "title": "Beware: PayPal subscriptions abused to send fake purchase emails",
-      "link": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
-      "pubDate": "Sun, 14 Dec 2025 11:06:10 -0500"
     }
   ]
 }
