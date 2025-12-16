@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T14:47:43Z",
+  "updated": "2025-12-16T15:14:21Z",
   "items": [
+    {
+      "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
+      "pubDate": "Tue, 16 Dec 2025 10:01:11 -0500"
+    },
     {
       "title": "Microsoft to block Exchange Online access for outdated mobile devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
       "pubDate": "Mon, 15 Dec 2025 09:34:31 -0500"
-    },
-    {
-      "title": "Google links more Chinese hacking groups to React2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/",
-      "pubDate": "Mon, 15 Dec 2025 07:46:50 -0500"
     }
   ]
 }
