@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-16T17:16:01Z",
+  "updated": "2025-12-16T17:44:56Z",
   "items": [
+    {
+      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
+      "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
+      "pubDate": "Tue, 16 Dec 2025 22:05:00 +0530"
+    },
     {
       "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
       "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
@@ -56,11 +61,6 @@
       "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
       "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
       "pubDate": "Mon, 15 Dec 2025 14:54:00 +0530"
-    },
-    {
-      "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
-      "link": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
-      "pubDate": "Mon, 15 Dec 2025 11:03:00 +0530"
     }
   ]
 }

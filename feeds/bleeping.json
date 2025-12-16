@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T17:16:01Z",
+  "updated": "2025-12-16T17:44:56Z",
   "items": [
+    {
+      "title": "Texas sues TV makers for taking screenshots of what people watch",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tv-makers-for-spying-on-users-selling-data-without-consent/",
+      "pubDate": "Tue, 16 Dec 2025 12:29:22 -0500"
+    },
     {
       "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
@@ -56,11 +61,6 @@
       "title": "Ongoing SoundCloud issue blocks VPN users with 403 server error",
       "link": "https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/",
       "pubDate": "Mon, 15 Dec 2025 13:20:47 -0500"
-    },
-    {
-      "title": "700Credit data breach impacts 5.8 million vehicle dealership customers",
-      "link": "https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/",
-      "pubDate": "Mon, 15 Dec 2025 11:49:03 -0500"
     }
   ]
 }
