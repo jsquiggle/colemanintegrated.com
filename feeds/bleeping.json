@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-16T15:14:21Z",
+  "updated": "2025-12-16T15:42:13Z",
   "items": [
+    {
+      "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
+      "pubDate": "Tue, 16 Dec 2025 10:19:17 -0500"
+    },
     {
       "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
       "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
@@ -56,11 +61,6 @@
       "title": "2025\u2019s Top Phishing Trends and What They Mean for Your Security Strategy",
       "link": "https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/",
       "pubDate": "Mon, 15 Dec 2025 10:05:15 -0500"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates break VPN access for WSL users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/",
-      "pubDate": "Mon, 15 Dec 2025 09:34:31 -0500"
     }
   ]
 }
