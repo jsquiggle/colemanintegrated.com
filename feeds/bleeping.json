@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-17T18:18:23Z",
+  "updated": "2025-12-17T18:52:21Z",
   "items": [
+    {
+      "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
+      "pubDate": "Wed, 17 Dec 2025 13:45:36 -0500"
+    },
     {
       "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "The Hidden Risk in Virtualization: Why Hypervisors are a Ransomware Magnet",
       "link": "https://www.bleepingcomputer.com/news/security/the-hidden-risk-in-virtualization-why-hypervisors-are-a-ransomware-magnet/",
       "pubDate": "Tue, 16 Dec 2025 10:01:11 -0500"
-    },
-    {
-      "title": "Microsoft to block Exchange Online access for outdated mobile devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
-      "pubDate": "Tue, 16 Dec 2025 07:53:25 -0500"
     }
   ]
 }
