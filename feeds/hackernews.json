@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-17T09:46:02Z",
+  "updated": "2025-12-17T10:14:04Z",
   "items": [
+    {
+      "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
+      "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
+      "pubDate": "Wed, 17 Dec 2025 13:44:00 +0530"
+    },
     {
       "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
       "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
@@ -56,11 +61,6 @@
       "title": "A Browser Extension Risk Guide After the ShadyPanda Campaign",
       "link": "https://thehackernews.com/2025/12/a-browser-extension-risk-guide-after.html",
       "pubDate": "Mon, 15 Dec 2025 17:25:00 +0530"
-    },
-    {
-      "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
-      "link": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
-      "pubDate": "Mon, 15 Dec 2025 14:54:00 +0530"
     }
   ]
 }
