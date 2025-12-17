@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-17T21:39:12Z",
+  "updated": "2025-12-17T22:11:42Z",
   "items": [
+    {
+      "title": "Amazon: Ongoing cryptomining campaign uses hacked AWS accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ongoing-cryptomining-campaign-uses-hacked-aws-accounts/",
+      "pubDate": "Wed, 17 Dec 2025 16:48:33 -0500"
+    },
     {
       "title": "WhatsApp device linking abused in account hijacking attacks",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit newly patched Fortinet auth bypass flaws",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-newly-patched-fortinet-auth-bypass-flaws/",
       "pubDate": "Tue, 16 Dec 2025 10:57:34 -0500"
-    },
-    {
-      "title": "Cyberattack disrupts Venezuelan oil giant PDVSA's operations",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-venezuelan-oil-giant-pdvsas-operations/",
-      "pubDate": "Tue, 16 Dec 2025 10:19:17 -0500"
     }
   ]
 }
