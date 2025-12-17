@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-17T15:44:13Z",
+  "updated": "2025-12-17T16:15:26Z",
   "items": [
+    {
+      "title": "Critical React2Shell flaw exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
+      "pubDate": "Wed, 17 Dec 2025 11:09:51 -0500"
+    },
     {
       "title": "Your MFA Is Costing You Millions. It Doesn't Have To.",
       "link": "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/",
@@ -56,11 +61,6 @@
       "title": "European authorities dismantle call center fraud ring in Ukraine",
       "link": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
       "pubDate": "Tue, 16 Dec 2025 06:44:06 -0500"
-    },
-    {
-      "title": "SoundCloud confirms breach after member data stolen, VPN access disrupted",
-      "link": "https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/",
-      "pubDate": "Mon, 15 Dec 2025 19:38:47 -0500"
     }
   ]
 }
