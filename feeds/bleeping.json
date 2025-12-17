@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-17T17:43:46Z",
+  "updated": "2025-12-17T18:18:23Z",
   "items": [
+    {
+      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
+      "pubDate": "Wed, 17 Dec 2025 12:44:18 -0500"
+    },
     {
       "title": "Critical React2Shell flaw exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to block Exchange Online access for outdated mobile devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/",
       "pubDate": "Tue, 16 Dec 2025 07:53:25 -0500"
-    },
-    {
-      "title": "European authorities dismantle call center fraud ring in Ukraine",
-      "link": "https://www.bleepingcomputer.com/news/security/european-authorities-dismantle-call-center-fraud-ring-in-ukraine/",
-      "pubDate": "Tue, 16 Dec 2025 06:44:06 -0500"
     }
   ]
 }
