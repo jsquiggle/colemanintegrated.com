@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-18T20:12:19Z",
+  "updated": "2025-12-18T20:39:10Z",
   "items": [
+    {
+      "title": "University of Sydney suffers data breach exposing student and staff info",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
+      "pubDate": "Thu, 18 Dec 2025 15:22:58 -0500"
+    },
+    {
+      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
+      "pubDate": "Thu, 18 Dec 2025 15:16:55 -0500"
+    },
     {
       "title": "New password spraying attacks target Cisco, PAN VPN gateways",
       "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
@@ -51,16 +61,6 @@
       "title": "WhatsApp device linking abused in account hijacking attacks",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-device-linking-abused-in-account-hijacking-attacks/",
       "pubDate": "Wed, 17 Dec 2025 14:14:30 -0500"
-    },
-    {
-      "title": "Cisco warns of unpatched AsyncOS zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/",
-      "pubDate": "Wed, 17 Dec 2025 13:45:36 -0500"
-    },
-    {
-      "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
-      "pubDate": "Wed, 17 Dec 2025 12:44:18 -0500"
     }
   ]
 }
