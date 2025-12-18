@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-18T11:11:17Z",
+  "updated": "2025-12-18T11:37:22Z",
   "items": [
+    {
+      "title": "HPE warns of maximum severity RCE flaw in OneView software",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
+      "pubDate": "Thu, 18 Dec 2025 06:35:53 -0500"
+    },
     {
       "title": "Microsoft: Recent Windows updates break RemoteApp connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
@@ -56,11 +61,6 @@
       "title": "Cellik Android malware builds malicious versions from Google Play apps",
       "link": "https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/",
       "pubDate": "Tue, 16 Dec 2025 17:59:35 -0500"
-    },
-    {
-      "title": "GhostPoster attacks hide malicious JavaScript in Firefox addon logos",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/",
-      "pubDate": "Tue, 16 Dec 2025 17:17:46 -0500"
     }
   ]
 }

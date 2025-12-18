@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-18T11:11:17Z",
+  "updated": "2025-12-18T11:37:22Z",
   "items": [
     {
       "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
@@ -16,6 +16,11 @@
       "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
       "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
       "pubDate": "Thu, 18 Dec 2025 09:40:00 +0530"
+    },
+    {
+      "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+      "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+      "pubDate": "Thu, 18 Dec 2025 06:30:00 +0530"
     },
     {
       "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
@@ -56,11 +61,6 @@
       "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
       "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
       "pubDate": "Tue, 16 Dec 2025 22:05:00 +0530"
-    },
-    {
-      "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
-      "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-      "pubDate": "Tue, 16 Dec 2025 21:09:00 +0530"
     }
   ]
 }
