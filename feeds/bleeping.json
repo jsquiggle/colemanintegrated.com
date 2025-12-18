@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-18T14:45:11Z",
+  "updated": "2025-12-18T15:13:16Z",
   "items": [
+    {
+      "title": "NIS2 compliance: How to get passwords and MFA right",
+      "link": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
+      "pubDate": "Thu, 18 Dec 2025 10:01:11 -0500"
+    },
     {
       "title": "France arrests Latvian for installing malware on Italian ferry",
       "link": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
@@ -56,11 +61,6 @@
       "title": "Your MFA Is Costing You Millions. It Doesn't Have To.",
       "link": "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/",
       "pubDate": "Wed, 17 Dec 2025 09:00:00 -0500"
-    },
-    {
-      "title": "Microsoft asks admins to reach out for Windows IIS failures fix",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/",
-      "pubDate": "Wed, 17 Dec 2025 07:30:32 -0500"
     }
   ]
 }
