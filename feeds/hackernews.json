@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-18T17:44:10Z",
+  "updated": "2025-12-18T18:17:50Z",
   "items": [
+    {
+      "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
+      "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
+      "pubDate": "Thu, 18 Dec 2025 23:04:00 +0530"
+    },
     {
       "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
@@ -56,11 +61,6 @@
       "title": "New ForumTroll Phishing Attacks Target Russian Scholars Using Fake eLibrary Emails",
       "link": "https://thehackernews.com/2025/12/new-forumtroll-phishing-attacks-target.html",
       "pubDate": "Wed, 17 Dec 2025 20:24:00 +0530"
-    },
-    {
-      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-      "link": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-      "pubDate": "Wed, 17 Dec 2025 17:00:00 +0530"
     }
   ]
 }
