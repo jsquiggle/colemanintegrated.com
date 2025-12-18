@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-18T17:15:34Z",
+  "updated": "2025-12-18T17:44:10Z",
   "items": [
+    {
+      "title": "New password spraying attacks target Cisco, PAN VPN gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/new-password-spraying-attacks-target-cisco-pan-vpn-gateways/",
+      "pubDate": "Thu, 18 Dec 2025 12:27:25 -0500"
+    },
     {
       "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
       "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
@@ -56,11 +61,6 @@
       "title": "Sonicwall warns of new SMA1000 zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-sma1000-zero-day-exploited-in-attacks/",
       "pubDate": "Wed, 17 Dec 2025 12:44:18 -0500"
-    },
-    {
-      "title": "Critical React2Shell flaw exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
-      "pubDate": "Wed, 17 Dec 2025 11:09:51 -0500"
     }
   ]
 }
