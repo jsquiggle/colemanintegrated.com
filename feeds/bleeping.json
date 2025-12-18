@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-18T15:42:30Z",
+  "updated": "2025-12-18T16:16:13Z",
   "items": [
+    {
+      "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
+      "pubDate": "Thu, 18 Dec 2025 11:13:03 -0500"
+    },
     {
       "title": "NIS2 compliance: How to get passwords and MFA right",
       "link": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
@@ -56,11 +61,6 @@
       "title": "Critical React2Shell flaw exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/",
       "pubDate": "Wed, 17 Dec 2025 11:09:51 -0500"
-    },
-    {
-      "title": "Your MFA Is Costing You Millions. It Doesn't Have To.",
-      "link": "https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/",
-      "pubDate": "Wed, 17 Dec 2025 09:00:00 -0500"
     }
   ]
 }
