@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-18T13:08:48Z",
+  "updated": "2025-12-18T13:52:12Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
+      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+      "pubDate": "Thu, 18 Dec 2025 18:40:00 +0530"
+    },
+    {
+      "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
+      "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+      "pubDate": "Thu, 18 Dec 2025 18:30:00 +0530"
+    },
     {
       "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
       "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
@@ -51,16 +61,6 @@
       "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
       "link": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
       "pubDate": "Wed, 17 Dec 2025 16:42:00 +0530"
-    },
-    {
-      "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
-      "link": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-      "pubDate": "Wed, 17 Dec 2025 13:44:00 +0530"
-    },
-    {
-      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
-      "link": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
-      "pubDate": "Tue, 16 Dec 2025 22:05:00 +0530"
     }
   ]
 }
