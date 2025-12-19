@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-19T12:22:03Z",
+  "updated": "2025-12-19T13:07:05Z",
   "items": [
+    {
+      "title": "Denmark blames Russia for destructive cyberattack on water utility",
+      "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
+      "pubDate": "Fri, 19 Dec 2025 07:28:48 -0500"
+    },
     {
       "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Recent Windows updates break RemoteApp connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
       "pubDate": "Thu, 18 Dec 2025 05:04:25 -0500"
-    },
-    {
-      "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
-      "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
-      "pubDate": "Wed, 17 Dec 2025 18:09:36 -0500"
     }
   ]
 }
