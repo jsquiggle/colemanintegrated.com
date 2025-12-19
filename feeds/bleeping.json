@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-19T10:12:36Z",
+  "updated": "2025-12-19T10:44:05Z",
   "items": [
+    {
+      "title": "New critical WatchGuard Firebox firewall flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/watchguard-warns-of-new-rce-flaw-in-firebox-firewalls-exploited-in-attacks/",
+      "pubDate": "Fri, 19 Dec 2025 05:25:06 -0500"
+    },
     {
       "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
       "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
@@ -56,11 +61,6 @@
       "title": "Zeroday Cloud hacking event awards $320,0000 for 11 zero days",
       "link": "https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-event-awards-320-0000-for-11-zero-days/",
       "pubDate": "Wed, 17 Dec 2025 18:09:36 -0500"
-    },
-    {
-      "title": "France arrests suspect tied to cyberattack on Interior Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/france-arrests-suspect-tied-to-cyberattack-on-interior-ministry/",
-      "pubDate": "Wed, 17 Dec 2025 17:20:02 -0500"
     }
   ]
 }
