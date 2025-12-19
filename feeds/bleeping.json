@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-19T15:41:56Z",
+  "updated": "2025-12-19T16:13:56Z",
   "items": [
+    {
+      "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
+      "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
+      "pubDate": "Fri, 19 Dec 2025 10:54:48 -0500"
+    },
     {
       "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
@@ -56,11 +61,6 @@
       "title": "NIS2 compliance: How to get passwords and MFA right",
       "link": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
       "pubDate": "Thu, 18 Dec 2025 10:01:11 -0500"
-    },
-    {
-      "title": "France arrests Latvian for installing malware on Italian ferry",
-      "link": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
-      "pubDate": "Thu, 18 Dec 2025 08:47:59 -0500"
     }
   ]
 }
