@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-19T17:11:41Z",
+  "updated": "2025-12-19T17:36:18Z",
   "items": [
+    {
+      "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
+      "pubDate": "Fri, 19 Dec 2025 12:19:04 -0500"
+    },
     {
       "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
       "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
@@ -56,11 +61,6 @@
       "title": "US seizes E-Note crypto exchange for laundering ransomware payments",
       "link": "https://www.bleepingcomputer.com/news/security/us-seizes-e-note-crypto-exchange-for-laundering-ransomware-payments/",
       "pubDate": "Thu, 18 Dec 2025 11:13:03 -0500"
-    },
-    {
-      "title": "NIS2 compliance: How to get passwords and MFA right",
-      "link": "https://www.bleepingcomputer.com/news/security/nis2-compliance-how-to-get-passwords-and-mfa-right/",
-      "pubDate": "Thu, 18 Dec 2025 10:01:11 -0500"
     }
   ]
 }
