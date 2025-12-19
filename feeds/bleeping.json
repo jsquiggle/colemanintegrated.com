@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-19T14:42:53Z",
+  "updated": "2025-12-19T15:12:39Z",
   "items": [
+    {
+      "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
+      "pubDate": "Fri, 19 Dec 2025 10:00:45 -0500"
+    },
+    {
+      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
+      "pubDate": "Fri, 19 Dec 2025 09:30:00 -0500"
+    },
     {
       "title": "Denmark blames Russia for destructive cyberattack on water utility",
       "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
@@ -51,16 +61,6 @@
       "title": "France arrests Latvian for installing malware on Italian ferry",
       "link": "https://www.bleepingcomputer.com/news/security/france-arrests-latvian-for-installing-malware-on-italian-ferry/",
       "pubDate": "Thu, 18 Dec 2025 08:47:59 -0500"
-    },
-    {
-      "title": "HPE warns of maximum severity RCE flaw in OneView software",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-maximum-severity-rce-flaw-in-oneview-software/",
-      "pubDate": "Thu, 18 Dec 2025 06:35:53 -0500"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates break RemoteApp connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-updates-break-azure-virtual-desktop-remoteapp-sessions/",
-      "pubDate": "Thu, 18 Dec 2025 05:04:25 -0500"
     }
   ]
 }
