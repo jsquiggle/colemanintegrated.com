@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-19T15:12:39Z",
+  "updated": "2025-12-19T15:41:56Z",
   "items": [
+    {
+      "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
+      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "pubDate": "Fri, 19 Dec 2025 21:04:00 +0530"
+    },
     {
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
       "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
@@ -56,11 +61,6 @@
       "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
       "link": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
       "pubDate": "Thu, 18 Dec 2025 09:40:00 +0530"
-    },
-    {
-      "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
-      "link": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
-      "pubDate": "Wed, 17 Dec 2025 23:47:00 +0530"
     }
   ]
 }
