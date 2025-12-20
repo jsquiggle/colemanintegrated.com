@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-20T20:11:21Z",
+  "updated": "2025-12-20T20:38:02Z",
   "items": [
+    {
+      "title": "RansomHouse upgrades encryption with multi-layered data processing",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
+      "pubDate": "Sat, 20 Dec 2025 10:23:34 -0500"
+    },
     {
       "title": "Microsoft confirms Teams is down and messages are delayed",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
@@ -56,11 +61,6 @@
       "title": "University of Sydney suffers data breach exposing student and staff info",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
       "pubDate": "Thu, 18 Dec 2025 15:22:58 -0500"
-    },
-    {
-      "title": "Clop ransomware targets Gladinet CentreStack in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-gladinet-centrestack-servers-for-extortion/",
-      "pubDate": "Thu, 18 Dec 2025 15:16:55 -0500"
     }
   ]
 }
