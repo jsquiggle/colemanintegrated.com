@@ -1,66 +1,66 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-20T16:12:37Z",
+  "updated": "2025-12-20T16:42:25Z",
   "items": [
     {
       "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
-      "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
-      "pubDate": "Sat, 20 Dec 2025 19:18:00 +0530"
+      "link": "http://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
+      "pubDate": "Sat, 20 Dec 2025 13:48:00 +0000"
     },
     {
       "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
-      "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
-      "pubDate": "Fri, 19 Dec 2025 23:24:00 +0530"
+      "link": "http://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
+      "pubDate": "Fri, 19 Dec 2025 17:54:00 +0000"
     },
     {
       "title": "Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware",
-      "link": "https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
-      "pubDate": "Fri, 19 Dec 2025 21:04:00 +0530"
+      "link": "http://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html",
+      "pubDate": "Fri, 19 Dec 2025 15:34:00 +0000"
     },
     {
       "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability",
-      "link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
-      "pubDate": "Fri, 19 Dec 2025 16:53:00 +0530"
+      "link": "http://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
+      "pubDate": "Fri, 19 Dec 2025 11:23:00 +0000"
     },
     {
       "title": "Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks",
-      "link": "https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
-      "pubDate": "Fri, 19 Dec 2025 15:56:00 +0530"
+      "link": "http://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html",
+      "pubDate": "Fri, 19 Dec 2025 10:26:00 +0000"
     },
     {
       "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
-      "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
-      "pubDate": "Fri, 19 Dec 2025 13:55:00 +0530"
+      "link": "http://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
+      "pubDate": "Fri, 19 Dec 2025 08:25:00 +0000"
     },
     {
       "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
-      "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
-      "pubDate": "Thu, 18 Dec 2025 23:04:00 +0530"
+      "link": "http://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
+      "pubDate": "Thu, 18 Dec 2025 17:34:00 +0000"
     },
     {
       "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-      "pubDate": "Thu, 18 Dec 2025 20:09:00 +0530"
+      "link": "http://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
+      "pubDate": "Thu, 18 Dec 2025 14:39:00 +0000"
     },
     {
       "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
-      "link": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
-      "pubDate": "Thu, 18 Dec 2025 18:40:00 +0530"
+      "link": "http://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
+      "pubDate": "Thu, 18 Dec 2025 13:10:00 +0000"
     },
     {
       "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
-      "link": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
-      "pubDate": "Thu, 18 Dec 2025 18:30:00 +0530"
+      "link": "http://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
+      "pubDate": "Thu, 18 Dec 2025 13:00:00 +0000"
     },
     {
       "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
-      "link": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
-      "pubDate": "Thu, 18 Dec 2025 17:00:00 +0530"
+      "link": "http://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
+      "pubDate": "Thu, 18 Dec 2025 11:30:00 +0000"
     },
     {
       "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
-      "link": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
-      "pubDate": "Thu, 18 Dec 2025 13:13:00 +0530"
+      "link": "http://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
+      "pubDate": "Thu, 18 Dec 2025 07:43:00 +0000"
     }
   ]
 }
