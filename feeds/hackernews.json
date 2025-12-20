@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-20T14:09:57Z",
+  "updated": "2025-12-20T14:38:49Z",
   "items": [
+    {
+      "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+      "link": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
+      "pubDate": "Sat, 20 Dec 2025 19:18:00 +0530"
+    },
     {
       "title": "Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers",
       "link": "https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html",
@@ -56,11 +61,6 @@
       "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
       "link": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
       "pubDate": "Thu, 18 Dec 2025 13:13:00 +0530"
-    },
-    {
-      "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
-      "link": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
-      "pubDate": "Thu, 18 Dec 2025 10:31:00 +0530"
     }
   ]
 }
