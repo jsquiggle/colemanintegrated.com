@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T18:17:26Z",
+  "updated": "2025-12-22T18:50:11Z",
   "items": [
+    {
+      "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
+      "pubDate": "Mon, 22 Dec 2025 13:38:08 -0500"
+    },
     {
       "title": "Malicious npm package steals WhatsApp accounts and messages",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
@@ -56,11 +61,6 @@
       "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
       "link": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
       "pubDate": "Fri, 19 Dec 2025 14:05:32 -0500"
-    },
-    {
-      "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
-      "pubDate": "Fri, 19 Dec 2025 12:19:04 -0500"
     }
   ]
 }
