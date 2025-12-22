@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T20:41:12Z",
+  "updated": "2025-12-22T21:10:01Z",
   "items": [
+    {
+      "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
+      "pubDate": "Mon, 22 Dec 2025 15:43:38 -0500"
+    },
     {
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
@@ -56,11 +61,6 @@
       "title": "Microsoft confirms Teams is down and messages are delayed",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
       "pubDate": "Fri, 19 Dec 2025 15:04:28 -0500"
-    },
-    {
-      "title": "Nigeria arrests dev of Microsoft 365 'Raccoon0365' phishing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/nigeria-arrests-dev-of-microsoft-365-raccoon0365-phishing-platform/",
-      "pubDate": "Fri, 19 Dec 2025 14:05:32 -0500"
     }
   ]
 }
