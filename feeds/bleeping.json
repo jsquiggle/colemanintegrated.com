@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T08:17:58Z",
+  "updated": "2025-12-22T08:49:53Z",
   "items": [
+    {
+      "title": "Docker Hardened Images now open source and available for free",
+      "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
+      "pubDate": "Sun, 21 Dec 2025 10:12:14 -0500"
+    },
     {
       "title": "RansomHouse upgrades encryption with multi-layered data processing",
       "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
@@ -56,11 +61,6 @@
       "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
       "pubDate": "Thu, 18 Dec 2025 20:15:19 -0500"
-    },
-    {
-      "title": "University of Sydney suffers data breach exposing student and staff info",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-sydney-suffers-data-breach-exposing-student-and-staff-info/",
-      "pubDate": "Thu, 18 Dec 2025 15:22:58 -0500"
     }
   ]
 }
