@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T15:12:25Z",
+  "updated": "2025-12-22T15:41:33Z",
   "items": [
+    {
+      "title": "Romanian water authority hit by ransomware attack over weekend",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
+      "pubDate": "Mon, 22 Dec 2025 10:25:50 -0500"
+    },
     {
       "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
@@ -56,11 +61,6 @@
       "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
       "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
       "pubDate": "Fri, 19 Dec 2025 10:54:48 -0500"
-    },
-    {
-      "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
-      "pubDate": "Fri, 19 Dec 2025 10:00:45 -0500"
     }
   ]
 }
