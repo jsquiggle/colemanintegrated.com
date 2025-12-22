@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T15:41:33Z",
+  "updated": "2025-12-22T16:14:15Z",
   "items": [
+    {
+      "title": "Malicious npm package steals WhatsApp accounts and messages",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
+      "pubDate": "Mon, 22 Dec 2025 11:08:46 -0500"
+    },
     {
       "title": "Romanian water authority hit by ransomware attack over weekend",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
@@ -56,11 +61,6 @@
       "title": "Microsoft 365 accounts targeted in wave of OAuth phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-365-accounts-targeted-in-wave-of-oauth-phishing-attacks/",
       "pubDate": "Fri, 19 Dec 2025 12:19:04 -0500"
-    },
-    {
-      "title": "New UEFI flaw enables pre-boot attacks on motherboards from Gigabyte, MSI, ASUS, ASRock",
-      "link": "https://www.bleepingcomputer.com/news/security/new-uefi-flaw-enables-pre-boot-attacks-on-motherboards-from-gigabyte-msi-asus-asrock/",
-      "pubDate": "Fri, 19 Dec 2025 10:54:48 -0500"
     }
   ]
 }
