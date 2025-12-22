@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T08:49:53Z",
+  "updated": "2025-12-22T09:18:49Z",
   "items": [
+    {
+      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
+      "pubDate": "Mon, 22 Dec 2025 04:00:55 -0500"
+    },
     {
       "title": "Docker Hardened Images now open source and available for free",
       "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
@@ -56,11 +61,6 @@
       "title": "FTC: Instacart to refund $60M over deceptive subscription tactics",
       "link": "https://www.bleepingcomputer.com/news/legal/instacart-to-refund-60m-over-deceptive-subscription-tactics/",
       "pubDate": "Fri, 19 Dec 2025 04:19:40 -0500"
-    },
-    {
-      "title": "Windows 10 OOB update released to fix Message Queuing (MSMQ) issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-oob-update-released-to-fix-message-queuing-msmq-issues/",
-      "pubDate": "Thu, 18 Dec 2025 20:15:19 -0500"
     }
   ]
 }
