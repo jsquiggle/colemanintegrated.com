@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T18:50:11Z",
+  "updated": "2025-12-22T19:10:17Z",
   "items": [
     {
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
@@ -28,8 +28,8 @@
       "pubDate": "Mon, 22 Dec 2025 09:00:09 -0500"
     },
     {
-      "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
-      "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
+      "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
       "pubDate": "Mon, 22 Dec 2025 06:09:17 -0500"
     },
     {
