@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T14:12:35Z",
+  "updated": "2025-12-22T14:42:31Z",
   "items": [
+    {
+      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
+      "pubDate": "Mon, 22 Dec 2025 09:18:55 -0500"
+    },
+    {
+      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
+      "link": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
+      "pubDate": "Mon, 22 Dec 2025 09:00:09 -0500"
+    },
     {
       "title": "Not all CISA-linked alerts are urgent: ASUS Live Update CVE-2025-59374",
       "link": "https://www.bleepingcomputer.com/news/security/not-all-cisa-linked-alerts-are-urgent-asus-live-update-cve-2025-59374/",
@@ -51,16 +61,6 @@
       "title": "Over 25,000 FortiCloud SSO devices exposed to remote attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-25-000-forticloud-sso-devices-exposed-to-remote-attacks/",
       "pubDate": "Fri, 19 Dec 2025 10:00:45 -0500"
-    },
-    {
-      "title": "Criminal IP and Palo Alto Networks Cortex XSOAR integrate to bring AI-driven exposure intelligence to automated incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-palo-alto-networks-cortex-xsoar-integrate-to-bring-ai-driven-exposure-intelligence-to-automated-incident-response/",
-      "pubDate": "Fri, 19 Dec 2025 09:30:00 -0500"
-    },
-    {
-      "title": "Denmark blames Russia for destructive cyberattack on water utility",
-      "link": "https://www.bleepingcomputer.com/news/security/denmark-blames-russia-for-destructive-cyberattack-on-water-utility/",
-      "pubDate": "Fri, 19 Dec 2025 07:28:48 -0500"
     }
   ]
 }
