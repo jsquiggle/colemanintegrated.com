@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-22T21:10:01Z",
+  "updated": "2025-12-22T21:37:13Z",
   "items": [
+    {
+      "title": "Nissan says thousands of customers exposed in Red Hat breach",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
+      "pubDate": "Mon, 22 Dec 2025 16:32:11 -0500"
+    },
     {
       "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
       "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
@@ -56,11 +61,6 @@
       "title": "RansomHouse upgrades encryption with multi-layered data processing",
       "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
       "pubDate": "Sat, 20 Dec 2025 10:23:34 -0500"
-    },
-    {
-      "title": "Microsoft confirms Teams is down and messages are delayed",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-teams-is-down-and-messages-are-delayed/",
-      "pubDate": "Fri, 19 Dec 2025 15:04:28 -0500"
     }
   ]
 }
