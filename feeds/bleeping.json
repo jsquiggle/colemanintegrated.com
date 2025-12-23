@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-23T19:11:06Z",
+  "updated": "2025-12-23T19:33:38Z",
   "items": [
+    {
+      "title": "WebRAT malware spread via fake vulnerability exploits on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
+      "pubDate": "Tue, 23 Dec 2025 14:31:53 -0500"
+    },
     {
       "title": "Malicious extensions in Chrome Web store steal user credentials",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
@@ -56,11 +61,6 @@
       "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
       "pubDate": "Mon, 22 Dec 2025 09:18:55 -0500"
-    },
-    {
-      "title": "Coupang breach affecting 33.7 million users raises data protection questions",
-      "link": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
-      "pubDate": "Mon, 22 Dec 2025 09:00:09 -0500"
     }
   ]
 }
