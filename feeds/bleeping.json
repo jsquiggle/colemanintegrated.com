@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-23T12:23:02Z",
+  "updated": "2025-12-23T13:08:51Z",
   "items": [
+    {
+      "title": "Cyberattack knocks offline France's postal, banking services",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
+      "pubDate": "Tue, 23 Dec 2025 07:26:44 -0500"
+    },
     {
       "title": "Italy fines Apple $116 million over App Store privacy policy issues",
       "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
@@ -56,11 +61,6 @@
       "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
       "pubDate": "Mon, 22 Dec 2025 04:46:45 -0500"
-    },
-    {
-      "title": "Critical RCE flaw impacts over 115,000 WatchGuard firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/over-115-000-watchguard-firewalls-vulnerable-to-ongoing-rce-attacks/",
-      "pubDate": "Mon, 22 Dec 2025 04:00:55 -0500"
     }
   ]
 }
