@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-23T09:43:38Z",
+  "updated": "2025-12-23T10:13:31Z",
   "items": [
+    {
+      "title": "Baker University says 2024 data breach impacts 53,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
+      "pubDate": "Tue, 23 Dec 2025 04:50:08 -0500"
+    },
     {
       "title": "Nissan says thousands of customers exposed in Red Hat breach",
       "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
@@ -56,11 +61,6 @@
       "title": "Docker Hardened Images now open source and available for free",
       "link": "https://www.bleepingcomputer.com/news/security/docker-hardened-images-now-open-source-and-available-for-free/",
       "pubDate": "Sun, 21 Dec 2025 10:12:14 -0500"
-    },
-    {
-      "title": "RansomHouse upgrades encryption with multi-layered data processing",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomhouse-upgrades-encryption-with-multi-layered-data-processing/",
-      "pubDate": "Sat, 20 Dec 2025 10:23:34 -0500"
     }
   ]
 }
