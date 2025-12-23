@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-23T06:53:53Z",
+  "updated": "2025-12-23T07:16:19Z",
   "items": [
+    {
+      "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
+      "link": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
+      "pubDate": "Tue, 23 Dec 2025 12:28:00 +0530"
+    },
     {
       "title": "Fake WhatsApp API Package on npm Steals Messages, Contacts, and Login Tokens",
       "link": "https://thehackernews.com/2025/12/fake-whatsapp-api-package-on-npm-steals.html",
@@ -56,11 +61,6 @@
       "title": "New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards",
       "link": "https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html",
       "pubDate": "Fri, 19 Dec 2025 13:55:00 +0530"
-    },
-    {
-      "title": "China-Aligned Threat Group Uses Windows Group Policy to Deploy Espionage Malware",
-      "link": "https://thehackernews.com/2025/12/china-aligned-threat-group-uses-windows.html",
-      "pubDate": "Thu, 18 Dec 2025 23:04:00 +0530"
     }
   ]
 }
