@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-23T13:08:51Z",
+  "updated": "2025-12-23T13:50:33Z",
   "items": [
+    {
+      "title": "Malicious extensions in Chrome Web store steal user credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
+      "pubDate": "Tue, 23 Dec 2025 08:31:55 -0500"
+    },
+    {
+      "title": "Microsoft Teams strengthens messaging security by default in January",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
+      "pubDate": "Tue, 23 Dec 2025 08:23:58 -0500"
+    },
     {
       "title": "Cyberattack knocks offline France's postal, banking services",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
@@ -51,16 +61,6 @@
       "title": "Coupang breach affecting 33.7 million users raises data protection questions",
       "link": "https://www.bleepingcomputer.com/news/security/coupang-breach-affecting-337-million-users-raises-data-protection-questions/",
       "pubDate": "Mon, 22 Dec 2025 09:00:09 -0500"
-    },
-    {
-      "title": "CISA flags ASUS Live Update CVE, but the attack is years old",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-asus-live-update-cve-but-the-attack-is-years-old/",
-      "pubDate": "Mon, 22 Dec 2025 06:09:17 -0500"
-    },
-    {
-      "title": "Ukrainian hacker admits affiliate role in Nefilim ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-hacker-admits-affiliate-role-in-nefilim-ransomware-gang/",
-      "pubDate": "Mon, 22 Dec 2025 04:46:45 -0500"
     }
   ]
 }
