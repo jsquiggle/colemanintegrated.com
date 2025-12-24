@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-24T22:11:44Z",
+  "updated": "2025-12-24T22:40:57Z",
   "items": [
+    {
+      "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
+      "pubDate": "Wed, 24 Dec 2025 17:31:28 -0500"
+    },
+    {
+      "title": "Fake MAS Windows activation domain used to spread PowerShell malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-mas-windows-activation-domain-used-to-spread-powershell-malware/",
+      "pubDate": "Wed, 24 Dec 2025 12:44:46 -0500"
+    },
+    {
+      "title": "Microsoft Teams to let admins block external users via Defender portal",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
+      "pubDate": "Wed, 24 Dec 2025 11:22:44 -0500"
+    },
     {
       "title": "MongoDB warns admins to patch severe RCE flaw immediately",
       "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
@@ -41,26 +56,6 @@
       "title": "Italy fines Apple $116 million over App Store privacy policy issues",
       "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
       "pubDate": "Tue, 23 Dec 2025 06:06:22 -0500"
-    },
-    {
-      "title": "Baker University says 2024 data breach impacts 53,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-university-data-breach-impacts-over-53-000-individuals/",
-      "pubDate": "Tue, 23 Dec 2025 04:50:08 -0500"
-    },
-    {
-      "title": "Nissan says thousands of customers exposed in Red Hat breach",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-says-thousands-of-customers-exposed-in-red-hat-breach/",
-      "pubDate": "Mon, 22 Dec 2025 16:32:11 -0500"
-    },
-    {
-      "title": "New MacSync malware dropper evades macOS Gatekeeper checks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macsync-malware-dropper-evades-macos-gatekeeper-checks/",
-      "pubDate": "Mon, 22 Dec 2025 15:43:38 -0500"
-    },
-    {
-      "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
-      "pubDate": "Mon, 22 Dec 2025 13:38:08 -0500"
     }
   ]
 }
