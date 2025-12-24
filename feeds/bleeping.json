@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-24T15:12:11Z",
+  "updated": "2025-12-24T15:40:28Z",
   "items": [
+    {
+      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "pubDate": "Wed, 24 Dec 2025 09:18:36 -0500"
+    },
+    {
+      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
+      "pubDate": "Wed, 24 Dec 2025 08:17:32 -0500"
+    },
+    {
+      "title": "Microsoft rolls out hardware-accelerated BitLocker in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-hardware-accelerated-bitlocker-in-windows-11/",
+      "pubDate": "Tue, 23 Dec 2025 15:03:34 -0500"
+    },
     {
       "title": "WebRAT malware spread via fake vulnerability exploits on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/webrat-malware-spread-via-fake-vulnerability-exploits-on-github/",
@@ -46,21 +61,6 @@
       "title": "Interpol-led action decrypts 6 ransomware strains, arrests hundreds",
       "link": "https://www.bleepingcomputer.com/news/security/interpol-led-action-decrypts-6-ransomware-strains-arrests-hundreds/",
       "pubDate": "Mon, 22 Dec 2025 13:38:08 -0500"
-    },
-    {
-      "title": "Malicious npm package steals WhatsApp accounts and messages",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-package-steals-whatsapp-accounts-and-messages/",
-      "pubDate": "Mon, 22 Dec 2025 11:08:46 -0500"
-    },
-    {
-      "title": "Romanian water authority hit by ransomware attack over weekend",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-water-authority-hit-by-ransomware-attack-over-weekend/",
-      "pubDate": "Mon, 22 Dec 2025 10:25:50 -0500"
-    },
-    {
-      "title": "University of Phoenix data breach impacts nearly 3.5 million individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-phoenix-data-breach-impacts-nearly-35-million-individuals/",
-      "pubDate": "Mon, 22 Dec 2025 09:18:55 -0500"
     }
   ]
 }
