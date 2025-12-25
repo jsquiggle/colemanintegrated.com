@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-25T14:11:18Z",
+  "updated": "2025-12-25T14:40:57Z",
   "items": [
+    {
+      "title": "Google will finally allow you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
+      "pubDate": "Thu, 25 Dec 2025 09:30:58 -0500"
+    },
     {
       "title": "OpenAI is reportedly testing Claude-like Skills for ChatGPT",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/",
@@ -51,11 +56,6 @@
       "title": "Cyberattack knocks offline France's postal, banking services",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
       "pubDate": "Tue, 23 Dec 2025 07:26:44 -0500"
-    },
-    {
-      "title": "Italy fines Apple $116 million over App Store privacy policy issues",
-      "link": "https://www.bleepingcomputer.com/news/security/italy-fines-apple-116-million-over-app-store-tracking-privacy-practices/",
-      "pubDate": "Tue, 23 Dec 2025 06:06:22 -0500"
     }
   ]
 }
