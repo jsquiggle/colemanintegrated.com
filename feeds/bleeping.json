@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-25T22:11:07Z",
+  "updated": "2025-12-25T22:40:54Z",
   "items": [
+    {
+      "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
+      "pubDate": "Thu, 25 Dec 2025 17:39:19 -0500"
+    },
     {
       "title": "Google will finally allow you to change your @gmail.com address",
       "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
@@ -51,11 +56,6 @@
       "title": "Microsoft Teams strengthens messaging security by default in January",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
       "pubDate": "Tue, 23 Dec 2025 08:23:58 -0500"
-    },
-    {
-      "title": "Cyberattack knocks offline France's postal, banking services",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-knocks-offline-frances-postal-banking-services/",
-      "pubDate": "Tue, 23 Dec 2025 07:26:44 -0500"
     }
   ]
 }
