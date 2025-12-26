@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-26T09:41:04Z",
+  "updated": "2025-12-26T10:12:47Z",
   "items": [
+    {
+      "title": "Trust Wallet Chrome extension hack tied to millions in losses",
+      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/",
+      "pubDate": "Fri, 26 Dec 2025 04:47:08 -0500"
+    },
     {
       "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
@@ -51,11 +56,6 @@
       "title": "Malicious extensions in Chrome Web store steal user credentials",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-extensions-in-chrome-web-store-steal-user-credentials/",
       "pubDate": "Tue, 23 Dec 2025 08:31:55 -0500"
-    },
-    {
-      "title": "Microsoft Teams strengthens messaging security by default in January",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-strengthens-messaging-security-by-default-in-january/",
-      "pubDate": "Tue, 23 Dec 2025 08:23:58 -0500"
     }
   ]
 }

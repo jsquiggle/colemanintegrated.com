@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-26T09:41:04Z",
+  "updated": "2025-12-26T10:12:47Z",
   "items": [
+    {
+      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
+      "link": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
+      "pubDate": "Fri, 26 Dec 2025 14:57:00 +0530"
+    },
     {
       "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
       "link": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
@@ -56,11 +61,6 @@
       "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
       "link": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
       "pubDate": "Tue, 23 Dec 2025 17:05:00 +0530"
-    },
-    {
-      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-      "link": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-      "pubDate": "Tue, 23 Dec 2025 17:00:00 +0530"
     }
   ]
 }
