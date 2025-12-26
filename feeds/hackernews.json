@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-26T15:39:45Z",
+  "updated": "2025-12-26T16:13:05Z",
   "items": [
+    {
+      "title": "Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code",
+      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html",
+      "pubDate": "Fri, 26 Dec 2025 21:01:00 +0530"
+    },
     {
       "title": "China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware",
       "link": "https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html",
@@ -56,11 +61,6 @@
       "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
       "link": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
       "pubDate": "Wed, 24 Dec 2025 11:45:00 +0530"
-    },
-    {
-      "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-      "link": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-      "pubDate": "Tue, 23 Dec 2025 20:12:00 +0530"
     }
   ]
 }
