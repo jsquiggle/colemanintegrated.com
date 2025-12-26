@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-26T14:41:42Z",
+  "updated": "2025-12-26T15:11:46Z",
   "items": [
     {
       "title": "Trust Wallet confirms extension hack led to $7 million crypto theft",
@@ -33,8 +33,8 @@
       "pubDate": "Wed, 24 Dec 2025 11:22:44 -0500"
     },
     {
-      "title": "MongoDB warns admins to patch severe RCE flaw immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
+      "title": "MongoDB warns admins to patch severe vulnerability immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/",
       "pubDate": "Wed, 24 Dec 2025 09:18:36 -0500"
     },
     {
