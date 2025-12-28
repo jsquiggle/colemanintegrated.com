@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-28T17:38:59Z",
+  "updated": "2025-12-28T18:16:35Z",
   "items": [
+    {
+      "title": "Hacker claims to leak WIRED database with 2.3 million records",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
+      "pubDate": "Sun, 28 Dec 2025 12:57:34 -0500"
+    },
     {
       "title": "Massive Rainbow Six Siege breach gives players billions of credits",
       "link": "https://www.bleepingcomputer.com/news/security/massive-rainbow-six-siege-breach-gives-players-billions-of-credits/",
@@ -46,16 +51,6 @@
       "title": "Microsoft Teams to let admins block external users via Defender portal",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-admins-block-external-users-via-defender-portal/",
       "pubDate": "Wed, 24 Dec 2025 11:22:44 -0500"
-    },
-    {
-      "title": "MongoDB warns admins to patch severe vulnerability immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/",
-      "pubDate": "Wed, 24 Dec 2025 09:18:36 -0500"
-    },
-    {
-      "title": "FBI seizes domain storing bank credentials stolen from U.S. victims",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-domain-storing-bank-credentials-stolen-from-us-victims/",
-      "pubDate": "Wed, 24 Dec 2025 08:17:32 -0500"
     }
   ]
 }
