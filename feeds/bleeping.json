@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-29T15:12:35Z",
+  "updated": "2025-12-29T15:41:48Z",
   "items": [
+    {
+      "title": "The Real-World Attacks Behind OWASP Agentic AI Top 10",
+      "link": "https://www.bleepingcomputer.com/news/security/the-real-world-attacks-behind-owasp-agentic-ai-top-10/",
+      "pubDate": "Mon, 29 Dec 2025 10:00:10 -0500"
+    },
+    {
+      "title": "ChatGPT finally rolls out Thinking time toggle on mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/",
+      "pubDate": "Mon, 29 Dec 2025 10:00:00 -0500"
+    },
+    {
+      "title": "Romanian energy provider hit by Gentlemen ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/",
+      "pubDate": "Mon, 29 Dec 2025 09:26:00 -0500"
+    },
     {
       "title": "Former Coinbase support agent arrested for helping hackers",
       "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
@@ -46,16 +61,6 @@
       "title": "Fake Grubhub emails promise tenfold return on sent cryptocurrency",
       "link": "https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/",
       "pubDate": "Fri, 26 Dec 2025 15:22:28 -0500"
-    },
-    {
-      "title": "Trust Wallet confirms extension hack led to $7 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/",
-      "pubDate": "Fri, 26 Dec 2025 04:47:08 -0500"
-    },
-    {
-      "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
-      "pubDate": "Thu, 25 Dec 2025 17:39:19 -0500"
     }
   ]
 }
