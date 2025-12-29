@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2025-12-29T20:13:29Z",
+  "updated": "2025-12-29T20:42:36Z",
   "items": [
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "pubDate": "Mon, 29 Dec 2025 20:23:26 +0000"
+    },
     {
       "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
       "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
@@ -46,11 +51,6 @@
       "title": "The Cloudflare Outage May Be a Security Roadmap",
       "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
       "pubDate": "Wed, 19 Nov 2025 14:07:03 +0000"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "pubDate": "Sun, 16 Nov 2025 21:47:14 +0000"
     }
   ]
 }
