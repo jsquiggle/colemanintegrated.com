@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-29T03:18:40Z",
+  "updated": "2025-12-29T04:31:24Z",
   "items": [
     {
       "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
