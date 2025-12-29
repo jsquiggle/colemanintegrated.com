@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-29T14:13:08Z",
+  "updated": "2025-12-29T14:43:43Z",
   "items": [
+    {
+      "title": "Former Coinbase support agent arrested for helping hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
+      "pubDate": "Mon, 29 Dec 2025 09:16:47 -0500"
+    },
     {
       "title": "Korean Air data breach exposes data of thousands of employees",
       "link": "https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/",
@@ -51,11 +56,6 @@
       "title": "ChatGPT\u2019s new formatting blocks make its UI look more like a task tool",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool/",
       "pubDate": "Thu, 25 Dec 2025 17:39:19 -0500"
-    },
-    {
-      "title": "Google will finally allow you to change your @gmail.com address",
-      "link": "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/",
-      "pubDate": "Thu, 25 Dec 2025 09:30:58 -0500"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-29T14:13:08Z",
+  "updated": "2025-12-29T14:43:43Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+      "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+      "pubDate": "Mon, 29 Dec 2025 19:08:00 +0530"
+    },
     {
       "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
       "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
@@ -56,11 +61,6 @@
       "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
       "link": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
       "pubDate": "Thu, 25 Dec 2025 13:37:00 +0530"
-    },
-    {
-      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
-      "link": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
-      "pubDate": "Wed, 24 Dec 2025 21:53:00 +0530"
     }
   ]
 }
