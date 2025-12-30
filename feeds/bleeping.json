@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-29T23:37:57Z",
+  "updated": "2025-12-30T00:56:10Z",
   "items": [
+    {
+      "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
+      "pubDate": "Mon, 29 Dec 2025 19:08:42 -0500"
+    },
     {
       "title": "Coupang to split $1.17 billion among 33.7 million data breach victims",
       "link": "https://www.bleepingcomputer.com/news/security/coupang-to-split-117-billion-among-337-million-data-breach-victims/",
@@ -56,11 +61,6 @@
       "title": "Exploited MongoBleed flaw leaks MongoDB secrets, 87K servers exposed",
       "link": "https://www.bleepingcomputer.com/news/security/exploited-mongobleed-flaw-leaks-mongodb-secrets-87k-servers-exposed/",
       "pubDate": "Sun, 28 Dec 2025 15:38:15 -0500"
-    },
-    {
-      "title": "Hacker claims to leak WIRED database with 2.3 million records",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-to-leak-wired-database-with-23-million-records/",
-      "pubDate": "Sun, 28 Dec 2025 12:57:34 -0500"
     }
   ]
 }
