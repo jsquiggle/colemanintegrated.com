@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-30T16:14:34Z",
+  "updated": "2025-12-30T16:48:31Z",
   "items": [
+    {
+      "title": "European Space Agency confirms breach of \"external servers\"",
+      "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
+      "pubDate": "Tue, 30 Dec 2025 11:26:56 -0500"
+    },
+    {
+      "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
+      "pubDate": "Tue, 30 Dec 2025 10:41:53 -0500"
+    },
     {
       "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
@@ -51,16 +61,6 @@
       "title": "Former Coinbase support agent arrested for helping hackers",
       "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
       "pubDate": "Mon, 29 Dec 2025 09:16:47 -0500"
-    },
-    {
-      "title": "Korean Air data breach exposes data of thousands of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/korean-air-data-breach-exposes-data-of-thousands-of-employees/",
-      "pubDate": "Mon, 29 Dec 2025 08:08:45 -0500"
-    },
-    {
-      "title": "Microsoft Copilot is rolling out GPT 5.2 as \"Smart Plus\" mode",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-is-rolling-out-gpt-52-as-smart-plus-mode/",
-      "pubDate": "Mon, 29 Dec 2025 07:23:35 -0500"
     }
   ]
 }
