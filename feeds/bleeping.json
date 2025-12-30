@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-30T20:41:44Z",
+  "updated": "2025-12-30T21:10:55Z",
   "items": [
+    {
+      "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
+      "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
+      "pubDate": "Tue, 30 Dec 2025 16:08:28 -0500"
+    },
     {
       "title": "European Space Agency confirms breach of \"external servers\"",
       "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
@@ -56,11 +61,6 @@
       "title": "Romanian energy provider hit by Gentlemen ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/",
       "pubDate": "Mon, 29 Dec 2025 09:26:00 -0500"
-    },
-    {
-      "title": "Former Coinbase support agent arrested for helping hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/former-coinbase-support-agent-arrested-for-helping-hackers/",
-      "pubDate": "Mon, 29 Dec 2025 09:16:47 -0500"
     }
   ]
 }
