@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-31T09:15:46Z",
+  "updated": "2025-12-31T09:43:35Z",
   "items": [
+    {
+      "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
+      "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
+      "pubDate": "Wed, 31 Dec 2025 04:43:26 -0500"
+    },
     {
       "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
       "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT finally rolls out Thinking time toggle on mobile",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-finally-rolls-out-thinking-time-toggle-on-mobile/",
       "pubDate": "Mon, 29 Dec 2025 10:00:00 -0500"
-    },
-    {
-      "title": "Romanian energy provider hit by Gentlemen ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-energy-provider-hit-by-gentlemen-ransomware-attack/",
-      "pubDate": "Mon, 29 Dec 2025 09:26:00 -0500"
     }
   ]
 }
