@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2025-12-31T15:39:55Z",
+  "updated": "2025-12-31T16:14:26Z",
   "items": [
+    {
+      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+      "pubDate": "Wed, 31 Dec 2025 10:54:17 -0500"
+    },
     {
       "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
       "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
@@ -56,11 +61,6 @@
       "title": "Hacker arrested for KMSAuto malware campaign with 2.8 million downloads",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-kmsauto-malware-campaign-with-28-million-downloads/",
       "pubDate": "Mon, 29 Dec 2025 14:25:29 -0500"
-    },
-    {
-      "title": "Trust Wallet says 2,596 wallets drained in $7 million crypto theft attack",
-      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-says-7-million-crypto-theft-attack-drained-2-596-wallets/",
-      "pubDate": "Mon, 29 Dec 2025 11:43:02 -0500"
     }
   ]
 }
