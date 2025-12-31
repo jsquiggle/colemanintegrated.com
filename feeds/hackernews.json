@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2025-12-31T16:14:26Z",
+  "updated": "2025-12-31T16:46:02Z",
   "items": [
+    {
+      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+      "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+      "pubDate": "Wed, 31 Dec 2025 21:44:00 +0530"
+    },
     {
       "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
       "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
@@ -56,11 +61,6 @@
       "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
       "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
       "pubDate": "Mon, 29 Dec 2025 12:04:00 +0530"
-    },
-    {
-      "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
-      "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
-      "pubDate": "Sat, 27 Dec 2025 13:22:00 +0530"
     }
   ]
 }
