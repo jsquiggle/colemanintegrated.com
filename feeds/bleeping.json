@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-01T19:09:31Z",
+  "updated": "2026-01-01T19:34:58Z",
   "items": [
+    {
+      "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
+      "pubDate": "Thu, 01 Jan 2026 14:18:54 -0500"
+    },
+    {
+      "title": "The biggest cybersecurity and cyberattack stories of 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/",
+      "pubDate": "Thu, 01 Jan 2026 11:15:26 -0500"
+    },
+    {
+      "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
+      "pubDate": "Thu, 01 Jan 2026 10:18:23 -0500"
+    },
     {
       "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
       "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
@@ -41,21 +56,6 @@
       "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
       "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
       "pubDate": "Tue, 30 Dec 2025 10:41:53 -0500"
-    },
-    {
-      "title": "US cybersecurity experts plead guilty to BlackCat ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-plead-guilty-to-blackcat-alphv-ransomware-attacks/",
-      "pubDate": "Tue, 30 Dec 2025 10:25:17 -0500"
-    },
-    {
-      "title": "CISA orders feds to patch MongoBleed flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/",
-      "pubDate": "Tue, 30 Dec 2025 09:40:13 -0500"
-    },
-    {
-      "title": "Chinese state hackers use rootkit to hide ToneShell malware activity",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-use-rootkit-to-hide-toneshell-malware-activity/",
-      "pubDate": "Mon, 29 Dec 2025 19:08:42 -0500"
     }
   ]
 }
