@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-02T13:47:40Z",
+  "updated": "2026-01-02T14:11:55Z",
   "items": [
+    {
+      "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
+      "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
+      "pubDate": "Fri, 02 Jan 2026 19:22:00 +0530"
+    },
     {
       "title": "The ROI Problem in Attack Surface Management",
       "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
@@ -56,11 +61,6 @@
       "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
       "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
       "pubDate": "Tue, 30 Dec 2025 21:58:00 +0530"
-    },
-    {
-      "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-      "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-      "pubDate": "Tue, 30 Dec 2025 16:16:00 +0530"
     }
   ]
 }
