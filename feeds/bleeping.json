@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-02T14:11:55Z",
+  "updated": "2026-01-02T14:42:42Z",
   "items": [
+    {
+      "title": "Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack",
+      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/",
+      "pubDate": "Fri, 02 Jan 2026 09:19:40 -0500"
+    },
     {
       "title": "OpenAI is offering $20 ChatGPT Plus for free to some users",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-offering-20-chatgpt-plus-for-free-to-some-users/",
@@ -46,16 +51,6 @@
       "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
       "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
       "pubDate": "Tue, 30 Dec 2025 16:08:28 -0500"
-    },
-    {
-      "title": "European Space Agency confirms breach of \"external servers\"",
-      "link": "https://www.bleepingcomputer.com/news/security/european-space-agency-confirms-breach-of-external-servers/",
-      "pubDate": "Tue, 30 Dec 2025 11:26:56 -0500"
-    },
-    {
-      "title": "Zoom Stealer browser extensions harvest corporate meeting intelligence",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-stealer-browser-extensions-harvest-corporate-meeting-intelligence/",
-      "pubDate": "Tue, 30 Dec 2025 10:41:53 -0500"
     }
   ]
 }

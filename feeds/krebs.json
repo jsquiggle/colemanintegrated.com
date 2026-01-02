@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-01-02T14:11:55Z",
+  "updated": "2026-01-02T14:42:42Z",
   "items": [
+    {
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "pubDate": "Fri, 02 Jan 2026 14:20:10 +0000"
+    },
     {
       "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
       "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
@@ -46,11 +51,6 @@
       "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
       "link": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
       "pubDate": "Thu, 20 Nov 2025 19:06:51 +0000"
-    },
-    {
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "link": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "pubDate": "Wed, 19 Nov 2025 14:07:03 +0000"
     }
   ]
 }
