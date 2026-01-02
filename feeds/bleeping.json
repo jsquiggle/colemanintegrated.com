@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-02T15:40:44Z",
+  "updated": "2026-01-02T16:14:00Z",
   "items": [
+    {
+      "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass",
+      "link": "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/",
+      "pubDate": "Fri, 02 Jan 2026 11:01:55 -0500"
+    },
     {
       "title": "Google is testing a new image AI and it's going to be its fastest model",
       "link": "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/",
@@ -51,11 +56,6 @@
       "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
       "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
       "pubDate": "Wed, 31 Dec 2025 04:43:26 -0500"
-    },
-    {
-      "title": "New ErrTraffic service enables ClickFix attacks via fake browser glitches",
-      "link": "https://www.bleepingcomputer.com/news/security/new-errtraffic-service-enables-clickfix-attacks-via-fake-browser-glitches/",
-      "pubDate": "Tue, 30 Dec 2025 16:08:28 -0500"
     }
   ]
 }
