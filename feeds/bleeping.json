@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-02T18:49:08Z",
+  "updated": "2026-01-02T19:07:44Z",
   "items": [
+    {
+      "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
+      "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
+      "pubDate": "Fri, 02 Jan 2026 14:00:42 -0500"
+    },
     {
       "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
       "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
@@ -51,11 +56,6 @@
       "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
       "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
       "pubDate": "Wed, 31 Dec 2025 09:58:51 -0500"
-    },
-    {
-      "title": "IBM warns of critical API Connect auth bypass vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
-      "pubDate": "Wed, 31 Dec 2025 05:34:38 -0500"
     }
   ]
 }
