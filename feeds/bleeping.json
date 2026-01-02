@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-02T17:10:26Z",
+  "updated": "2026-01-02T17:39:33Z",
   "items": [
+    {
+      "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
+      "pubDate": "Fri, 02 Jan 2026 12:28:01 -0500"
+    },
     {
       "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass",
       "link": "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/",
@@ -51,11 +56,6 @@
       "title": "IBM warns of critical API Connect auth bypass vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
       "pubDate": "Wed, 31 Dec 2025 05:34:38 -0500"
-    },
-    {
-      "title": "Disney will pay $10 million to settle children's data privacy lawsuit",
-      "link": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
-      "pubDate": "Wed, 31 Dec 2025 04:43:26 -0500"
     }
   ]
 }
