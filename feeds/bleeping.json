@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-03T20:12:16Z",
+  "updated": "2026-01-03T20:40:22Z",
   "items": [
+    {
+      "title": "ShinyHunters claims Resecurity hack, firm says it\u2019s a honeypot",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-resecurity-hack-firm-says-its-a-honeypot/",
+      "pubDate": "Sat, 03 Jan 2026 15:34:22 -0500"
+    },
     {
       "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
       "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
@@ -51,11 +56,6 @@
       "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
       "pubDate": "Wed, 31 Dec 2025 10:54:17 -0500"
-    },
-    {
-      "title": "RondoDox botnet exploits React2Shell flaw to breach Next.js servers",
-      "link": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
-      "pubDate": "Wed, 31 Dec 2025 09:58:51 -0500"
     }
   ]
 }
