@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-05T21:11:39Z",
+  "updated": "2026-01-05T21:40:02Z",
   "items": [
+    {
+      "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
+      "pubDate": "Mon, 05 Jan 2026 16:16:35 -0500"
+    },
     {
       "title": "US broadband provider Brightspeed investigates breach claims",
       "link": "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/",
