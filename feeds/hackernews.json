@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-05T17:43:56Z",
+  "updated": "2026-01-05T18:19:07Z",
   "items": [
+    {
+      "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+      "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+      "pubDate": "Mon, 05 Jan 2026 23:26:00 +0530"
+    },
     {
       "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
       "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
@@ -56,11 +61,6 @@
       "title": "How To Browse Faster and Get More Done Using Adapt Browser",
       "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
       "pubDate": "Thu, 01 Jan 2026 11:17:00 +0530"
-    },
-    {
-      "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
-      "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
-      "pubDate": "Wed, 31 Dec 2025 21:59:00 +0530"
     }
   ]
 }
