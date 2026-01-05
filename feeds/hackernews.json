@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-05T13:54:30Z",
+  "updated": "2026-01-05T14:15:59Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+      "pubDate": "Mon, 05 Jan 2026 18:23:00 +0530"
+    },
     {
       "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations",
       "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
@@ -56,11 +61,6 @@
       "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
       "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
       "pubDate": "Wed, 31 Dec 2025 21:44:00 +0530"
-    },
-    {
-      "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
-      "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
-      "pubDate": "Wed, 31 Dec 2025 19:07:00 +0530"
     }
   ]
 }
