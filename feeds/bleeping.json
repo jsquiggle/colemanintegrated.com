@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-05T22:43:06Z",
+  "updated": "2026-01-05T23:11:32Z",
   "items": [
+    {
+      "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
+      "pubDate": "Mon, 05 Jan 2026 17:52:16 -0500"
+    },
     {
       "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
@@ -56,11 +61,6 @@
       "title": "Google is testing a new image AI and it's going to be its fastest model",
       "link": "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/",
       "pubDate": "Fri, 02 Jan 2026 10:19:17 -0500"
-    },
-    {
-      "title": "Trust Wallet links $8.5 million crypto theft to Shai-Hulud NPM attack",
-      "link": "https://www.bleepingcomputer.com/news/security/trust-wallet-links-85-million-crypto-theft-to-shai-hulud-npm-attack/",
-      "pubDate": "Fri, 02 Jan 2026 09:19:40 -0500"
     }
   ]
 }
