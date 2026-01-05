@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-05T14:48:31Z",
+  "updated": "2026-01-05T15:14:48Z",
   "items": [
+    {
+      "title": "Ledger customers impacted by third-party Global-e data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
+      "pubDate": "Mon, 05 Jan 2026 10:14:04 -0500"
+    },
+    {
+      "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
+      "pubDate": "Mon, 05 Jan 2026 10:05:15 -0500"
+    },
+    {
+      "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
+      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
+      "pubDate": "Mon, 05 Jan 2026 09:48:46 -0500"
+    },
     {
       "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
@@ -41,16 +56,6 @@
       "title": "The biggest cybersecurity and cyberattack stories of 2025",
       "link": "https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2025/",
       "pubDate": "Thu, 01 Jan 2026 11:15:26 -0500"
-    },
-    {
-      "title": "New GlassWorm malware wave targets Macs with trojanized crypto wallets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-malware-wave-targets-macs-with-trojanized-crypto-wallets/",
-      "pubDate": "Thu, 01 Jan 2026 10:18:23 -0500"
-    },
-    {
-      "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
-      "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
-      "pubDate": "Wed, 31 Dec 2025 17:52:44 -0500"
     }
   ]
 }
