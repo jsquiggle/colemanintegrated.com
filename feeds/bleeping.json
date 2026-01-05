@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-05T14:15:59Z",
+  "updated": "2026-01-05T14:48:31Z",
   "items": [
     {
       "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
@@ -51,11 +51,6 @@
       "title": "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices",
       "link": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
       "pubDate": "Wed, 31 Dec 2025 17:52:44 -0500"
-    },
-    {
-      "title": "Hackers drain $3.9M from Unleash Protocol after multisig hijack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
-      "pubDate": "Wed, 31 Dec 2025 10:54:17 -0500"
     }
   ]
 }
