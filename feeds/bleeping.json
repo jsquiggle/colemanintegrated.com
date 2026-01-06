@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-06T11:11:07Z",
+  "updated": "2026-01-06T11:37:37Z",
   "items": [
+    {
+      "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
+      "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
+      "pubDate": "Tue, 06 Jan 2026 06:16:54 -0500"
+    },
     {
       "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass",
       "link": "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/",
       "pubDate": "Fri, 02 Jan 2026 11:01:55 -0500"
-    },
-    {
-      "title": "Google is testing a new image AI and it's going to be its fastest model",
-      "link": "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/",
-      "pubDate": "Fri, 02 Jan 2026 10:19:17 -0500"
     }
   ]
 }
