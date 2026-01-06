@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-06T20:42:57Z",
+  "updated": "2026-01-06T21:12:04Z",
   "items": [
+    {
+      "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
+      "pubDate": "Tue, 06 Jan 2026 15:49:30 -0500"
+    },
     {
       "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Ledger customers impacted by third-party Global-e data breach",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
       "pubDate": "Mon, 05 Jan 2026 10:14:04 -0500"
-    },
-    {
-      "title": "Agentic AI Is an Identity Problem and CISOs Will Be Accountable for the Outcome",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-is-an-identity-problem-and-cisos-will-be-accountable-for-the-outcome/",
-      "pubDate": "Mon, 05 Jan 2026 10:05:15 -0500"
     }
   ]
 }
