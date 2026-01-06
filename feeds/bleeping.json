@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-06T14:46:03Z",
+  "updated": "2026-01-06T15:12:51Z",
   "items": [
+    {
+      "title": "How generative AI accelerates identity attacks against Active Directory",
+      "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
+      "pubDate": "Tue, 06 Jan 2026 09:46:15 -0500"
+    },
     {
       "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
       "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
@@ -51,16 +56,6 @@
       "title": "Covenant Health says May data breach impacted nearly 478,000 patients",
       "link": "https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/",
       "pubDate": "Fri, 02 Jan 2026 14:00:42 -0500"
-    },
-    {
-      "title": "Cryptocurrency theft attacks traced to 2022 LastPass breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cryptocurrency-theft-attacks-traced-to-2022-lastpass-breach/",
-      "pubDate": "Fri, 02 Jan 2026 12:28:01 -0500"
-    },
-    {
-      "title": "Over 10K Fortinet firewalls exposed to actively exploited 2FA bypass",
-      "link": "https://www.bleepingcomputer.com/news/security/over-10-000-fortinet-firewalls-exposed-to-ongoing-2fa-bypass-attacks/",
-      "pubDate": "Fri, 02 Jan 2026 11:01:55 -0500"
     }
   ]
 }
