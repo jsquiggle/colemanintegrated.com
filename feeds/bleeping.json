@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-06T22:12:00Z",
+  "updated": "2026-01-06T22:43:10Z",
   "items": [
+    {
+      "title": "Taiwan says China's attacks on its energy sector increased tenfold",
+      "link": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
+      "pubDate": "Tue, 06 Jan 2026 17:27:15 -0500"
+    },
     {
       "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
@@ -56,11 +61,6 @@
       "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
       "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
       "pubDate": "Mon, 05 Jan 2026 11:41:38 -0500"
-    },
-    {
-      "title": "Ledger customers impacted by third-party Global-e data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/",
-      "pubDate": "Mon, 05 Jan 2026 10:14:04 -0500"
     }
   ]
 }
