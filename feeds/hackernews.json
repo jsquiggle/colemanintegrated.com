@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-06T04:37:30Z",
+  "updated": "2026-01-06T05:16:50Z",
   "items": [
+    {
+      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+      "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+      "pubDate": "Tue, 06 Jan 2026 10:38:00 +0530"
+    },
     {
       "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
       "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
@@ -56,11 +61,6 @@
       "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
       "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
       "pubDate": "Thu, 01 Jan 2026 14:49:00 +0530"
-    },
-    {
-      "title": "How To Browse Faster and Get More Done Using Adapt Browser",
-      "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
-      "pubDate": "Thu, 01 Jan 2026 11:17:00 +0530"
     }
   ]
 }
