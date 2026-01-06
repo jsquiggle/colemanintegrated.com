@@ -1,11 +1,16 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-06T06:55:07Z",
+  "updated": "2026-01-06T07:18:08Z",
   "items": [
     {
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
       "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
       "pubDate": "Tue, 06 Jan 2026 10:38:00 +0530"
+    },
+    {
+      "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+      "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+      "pubDate": "Tue, 06 Jan 2026 09:00:00 +0530"
     },
     {
       "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
       "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
       "pubDate": "Thu, 01 Jan 2026 21:22:00 +0530"
-    },
-    {
-      "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
-      "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-      "pubDate": "Thu, 01 Jan 2026 14:49:00 +0530"
     }
   ]
 }
