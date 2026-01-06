@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-06T19:13:16Z",
+  "updated": "2026-01-06T19:35:52Z",
   "items": [
+    {
+      "title": "Kimwolf Android botnet abuses residential proxies to infect internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/kimwolf-android-botnet-abuses-residential-proxies-to-infect-internal-devices/",
+      "pubDate": "Tue, 06 Jan 2026 14:15:11 -0500"
+    },
     {
       "title": "Jaguar Land Rover wholesale volumes down 43% after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/jaguar-land-rover-wholesale-volumes-down-43-percent-after-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "NordVPN denies breach claims, says attackers have \"dummy data\"",
       "link": "https://www.bleepingcomputer.com/news/security/nordvpn-denies-breach-claims-says-attackers-have-dummy-data/",
       "pubDate": "Mon, 05 Jan 2026 09:48:46 -0500"
-    },
-    {
-      "title": "Hackers claim to hack Resecurity, firm says it was a honeypot",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-claim-resecurity-hack-firm-says-it-was-a-honeypot/",
-      "pubDate": "Sat, 03 Jan 2026 15:34:22 -0500"
     }
   ]
 }
