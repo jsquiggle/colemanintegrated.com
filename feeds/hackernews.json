@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-06T17:15:43Z",
+  "updated": "2026-01-06T17:44:06Z",
   "items": [
+    {
+      "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+      "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+      "pubDate": "Tue, 06 Jan 2026 22:51:00 +0530"
+    },
     {
       "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
       "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
@@ -56,11 +61,6 @@
       "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
       "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
       "pubDate": "Mon, 05 Jan 2026 15:12:00 +0530"
-    },
-    {
-      "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
-      "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
-      "pubDate": "Mon, 05 Jan 2026 13:18:00 +0530"
     }
   ]
 }
