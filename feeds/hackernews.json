@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-06T16:15:29Z",
+  "updated": "2026-01-06T16:51:33Z",
   "items": [
+    {
+      "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+      "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+      "pubDate": "Tue, 06 Jan 2026 21:17:00 +0530"
+    },
     {
       "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
       "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
@@ -56,11 +61,6 @@
       "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
       "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
       "pubDate": "Mon, 05 Jan 2026 13:18:00 +0530"
-    },
-    {
-      "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
-      "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
-      "pubDate": "Fri, 02 Jan 2026 19:22:00 +0530"
     }
   ]
 }
