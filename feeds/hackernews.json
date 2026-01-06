@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-06T11:37:37Z",
+  "updated": "2026-01-06T12:24:04Z",
   "items": [
+    {
+      "title": "What is Identity Dark Matter?",
+      "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+      "pubDate": "Tue, 06 Jan 2026 17:00:00 +0530"
+    },
     {
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
       "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
@@ -56,11 +61,6 @@
       "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
       "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
       "pubDate": "Fri, 02 Jan 2026 14:44:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-      "pubDate": "Thu, 01 Jan 2026 21:22:00 +0530"
     }
   ]
 }
