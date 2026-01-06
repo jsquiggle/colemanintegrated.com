@@ -1,11 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-06T12:24:04Z",
+  "updated": "2026-01-06T13:09:59Z",
   "items": [
+    {
+      "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+      "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+      "pubDate": "Tue, 06 Jan 2026 17:43:00 +0530"
+    },
     {
       "title": "What is Identity Dark Matter?",
       "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
       "pubDate": "Tue, 06 Jan 2026 17:00:00 +0530"
+    },
+    {
+      "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+      "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+      "pubDate": "Tue, 06 Jan 2026 16:55:00 +0530"
     },
     {
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
@@ -51,16 +61,6 @@
       "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
       "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
       "pubDate": "Fri, 02 Jan 2026 19:22:00 +0530"
-    },
-    {
-      "title": "The ROI Problem in Attack Surface Management",
-      "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
-      "pubDate": "Fri, 02 Jan 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
-      "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
-      "pubDate": "Fri, 02 Jan 2026 14:44:00 +0530"
     }
   ]
 }
