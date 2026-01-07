@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T14:15:09Z",
+  "updated": "2026-01-07T14:47:21Z",
   "items": [
+    {
+      "title": "ownCloud urges users to enable MFA after credential theft reports",
+      "link": "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/",
+      "pubDate": "Wed, 07 Jan 2026 09:34:39 -0500"
+    },
     {
       "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
@@ -56,11 +61,6 @@
       "title": "Sedgwick confirms breach at government contractor subsidiary",
       "link": "https://www.bleepingcomputer.com/news/security/sedgwick-confirms-breach-at-government-contractor-subsidiary/",
       "pubDate": "Tue, 06 Jan 2026 10:27:22 -0500"
-    },
-    {
-      "title": "How generative AI accelerates identity attacks against Active Directory",
-      "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
-      "pubDate": "Tue, 06 Jan 2026 09:46:15 -0500"
     }
   ]
 }
