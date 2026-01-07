@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-06T23:38:53Z",
+  "updated": "2026-01-07T00:58:03Z",
   "items": [
+    {
+      "title": "OpenAI is rolling out GPT-5.2 \u201cCodex-Max\u201d for some users",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
+      "pubDate": "Tue, 06 Jan 2026 19:30:39 -0500"
+    },
     {
       "title": "Taiwan says China's attacks on its energy sector increased tenfold",
       "link": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
@@ -56,11 +61,6 @@
       "title": "US broadband provider Brightspeed investigates breach claims",
       "link": "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/",
       "pubDate": "Mon, 05 Jan 2026 15:01:17 -0500"
-    },
-    {
-      "title": "VSCode IDE forks expose users to \"recommended extension\" attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/",
-      "pubDate": "Mon, 05 Jan 2026 11:41:38 -0500"
     }
   ]
 }
