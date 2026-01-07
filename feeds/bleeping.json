@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T23:12:04Z",
+  "updated": "2026-01-07T23:38:46Z",
   "items": [
+    {
+      "title": "OpenAI says ChatGPT won't use your health information to train its models",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/",
+      "pubDate": "Wed, 07 Jan 2026 18:28:45 -0500"
+    },
+    {
+      "title": "New GoBruteforcer attack wave targets crypto, blockchain projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/",
+      "pubDate": "Wed, 07 Jan 2026 18:18:14 -0500"
+    },
     {
       "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
       "link": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
@@ -51,16 +61,6 @@
       "title": "UK announces plan to strengthen public sector cyber defenses",
       "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
       "pubDate": "Wed, 07 Jan 2026 07:15:01 -0500"
-    },
-    {
-      "title": "OpenAI is reportedly getting ready to test ads in ChatGPT",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/",
-      "pubDate": "Tue, 06 Jan 2026 20:30:00 -0500"
-    },
-    {
-      "title": "OpenAI is rolling out GPT-5.2 \u201cCodex-Max\u201d for some users",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
-      "pubDate": "Tue, 06 Jan 2026 19:30:39 -0500"
     }
   ]
 }
