@@ -1,16 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-07T18:18:44Z",
+  "updated": "2026-01-07T18:53:41Z",
   "items": [
+    {
+      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+      "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+      "pubDate": "Wed, 07 Jan 2026 22:49:00 +0530"
+    },
+    {
+      "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
+      "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
+      "pubDate": "Wed, 07 Jan 2026 22:39:00 +0530"
+    },
     {
       "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
       "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
       "pubDate": "Wed, 07 Jan 2026 19:18:00 +0530"
-    },
-    {
-      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
-      "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
-      "pubDate": "Wed, 07 Jan 2026 17:25:00 +0530"
     },
     {
       "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
@@ -56,11 +61,6 @@
       "title": "What is Identity Dark Matter?",
       "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
       "pubDate": "Tue, 06 Jan 2026 17:00:00 +0530"
-    },
-    {
-      "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
-      "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
-      "pubDate": "Tue, 06 Jan 2026 16:55:00 +0530"
     }
   ]
 }
