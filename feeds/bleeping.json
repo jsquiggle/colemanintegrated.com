@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T20:44:38Z",
+  "updated": "2026-01-07T21:11:39Z",
   "items": [
+    {
+      "title": "ChatGPT is losing market share as Google Gemini gains ground",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
+      "pubDate": "Wed, 07 Jan 2026 15:58:02 -0500"
+    },
     {
       "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
       "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
@@ -56,11 +61,6 @@
       "title": "Taiwan says China's attacks on its energy sector increased tenfold",
       "link": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
       "pubDate": "Tue, 06 Jan 2026 17:27:15 -0500"
-    },
-    {
-      "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
-      "pubDate": "Tue, 06 Jan 2026 15:49:30 -0500"
     }
   ]
 }
