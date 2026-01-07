@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T10:46:20Z",
+  "updated": "2026-01-07T11:11:52Z",
   "items": [
+    {
+      "title": "OpenAI is reportedly getting ready to test ads in ChatGPT",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/",
+      "pubDate": "Tue, 06 Jan 2026 20:30:00 -0500"
+    },
     {
       "title": "OpenAI is rolling out GPT-5.2 \u201cCodex-Max\u201d for some users",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
@@ -56,11 +61,6 @@
       "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
       "pubDate": "Mon, 05 Jan 2026 16:16:35 -0500"
-    },
-    {
-      "title": "US broadband provider Brightspeed investigates breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/",
-      "pubDate": "Mon, 05 Jan 2026 15:01:17 -0500"
     }
   ]
 }
