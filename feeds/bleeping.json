@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T17:47:16Z",
+  "updated": "2026-01-07T18:18:44Z",
   "items": [
+    {
+      "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
+      "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
+      "pubDate": "Wed, 07 Jan 2026 13:05:42 -0500"
+    },
     {
       "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
@@ -56,11 +61,6 @@
       "title": "Microsoft cancels plans to rate limit Exchange Online bulk emails",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-cancels-plans-to-rate-limit-exchange-online-bulk-emails/",
       "pubDate": "Tue, 06 Jan 2026 15:49:30 -0500"
-    },
-    {
-      "title": "New D-Link flaw in legacy DSL routers actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-d-link-flaw-in-legacy-dsl-routers-actively-exploited-in-attacks/",
-      "pubDate": "Tue, 06 Jan 2026 14:52:52 -0500"
     }
   ]
 }
