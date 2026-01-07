@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-07T04:40:40Z",
+  "updated": "2026-01-07T05:17:45Z",
   "items": [
+    {
+      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+      "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+      "pubDate": "Wed, 07 Jan 2026 10:01:00 +0530"
+    },
     {
       "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
       "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
@@ -56,11 +61,6 @@
       "title": "The State of Cybersecurity in 2025:\u00a0Key Segments, Insights, and Innovations",
       "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
       "pubDate": "Mon, 05 Jan 2026 17:25:00 +0530"
-    },
-    {
-      "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
-      "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
-      "pubDate": "Mon, 05 Jan 2026 15:12:00 +0530"
     }
   ]
 }
