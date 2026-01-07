@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T12:24:55Z",
+  "updated": "2026-01-07T13:11:13Z",
   "items": [
+    {
+      "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
+      "pubDate": "Wed, 07 Jan 2026 08:06:11 -0500"
+    },
+    {
+      "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
+      "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
+      "pubDate": "Wed, 07 Jan 2026 07:50:38 -0500"
+    },
     {
       "title": "UK announces plan to strengthen public sector cyber defenses",
       "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
@@ -51,16 +61,6 @@
       "title": "How generative AI accelerates identity attacks against Active Directory",
       "link": "https://www.bleepingcomputer.com/news/security/how-generative-ai-accelerates-identity-attacks-against-active-directory/",
       "pubDate": "Tue, 06 Jan 2026 09:46:15 -0500"
-    },
-    {
-      "title": "Are Copilot prompt injection flaws vulnerabilities or AI limits?",
-      "link": "https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/",
-      "pubDate": "Tue, 06 Jan 2026 06:16:54 -0500"
-    },
-    {
-      "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
-      "pubDate": "Mon, 05 Jan 2026 17:52:16 -0500"
     }
   ]
 }
