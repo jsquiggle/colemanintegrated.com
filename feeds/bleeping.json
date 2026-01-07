@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T21:39:24Z",
+  "updated": "2026-01-07T22:11:38Z",
   "items": [
+    {
+      "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
+      "pubDate": "Wed, 07 Jan 2026 16:46:29 -0500"
+    },
     {
       "title": "ChatGPT is losing market share as Google Gemini gains ground",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-losing-market-share-as-google-gemini-gains-ground/",
@@ -56,11 +61,6 @@
       "title": "OpenAI is rolling out GPT-5.2 \u201cCodex-Max\u201d for some users",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-rolling-out-gpt-52-codex-max-for-some-users/",
       "pubDate": "Tue, 06 Jan 2026 19:30:39 -0500"
-    },
-    {
-      "title": "Taiwan says China's attacks on its energy sector increased tenfold",
-      "link": "https://www.bleepingcomputer.com/news/security/taiwan-says-chinas-attacks-on-its-energy-sector-increased-tenfold/",
-      "pubDate": "Tue, 06 Jan 2026 17:27:15 -0500"
     }
   ]
 }
