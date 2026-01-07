@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-07T11:38:51Z",
+  "updated": "2026-01-07T12:24:55Z",
   "items": [
+    {
+      "title": "UK announces plan to strengthen public sector cyber defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
+      "pubDate": "Wed, 07 Jan 2026 07:15:01 -0500"
+    },
     {
       "title": "OpenAI is reportedly getting ready to test ads in ChatGPT",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-getting-ready-to-test-ads-in-chatgpt/",
@@ -56,11 +61,6 @@
       "title": "Cloud file-sharing sites targeted for corporate data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/",
       "pubDate": "Mon, 05 Jan 2026 17:52:16 -0500"
-    },
-    {
-      "title": "ClickFix attack uses fake Windows BSOD screens to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/",
-      "pubDate": "Mon, 05 Jan 2026 16:16:35 -0500"
     }
   ]
 }
