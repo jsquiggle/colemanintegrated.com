@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-07T15:14:23Z",
+  "updated": "2026-01-07T15:45:42Z",
   "items": [
+    {
+      "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
+      "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
+      "pubDate": "Wed, 07 Jan 2026 19:18:00 +0530"
+    },
     {
       "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
       "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
@@ -56,11 +61,6 @@
       "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
       "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
       "pubDate": "Tue, 06 Jan 2026 16:55:00 +0530"
-    },
-    {
-      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
-      "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
-      "pubDate": "Tue, 06 Jan 2026 10:38:00 +0530"
     }
   ]
 }
