@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T08:51:15Z",
+  "updated": "2026-01-08T09:19:36Z",
   "items": [
+    {
+      "title": "Cisco warns of Identity Service Engine flaw with exploit code",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
+      "pubDate": "Thu, 08 Jan 2026 04:13:17 -0500"
+    },
     {
       "title": "CISA tags max severity HPE OneView flaw as actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
@@ -56,11 +61,6 @@
       "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
       "pubDate": "Wed, 07 Jan 2026 08:06:11 -0500"
-    },
-    {
-      "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
-      "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
-      "pubDate": "Wed, 07 Jan 2026 07:50:38 -0500"
     }
   ]
 }
