@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T07:42:05Z",
+  "updated": "2026-01-08T08:17:51Z",
   "items": [
+    {
+      "title": "CISA tags max severity HPE OneView flaw as actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
+      "pubDate": "Thu, 08 Jan 2026 02:45:25 -0500"
+    },
     {
       "title": "OpenAI says ChatGPT won't use your health information to train its models",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-wont-use-your-health-information-to-train-its-models/",
@@ -56,11 +61,6 @@
       "title": "Google Search AI hallucinations push Google to hire \"AI Answers Quality\" engineers",
       "link": "https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/",
       "pubDate": "Wed, 07 Jan 2026 07:50:38 -0500"
-    },
-    {
-      "title": "UK announces plan to strengthen public sector cyber defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-announces-plan-to-strengthen-public-sector-cyber-defenses/",
-      "pubDate": "Wed, 07 Jan 2026 07:15:01 -0500"
     }
   ]
 }
