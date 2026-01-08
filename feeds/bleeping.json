@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T22:43:43Z",
+  "updated": "2026-01-08T23:11:00Z",
   "items": [
+    {
+      "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
+      "pubDate": "Thu, 08 Jan 2026 17:57:05 -0500"
+    },
     {
       "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
@@ -56,11 +61,6 @@
       "title": "New GoBruteforcer attack wave targets crypto, blockchain projects",
       "link": "https://www.bleepingcomputer.com/news/security/new-gobruteforcer-attack-wave-targets-crypto-blockchain-projects/",
       "pubDate": "Wed, 07 Jan 2026 18:18:14 -0500"
-    },
-    {
-      "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/",
-      "pubDate": "Wed, 07 Jan 2026 16:46:29 -0500"
     }
   ]
 }
