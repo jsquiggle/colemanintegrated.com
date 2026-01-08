@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T11:38:59Z",
+  "updated": "2026-01-08T12:24:50Z",
   "items": [
+    {
+      "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
+      "pubDate": "Thu, 08 Jan 2026 07:10:34 -0500"
+    },
     {
       "title": "Cisco warns of Identity Service Engine flaw with exploit code",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
@@ -56,11 +61,6 @@
       "title": "ownCloud urges users to enable MFA after credential theft reports",
       "link": "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/",
       "pubDate": "Wed, 07 Jan 2026 09:34:39 -0500"
-    },
-    {
-      "title": "New Veeam vulnerabilities expose backup servers to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/",
-      "pubDate": "Wed, 07 Jan 2026 08:06:11 -0500"
     }
   ]
 }

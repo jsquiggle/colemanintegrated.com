@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-08T11:38:59Z",
+  "updated": "2026-01-08T12:24:50Z",
   "items": [
+    {
+      "title": "The State of Trusted Open Source",
+      "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+      "pubDate": "Thu, 08 Jan 2026 17:20:00 +0530"
+    },
     {
       "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
       "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
@@ -56,11 +61,6 @@
       "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
       "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
       "pubDate": "Wed, 07 Jan 2026 16:11:00 +0530"
-    },
-    {
-      "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
-      "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
-      "pubDate": "Wed, 07 Jan 2026 15:12:00 +0530"
     }
   ]
 }
