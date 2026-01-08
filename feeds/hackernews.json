@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-08T17:18:54Z",
+  "updated": "2026-01-08T17:48:38Z",
   "items": [
+    {
+      "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+      "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+      "pubDate": "Thu, 08 Jan 2026 22:40:00 +0530"
+    },
     {
       "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
       "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
@@ -56,11 +61,6 @@
       "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
       "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
       "pubDate": "Wed, 07 Jan 2026 19:18:00 +0530"
-    },
-    {
-      "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
-      "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
-      "pubDate": "Wed, 07 Jan 2026 16:56:00 +0530"
     }
   ]
 }
