@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T12:24:50Z",
+  "updated": "2026-01-08T13:11:52Z",
   "items": [
+    {
+      "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
+      "pubDate": "Thu, 08 Jan 2026 07:45:35 -0500"
+    },
     {
       "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
@@ -56,11 +61,6 @@
       "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT",
       "link": "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/",
       "pubDate": "Wed, 07 Jan 2026 10:00:10 -0500"
-    },
-    {
-      "title": "ownCloud urges users to enable MFA after credential theft reports",
-      "link": "https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/",
-      "pubDate": "Wed, 07 Jan 2026 09:34:39 -0500"
     }
   ]
 }
