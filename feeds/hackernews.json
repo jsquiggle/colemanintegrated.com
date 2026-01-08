@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-08T15:15:38Z",
+  "updated": "2026-01-08T15:46:18Z",
   "items": [
+    {
+      "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+      "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
+      "pubDate": "Thu, 08 Jan 2026 20:24:00 +0530"
+    },
     {
       "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
       "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
@@ -56,11 +61,6 @@
       "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
       "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
       "pubDate": "Wed, 07 Jan 2026 16:56:00 +0530"
-    },
-    {
-      "title": "The Future of Cybersecurity Includes Non-Human Employees",
-      "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
-      "pubDate": "Wed, 07 Jan 2026 16:30:00 +0530"
     }
   ]
 }
