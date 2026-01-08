@@ -1,10 +1,15 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T20:13:21Z",
+  "updated": "2026-01-08T20:43:34Z",
   "items": [
     {
-      "title": "Texas court blocks Samsung from collecting smart TV viewing data",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/",
+      "title": "Cisco switches hit by reboot loops due to DNS client bug",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/",
+      "pubDate": "Thu, 08 Jan 2026 15:40:26 -0500"
+    },
+    {
+      "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
       "pubDate": "Thu, 08 Jan 2026 11:47:24 -0500"
     },
     {
@@ -56,11 +61,6 @@
       "title": "Logitech Options+, G HUB macOS apps break after certificate expires",
       "link": "https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/",
       "pubDate": "Wed, 07 Jan 2026 13:05:42 -0500"
-    },
-    {
-      "title": "Max severity Ni8mare flaw lets hackers hijack n8n servers",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/",
-      "pubDate": "Wed, 07 Jan 2026 12:41:10 -0500"
     }
   ]
 }
