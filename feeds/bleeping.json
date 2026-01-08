@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-08T14:48:58Z",
+  "updated": "2026-01-08T15:15:38Z",
   "items": [
+    {
+      "title": "Six for 2026: The cyber threats you can\u2019t ignore",
+      "link": "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/",
+      "pubDate": "Thu, 08 Jan 2026 10:02:12 -0500"
+    },
     {
       "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Classic Outlook bug prevents opening encrypted emails",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/",
       "pubDate": "Wed, 07 Jan 2026 11:30:24 -0500"
-    },
-    {
-      "title": "In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT",
-      "link": "https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/",
-      "pubDate": "Wed, 07 Jan 2026 10:00:10 -0500"
     }
   ]
 }
