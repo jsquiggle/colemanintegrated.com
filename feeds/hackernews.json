@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-09T06:19:18Z",
+  "updated": "2026-01-09T06:54:48Z",
   "items": [
+    {
+      "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
+      "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
+      "pubDate": "Fri, 09 Jan 2026 11:16:00 +0530"
+    },
     {
       "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
       "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
@@ -56,11 +61,6 @@
       "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
       "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
       "pubDate": "Wed, 07 Jan 2026 22:39:00 +0530"
-    },
-    {
-      "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
-      "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
-      "pubDate": "Wed, 07 Jan 2026 19:18:00 +0530"
     }
   ]
 }
