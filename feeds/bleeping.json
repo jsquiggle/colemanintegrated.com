@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-09T15:13:04Z",
+  "updated": "2026-01-09T15:43:49Z",
   "items": [
+    {
+      "title": "Illinois Department of Human Services data breach affects 700K people",
+      "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
+      "pubDate": "Fri, 09 Jan 2026 10:37:41 -0500"
+    },
+    {
+      "title": "Email security needs more seatbelts: Why click rate is the wrong metric",
+      "link": "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/",
+      "pubDate": "Fri, 09 Jan 2026 10:01:11 -0500"
+    },
     {
       "title": "Illinois man charged with hacking Snapchat accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/",
@@ -51,16 +61,6 @@
       "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order",
       "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
       "pubDate": "Thu, 08 Jan 2026 11:47:24 -0500"
-    },
-    {
-      "title": "Six for 2026: The cyber threats you can\u2019t ignore",
-      "link": "https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/",
-      "pubDate": "Thu, 08 Jan 2026 10:02:12 -0500"
-    },
-    {
-      "title": "Microsoft Exchange Online outage blocks access to mailboxes via IMAP4",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/",
-      "pubDate": "Thu, 08 Jan 2026 07:45:35 -0500"
     }
   ]
 }
