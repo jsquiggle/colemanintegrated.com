@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-09T10:13:28Z",
+  "updated": "2026-01-09T10:45:59Z",
   "items": [
+    {
+      "title": "Trend Micro warns of critical Apex Central RCE vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/",
+      "pubDate": "Fri, 09 Jan 2026 05:40:26 -0500"
+    },
     {
       "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to enforce MFA for Microsoft 365 admin center sign-ins",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/",
       "pubDate": "Thu, 08 Jan 2026 07:10:34 -0500"
-    },
-    {
-      "title": "Cisco warns of Identity Service Engine flaw with exploit code",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
-      "pubDate": "Thu, 08 Jan 2026 04:13:17 -0500"
     }
   ]
 }
