@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-09T02:56:47Z",
+  "updated": "2026-01-09T03:59:40Z",
   "items": [
+    {
+      "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
+      "pubDate": "Thu, 08 Jan 2026 22:46:07 -0500"
+    },
     {
       "title": "Gmail's new AI Inbox uses Gemini, but Google says it won\u2019t train AI on user emails",
       "link": "https://www.bleepingcomputer.com/news/google/gmails-new-ai-inbox-uses-gemini-but-google-says-it-wont-train-ai-on-user-emails/",
@@ -56,11 +61,6 @@
       "title": "Cisco warns of Identity Service Engine flaw with exploit code",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/",
       "pubDate": "Thu, 08 Jan 2026 04:13:17 -0500"
-    },
-    {
-      "title": "CISA tags max severity HPE OneView flaw as actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/",
-      "pubDate": "Thu, 08 Jan 2026 02:45:25 -0500"
     }
   ]
 }
