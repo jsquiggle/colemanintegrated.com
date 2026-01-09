@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-09T23:11:37Z",
+  "updated": "2026-01-09T23:39:01Z",
   "items": [
+    {
+      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
+      "pubDate": "Fri, 09 Jan 2026 18:23:08 -0500"
+    },
     {
       "title": "Microsoft may soon allow IT admins to uninstall Copilot",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
@@ -56,11 +61,6 @@
       "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
       "pubDate": "Thu, 08 Jan 2026 17:43:00 -0500"
-    },
-    {
-      "title": "VMware ESXi zero-days likely exploited a year before disclosure",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-esxi-zero-days-likely-exploited-a-year-before-disclosure/",
-      "pubDate": "Thu, 08 Jan 2026 16:27:19 -0500"
     }
   ]
 }
