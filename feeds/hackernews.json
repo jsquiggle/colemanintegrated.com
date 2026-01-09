@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-09T18:52:27Z",
+  "updated": "2026-01-09T19:13:17Z",
   "items": [
+    {
+      "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+      "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+      "pubDate": "Fri, 09 Jan 2026 23:13:00 +0530"
+    },
     {
       "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
       "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
       "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
       "pubDate": "Thu, 08 Jan 2026 16:01:00 +0530"
-    },
-    {
-      "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
-      "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
-      "pubDate": "Thu, 08 Jan 2026 15:23:00 +0530"
     }
   ]
 }
