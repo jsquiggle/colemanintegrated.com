@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-09T11:38:12Z",
+  "updated": "2026-01-09T12:23:36Z",
   "items": [
+    {
+      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
+      "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
+      "pubDate": "Fri, 09 Jan 2026 16:39:00 +0530"
+    },
     {
       "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
       "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
@@ -56,11 +61,6 @@
       "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
       "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
       "pubDate": "Thu, 08 Jan 2026 12:27:00 +0530"
-    },
-    {
-      "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
-      "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
-      "pubDate": "Thu, 08 Jan 2026 10:22:00 +0530"
     }
   ]
 }
