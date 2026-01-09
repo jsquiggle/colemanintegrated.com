@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-09T19:37:21Z",
+  "updated": "2026-01-09T20:13:57Z",
   "items": [
+    {
+      "title": "Hackers target misconfigured proxies to access paid LLM services",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
+      "pubDate": "Fri, 09 Jan 2026 14:56:49 -0500"
+    },
     {
       "title": "Illinois Department of Human Services data breach affects 700K people",
       "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
@@ -56,11 +61,6 @@
       "title": "Cisco switches hit by reboot loops due to DNS client bug",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-switches-hit-by-reboot-loops-due-to-dns-client-bug/",
       "pubDate": "Thu, 08 Jan 2026 15:40:26 -0500"
-    },
-    {
-      "title": "Texas court blocks Samsung from tracking TV viewing, then vacates order",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-tracking-tv-viewing-then-vacates-order/",
-      "pubDate": "Thu, 08 Jan 2026 11:47:24 -0500"
     }
   ]
 }
