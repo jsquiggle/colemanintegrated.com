@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-09T23:39:01Z",
+  "updated": "2026-01-10T00:56:11Z",
   "items": [
+    {
+      "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
+      "pubDate": "Fri, 09 Jan 2026 19:06:26 -0500"
+    },
     {
       "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
@@ -56,11 +61,6 @@
       "title": "FBI warns about Kimsuky hackers using QR codes to phish U.S. orgs",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-about-kimsuky-hackers-using-qr-codes-to-phish-us-orgs/",
       "pubDate": "Thu, 08 Jan 2026 17:57:05 -0500"
-    },
-    {
-      "title": "xAI teases major Grok upgrade, hints at Grok Code CLI",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/xai-teases-major-grok-upgrade-hints-at-grok-code-cli/",
-      "pubDate": "Thu, 08 Jan 2026 17:43:00 -0500"
     }
   ]
 }
