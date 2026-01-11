@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-10T23:37:33Z",
+  "updated": "2026-01-11T01:03:10Z",
   "items": [
+    {
+      "title": "Microsoft is retiring 'Send to Kindle' in Word",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/",
+      "pubDate": "Sat, 10 Jan 2026 19:29:10 -0500"
+    },
     {
       "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/",
@@ -56,11 +61,6 @@
       "title": "Trend Micro warns of critical Apex Central RCE vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/",
       "pubDate": "Fri, 09 Jan 2026 05:40:26 -0500"
-    },
-    {
-      "title": "CISA retires 10 emergency cyber orders in rare bulk closure",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/",
-      "pubDate": "Thu, 08 Jan 2026 22:46:07 -0500"
     }
   ]
 }
