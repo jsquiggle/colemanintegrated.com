@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-12T13:55:59Z",
+  "updated": "2026-01-12T14:18:12Z",
   "items": [
+    {
+      "title": "Max severity Ni8mare flaw impacts nearly 60,000 n8n instances",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
+      "pubDate": "Mon, 12 Jan 2026 09:05:54 -0500"
+    },
     {
       "title": "Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/",
@@ -56,11 +61,6 @@
       "title": "Hackers target misconfigured proxies to access paid LLM services",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/",
       "pubDate": "Fri, 09 Jan 2026 14:56:49 -0500"
-    },
-    {
-      "title": "Illinois Department of Human Services data breach affects 700K people",
-      "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
-      "pubDate": "Fri, 09 Jan 2026 10:37:41 -0500"
     }
   ]
 }
