@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-12T13:13:20Z",
+  "updated": "2026-01-12T13:55:59Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
+      "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
+      "pubDate": "Mon, 12 Jan 2026 19:11:00 +0530"
+    },
     {
       "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
       "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
@@ -56,11 +61,6 @@
       "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
       "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
       "pubDate": "Fri, 09 Jan 2026 11:16:00 +0530"
-    },
-    {
-      "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
-      "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
-      "pubDate": "Thu, 08 Jan 2026 22:40:00 +0530"
     }
   ]
 }
