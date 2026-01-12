@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-12T08:19:06Z",
+  "updated": "2026-01-12T08:53:29Z",
   "items": [
+    {
+      "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
+      "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+      "pubDate": "Mon, 12 Jan 2026 13:04:00 +0530"
+    },
     {
       "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
       "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
       "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
       "pubDate": "Thu, 08 Jan 2026 18:19:00 +0530"
-    },
-    {
-      "title": "The State of Trusted Open Source",
-      "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-      "pubDate": "Thu, 08 Jan 2026 17:20:00 +0530"
     }
   ]
 }
