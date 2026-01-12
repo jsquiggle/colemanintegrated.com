@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-12T17:42:31Z",
+  "updated": "2026-01-12T18:18:32Z",
   "items": [
+    {
+      "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
+      "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
+      "pubDate": "Mon, 12 Jan 2026 22:09:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
       "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
@@ -56,11 +61,6 @@
       "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
       "link": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
       "pubDate": "Fri, 09 Jan 2026 14:41:00 +0530"
-    },
-    {
-      "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
-      "link": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
-      "pubDate": "Fri, 09 Jan 2026 11:16:00 +0530"
     }
   ]
 }

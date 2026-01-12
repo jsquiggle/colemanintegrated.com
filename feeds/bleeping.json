@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-12T17:42:31Z",
+  "updated": "2026-01-12T18:18:32Z",
   "items": [
+    {
+      "title": "Target's dev server offline after hackers claim to steal source code",
+      "link": "https://www.bleepingcomputer.com/news/security/targets-dev-server-offline-after-hackers-claim-to-steal-source-code/",
+      "pubDate": "Mon, 12 Jan 2026 12:52:10 -0500"
+    },
     {
       "title": "Apple confirms Google Gemini will power Siri, says privacy remains a priority",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
@@ -56,11 +61,6 @@
       "title": "BreachForums hacking forum database leaked, exposing 324,000 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/",
       "pubDate": "Sat, 10 Jan 2026 13:17:31 -0500"
-    },
-    {
-      "title": "Spain arrests 34 suspects linked to Black Axe cyber crime",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/",
-      "pubDate": "Sat, 10 Jan 2026 10:17:46 -0500"
     }
   ]
 }
