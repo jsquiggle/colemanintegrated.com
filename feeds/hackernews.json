@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-12T09:22:17Z",
+  "updated": "2026-01-12T09:51:41Z",
   "items": [
+    {
+      "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+      "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+      "pubDate": "Mon, 12 Jan 2026 14:07:00 +0530"
+    },
     {
       "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
       "link": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
       "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
       "pubDate": "Thu, 08 Jan 2026 20:24:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
-      "pubDate": "Thu, 08 Jan 2026 18:19:00 +0530"
     }
   ]
 }
