@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-12T22:40:51Z",
+  "updated": "2026-01-12T23:10:06Z",
   "items": [
+    {
+      "title": "Hacker gets seven years for breaching Rotterdam and Antwerp ports",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/",
+      "pubDate": "Mon, 12 Jan 2026 18:06:47 -0500"
+    },
     {
       "title": "Facebook login thieves now using browser-in-browser trick",
       "link": "https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/",
@@ -56,11 +61,6 @@
       "title": "Max severity Ni8mare flaw impacts nearly 60,000 n8n instances",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
       "pubDate": "Mon, 12 Jan 2026 09:05:54 -0500"
-    },
-    {
-      "title": "Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/",
-      "pubDate": "Mon, 12 Jan 2026 04:01:16 -0500"
     }
   ]
 }
