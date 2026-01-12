@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-12T08:53:29Z",
+  "updated": "2026-01-12T09:22:17Z",
   "items": [
+    {
+      "title": "Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/",
+      "pubDate": "Mon, 12 Jan 2026 04:01:16 -0500"
+    },
     {
       "title": "Instagram denies breach amid claims of 17 million account data leak",
       "link": "https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/",
@@ -56,11 +61,6 @@
       "title": "Illinois Department of Human Services data breach affects 700K people",
       "link": "https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/",
       "pubDate": "Fri, 09 Jan 2026 10:37:41 -0500"
-    },
-    {
-      "title": "Email security needs more seatbelts: Why click rate is the wrong metric",
-      "link": "https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/",
-      "pubDate": "Fri, 09 Jan 2026 10:01:11 -0500"
     }
   ]
 }
