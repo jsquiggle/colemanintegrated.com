@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-12T15:46:53Z",
+  "updated": "2026-01-12T16:16:59Z",
   "items": [
+    {
+      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
+      "pubDate": "Mon, 12 Jan 2026 10:57:50 -0500"
+    },
+    {
+      "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
+      "pubDate": "Mon, 12 Jan 2026 10:48:37 -0500"
+    },
     {
       "title": "Prevent cloud data leaks with Microsoft 365 access reviews",
       "link": "https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/",
@@ -51,16 +61,6 @@
       "title": "Anthropic: Viral Claude \u201cBanned and reported to authorities\u201d message isn\u2019t real",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/",
       "pubDate": "Fri, 09 Jan 2026 19:06:26 -0500"
-    },
-    {
-      "title": "ChatGPT tests a new feature to find jobs, improve your resume, and more",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-tests-a-new-feature-to-find-jobs-improve-your-resume-and-more/",
-      "pubDate": "Fri, 09 Jan 2026 18:23:08 -0500"
-    },
-    {
-      "title": "Microsoft may soon allow IT admins to uninstall Copilot",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-soon-allow-it-admins-to-uninstall-copilot-on-managed-devices/",
-      "pubDate": "Fri, 09 Jan 2026 15:34:22 -0500"
     }
   ]
 }
