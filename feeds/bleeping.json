@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-13T19:13:28Z",
+  "updated": "2026-01-13T19:36:43Z",
   "items": [
     {
       "title": "Microsoft releases Windows 10 KB5073724 extended security update",
@@ -33,8 +33,8 @@
       "pubDate": "Tue, 13 Jan 2026 10:45:00 -0500"
     },
     {
-      "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
-      "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
+      "title": "Target employees confirm leaked source code is authentic",
+      "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
       "pubDate": "Tue, 13 Jan 2026 08:08:25 -0500"
     },
     {
