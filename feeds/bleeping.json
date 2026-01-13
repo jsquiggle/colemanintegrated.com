@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-13T12:25:04Z",
+  "updated": "2026-01-13T13:12:59Z",
   "items": [
+    {
+      "title": "Target employees confirm leaked code after \u2018accelerated\u2019 Git lockdown",
+      "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
+      "pubDate": "Tue, 13 Jan 2026 08:08:25 -0500"
+    },
     {
       "title": "Hacker gets seven years for breaching Rotterdam and Antwerp ports",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/",
@@ -56,11 +61,6 @@
       "title": "Prevent cloud data leaks with Microsoft 365 access reviews",
       "link": "https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/",
       "pubDate": "Mon, 12 Jan 2026 09:45:00 -0500"
-    },
-    {
-      "title": "Max severity Ni8mare flaw impacts nearly 60,000 n8n instances",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-impacts-nearly-60-000-n8n-instances/",
-      "pubDate": "Mon, 12 Jan 2026 09:05:54 -0500"
     }
   ]
 }
