@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-13T15:15:14Z",
+  "updated": "2026-01-13T15:46:26Z",
   "items": [
+    {
+      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
+      "pubDate": "Tue, 13 Jan 2026 10:45:00 -0500"
+    },
     {
       "title": "Target employees confirm leaked code after 'accelerated' Git lockdown",
       "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/",
@@ -56,11 +61,6 @@
       "title": "Microsoft is retiring the Lens scanner app for iOS, Android",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-the-lens-scanner-app-for-ios-android/",
       "pubDate": "Mon, 12 Jan 2026 10:48:37 -0500"
-    },
-    {
-      "title": "Prevent cloud data leaks with Microsoft 365 access reviews",
-      "link": "https://www.bleepingcomputer.com/news/security/prevent-cloud-data-leaks-with-microsoft-365-access-reviews/",
-      "pubDate": "Mon, 12 Jan 2026 09:45:00 -0500"
     }
   ]
 }
