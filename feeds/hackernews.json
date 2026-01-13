@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-13T14:16:55Z",
+  "updated": "2026-01-13T14:49:24Z",
   "items": [
+    {
+      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
+      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
+      "pubDate": "Tue, 13 Jan 2026 19:14:00 +0530"
+    },
     {
       "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
       "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
@@ -56,11 +61,6 @@
       "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
       "link": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
       "pubDate": "Sat, 10 Jan 2026 16:05:00 +0530"
-    },
-    {
-      "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
-      "link": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
-      "pubDate": "Sat, 10 Jan 2026 14:29:00 +0530"
     }
   ]
 }
