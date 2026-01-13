@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-13T11:39:08Z",
+  "updated": "2026-01-13T12:25:04Z",
   "items": [
+    {
+      "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+      "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+      "pubDate": "Tue, 13 Jan 2026 17:25:00 +0530"
+    },
+    {
+      "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
+      "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+      "pubDate": "Tue, 13 Jan 2026 17:17:00 +0530"
+    },
     {
       "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
       "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
@@ -51,16 +61,6 @@
       "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
       "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
       "pubDate": "Fri, 09 Jan 2026 23:13:00 +0530"
-    },
-    {
-      "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
-      "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
-      "pubDate": "Fri, 09 Jan 2026 20:58:00 +0530"
-    },
-    {
-      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
-      "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
-      "pubDate": "Fri, 09 Jan 2026 16:39:00 +0530"
     }
   ]
 }
