@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-13T18:20:10Z",
+  "updated": "2026-01-13T18:52:23Z",
   "items": [
+    {
+      "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
+      "pubDate": "Tue, 13 Jan 2026 13:34:08 -0500"
+    },
+    {
+      "title": "Google confirms Android bug causing volume key issues",
+      "link": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
+      "pubDate": "Tue, 13 Jan 2026 13:25:04 -0500"
+    },
     {
       "title": "Betterment confirms data breach after wave of crypto scam emails",
       "link": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
@@ -51,16 +61,6 @@
       "title": "Apple confirms Google Gemini will power Siri, says privacy remains a priority",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-confirms-google-gemini-will-power-siri-says-privacy-remains-a-priority/",
       "pubDate": "Mon, 12 Jan 2026 11:43:47 -0500"
-    },
-    {
-      "title": "Hidden Telegram proxy links can reveal your IP address in one click",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-telegram-proxy-links-can-reveal-your-ip-address-in-one-click/",
-      "pubDate": "Mon, 12 Jan 2026 11:20:47 -0500"
-    },
-    {
-      "title": "Spanish energy giant Endesa discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-energy-giant-endesa-discloses-data-breach-affecting-customers/",
-      "pubDate": "Mon, 12 Jan 2026 10:57:50 -0500"
     }
   ]
 }
