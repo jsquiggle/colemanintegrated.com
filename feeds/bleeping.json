@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-13T22:44:08Z",
+  "updated": "2026-01-13T23:12:02Z",
   "items": [
+    {
+      "title": "Ukraine's army targeted in new charity-themed malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/",
+      "pubDate": "Tue, 13 Jan 2026 18:03:55 -0500"
+    },
     {
       "title": "New VoidLink malware framework targets Linux cloud servers",
       "link": "https://www.bleepingcomputer.com/news/security/new-voidlink-malware-framework-targets-linux-cloud-servers/",
@@ -56,11 +61,6 @@
       "title": "Target employees confirm leaked source code is authentic",
       "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
       "pubDate": "Tue, 13 Jan 2026 08:08:25 -0500"
-    },
-    {
-      "title": "Hacker gets seven years for breaching Rotterdam and Antwerp ports",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/",
-      "pubDate": "Mon, 12 Jan 2026 18:06:47 -0500"
     }
   ]
 }
