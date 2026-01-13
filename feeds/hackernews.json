@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-13T10:13:55Z",
+  "updated": "2026-01-13T10:46:54Z",
   "items": [
+    {
+      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+      "pubDate": "Tue, 13 Jan 2026 14:38:00 +0530"
+    },
     {
       "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
       "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
@@ -56,11 +61,6 @@
       "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
       "link": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
       "pubDate": "Fri, 09 Jan 2026 16:39:00 +0530"
-    },
-    {
-      "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
-      "link": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
-      "pubDate": "Fri, 09 Jan 2026 15:31:00 +0530"
     }
   ]
 }
