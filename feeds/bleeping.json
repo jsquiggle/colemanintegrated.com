@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T18:19:41Z",
+  "updated": "2026-01-14T18:54:37Z",
   "items": [
+    {
+      "title": "Exploit code public for critical FortiSIEM command injection flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/",
+      "pubDate": "Wed, 14 Jan 2026 13:51:54 -0500"
+    },
+    {
+      "title": "Verizon Wireless outage puts phones in SOS mode without cell service",
+      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/",
+      "pubDate": "Wed, 14 Jan 2026 13:27:25 -0500"
+    },
     {
       "title": "Microsoft updates Windows DLL that triggered security alerts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
@@ -51,16 +61,6 @@
       "title": "Central Maine Healthcare breach exposed data of over 145,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/",
       "pubDate": "Tue, 13 Jan 2026 15:32:29 -0500"
-    },
-    {
-      "title": "Belgian hospital AZ Monica shuts down servers after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/",
-      "pubDate": "Tue, 13 Jan 2026 15:27:22 -0500"
-    },
-    {
-      "title": "New Windows updates replace expiring Secure Boot certificates",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/",
-      "pubDate": "Tue, 13 Jan 2026 14:57:33 -0500"
     }
   ]
 }
