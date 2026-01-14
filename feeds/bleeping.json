@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T11:40:57Z",
+  "updated": "2026-01-14T12:24:33Z",
   "items": [
+    {
+      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
+      "pubDate": "Wed, 14 Jan 2026 07:01:07 -0500"
+    },
+    {
+      "title": "Victorian Department of Education says hackers stole students\u2019 data",
+      "link": "https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/",
+      "pubDate": "Wed, 14 Jan 2026 06:44:56 -0500"
+    },
     {
       "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
@@ -51,16 +61,6 @@
       "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
       "pubDate": "Tue, 13 Jan 2026 13:34:08 -0500"
-    },
-    {
-      "title": "Google confirms Android bug causing volume key issues",
-      "link": "https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/",
-      "pubDate": "Tue, 13 Jan 2026 13:25:04 -0500"
-    },
-    {
-      "title": "Betterment confirms data breach after wave of crypto scam emails",
-      "link": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
-      "pubDate": "Tue, 13 Jan 2026 11:46:02 -0500"
     }
   ]
 }
