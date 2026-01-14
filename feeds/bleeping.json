@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T16:53:39Z",
+  "updated": "2026-01-14T17:19:43Z",
   "items": [
     {
       "title": "Microsoft updates Windows DLL that triggered security alerts",
@@ -13,7 +13,7 @@
       "pubDate": "Wed, 14 Jan 2026 10:01:11 -0500"
     },
     {
-      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "pubDate": "Wed, 14 Jan 2026 09:00:00 -0500"
     },
