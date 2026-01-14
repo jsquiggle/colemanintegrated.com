@@ -1,5 +1,56 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-01-14T06:23:38Z",
-  "items": []
+  "updated": "2026-01-14T06:54:38Z",
+  "items": [
+    {
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "pubDate": "Wed, 14 Jan 2026 00:47:38 +0000"
+    },
+    {
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "pubDate": "Thu, 08 Jan 2026 23:23:43 +0000"
+    },
+    {
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "pubDate": "Fri, 02 Jan 2026 14:20:10 +0000"
+    },
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "pubDate": "Mon, 29 Dec 2025 20:23:26 +0000"
+    },
+    {
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "pubDate": "Fri, 19 Dec 2025 15:14:55 +0000"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "pubDate": "Tue, 16 Dec 2025 14:14:48 +0000"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "pubDate": "Tue, 09 Dec 2025 23:18:29 +0000"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "pubDate": "Sat, 06 Dec 2025 14:45:03 +0000"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "pubDate": "Thu, 04 Dec 2025 23:02:34 +0000"
+    },
+    {
+      "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
+      "link": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "pubDate": "Wed, 26 Nov 2025 17:22:36 +0000"
+    }
+  ]
 }
