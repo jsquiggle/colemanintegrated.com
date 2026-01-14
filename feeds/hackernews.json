@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-14T15:43:26Z",
+  "updated": "2026-01-14T16:17:54Z",
   "items": [
+    {
+      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
+      "pubDate": "Wed, 14 Jan 2026 20:37:00 +0530"
+    },
     {
       "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
       "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
@@ -56,11 +61,6 @@
       "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
       "link": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
       "pubDate": "Tue, 13 Jan 2026 17:25:00 +0530"
-    },
-    {
-      "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
-      "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
-      "pubDate": "Tue, 13 Jan 2026 17:17:00 +0530"
     }
   ]
 }
