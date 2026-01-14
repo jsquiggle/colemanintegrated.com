@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T22:44:17Z",
+  "updated": "2026-01-14T23:10:52Z",
   "items": [
+    {
+      "title": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/",
+      "pubDate": "Wed, 14 Jan 2026 17:52:16 -0500"
+    },
     {
       "title": "South Korean giant Kyowon confirms data theft in ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/south-korean-giant-kyowon-confirms-data-theft-in-ransomware-attack/",
@@ -56,11 +61,6 @@
       "title": "Monroe University says 2024 data breach affects 320,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
       "pubDate": "Wed, 14 Jan 2026 03:57:00 -0500"
-    },
-    {
-      "title": "Ukraine's army targeted in new charity-themed malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/",
-      "pubDate": "Tue, 13 Jan 2026 18:03:55 -0500"
     }
   ]
 }
