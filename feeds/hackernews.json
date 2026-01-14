@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-14T10:48:02Z",
+  "updated": "2026-01-14T11:13:09Z",
   "items": [
+    {
+      "title": "New Research: 64% of 3rd-Party Applications Access Sensitive Data Without Justification",
+      "link": "https://thehackernews.com/2026/01/new-research-64-of-3rd-party.html",
+      "pubDate": "Wed, 14 Jan 2026 16:30:00 +0530"
+    },
+    {
+      "title": "Microsoft Fixes 114 Windows Flaws in January 2026 Patch, One Actively Exploited",
+      "link": "https://thehackernews.com/2026/01/microsoft-fixes-114-windows-flaws-in.html",
+      "pubDate": "Wed, 14 Jan 2026 15:08:00 +0530"
+    },
     {
       "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
       "link": "https://thehackernews.com/2026/01/critical-nodejs-vulnerability-can-cause.html",
@@ -51,16 +61,6 @@
       "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
       "link": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
       "pubDate": "Tue, 13 Jan 2026 12:45:00 +0530"
-    },
-    {
-      "title": "n8n Supply Chain Attack Abuses Community Nodes to Steal OAuth Tokens",
-      "link": "https://thehackernews.com/2026/01/n8n-supply-chain-attack-abuses.html",
-      "pubDate": "Mon, 12 Jan 2026 22:09:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: AI Automation Exploits, Telecom Espionage, Prompt Poaching & More",
-      "link": "https://thehackernews.com/2026/01/weekly-recap-ai-automation-exploits.html",
-      "pubDate": "Mon, 12 Jan 2026 19:11:00 +0530"
     }
   ]
 }
