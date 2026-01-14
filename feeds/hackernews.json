@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-14T06:54:38Z",
+  "updated": "2026-01-14T07:17:35Z",
   "items": [
+    {
+      "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
+      "link": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
+      "pubDate": "Wed, 14 Jan 2026 11:18:00 +0530"
+    },
     {
       "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
       "link": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
@@ -56,11 +61,6 @@
       "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
       "link": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
       "pubDate": "Mon, 12 Jan 2026 16:18:00 +0530"
-    },
-    {
-      "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
-      "link": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
-      "pubDate": "Mon, 12 Jan 2026 14:07:00 +0530"
     }
   ]
 }
