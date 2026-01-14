@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-14T14:16:40Z",
+  "updated": "2026-01-14T14:49:03Z",
   "items": [
+    {
+      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
+      "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
+      "pubDate": "Wed, 14 Jan 2026 19:48:00 +0530"
+    },
     {
       "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
@@ -56,11 +61,6 @@
       "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
       "link": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
       "pubDate": "Tue, 13 Jan 2026 17:17:00 +0530"
-    },
-    {
-      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
-      "link": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
-      "pubDate": "Tue, 13 Jan 2026 14:38:00 +0530"
     }
   ]
 }
