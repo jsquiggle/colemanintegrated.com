@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T08:52:11Z",
+  "updated": "2026-01-14T09:19:46Z",
   "items": [
+    {
+      "title": "Monroe University says 2024 data breach affects 320,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
+      "pubDate": "Wed, 14 Jan 2026 03:57:00 -0500"
+    },
     {
       "title": "Ukraine's army targeted in new charity-themed malware campaign",
       "link": "https://www.bleepingcomputer.com/news/security/ukraines-army-targeted-in-new-charity-themed-malware-campaign/",
@@ -56,11 +61,6 @@
       "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
       "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
       "pubDate": "Tue, 13 Jan 2026 10:45:00 -0500"
-    },
-    {
-      "title": "Target employees confirm leaked source code is authentic",
-      "link": "https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-source-code-is-authentic/",
-      "pubDate": "Tue, 13 Jan 2026 08:08:25 -0500"
     }
   ]
 }

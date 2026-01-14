@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-14T08:52:11Z",
+  "updated": "2026-01-14T09:19:46Z",
   "items": [
     {
       "title": "Critical Node.js Vulnerability Can Cause Server Crashes via async_hooks Stack Overflow",
