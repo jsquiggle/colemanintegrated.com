@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T13:54:43Z",
+  "updated": "2026-01-14T14:16:40Z",
   "items": [
+    {
+      "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
+      "pubDate": "Wed, 14 Jan 2026 09:00:00 -0500"
+    },
     {
       "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5074109 & KB5073455 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
       "pubDate": "Tue, 13 Jan 2026 13:53:24 -0500"
-    },
-    {
-      "title": "Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
-      "pubDate": "Tue, 13 Jan 2026 13:34:08 -0500"
     }
   ]
 }
