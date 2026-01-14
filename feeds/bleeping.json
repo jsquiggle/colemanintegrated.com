@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-14T09:48:26Z",
+  "updated": "2026-01-14T10:14:54Z",
   "items": [
+    {
+      "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
+      "pubDate": "Wed, 14 Jan 2026 04:55:06 -0500"
+    },
     {
       "title": "Monroe University says 2024 data breach affects 320,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
@@ -56,11 +61,6 @@
       "title": "Betterment confirms data breach after wave of crypto scam emails",
       "link": "https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/",
       "pubDate": "Tue, 13 Jan 2026 11:46:02 -0500"
-    },
-    {
-      "title": "Convincing LinkedIn comment-reply tactic used in new phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/",
-      "pubDate": "Tue, 13 Jan 2026 10:45:00 -0500"
     }
   ]
 }
