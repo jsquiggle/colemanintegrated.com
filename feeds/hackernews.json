@@ -1,14 +1,24 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-15T09:18:21Z",
+  "updated": "2026-01-15T09:46:36Z",
   "items": [
+    {
+      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+      "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530"
+    },
+    {
+      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+      "pubDate": "Thu, 15 Jan 2026 13:48:00 +0530"
+    },
     {
       "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
       "link": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
       "pubDate": "Thu, 15 Jan 2026 00:33:00 +0530"
     },
     {
-      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "title": "AI Agents Are Becoming Authorization Bypass Paths",
       "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
       "pubDate": "Wed, 14 Jan 2026 20:37:00 +0530"
     },
@@ -51,16 +61,6 @@
       "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
       "link": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
       "pubDate": "Tue, 13 Jan 2026 22:52:00 +0530"
-    },
-    {
-      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
-      "link": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
-      "pubDate": "Tue, 13 Jan 2026 19:14:00 +0530"
-    },
-    {
-      "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
-      "link": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
-      "pubDate": "Tue, 13 Jan 2026 17:27:00 +0530"
     }
   ]
 }
