@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T15:50:47Z",
+  "updated": "2026-01-15T16:22:15Z",
   "items": [
+    {
+      "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
+      "pubDate": "Thu, 15 Jan 2026 11:13:54 -0500"
+    },
     {
       "title": "How to automate just-in-time access to applications with Tines",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
@@ -56,11 +61,6 @@
       "title": "Exploit code public for critical FortiSIEM command injection flaw",
       "link": "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/",
       "pubDate": "Wed, 14 Jan 2026 13:51:54 -0500"
-    },
-    {
-      "title": "Verizon Wireless outage puts phones in SOS mode without cell service",
-      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/",
-      "pubDate": "Wed, 14 Jan 2026 13:27:25 -0500"
     }
   ]
 }
