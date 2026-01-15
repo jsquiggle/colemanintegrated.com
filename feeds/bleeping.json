@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T04:00:35Z",
+  "updated": "2026-01-15T04:56:57Z",
   "items": [
+    {
+      "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
+      "pubDate": "Wed, 14 Jan 2026 22:00:00 -0500"
+    },
+    {
+      "title": "Google plans to make Chrome for Android an agentic browser with Gemini",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/",
+      "pubDate": "Wed, 14 Jan 2026 20:30:00 -0500"
+    },
+    {
+      "title": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/",
+      "pubDate": "Wed, 14 Jan 2026 19:00:00 -0500"
+    },
     {
       "title": "OpenAI's hidden ChatGPT Translate tool takes on Google Translate",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-hidden-chatgpt-translate-tool-takes-on-google-translate/",
@@ -46,21 +61,6 @@
       "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
       "pubDate": "Wed, 14 Jan 2026 07:01:07 -0500"
-    },
-    {
-      "title": "Victorian Department of Education says hackers stole students\u2019 data",
-      "link": "https://www.bleepingcomputer.com/news/security/victorian-department-of-education-notifies-parents-of-data-breach/",
-      "pubDate": "Wed, 14 Jan 2026 06:44:56 -0500"
-    },
-    {
-      "title": "Microsoft: Windows 365 update blocks access to Cloud PC sessions",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-update-blocks-access-to-cloud-pc-sessions/",
-      "pubDate": "Wed, 14 Jan 2026 04:55:06 -0500"
-    },
-    {
-      "title": "Monroe University says 2024 data breach affects 320,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/monroe-university-says-2024-data-breach-affects-320-000-people/",
-      "pubDate": "Wed, 14 Jan 2026 03:57:00 -0500"
     }
   ]
 }
