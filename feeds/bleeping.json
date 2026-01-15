@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T22:43:12Z",
+  "updated": "2026-01-15T23:11:54Z",
   "items": [
+    {
+      "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
+      "pubDate": "Thu, 15 Jan 2026 17:54:34 -0500"
+    },
     {
       "title": "Grubhub confirms hackers stole data in recent security breach",
       "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
@@ -56,11 +61,6 @@
       "title": "Google plans to make Chrome for Android an agentic browser with Gemini",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/",
       "pubDate": "Wed, 14 Jan 2026 20:30:00 -0500"
-    },
-    {
-      "title": "Google's Personal Intelligence links Gmail, Photos and Search to Gemini",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/googles-personal-intelligence-links-gmail-photos-and-search-to-gemini/",
-      "pubDate": "Wed, 14 Jan 2026 19:00:00 -0500"
     }
   ]
 }
