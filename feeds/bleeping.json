@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T06:54:40Z",
+  "updated": "2026-01-15T07:17:51Z",
   "items": [
+    {
+      "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
+      "pubDate": "Thu, 15 Jan 2026 02:11:45 -0500"
+    },
     {
       "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
@@ -56,11 +61,6 @@
       "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "pubDate": "Wed, 14 Jan 2026 09:00:00 -0500"
-    },
-    {
-      "title": "Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/",
-      "pubDate": "Wed, 14 Jan 2026 07:01:07 -0500"
     }
   ]
 }
