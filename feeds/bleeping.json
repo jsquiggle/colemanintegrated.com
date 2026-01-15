@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T09:46:36Z",
+  "updated": "2026-01-15T10:13:31Z",
   "items": [
+    {
+      "title": "FTC bans GM from selling drivers' location data for five years",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
+      "pubDate": "Thu, 15 Jan 2026 04:59:30 -0500"
+    },
     {
       "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
@@ -56,11 +61,6 @@
       "title": "Microsoft updates Windows DLL that triggered security alerts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
       "pubDate": "Wed, 14 Jan 2026 11:44:09 -0500"
-    },
-    {
-      "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
-      "pubDate": "Wed, 14 Jan 2026 10:01:11 -0500"
     }
   ]
 }
