@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T08:51:13Z",
+  "updated": "2026-01-15T09:18:21Z",
   "items": [
+    {
+      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
+      "pubDate": "Thu, 15 Jan 2026 04:02:42 -0500"
+    },
     {
       "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
@@ -56,11 +61,6 @@
       "title": "ConsentFix debrief: Insights from the new OAuth phishing attack",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-debrief-insights-from-the-new-oauth-phishing-attack/",
       "pubDate": "Wed, 14 Jan 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Reprompt attack hijacked Microsoft Copilot sessions for data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
-      "pubDate": "Wed, 14 Jan 2026 09:00:00 -0500"
     }
   ]
 }
