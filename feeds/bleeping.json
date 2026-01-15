@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T14:46:50Z",
+  "updated": "2026-01-15T15:14:59Z",
   "items": [
+    {
+      "title": "How to automate just-in-time access to applications with Tines",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
+      "pubDate": "Thu, 15 Jan 2026 10:01:10 -0500"
+    },
     {
       "title": "FTC bans GM from selling drivers' location data for five years",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
@@ -56,11 +61,6 @@
       "title": "Verizon Wireless outage puts phones in SOS mode without cell service",
       "link": "https://www.bleepingcomputer.com/news/mobile/verizon-wireless-outage-puts-phones-in-sos-mode-without-cell-service/",
       "pubDate": "Wed, 14 Jan 2026 13:27:25 -0500"
-    },
-    {
-      "title": "Microsoft updates Windows DLL that triggered security alerts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-windows-dll-that-triggered-security-alerts/",
-      "pubDate": "Wed, 14 Jan 2026 11:44:09 -0500"
     }
   ]
 }
