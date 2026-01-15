@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T18:59:04Z",
+  "updated": "2026-01-15T19:24:15Z",
   "items": [
+    {
+      "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/",
+      "pubDate": "Thu, 15 Jan 2026 14:08:13 -0500"
+    },
     {
       "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
@@ -56,11 +61,6 @@
       "title": "France fines Free Mobile \u20ac42 million over 2024 data breach incident",
       "link": "https://www.bleepingcomputer.com/news/security/france-fines-free-mobile-42-million-over-2024-data-breach-incident/",
       "pubDate": "Wed, 14 Jan 2026 14:50:49 -0500"
-    },
-    {
-      "title": "Exploit code public for critical FortiSIEM command injection flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-code-public-for-critical-fortisiem-command-injection-flaw/",
-      "pubDate": "Wed, 14 Jan 2026 13:51:54 -0500"
     }
   ]
 }
