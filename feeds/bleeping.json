@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-15T23:39:59Z",
+  "updated": "2026-01-16T00:58:17Z",
   "items": [
+    {
+      "title": "Google now lets you change your @gmail.com address, rolling out",
+      "link": "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
+      "pubDate": "Thu, 15 Jan 2026 19:36:10 -0500"
+    },
+    {
+      "title": "ChatGPT is now more reliable at finding and remembering your past chat",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
+      "pubDate": "Thu, 15 Jan 2026 19:14:44 -0500"
+    },
     {
       "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
       "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
@@ -51,16 +61,6 @@
       "title": "Microsoft disrupts massive RedVDS cybercrime virtual desktop service",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-seizes-servers-disrupts-massive-redvds-cybercrime-platform/",
       "pubDate": "Thu, 15 Jan 2026 02:11:45 -0500"
-    },
-    {
-      "title": "ChatGPT's upcoming cross-platform feature is codenamed \"Agora\"",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-upcoming-cross-platform-feature-is-codenamed-agora/",
-      "pubDate": "Wed, 14 Jan 2026 22:00:00 -0500"
-    },
-    {
-      "title": "Google plans to make Chrome for Android an agentic browser with Gemini",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-plans-to-make-chrome-for-android-an-agentic-browser-with-gemini/",
-      "pubDate": "Wed, 14 Jan 2026 20:30:00 -0500"
     }
   ]
 }
