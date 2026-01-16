@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T16:51:28Z",
+  "updated": "2026-01-16T17:16:46Z",
   "items": [
+    {
+      "title": "China-linked hackers exploited Sitecore zero-day for initial access",
+      "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/",
+      "pubDate": "Fri, 16 Jan 2026 12:10:15 -0500"
+    },
     {
       "title": "Verizon starts issuing $20 credits after nationwide outage",
       "link": "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/",
@@ -56,11 +61,6 @@
       "title": "Verizon blames nationwide outage on a \"software issue\"",
       "link": "https://www.bleepingcomputer.com/news/mobile/verizon-blames-nationwide-outage-on-a-software-issue/",
       "pubDate": "Thu, 15 Jan 2026 15:13:54 -0500"
-    },
-    {
-      "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/",
-      "pubDate": "Thu, 15 Jan 2026 14:08:13 -0500"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-16T16:51:28Z",
+  "updated": "2026-01-16T17:16:46Z",
   "items": [
     {
       "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
@@ -18,7 +18,7 @@
       "pubDate": "Fri, 16 Jan 2026 15:57:00 +0530"
     },
     {
-      "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
+      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
       "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
       "pubDate": "Fri, 16 Jan 2026 12:48:00 +0530"
     },
