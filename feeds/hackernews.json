@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-16T18:18:33Z",
+  "updated": "2026-01-16T18:52:54Z",
   "items": [
+    {
+      "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
+      "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
+      "pubDate": "Fri, 16 Jan 2026 23:29:00 +0530"
+    },
     {
       "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
       "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
@@ -56,11 +61,6 @@
       "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
       "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
       "pubDate": "Thu, 15 Jan 2026 16:30:00 +0530"
-    },
-    {
-      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-      "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-      "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530"
     }
   ]
 }
