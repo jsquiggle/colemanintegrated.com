@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-16T08:49:48Z",
+  "updated": "2026-01-16T09:17:02Z",
   "items": [
+    {
+      "title": "China-Linked APT Exploits Sitecore Zero-Day in Attacks on American Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
+      "pubDate": "Fri, 16 Jan 2026 12:48:00 +0530"
+    },
     {
       "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
       "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
@@ -56,11 +61,6 @@
       "title": "AI Agents Are Becoming Authorization Bypass Paths",
       "link": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
       "pubDate": "Wed, 14 Jan 2026 20:37:00 +0530"
-    },
-    {
-      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
-      "link": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
-      "pubDate": "Wed, 14 Jan 2026 19:48:00 +0530"
     }
   ]
 }
