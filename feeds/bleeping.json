@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T09:17:02Z",
+  "updated": "2026-01-16T09:45:24Z",
   "items": [
+    {
+      "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
+      "pubDate": "Fri, 16 Jan 2026 04:20:58 -0500"
+    },
     {
       "title": "Microsoft: Some Windows PCs fail to shut down after January update",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/",
@@ -56,11 +61,6 @@
       "title": "FTC bans GM from selling drivers' location data for five years",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
       "pubDate": "Thu, 15 Jan 2026 04:59:30 -0500"
-    },
-    {
-      "title": "Palo Alto Networks warns of DoS bug letting hackers disable firewalls",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-dos-bug-letting-hackers-disable-firewalls/",
-      "pubDate": "Thu, 15 Jan 2026 04:02:42 -0500"
     }
   ]
 }
