@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-16T15:14:03Z",
+  "updated": "2026-01-16T15:43:29Z",
   "items": [
+    {
+      "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
+      "pubDate": "Fri, 16 Jan 2026 19:39:00 +0530"
+    },
     {
       "title": "Your Digital Footprint Can Lead Right to Your Front Door",
       "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
       "link": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
       "pubDate": "Thu, 15 Jan 2026 15:07:00 +0530"
-    },
-    {
-      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
-      "link": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
-      "pubDate": "Thu, 15 Jan 2026 13:48:00 +0530"
     }
   ]
 }
