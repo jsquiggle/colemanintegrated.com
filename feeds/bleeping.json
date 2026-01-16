@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T22:42:51Z",
+  "updated": "2026-01-16T23:11:30Z",
   "items": [
+    {
+      "title": "OpenAI says its new ChatGPT ads won't influence answers",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/",
+      "pubDate": "Fri, 16 Jan 2026 18:06:36 -0500"
+    },
     {
       "title": "StealC hackers hacked as researchers hijack malware control panels",
       "link": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/",
@@ -56,11 +61,6 @@
       "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
       "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
       "pubDate": "Thu, 15 Jan 2026 17:54:34 -0500"
-    },
-    {
-      "title": "Grubhub confirms hackers stole data in recent security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
-      "pubDate": "Thu, 15 Jan 2026 16:38:51 -0500"
     }
   ]
 }
