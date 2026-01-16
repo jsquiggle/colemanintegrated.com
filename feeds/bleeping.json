@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T06:19:45Z",
+  "updated": "2026-01-16T06:54:22Z",
   "items": [
     {
       "title": "Google now lets you change your @gmail.com address, rolling out",
@@ -38,8 +38,8 @@
       "pubDate": "Thu, 15 Jan 2026 14:08:13 -0500"
     },
     {
-      "title": "Critical flaw lets hackers track, eavesdrop via Bluetooth audio devices",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
+      "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
       "pubDate": "Thu, 15 Jan 2026 11:13:54 -0500"
     },
     {
