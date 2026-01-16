@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T11:38:58Z",
+  "updated": "2026-01-16T12:23:40Z",
   "items": [
+    {
+      "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
+      "pubDate": "Fri, 16 Jan 2026 07:12:41 -0500"
+    },
+    {
+      "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/",
+      "pubDate": "Fri, 16 Jan 2026 05:29:58 -0500"
+    },
     {
       "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
@@ -51,16 +61,6 @@
       "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices",
       "link": "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
       "pubDate": "Thu, 15 Jan 2026 11:13:54 -0500"
-    },
-    {
-      "title": "How to automate just-in-time access to applications with Tines",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-just-in-time-access-to-applications-with-tines/",
-      "pubDate": "Thu, 15 Jan 2026 10:01:10 -0500"
-    },
-    {
-      "title": "FTC bans GM from selling drivers' location data for five years",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/",
-      "pubDate": "Thu, 15 Jan 2026 04:59:30 -0500"
     }
   ]
 }
