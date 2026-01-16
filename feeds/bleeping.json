@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T20:40:31Z",
+  "updated": "2026-01-16T21:12:00Z",
   "items": [
+    {
+      "title": "StealC hackers hacked as researchers hijack malware control panels",
+      "link": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/",
+      "pubDate": "Fri, 16 Jan 2026 16:00:22 -0500"
+    },
     {
       "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
       "link": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/",
@@ -56,11 +61,6 @@
       "title": "Grubhub confirms hackers stole data in recent security breach",
       "link": "https://www.bleepingcomputer.com/news/security/grubhub-confirms-hackers-stole-data-in-recent-security-breach/",
       "pubDate": "Thu, 15 Jan 2026 16:38:51 -0500"
-    },
-    {
-      "title": "Hackers exploit Modular DS WordPress plugin flaw for admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-modular-ds-wordpress-plugin-flaw-for-admin-access/",
-      "pubDate": "Thu, 15 Jan 2026 15:49:50 -0500"
     }
   ]
 }
