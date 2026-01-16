@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T16:16:06Z",
+  "updated": "2026-01-16T16:51:28Z",
   "items": [
+    {
+      "title": "Verizon starts issuing $20 credits after nationwide outage",
+      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/",
+      "pubDate": "Fri, 16 Jan 2026 11:19:47 -0500"
+    },
     {
       "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Copilot Studio extension for VS Code now publicly available",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-studio-extension-for-vs-code-now-publicly-available/",
       "pubDate": "Thu, 15 Jan 2026 14:08:13 -0500"
-    },
-    {
-      "title": "Critical WhisperPair flaw lets hackers track, eavesdrop via Bluetooth audio devices",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-whisperpair-flaw-lets-hackers-track-eavesdrop-via-bluetooth-audio-devices/",
-      "pubDate": "Thu, 15 Jan 2026 11:13:54 -0500"
     }
   ]
 }
