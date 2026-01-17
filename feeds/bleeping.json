@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-16T23:39:03Z",
+  "updated": "2026-01-17T00:55:44Z",
   "items": [
+    {
+      "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/",
+      "pubDate": "Fri, 16 Jan 2026 18:43:49 -0500"
+    },
     {
       "title": "OpenAI says its new ChatGPT ads won't influence answers",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT is now more reliable at finding and remembering your past chat",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
       "pubDate": "Thu, 15 Jan 2026 19:14:44 -0500"
-    },
-    {
-      "title": "Gootloader now uses 1,000-part ZIP archives for stealthy delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/gootloader-now-uses-1-000-part-zip-archives-for-stealthy-delivery/",
-      "pubDate": "Thu, 15 Jan 2026 17:54:34 -0500"
     }
   ]
 }
