@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-17T08:45:09Z",
+  "updated": "2026-01-17T09:11:15Z",
   "items": [
+    {
+      "title": "OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans",
+      "link": "https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html",
+      "pubDate": "Sat, 17 Jan 2026 14:04:00 +0530"
+    },
     {
       "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
       "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
@@ -56,11 +61,6 @@
       "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
       "link": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
       "pubDate": "Thu, 15 Jan 2026 17:25:00 +0530"
-    },
-    {
-      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-      "link": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-      "pubDate": "Thu, 15 Jan 2026 16:30:00 +0530"
     }
   ]
 }
