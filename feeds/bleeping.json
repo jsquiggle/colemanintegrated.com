@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-18T01:02:26Z",
+  "updated": "2026-01-18T03:17:57Z",
   "items": [
+    {
+      "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
+      "pubDate": "Sat, 17 Jan 2026 21:05:01 -0500"
+    },
+    {
+      "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
+      "pubDate": "Sat, 17 Jan 2026 11:19:30 -0500"
+    },
+    {
+      "title": "Malicious GhostPoster browser extensions found with 840,000 installs",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/",
+      "pubDate": "Sat, 17 Jan 2026 10:23:34 -0500"
+    },
     {
       "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/",
@@ -46,21 +61,6 @@
       "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
       "pubDate": "Fri, 16 Jan 2026 04:20:58 -0500"
-    },
-    {
-      "title": "Microsoft: Some Windows PCs fail to shut down after January update",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-some-windows-pcs-fail-to-shut-down-after-january-update/",
-      "pubDate": "Fri, 16 Jan 2026 03:35:38 -0500"
-    },
-    {
-      "title": "Google now lets you change your @gmail.com address, rolling out",
-      "link": "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
-      "pubDate": "Thu, 15 Jan 2026 19:36:10 -0500"
-    },
-    {
-      "title": "ChatGPT is now more reliable at finding and remembering your past chat",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-now-more-reliable-at-finding-and-remembering-your-past-chat/",
-      "pubDate": "Thu, 15 Jan 2026 19:14:44 -0500"
     }
   ]
 }
