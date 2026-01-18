@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-18T18:15:25Z",
+  "updated": "2026-01-18T18:49:01Z",
   "items": [
+    {
+      "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/",
+      "pubDate": "Sun, 18 Jan 2026 13:16:27 -0500"
+    },
+    {
+      "title": "CIRO confirms data breach exposed info on 750,000 Canadian investors",
+      "link": "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/",
+      "pubDate": "Sun, 18 Jan 2026 10:17:45 -0500"
+    },
+    {
+      "title": "Google Chrome tests Gemini-powered AI \"Skills\"",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/",
+      "pubDate": "Sat, 17 Jan 2026 22:00:00 -0500"
+    },
     {
       "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
@@ -46,21 +61,6 @@
       "title": "Verizon starts issuing $20 credits after nationwide outage",
       "link": "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/",
       "pubDate": "Fri, 16 Jan 2026 11:19:47 -0500"
-    },
-    {
-      "title": "Microsoft: Windows 11 update causes Outlook freezes for POP users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/",
-      "pubDate": "Fri, 16 Jan 2026 07:12:41 -0500"
-    },
-    {
-      "title": "Hackers now exploiting critical Fortinet FortiSIEM flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-fortinet-fortisiem-vulnerability-in-attacks/",
-      "pubDate": "Fri, 16 Jan 2026 05:29:58 -0500"
-    },
-    {
-      "title": "Cisco finally fixes AsyncOS zero-day exploited since November",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-fixes-asyncos-zero-day-exploited-since-november/",
-      "pubDate": "Fri, 16 Jan 2026 04:20:58 -0500"
     }
   ]
 }
