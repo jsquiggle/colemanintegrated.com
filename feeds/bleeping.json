@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-19T14:24:50Z",
+  "updated": "2026-01-19T14:51:02Z",
   "items": [
+    {
+      "title": "Jordanian pleads guilty to selling access to 50 corporate networks",
+      "link": "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/",
+      "pubDate": "Mon, 19 Jan 2026 09:38:32 -0500"
+    },
     {
       "title": "Ingram Micro says ransomware attack affected 42,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/",
@@ -56,11 +61,6 @@
       "title": "OpenAI says its new ChatGPT ads won't influence answers",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/",
       "pubDate": "Fri, 16 Jan 2026 18:06:36 -0500"
-    },
-    {
-      "title": "StealC hackers hacked as researchers hijack malware control panels",
-      "link": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/",
-      "pubDate": "Fri, 16 Jan 2026 16:00:22 -0500"
     }
   ]
 }
