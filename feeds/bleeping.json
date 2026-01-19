@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-19T15:47:01Z",
+  "updated": "2026-01-19T16:16:54Z",
   "items": [
+    {
+      "title": "Hacker admits to leaking stolen Supreme Court data on Instagram",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/",
+      "pubDate": "Mon, 19 Jan 2026 11:04:14 -0500"
+    },
     {
       "title": "Jordanian pleads guilty to selling access to 50 corporate networks",
       "link": "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/",
       "pubDate": "Fri, 16 Jan 2026 18:43:49 -0500"
-    },
-    {
-      "title": "OpenAI says its new ChatGPT ads won't influence answers",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/",
-      "pubDate": "Fri, 16 Jan 2026 18:06:36 -0500"
     }
   ]
 }
