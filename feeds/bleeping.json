@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-18T23:37:44Z",
+  "updated": "2026-01-19T01:01:56Z",
   "items": [
+    {
+      "title": "New OpenAI leak hints at upcoming ChatGPT features",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
+      "pubDate": "Sun, 18 Jan 2026 19:29:05 -0500"
+    },
     {
       "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/",
@@ -56,11 +61,6 @@
       "title": "China-linked hackers exploited Sitecore zero-day for initial access",
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/",
       "pubDate": "Fri, 16 Jan 2026 12:10:15 -0500"
-    },
-    {
-      "title": "Verizon starts issuing $20 credits after nationwide outage",
-      "link": "https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/",
-      "pubDate": "Fri, 16 Jan 2026 11:19:47 -0500"
     }
   ]
 }
