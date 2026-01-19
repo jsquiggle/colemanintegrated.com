@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-19T22:43:00Z",
+  "updated": "2026-01-19T23:11:39Z",
   "items": [
+    {
+      "title": "Fake ad blocker extension crashes the browser for ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/",
+      "pubDate": "Mon, 19 Jan 2026 17:49:46 -0500"
+    },
     {
       "title": "New PDFSider Windows malware deployed on Fortune 100 firm's network",
       "link": "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/",
@@ -56,11 +61,6 @@
       "title": "Google Chrome now lets you turn off on-device AI model powering scam detection",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/",
       "pubDate": "Sat, 17 Jan 2026 21:05:01 -0500"
-    },
-    {
-      "title": "Credential-stealing Chrome extensions target enterprise HR platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/",
-      "pubDate": "Sat, 17 Jan 2026 11:19:30 -0500"
     }
   ]
 }
