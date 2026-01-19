@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-19T12:26:31Z",
+  "updated": "2026-01-19T13:24:59Z",
   "items": [
+    {
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "link": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "pubDate": "Mon, 19 Jan 2026 17:25:00 +0530"
+    },
+    {
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+      "link": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "pubDate": "Mon, 19 Jan 2026 17:01:00 +0530"
+    },
     {
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
       "link": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
@@ -51,16 +61,6 @@
       "title": "Cisco Patches Zero-Day RCE Exploited by China-Linked APT in Secure Email Gateways",
       "link": "https://thehackernews.com/2026/01/cisco-patches-zero-day-rce-exploited-by.html",
       "pubDate": "Fri, 16 Jan 2026 11:08:00 +0530"
-    },
-    {
-      "title": "AWS CodeBuild Misconfiguration Exposed GitHub Repos to Potential Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/01/aws-codebuild-misconfiguration-exposed.html",
-      "pubDate": "Fri, 16 Jan 2026 01:01:00 +0530"
-    },
-    {
-      "title": "Critical WordPress Modular DS Plugin Flaw Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/01/critical-wordpress-modular-ds-plugin.html",
-      "pubDate": "Thu, 15 Jan 2026 21:01:00 +0530"
     }
   ]
 }
