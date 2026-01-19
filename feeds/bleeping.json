@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-19T13:24:59Z",
+  "updated": "2026-01-19T13:58:02Z",
   "items": [
+    {
+      "title": "Ingram Micro says ransomware attack affected 42,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/",
+      "pubDate": "Mon, 19 Jan 2026 08:33:45 -0500"
+    },
     {
       "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
@@ -56,11 +61,6 @@
       "title": "StealC hackers hacked as researchers hijack malware control panels",
       "link": "https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/",
       "pubDate": "Fri, 16 Jan 2026 16:00:22 -0500"
-    },
-    {
-      "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
-      "link": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/",
-      "pubDate": "Fri, 16 Jan 2026 14:00:20 -0500"
     }
   ]
 }
