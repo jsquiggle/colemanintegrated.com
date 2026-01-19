@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-19T17:44:33Z",
+  "updated": "2026-01-19T18:18:12Z",
   "items": [
+    {
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "link": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "pubDate": "Mon, 19 Jan 2026 22:51:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
       "link": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
@@ -56,11 +61,6 @@
       "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
       "link": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
       "pubDate": "Fri, 16 Jan 2026 15:57:00 +0530"
-    },
-    {
-      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
-      "link": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
-      "pubDate": "Fri, 16 Jan 2026 12:48:00 +0530"
     }
   ]
 }
