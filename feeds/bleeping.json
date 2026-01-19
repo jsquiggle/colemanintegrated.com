@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-19T09:24:27Z",
+  "updated": "2026-01-19T09:53:57Z",
   "items": [
+    {
+      "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
+      "pubDate": "Sun, 18 Jan 2026 20:47:00 -0500"
+    },
     {
       "title": "New OpenAI leak hints at upcoming ChatGPT features",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
@@ -56,11 +61,6 @@
       "title": "Black Basta boss makes it onto Interpol's 'Red Notice' list",
       "link": "https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/",
       "pubDate": "Fri, 16 Jan 2026 14:00:20 -0500"
-    },
-    {
-      "title": "China-linked hackers exploited Sitecore zero-day for initial access",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/",
-      "pubDate": "Fri, 16 Jan 2026 12:10:15 -0500"
     }
   ]
 }
