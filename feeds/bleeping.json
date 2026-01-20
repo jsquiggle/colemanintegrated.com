@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T12:26:21Z",
+  "updated": "2026-01-20T13:25:36Z",
   "items": [
+    {
+      "title": "Webinar: Why execs don\u2019t buy SOC teams the tools they need",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
+      "pubDate": "Tue, 20 Jan 2026 08:15:23 -0500"
+    },
     {
       "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
@@ -56,11 +61,6 @@
       "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/",
       "pubDate": "Sun, 18 Jan 2026 13:16:27 -0500"
-    },
-    {
-      "title": "CIRO confirms data breach exposed info on 750,000 Canadian investors",
-      "link": "https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/",
-      "pubDate": "Sun, 18 Jan 2026 10:17:45 -0500"
     }
   ]
 }
