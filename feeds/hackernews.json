@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-20T11:42:06Z",
+  "updated": "2026-01-20T12:26:21Z",
   "items": [
+    {
+      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+      "pubDate": "Tue, 20 Jan 2026 16:42:00 +0530"
+    },
+    {
+      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+      "pubDate": "Tue, 20 Jan 2026 16:15:00 +0530"
+    },
     {
       "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
       "link": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
@@ -51,16 +61,6 @@
       "title": "GootLoader Malware Uses 500\u20131,000 Concatenated ZIP Archives to Evade Detection",
       "link": "https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html",
       "pubDate": "Fri, 16 Jan 2026 23:29:00 +0530"
-    },
-    {
-      "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
-      "pubDate": "Fri, 16 Jan 2026 19:39:00 +0530"
-    },
-    {
-      "title": "Your Digital Footprint Can Lead Right to Your Front Door",
-      "link": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
-      "pubDate": "Fri, 16 Jan 2026 16:12:00 +0530"
     }
   ]
 }
