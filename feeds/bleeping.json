@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T18:21:23Z",
+  "updated": "2026-01-20T19:37:34Z",
   "items": [
+    {
+      "title": "VoidLink cloud malware shows clear signs of being AI-generated",
+      "link": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
+      "pubDate": "Tue, 20 Jan 2026 14:35:31 -0500"
+    },
+    {
+      "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
+      "pubDate": "Tue, 20 Jan 2026 13:54:38 -0500"
+    },
     {
       "title": "Gemini AI assistant tricked into leaking Google Calendar data",
       "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
@@ -51,16 +61,6 @@
       "title": "Hacker admits to leaking stolen Supreme Court data on Instagram",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/",
       "pubDate": "Mon, 19 Jan 2026 11:04:14 -0500"
-    },
-    {
-      "title": "Jordanian pleads guilty to selling access to 50 corporate networks",
-      "link": "https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/",
-      "pubDate": "Mon, 19 Jan 2026 09:38:32 -0500"
-    },
-    {
-      "title": "Ingram Micro says ransomware attack affected 42,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/",
-      "pubDate": "Mon, 19 Jan 2026 08:33:45 -0500"
     }
   ]
 }
