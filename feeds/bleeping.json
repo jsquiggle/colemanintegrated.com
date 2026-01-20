@@ -1,10 +1,15 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T14:34:00Z",
+  "updated": "2026-01-20T15:20:28Z",
   "items": [
     {
-      "title": "Webinar: Why execs don\u2019t buy SOC teams the tools they need",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-execs-dont-buy-soc-teams-the-tools-they-need/",
+      "title": "Make Identity Threat Detection your security strategy for 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/",
+      "pubDate": "Tue, 20 Jan 2026 10:01:11 -0500"
+    },
+    {
+      "title": "Webinar: Aligning cybersecurity purchases with what your SOC team needs",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/",
       "pubDate": "Tue, 20 Jan 2026 08:15:23 -0500"
     },
     {
@@ -56,11 +61,6 @@
       "title": "New OpenAI leak hints at upcoming ChatGPT features",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
       "pubDate": "Sun, 18 Jan 2026 19:29:05 -0500"
-    },
-    {
-      "title": "Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/",
-      "pubDate": "Sun, 18 Jan 2026 13:16:27 -0500"
     }
   ]
 }
