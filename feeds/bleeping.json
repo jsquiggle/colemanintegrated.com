@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T21:40:20Z",
+  "updated": "2026-01-20T22:13:19Z",
   "items": [
+    {
+      "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/",
+      "pubDate": "Tue, 20 Jan 2026 17:12:27 -0500"
+    },
     {
       "title": "VoidLink cloud malware shows clear signs of being AI-generated",
       "link": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
@@ -56,11 +61,6 @@
       "title": "UK govt. warns about ongoing Russian hacktivist group attacks",
       "link": "https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/",
       "pubDate": "Mon, 19 Jan 2026 12:20:39 -0500"
-    },
-    {
-      "title": "Hacker admits to leaking stolen Supreme Court data on Instagram",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/",
-      "pubDate": "Mon, 19 Jan 2026 11:04:14 -0500"
     }
   ]
 }
