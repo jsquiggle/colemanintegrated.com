@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T16:22:01Z",
+  "updated": "2026-01-20T16:56:40Z",
   "items": [
+    {
+      "title": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/",
+      "pubDate": "Tue, 20 Jan 2026 11:33:30 -0500"
+    },
     {
       "title": "Make Identity Threat Detection your security strategy for 2026",
       "link": "https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/",
@@ -56,11 +61,6 @@
       "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
       "pubDate": "Sun, 18 Jan 2026 20:47:00 -0500"
-    },
-    {
-      "title": "New OpenAI leak hints at upcoming ChatGPT features",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/",
-      "pubDate": "Sun, 18 Jan 2026 19:29:05 -0500"
     }
   ]
 }
