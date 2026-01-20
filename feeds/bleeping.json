@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T17:23:40Z",
+  "updated": "2026-01-20T17:51:36Z",
   "items": [
+    {
+      "title": "Gemini AI assistant tricked into leaking Google Calendar data",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
+      "pubDate": "Tue, 20 Jan 2026 12:50:01 -0500"
+    },
     {
       "title": "Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/",
@@ -56,11 +61,6 @@
       "title": "Ingram Micro says ransomware attack affected 42,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/",
       "pubDate": "Mon, 19 Jan 2026 08:33:45 -0500"
-    },
-    {
-      "title": "OpenAI hostname hints at a new ChatGPT feature codenamed \"Sonata\"",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/",
-      "pubDate": "Sun, 18 Jan 2026 20:47:00 -0500"
     }
   ]
 }
