@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T21:48:54Z",
+  "updated": "2026-01-21T22:14:57Z",
   "items": [
+    {
+      "title": "New Android malware uses AI to click on hidden browser ads",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
+      "pubDate": "Wed, 21 Jan 2026 17:07:53 -0500"
+    },
     {
       "title": "Online retailer PcComponentes says data breach claims are fake",
       "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
@@ -56,11 +61,6 @@
       "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/",
       "pubDate": "Tue, 20 Jan 2026 17:57:21 -0500"
-    },
-    {
-      "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/",
-      "pubDate": "Tue, 20 Jan 2026 17:12:27 -0500"
     }
   ]
 }
