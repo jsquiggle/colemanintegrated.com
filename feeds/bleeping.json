@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-20T23:41:19Z",
+  "updated": "2026-01-21T00:59:08Z",
   "items": [
+    {
+      "title": "Google says Gemini won\u2019t have ads, as ChatGPT prepares to add them",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
+      "pubDate": "Tue, 20 Jan 2026 19:00:00 -0500"
+    },
     {
       "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/",
@@ -56,11 +61,6 @@
       "title": "Fake ad blocker extension crashes the browser for ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/",
       "pubDate": "Mon, 19 Jan 2026 17:49:46 -0500"
-    },
-    {
-      "title": "New PDFSider Windows malware deployed on Fortune 100 firm's network",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/",
-      "pubDate": "Mon, 19 Jan 2026 16:00:34 -0500"
     }
   ]
 }
