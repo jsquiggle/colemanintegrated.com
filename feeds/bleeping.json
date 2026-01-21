@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T20:52:55Z",
+  "updated": "2026-01-21T21:19:35Z",
   "items": [
+    {
+      "title": "Online retailer PcComponentes says data breach claims are fake",
+      "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
+      "pubDate": "Wed, 21 Jan 2026 15:55:19 -0500"
+    },
     {
       "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
@@ -56,11 +61,6 @@
       "title": "ACF plugin bug gives hackers admin on 50,000 WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/",
       "pubDate": "Tue, 20 Jan 2026 17:12:27 -0500"
-    },
-    {
-      "title": "VoidLink cloud malware shows clear signs of being AI-generated",
-      "link": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
-      "pubDate": "Tue, 20 Jan 2026 14:35:31 -0500"
     }
   ]
 }
