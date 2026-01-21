@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T16:24:18Z",
+  "updated": "2026-01-21T17:34:21Z",
   "items": [
+    {
+      "title": "Fake Lastpass emails pose as password vault backup alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/",
+      "pubDate": "Wed, 21 Jan 2026 11:58:39 -0500"
+    },
     {
       "title": "Microsoft shares workaround for Outlook freezes after Windows update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/",
@@ -56,11 +61,6 @@
       "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
       "link": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
       "pubDate": "Tue, 20 Jan 2026 13:54:38 -0500"
-    },
-    {
-      "title": "Gemini AI assistant tricked into leaking Google Calendar data",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/",
-      "pubDate": "Tue, 20 Jan 2026 12:50:01 -0500"
     }
   ]
 }
