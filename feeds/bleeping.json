@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T22:14:57Z",
+  "updated": "2026-01-21T22:49:08Z",
   "items": [
+    {
+      "title": "Chainlit AI framework bugs let hackers breach cloud environments",
+      "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
+      "pubDate": "Wed, 21 Jan 2026 17:37:04 -0500"
+    },
+    {
+      "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
+      "pubDate": "Wed, 21 Jan 2026 17:16:21 -0500"
+    },
     {
       "title": "New Android malware uses AI to click on hidden browser ads",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
@@ -51,16 +61,6 @@
       "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
       "pubDate": "Tue, 20 Jan 2026 21:00:00 -0500"
-    },
-    {
-      "title": "Google says Gemini won\u2019t have ads, as ChatGPT prepares to add them",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
-      "pubDate": "Tue, 20 Jan 2026 19:00:00 -0500"
-    },
-    {
-      "title": "OpenAI rolls out age prediction model on ChatGPT to detect your age",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/",
-      "pubDate": "Tue, 20 Jan 2026 17:57:21 -0500"
     }
   ]
 }
