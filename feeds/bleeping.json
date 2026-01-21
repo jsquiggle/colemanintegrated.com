@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T00:59:08Z",
+  "updated": "2026-01-21T02:59:14Z",
   "items": [
+    {
+      "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
+      "pubDate": "Tue, 20 Jan 2026 21:00:00 -0500"
+    },
     {
       "title": "Google says Gemini won\u2019t have ads, as ChatGPT prepares to add them",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/",
@@ -56,11 +61,6 @@
       "title": "You can get ChatGPT's $20 Plus subscription for free for a limited time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/",
       "pubDate": "Mon, 19 Jan 2026 20:07:57 -0500"
-    },
-    {
-      "title": "Fake ad blocker extension crashes the browser for ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-ad-blocker-extension-crashes-the-browser-for-clickfix-attacks/",
-      "pubDate": "Mon, 19 Jan 2026 17:49:46 -0500"
     }
   ]
 }
