@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-21T15:21:02Z",
+  "updated": "2026-01-21T15:54:08Z",
   "items": [
+    {
+      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
+      "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
+      "pubDate": "Wed, 21 Jan 2026 21:12:00 +0530"
+    },
     {
       "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
       "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
@@ -56,11 +61,6 @@
       "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
       "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
       "pubDate": "Tue, 20 Jan 2026 17:18:00 +0530"
-    },
-    {
-      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
-      "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
-      "pubDate": "Tue, 20 Jan 2026 16:42:00 +0530"
     }
   ]
 }
