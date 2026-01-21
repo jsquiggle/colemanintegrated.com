@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T11:42:57Z",
+  "updated": "2026-01-21T12:26:25Z",
   "items": [
+    {
+      "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
+      "pubDate": "Wed, 21 Jan 2026 07:16:15 -0500"
+    },
     {
       "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/",
       "pubDate": "Mon, 19 Jan 2026 20:24:25 -0500"
-    },
-    {
-      "title": "You can get ChatGPT's $20 Plus subscription for free for a limited time",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/",
-      "pubDate": "Mon, 19 Jan 2026 20:07:57 -0500"
     }
   ]
 }

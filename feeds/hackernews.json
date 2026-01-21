@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-21T11:42:57Z",
+  "updated": "2026-01-21T12:26:25Z",
   "items": [
+    {
+      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
+      "link": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
+      "pubDate": "Wed, 21 Jan 2026 17:28:00 +0530"
+    },
     {
       "title": "Exposure Assessment Platforms Signal a Shift in Focus",
       "link": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html",
@@ -56,11 +61,6 @@
       "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
       "link": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
       "pubDate": "Tue, 20 Jan 2026 16:42:00 +0530"
-    },
-    {
-      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
-      "link": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
-      "pubDate": "Tue, 20 Jan 2026 16:15:00 +0530"
     }
   ]
 }
