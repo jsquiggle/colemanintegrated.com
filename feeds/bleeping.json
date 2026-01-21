@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T17:34:21Z",
+  "updated": "2026-01-21T18:30:11Z",
   "items": [
+    {
+      "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
+      "pubDate": "Wed, 21 Jan 2026 12:49:08 -0500"
+    },
     {
       "title": "Fake Lastpass emails pose as password vault backup alerts",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/",
@@ -56,11 +61,6 @@
       "title": "VoidLink cloud malware shows clear signs of being AI-generated",
       "link": "https://www.bleepingcomputer.com/news/security/voidlink-cloud-malware-shows-clear-signs-of-being-ai-generated/",
       "pubDate": "Tue, 20 Jan 2026 14:35:31 -0500"
-    },
-    {
-      "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-plans-cybersecurity-overhaul-to-block-foreign-high-risk-suppliers/",
-      "pubDate": "Tue, 20 Jan 2026 13:54:38 -0500"
     }
   ]
 }

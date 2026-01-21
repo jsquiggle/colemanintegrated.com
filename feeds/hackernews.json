@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-21T17:34:21Z",
+  "updated": "2026-01-21T18:30:11Z",
   "items": [
+    {
+      "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
+      "link": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
+      "pubDate": "Wed, 21 Jan 2026 22:47:00 +0530"
+    },
     {
       "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
       "link": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
@@ -56,11 +61,6 @@
       "title": "The Hidden Risk of Orphan Accounts",
       "link": "https://thehackernews.com/2026/01/the-hidden-risk-of-orphan-accounts.html",
       "pubDate": "Tue, 20 Jan 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Evelyn Stealer Malware Abuses VS Code Extensions to Steal Developer Credentials and Crypto",
-      "link": "https://thehackernews.com/2026/01/evelyn-stealer-malware-abuses-vs-code.html",
-      "pubDate": "Tue, 20 Jan 2026 17:18:00 +0530"
     }
   ]
 }
