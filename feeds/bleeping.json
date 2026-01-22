@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-22T18:18:14Z",
+  "updated": "2026-01-22T18:56:12Z",
   "items": [
+    {
+      "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
+      "pubDate": "Thu, 22 Jan 2026 13:44:21 -0500"
+    },
     {
       "title": "Microsoft Teams to add brand impersonation warnings to calls",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
@@ -56,11 +61,6 @@
       "title": "Online retailer PcComponentes says data breach claims are fake",
       "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
       "pubDate": "Wed, 21 Jan 2026 15:55:19 -0500"
-    },
-    {
-      "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
-      "pubDate": "Wed, 21 Jan 2026 12:49:08 -0500"
     }
   ]
 }
