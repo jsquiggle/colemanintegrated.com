@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-22T18:56:12Z",
+  "updated": "2026-01-22T19:19:13Z",
   "items": [
+    {
+      "title": "Curl ending bug bounty program after flood of AI slop reports",
+      "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
+      "pubDate": "Thu, 22 Jan 2026 14:01:36 -0500"
+    },
     {
       "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
@@ -56,11 +61,6 @@
       "title": "New Android malware uses AI to click on hidden browser ads",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ai-to-click-on-hidden-browser-ads/",
       "pubDate": "Wed, 21 Jan 2026 17:07:53 -0500"
-    },
-    {
-      "title": "Online retailer PcComponentes says data breach claims are fake",
-      "link": "https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/",
-      "pubDate": "Wed, 21 Jan 2026 15:55:19 -0500"
     }
   ]
 }
