@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-21T23:43:56Z",
+  "updated": "2026-01-22T00:59:09Z",
   "items": [
+    {
+      "title": "Zendesk ticket systems hijacked in massive global spam wave",
+      "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
+      "pubDate": "Wed, 21 Jan 2026 18:46:53 -0500"
+    },
     {
       "title": "Chainlit AI framework bugs let hackers breach cloud environments",
       "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
@@ -56,11 +61,6 @@
       "title": "Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026",
       "link": "https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/",
       "pubDate": "Wed, 21 Jan 2026 07:16:15 -0500"
-    },
-    {
-      "title": "OpenAI's ChatGPT Atlas browser is testing actions feature",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/",
-      "pubDate": "Tue, 20 Jan 2026 21:00:00 -0500"
     }
   ]
 }
