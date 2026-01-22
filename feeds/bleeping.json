@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-22T13:59:41Z",
+  "updated": "2026-01-22T14:32:21Z",
   "items": [
+    {
+      "title": "Microsoft updates Notepad and Paint with more AI features",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-updates-notepad-and-paint-with-more-ai-features/",
+      "pubDate": "Thu, 22 Jan 2026 09:22:23 -0500"
+    },
     {
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
@@ -56,11 +61,6 @@
       "title": "You Got Phished? Of Course! You're Human...",
       "link": "https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/",
       "pubDate": "Wed, 21 Jan 2026 09:30:39 -0500"
-    },
-    {
-      "title": "Hackers exploit security testing apps to breach Fortune 500 firms",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/",
-      "pubDate": "Wed, 21 Jan 2026 09:00:00 -0500"
     }
   ]
 }
