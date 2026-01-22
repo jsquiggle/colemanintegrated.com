@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-22T16:21:18Z",
+  "updated": "2026-01-22T16:57:49Z",
   "items": [
+    {
+      "title": "Microsoft Teams to add brand impersonation warnings to calls",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/",
+      "pubDate": "Thu, 22 Jan 2026 11:28:47 -0500"
+    },
     {
       "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
       "link": "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/",
@@ -56,11 +61,6 @@
       "title": "Fortinet admins report patched FortiGate firewalls getting hacked",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/",
       "pubDate": "Wed, 21 Jan 2026 12:49:08 -0500"
-    },
-    {
-      "title": "Fake Lastpass emails pose as password vault backup alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/",
-      "pubDate": "Wed, 21 Jan 2026 11:58:39 -0500"
     }
   ]
 }
