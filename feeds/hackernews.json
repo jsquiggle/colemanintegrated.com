@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-22T14:32:21Z",
+  "updated": "2026-01-22T15:19:54Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
+      "link": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
+      "pubDate": "Thu, 22 Jan 2026 19:53:00 +0530"
+    },
     {
       "title": "Filling the Most Common Gaps in Google Workspace Security",
       "link": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
@@ -56,11 +61,6 @@
       "title": "VoidLink Linux Malware Framework Built with AI Assistance Reaches 88,000 Lines of Code",
       "link": "https://thehackernews.com/2026/01/voidlink-linux-malware-framework-built.html",
       "pubDate": "Wed, 21 Jan 2026 14:25:00 +0530"
-    },
-    {
-      "title": "LastPass Warns of Fake Maintenance Messages Targeting Users\u2019 Master Passwords",
-      "link": "https://thehackernews.com/2026/01/lastpass-warns-of-fake-maintenance.html",
-      "pubDate": "Wed, 21 Jan 2026 12:10:00 +0530"
     }
   ]
 }
