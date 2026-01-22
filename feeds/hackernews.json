@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-22T10:51:11Z",
+  "updated": "2026-01-22T11:15:27Z",
   "items": [
     {
       "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
