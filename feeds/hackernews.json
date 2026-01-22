@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-22T10:17:19Z",
+  "updated": "2026-01-22T10:51:11Z",
   "items": [
+    {
+      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
+      "link": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
+      "pubDate": "Thu, 22 Jan 2026 15:34:00 +0530"
+    },
+    {
+      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
+      "link": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
+      "pubDate": "Thu, 22 Jan 2026 15:16:00 +0530"
+    },
     {
       "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
       "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
@@ -51,16 +61,6 @@
       "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
       "link": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
       "pubDate": "Wed, 21 Jan 2026 11:34:00 +0530"
-    },
-    {
-      "title": "North Korea-Linked Hackers Target Developers via Malicious VS Code Projects",
-      "link": "https://thehackernews.com/2026/01/north-korea-linked-hackers-target.html",
-      "pubDate": "Wed, 21 Jan 2026 00:11:00 +0530"
-    },
-    {
-      "title": "Three Flaws in Anthropic MCP Git Server Enable File Access and Code Execution",
-      "link": "https://thehackernews.com/2026/01/three-flaws-in-anthropic-mcp-git-server.html",
-      "pubDate": "Tue, 20 Jan 2026 19:25:00 +0530"
     }
   ]
 }
