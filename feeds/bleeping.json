@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-23T10:14:48Z",
+  "updated": "2026-01-23T10:48:16Z",
   "items": [
+    {
+      "title": "Fortinet confirms critical FortiCloud auth bypass not fully patched",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/",
+      "pubDate": "Fri, 23 Jan 2026 05:39:03 -0500"
+    },
     {
       "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Chainlit AI framework bugs let hackers breach cloud environments",
       "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
       "pubDate": "Wed, 21 Jan 2026 17:37:04 -0500"
-    },
-    {
-      "title": "Cisco fixes Unified Communications RCE zero day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-unified-communications-rce-zero-day-exploited-in-attacks/",
-      "pubDate": "Wed, 21 Jan 2026 17:16:21 -0500"
     }
   ]
 }
