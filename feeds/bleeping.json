@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-23T14:48:49Z",
+  "updated": "2026-01-23T15:15:34Z",
   "items": [
+    {
+      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
+      "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
+      "pubDate": "Fri, 23 Jan 2026 09:59:58 -0500"
+    },
     {
       "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit 29 zero-days on second day of Pwn2Own Automotive",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-29-zero-day-vulnerabilities-on-second-day-of-pwn2own-automotive/",
       "pubDate": "Thu, 22 Jan 2026 07:30:30 -0500"
-    },
-    {
-      "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
-      "pubDate": "Thu, 22 Jan 2026 06:49:12 -0500"
     }
   ]
 }
