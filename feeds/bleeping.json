@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-23T13:13:51Z",
+  "updated": "2026-01-23T13:56:17Z",
   "items": [
+    {
+      "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
+      "pubDate": "Fri, 23 Jan 2026 08:34:25 -0500"
+    },
     {
       "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/",
@@ -56,11 +61,6 @@
       "title": "Hackers breach Fortinet FortiGate devices, steal firewall configs",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/",
       "pubDate": "Thu, 22 Jan 2026 06:49:12 -0500"
-    },
-    {
-      "title": "Zendesk ticket systems hijacked in massive global spam wave",
-      "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
-      "pubDate": "Wed, 21 Jan 2026 18:46:53 -0500"
     }
   ]
 }
