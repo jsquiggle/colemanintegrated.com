@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-23T18:19:11Z",
+  "updated": "2026-01-23T18:55:20Z",
   "items": [
+    {
+      "title": "CISA confirms active exploitation of four enterprise software bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
+      "pubDate": "Fri, 23 Jan 2026 13:47:31 -0500"
+    },
     {
       "title": "US to deport Venezuelans who emptied bank ATMs using malware",
       "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
@@ -56,11 +61,6 @@
       "title": "INC ransomware opsec fail allowed data recovery for 12 US orgs",
       "link": "https://www.bleepingcomputer.com/news/security/inc-ransomware-opsec-fail-allowed-data-recovery-for-12-us-orgs/",
       "pubDate": "Thu, 22 Jan 2026 11:21:17 -0500"
-    },
-    {
-      "title": "Why Active Directory password resets are surging in hybrid work",
-      "link": "https://www.bleepingcomputer.com/news/security/why-active-directory-password-resets-are-surging-in-hybrid-work/",
-      "pubDate": "Thu, 22 Jan 2026 10:01:11 -0500"
     }
   ]
 }
