@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-23T12:25:45Z",
+  "updated": "2026-01-23T13:13:51Z",
   "items": [
+    {
+      "title": "Hackers get $1,047,000 for 76 zero-days at Pwn2Own Automotive 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/",
+      "pubDate": "Fri, 23 Jan 2026 07:50:11 -0500"
+    },
     {
       "title": "Fortinet confirms critical FortiCloud auth bypass not fully patched",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/",
@@ -56,11 +61,6 @@
       "title": "Zendesk ticket systems hijacked in massive global spam wave",
       "link": "https://www.bleepingcomputer.com/news/security/zendesk-ticket-systems-hijacked-in-massive-global-spam-wave/",
       "pubDate": "Wed, 21 Jan 2026 18:46:53 -0500"
-    },
-    {
-      "title": "Chainlit AI framework bugs let hackers breach cloud environments",
-      "link": "https://www.bleepingcomputer.com/news/security/chainlit-ai-framework-bugs-let-hackers-breach-cloud-environments/",
-      "pubDate": "Wed, 21 Jan 2026 17:37:04 -0500"
     }
   ]
 }
