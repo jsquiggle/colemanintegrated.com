@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-23T15:15:34Z",
+  "updated": "2026-01-23T15:46:03Z",
   "items": [
+    {
+      "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
+      "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
+      "pubDate": "Fri, 23 Jan 2026 20:54:00 +0530"
+    },
     {
       "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
       "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
@@ -56,11 +61,6 @@
       "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
       "link": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
       "pubDate": "Thu, 22 Jan 2026 11:25:00 +0530"
-    },
-    {
-      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
-      "link": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
-      "pubDate": "Thu, 22 Jan 2026 09:36:00 +0530"
     }
   ]
 }
