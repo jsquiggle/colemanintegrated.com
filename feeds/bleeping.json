@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-24T15:11:11Z",
+  "updated": "2026-01-24T15:38:50Z",
   "items": [
+    {
+      "title": "Konni hackers target blockchain engineers with AI-built malware",
+      "link": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
+      "pubDate": "Sat, 24 Jan 2026 10:23:46 -0500"
+    },
     {
       "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Curl ending bug bounty program after flood of AI slop reports",
       "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
       "pubDate": "Thu, 22 Jan 2026 14:01:36 -0500"
-    },
-    {
-      "title": "SmarterMail auth bypass flaw now exploited to hijack admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/",
-      "pubDate": "Thu, 22 Jan 2026 13:44:21 -0500"
     }
   ]
 }
