@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-24T21:36:37Z",
+  "updated": "2026-01-24T22:11:09Z",
   "items": [
+    {
+      "title": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
+      "pubDate": "Sat, 24 Jan 2026 16:58:42 -0500"
+    },
     {
       "title": "Konni hackers target blockchain engineers with AI-built malware",
       "link": "https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/",
@@ -56,11 +61,6 @@
       "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
       "pubDate": "Thu, 22 Jan 2026 16:43:43 -0500"
-    },
-    {
-      "title": "Curl ending bug bounty program after flood of AI slop reports",
-      "link": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
-      "pubDate": "Thu, 22 Jan 2026 14:01:36 -0500"
     }
   ]
 }
