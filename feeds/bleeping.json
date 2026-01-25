@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-25T01:03:56Z",
+  "updated": "2026-01-25T03:23:46Z",
   "items": [
+    {
+      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
+      "pubDate": "Sat, 24 Jan 2026 20:59:15 -0500"
+    },
     {
       "title": "Sandworm hackers linked to failed wiper attack on Poland\u2019s energy systems",
       "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/",
@@ -13,7 +18,7 @@
       "pubDate": "Sat, 24 Jan 2026 10:23:46 -0500"
     },
     {
-      "title": "ShinyHunters claim to be behind SSO-account data theft attacks",
+      "title": "ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/",
       "pubDate": "Fri, 23 Jan 2026 18:35:03 -0500"
     },
@@ -56,11 +61,6 @@
       "title": "Fortinet confirms critical FortiCloud auth bypass not fully patched",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/",
       "pubDate": "Fri, 23 Jan 2026 05:39:03 -0500"
-    },
-    {
-      "title": "Okta SSO accounts targeted in vishing-based data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/",
-      "pubDate": "Thu, 22 Jan 2026 16:43:43 -0500"
     }
   ]
 }
