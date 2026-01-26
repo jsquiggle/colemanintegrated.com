@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-26T11:39:48Z",
+  "updated": "2026-01-26T12:26:23Z",
   "items": [
+    {
+      "title": "CISA says critical VMware RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
+      "pubDate": "Mon, 26 Jan 2026 06:49:41 -0500"
+    },
     {
       "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit critical telnetd auth bypass flaw to get root",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-telnetd-auth-bypass-flaw-to-get-root/",
       "pubDate": "Fri, 23 Jan 2026 11:21:46 -0500"
-    },
-    {
-      "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
-      "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
-      "pubDate": "Fri, 23 Jan 2026 09:59:58 -0500"
     }
   ]
 }
