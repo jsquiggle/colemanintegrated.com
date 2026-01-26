@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-26T14:52:24Z",
+  "updated": "2026-01-26T15:19:13Z",
   "items": [
+    {
+      "title": "6 Okta security settings you might have overlooked",
+      "link": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
+      "pubDate": "Mon, 26 Jan 2026 10:01:11 -0500"
+    },
     {
       "title": "Hackers can bypass npm\u2019s Shai-Hulud defenses via Git dependencies",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
@@ -56,11 +61,6 @@
       "title": "CISA confirms active exploitation of four enterprise software bugs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
       "pubDate": "Fri, 23 Jan 2026 13:47:31 -0500"
-    },
-    {
-      "title": "US to deport Venezuelans who emptied bank ATMs using malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-to-deport-venezuelans-who-emptied-bank-atms-using-malware/",
-      "pubDate": "Fri, 23 Jan 2026 11:38:54 -0500"
     }
   ]
 }
