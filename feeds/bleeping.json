@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-25T23:39:04Z",
+  "updated": "2026-01-26T01:02:45Z",
   "items": [
+    {
+      "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
+      "pubDate": "Sun, 25 Jan 2026 20:01:12 -0500"
+    },
     {
       "title": "1Password adds pop-up warnings for suspected phishing sites",
       "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
@@ -56,11 +61,6 @@
       "title": "What an AI-Written Honeypot Taught Us About Trusting Machines",
       "link": "https://www.bleepingcomputer.com/news/security/what-an-ai-written-honeypot-taught-us-about-trusting-machines/",
       "pubDate": "Fri, 23 Jan 2026 09:59:58 -0500"
-    },
-    {
-      "title": "Microsoft: Outlook for iOS crashes, freezes due to coding error",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/",
-      "pubDate": "Fri, 23 Jan 2026 08:34:25 -0500"
     }
   ]
 }
