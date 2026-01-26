@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-26T15:19:13Z",
+  "updated": "2026-01-26T15:49:25Z",
   "items": [
+    {
+      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
+      "pubDate": "Mon, 26 Jan 2026 10:19:14 -0500"
+    },
     {
       "title": "6 Okta security settings you might have overlooked",
       "link": "https://www.bleepingcomputer.com/news/security/6-okta-security-settings-you-might-have-overlooked/",
@@ -56,11 +61,6 @@
       "title": "Malicious AI extensions on VSCode Marketplace steal developer data",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/",
       "pubDate": "Fri, 23 Jan 2026 15:11:58 -0500"
-    },
-    {
-      "title": "CISA confirms active exploitation of four enterprise software bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
-      "pubDate": "Fri, 23 Jan 2026 13:47:31 -0500"
     }
   ]
 }
