@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-27T08:18:56Z",
+  "updated": "2026-01-27T08:53:57Z",
   "items": [
+    {
+      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
+      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
+      "pubDate": "Tue, 27 Jan 2026 12:49:00 +0530"
+    },
     {
       "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
       "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
@@ -56,11 +61,6 @@
       "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
       "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
       "pubDate": "Fri, 23 Jan 2026 18:00:00 +0530"
-    },
-    {
-      "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
-      "link": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html",
-      "pubDate": "Fri, 23 Jan 2026 17:00:00 +0530"
     }
   ]
 }
