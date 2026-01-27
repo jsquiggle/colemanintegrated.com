@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T16:54:12Z",
+  "updated": "2026-01-27T17:20:08Z",
   "items": [
     {
       "title": "Nike investigates data breach after extortion gang leaks files",
@@ -8,7 +8,7 @@
       "pubDate": "Tue, 27 Jan 2026 11:45:46 -0500"
     },
     {
-      "title": "Critical sandbox escape flaw discovered in popular vm2 NodeJS library",
+      "title": "Critical sandbox escape flaw found in popular vm2 NodeJS library",
       "link": "https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/",
       "pubDate": "Tue, 27 Jan 2026 11:35:29 -0500"
     },
