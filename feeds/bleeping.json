@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-26T23:41:38Z",
+  "updated": "2026-01-27T01:01:21Z",
   "items": [
+    {
+      "title": "New malware service guarantees phishing extensions on Chrome web store",
+      "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
+      "pubDate": "Mon, 26 Jan 2026 18:46:09 -0500"
+    },
     {
       "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
@@ -56,11 +61,6 @@
       "title": "Microsoft investigates Windows 11 boot failures after January updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
       "pubDate": "Sun, 25 Jan 2026 08:20:28 -0500"
-    },
-    {
-      "title": "Microsoft releases emergency OOB update to fix Outlook freezes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/",
-      "pubDate": "Sat, 24 Jan 2026 20:59:15 -0500"
     }
   ]
 }
