@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T23:12:37Z",
+  "updated": "2026-01-27T23:41:09Z",
   "items": [
+    {
+      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
+      "pubDate": "Tue, 27 Jan 2026 18:19:42 -0500"
+    },
     {
       "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
@@ -56,11 +61,6 @@
       "title": "Microsoft patches actively exploited Office zero-day vulnerability",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
       "pubDate": "Mon, 26 Jan 2026 13:20:35 -0500"
-    },
-    {
-      "title": "Cloudflare misconfiguration behind recent BGP route leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
-      "pubDate": "Mon, 26 Jan 2026 12:50:35 -0500"
     }
   ]
 }
