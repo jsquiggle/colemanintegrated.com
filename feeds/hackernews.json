@@ -1,11 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-27T11:15:17Z",
+  "updated": "2026-01-27T11:42:09Z",
   "items": [
     {
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "pubDate": "Tue, 27 Jan 2026 12:49:00 +0530"
+      "pubDate": "Tue, 27 Jan 2026 16:07:00 +0530"
+    },
+    {
+      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+      "pubDate": "Tue, 27 Jan 2026 16:06:00 +0530"
+    },
+    {
+      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+      "pubDate": "Tue, 27 Jan 2026 14:31:00 +0530"
     },
     {
       "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
@@ -51,16 +61,6 @@
       "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
       "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
       "pubDate": "Sat, 24 Jan 2026 13:39:00 +0530"
-    },
-    {
-      "title": "CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html",
-      "pubDate": "Fri, 23 Jan 2026 20:54:00 +0530"
-    },
-    {
-      "title": "Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls",
-      "link": "https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html",
-      "pubDate": "Fri, 23 Jan 2026 18:00:00 +0530"
     }
   ]
 }
