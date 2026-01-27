@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T22:13:49Z",
+  "updated": "2026-01-27T22:43:15Z",
   "items": [
+    {
+      "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
+      "pubDate": "Tue, 27 Jan 2026 17:26:26 -0500"
+    },
     {
       "title": "WinRAR path traversal flaw still exploited by numerous hackers",
       "link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
@@ -56,11 +61,6 @@
       "title": "Cloudflare misconfiguration behind recent BGP route leak",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-misconfiguration-behind-recent-bgp-route-leak/",
       "pubDate": "Mon, 26 Jan 2026 12:50:35 -0500"
-    },
-    {
-      "title": "EU launches investigation into X over Grok-generated sexual images",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
-      "pubDate": "Mon, 26 Jan 2026 12:14:29 -0500"
     }
   ]
 }
