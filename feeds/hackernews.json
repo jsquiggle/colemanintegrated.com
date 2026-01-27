@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-27T12:26:13Z",
+  "updated": "2026-01-27T13:25:58Z",
   "items": [
+    {
+      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
+      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
+      "pubDate": "Tue, 27 Jan 2026 17:20:00 +0530"
+    },
     {
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
@@ -56,11 +61,6 @@
       "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
       "link": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
       "pubDate": "Sat, 24 Jan 2026 13:50:00 +0530"
-    },
-    {
-      "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
-      "pubDate": "Sat, 24 Jan 2026 13:39:00 +0530"
     }
   ]
 }
