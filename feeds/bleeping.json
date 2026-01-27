@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T19:01:01Z",
+  "updated": "2026-01-27T19:44:58Z",
   "items": [
+    {
+      "title": "WinRAR path traversal flaw still exploited by numerous hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
+      "pubDate": "Tue, 27 Jan 2026 14:38:24 -0500"
+    },
     {
       "title": "Nike investigates data breach after extortion gang leaks files",
       "link": "https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/",
@@ -56,11 +61,6 @@
       "title": "EU launches investigation into X over Grok-generated sexual images",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/eu-launches-investigation-into-x-over-grok-generated-sexual-images/",
       "pubDate": "Mon, 26 Jan 2026 12:14:29 -0500"
-    },
-    {
-      "title": "Nearly 800,000 Telnet servers exposed to remote attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-800-000-telnet-servers-exposed-to-remote-attacks/",
-      "pubDate": "Mon, 26 Jan 2026 10:19:14 -0500"
     }
   ]
 }
