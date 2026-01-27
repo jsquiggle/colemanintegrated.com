@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T14:00:48Z",
+  "updated": "2026-01-27T14:54:58Z",
   "items": [
+    {
+      "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
+      "pubDate": "Tue, 27 Jan 2026 09:09:47 -0500"
+    },
     {
       "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
       "pubDate": "Sun, 25 Jan 2026 20:01:12 -0500"
-    },
-    {
-      "title": "1Password adds pop-up warnings for suspected phishing sites",
-      "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
-      "pubDate": "Sun, 25 Jan 2026 10:17:12 -0500"
     }
   ]
 }
