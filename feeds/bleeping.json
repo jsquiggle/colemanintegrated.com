@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T11:42:09Z",
+  "updated": "2026-01-27T12:26:13Z",
   "items": [
+    {
+      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
+      "pubDate": "Tue, 27 Jan 2026 07:25:00 -0500"
+    },
     {
       "title": "New malware service guarantees phishing extensions on Chrome web store",
       "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
@@ -56,11 +61,6 @@
       "title": "1Password adds pop-up warnings for suspected phishing sites",
       "link": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
       "pubDate": "Sun, 25 Jan 2026 10:17:12 -0500"
-    },
-    {
-      "title": "Microsoft investigates Windows 11 boot failures after January updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
-      "pubDate": "Sun, 25 Jan 2026 08:20:28 -0500"
     }
   ]
 }
