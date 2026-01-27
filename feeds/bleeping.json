@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T14:54:58Z",
+  "updated": "2026-01-27T15:21:02Z",
   "items": [
+    {
+      "title": "From Cipher to Fear: The psychology behind modern ransomware extortion",
+      "link": "https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/",
+      "pubDate": "Tue, 27 Jan 2026 10:02:12 -0500"
+    },
     {
       "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
@@ -56,11 +61,6 @@
       "title": "CISA says critical VMware RCE flaw now actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
       "pubDate": "Mon, 26 Jan 2026 06:49:41 -0500"
-    },
-    {
-      "title": "ChatGPT Temporary chat feature is getting a much-needed upgrade",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-temporary-chat-feature-is-getting-a-much-needed-upgrade/",
-      "pubDate": "Sun, 25 Jan 2026 20:01:12 -0500"
     }
   ]
 }
