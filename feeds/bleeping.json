@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-28T21:50:43Z",
+  "updated": "2026-01-28T22:16:58Z",
   "items": [
+    {
+      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
+      "pubDate": "Wed, 28 Jan 2026 17:14:35 -0500"
+    },
     {
       "title": "eScan confirms update server breached to push malicious update",
       "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
@@ -56,11 +61,6 @@
       "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
       "pubDate": "Tue, 27 Jan 2026 19:04:45 -0500"
-    },
-    {
-      "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
-      "pubDate": "Tue, 27 Jan 2026 18:19:42 -0500"
     }
   ]
 }
