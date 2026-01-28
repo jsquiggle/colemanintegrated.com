@@ -1,16 +1,16 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-28T17:53:53Z",
+  "updated": "2026-01-28T18:24:36Z",
   "items": [
+    {
+      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
+      "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
+      "pubDate": "Wed, 28 Jan 2026 23:16:00 +0530"
+    },
     {
       "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
       "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
       "pubDate": "Wed, 28 Jan 2026 21:36:00 +0530"
-    },
-    {
-      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-      "pubDate": "Wed, 28 Jan 2026 19:31:00 +0530"
     },
     {
       "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
@@ -21,6 +21,11 @@
       "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
       "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
       "pubDate": "Wed, 28 Jan 2026 17:25:00 +0530"
+    },
+    {
+      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+      "pubDate": "Wed, 28 Jan 2026 17:20:00 +0530"
     },
     {
       "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
@@ -56,11 +61,6 @@
       "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
       "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
       "pubDate": "Tue, 27 Jan 2026 22:15:00 +0530"
-    },
-    {
-      "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
-      "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
-      "pubDate": "Tue, 27 Jan 2026 20:08:00 +0530"
     }
   ]
 }
