@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-28T10:18:22Z",
+  "updated": "2026-01-28T10:52:19Z",
   "items": [
+    {
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "pubDate": "Wed, 28 Jan 2026 16:00:00 +0530"
+    },
+    {
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "link": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "pubDate": "Wed, 28 Jan 2026 15:16:00 +0530"
+    },
+    {
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "pubDate": "Wed, 28 Jan 2026 15:00:00 +0530"
+    },
     {
       "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
       "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
@@ -46,21 +61,6 @@
       "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
       "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
       "pubDate": "Mon, 26 Jan 2026 22:31:00 +0530"
-    },
-    {
-      "title": "Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code",
-      "link": "https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html",
-      "pubDate": "Mon, 26 Jan 2026 21:13:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More",
-      "link": "https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html",
-      "pubDate": "Mon, 26 Jan 2026 17:25:00 +0530"
-    },
-    {
-      "title": "Winning Against AI-Based Attacks Requires a Combined Defensive Approach",
-      "link": "https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html",
-      "pubDate": "Mon, 26 Jan 2026 17:00:00 +0530"
     }
   ]
 }
