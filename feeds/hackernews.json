@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-28T14:01:00Z",
+  "updated": "2026-01-28T14:54:18Z",
   "items": [
+    {
+      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
+      "pubDate": "Wed, 28 Jan 2026 19:31:00 +0530"
+    },
     {
       "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
       "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
@@ -56,11 +61,6 @@
       "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
       "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
       "pubDate": "Tue, 27 Jan 2026 17:20:00 +0530"
-    },
-    {
-      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
-      "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
-      "pubDate": "Tue, 27 Jan 2026 16:07:00 +0530"
     }
   ]
 }
