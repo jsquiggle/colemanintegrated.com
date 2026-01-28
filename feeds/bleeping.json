@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-28T20:53:44Z",
+  "updated": "2026-01-28T21:20:28Z",
   "items": [
+    {
+      "title": "eScan confirms update server breached to push malicious update",
+      "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
+      "pubDate": "Wed, 28 Jan 2026 16:00:40 -0500"
+    },
     {
       "title": "Viral Moltbot AI assistant raises concerns over data security",
       "link": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
@@ -56,11 +61,6 @@
       "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
       "pubDate": "Tue, 27 Jan 2026 18:19:42 -0500"
-    },
-    {
-      "title": "Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/",
-      "pubDate": "Tue, 27 Jan 2026 17:26:26 -0500"
     }
   ]
 }
