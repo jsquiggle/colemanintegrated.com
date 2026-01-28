@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-28T11:41:32Z",
+  "updated": "2026-01-28T12:27:03Z",
   "items": [
+    {
+      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
+      "pubDate": "Wed, 28 Jan 2026 06:48:26 -0500"
+    },
     {
       "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
@@ -56,11 +61,6 @@
       "title": "New malware service guarantees phishing extensions on Chrome web store",
       "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
       "pubDate": "Mon, 26 Jan 2026 18:46:09 -0500"
-    },
-    {
-      "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
-      "pubDate": "Mon, 26 Jan 2026 16:42:12 -0500"
     }
   ]
 }
