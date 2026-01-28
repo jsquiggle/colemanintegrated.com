@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-27T23:41:09Z",
+  "updated": "2026-01-28T00:58:36Z",
   "items": [
+    {
+      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
+      "pubDate": "Tue, 27 Jan 2026 19:04:45 -0500"
+    },
     {
       "title": "Fortinet blocks exploited FortiCloud SSO zero day until patch is ready",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/",
@@ -56,11 +61,6 @@
       "title": "New ClickFix attacks abuse Windows App-V scripts to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/",
       "pubDate": "Mon, 26 Jan 2026 16:42:12 -0500"
-    },
-    {
-      "title": "Microsoft patches actively exploited Office zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-actively-exploited-office-zero-day-vulnerability/",
-      "pubDate": "Mon, 26 Jan 2026 13:20:35 -0500"
     }
   ]
 }
