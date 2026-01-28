@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-28T23:17:40Z",
+  "updated": "2026-01-28T23:45:50Z",
   "items": [
+    {
+      "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
+      "pubDate": "Wed, 28 Jan 2026 18:29:00 -0500"
+    },
     {
       "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
@@ -56,11 +61,6 @@
       "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
       "pubDate": "Wed, 28 Jan 2026 06:48:26 -0500"
-    },
-    {
-      "title": "OpenAI's ChatGPT ad costs are on par with live NFL broadcasts",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/",
-      "pubDate": "Tue, 27 Jan 2026 19:04:45 -0500"
     }
   ]
 }
