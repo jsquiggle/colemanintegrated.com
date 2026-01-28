@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-28T17:03:21Z",
+  "updated": "2026-01-28T17:53:53Z",
   "items": [
+    {
+      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+      "link": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
+      "pubDate": "Wed, 28 Jan 2026 21:36:00 +0530"
+    },
     {
       "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
       "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
@@ -56,11 +61,6 @@
       "title": "ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services",
       "link": "https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html",
       "pubDate": "Tue, 27 Jan 2026 20:08:00 +0530"
-    },
-    {
-      "title": "CTEM in Practice: Prioritization, Validation, and Outcomes That Matter",
-      "link": "https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html",
-      "pubDate": "Tue, 27 Jan 2026 17:20:00 +0530"
     }
   ]
 }
