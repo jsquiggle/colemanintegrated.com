@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-28T12:27:03Z",
+  "updated": "2026-01-28T13:27:38Z",
   "items": [
+    {
+      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
+      "pubDate": "Wed, 28 Jan 2026 18:13:00 +0530"
+    },
+    {
+      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
+      "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
+      "pubDate": "Wed, 28 Jan 2026 17:25:00 +0530"
+    },
+    {
+      "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
+      "link": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
+      "pubDate": "Wed, 28 Jan 2026 17:10:00 +0530"
+    },
     {
       "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
       "link": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
@@ -46,21 +61,6 @@
       "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
       "link": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
       "pubDate": "Tue, 27 Jan 2026 16:07:00 +0530"
-    },
-    {
-      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
-      "link": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
-      "pubDate": "Tue, 27 Jan 2026 16:06:00 +0530"
-    },
-    {
-      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
-      "link": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
-      "pubDate": "Tue, 27 Jan 2026 14:31:00 +0530"
-    },
-    {
-      "title": "Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware",
-      "link": "https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html",
-      "pubDate": "Mon, 26 Jan 2026 22:31:00 +0530"
     }
   ]
 }

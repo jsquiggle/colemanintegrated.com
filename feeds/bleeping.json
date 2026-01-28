@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-28T12:27:03Z",
+  "updated": "2026-01-28T13:27:38Z",
   "items": [
+    {
+      "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
+      "pubDate": "Wed, 28 Jan 2026 08:15:03 -0500"
+    },
+    {
+      "title": "Slovakian man pleads guilty to operating darknet marketplace",
+      "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
+      "pubDate": "Wed, 28 Jan 2026 07:49:05 -0500"
+    },
     {
       "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
@@ -51,16 +61,6 @@
       "title": "Over 6,000 SmarterMail servers exposed to automated hijacking attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/",
       "pubDate": "Tue, 27 Jan 2026 09:09:47 -0500"
-    },
-    {
-      "title": "Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/",
-      "pubDate": "Tue, 27 Jan 2026 07:25:00 -0500"
-    },
-    {
-      "title": "New malware service guarantees phishing extensions on Chrome web store",
-      "link": "https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/",
-      "pubDate": "Mon, 26 Jan 2026 18:46:09 -0500"
     }
   ]
 }
