@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T11:49:46Z",
+  "updated": "2026-01-29T12:31:54Z",
   "items": [
+    {
+      "title": "Google rolls out Android theft protection feature updates",
+      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/",
+      "pubDate": "Thu, 29 Jan 2026 06:56:26 -0500"
+    },
     {
       "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Slovakian man pleads guilty to operating darknet marketplace",
       "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
       "pubDate": "Wed, 28 Jan 2026 07:49:05 -0500"
-    },
-    {
-      "title": "New WhatsApp lockdown feature protects high-risk users from hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/",
-      "pubDate": "Wed, 28 Jan 2026 06:48:26 -0500"
     }
   ]
 }
