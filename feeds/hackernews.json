@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-29T07:10:15Z",
+  "updated": "2026-01-29T07:57:29Z",
   "items": [
+    {
+      "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
+      "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
+      "pubDate": "Thu, 29 Jan 2026 12:46:00 +0530"
+    },
     {
       "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
       "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
@@ -56,11 +61,6 @@
       "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
       "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
       "pubDate": "Tue, 27 Jan 2026 22:24:00 +0530"
-    },
-    {
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "link": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "pubDate": "Tue, 27 Jan 2026 22:15:00 +0530"
     }
   ]
 }
