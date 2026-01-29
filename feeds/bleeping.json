@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T18:01:38Z",
+  "updated": "2026-01-29T19:07:04Z",
   "items": [
+    {
+      "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
+      "link": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
+      "pubDate": "Thu, 29 Jan 2026 13:09:40 -0500"
+    },
     {
       "title": "Marquis blames ransomware breach on SonicWall cloud backup hack",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/",
@@ -56,11 +61,6 @@
       "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
       "pubDate": "Wed, 28 Jan 2026 12:46:57 -0500"
-    },
-    {
-      "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
-      "pubDate": "Wed, 28 Jan 2026 12:38:45 -0500"
     }
   ]
 }
