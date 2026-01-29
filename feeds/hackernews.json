@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-29T09:32:07Z",
+  "updated": "2026-01-29T10:26:06Z",
   "items": [
+    {
+      "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
+      "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
+      "pubDate": "Thu, 29 Jan 2026 14:30:00 +0530"
+    },
     {
       "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
       "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
@@ -56,11 +61,6 @@
       "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
       "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
       "pubDate": "Wed, 28 Jan 2026 10:19:00 +0530"
-    },
-    {
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "link": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "pubDate": "Tue, 27 Jan 2026 22:24:00 +0530"
     }
   ]
 }
