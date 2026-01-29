@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T19:07:04Z",
+  "updated": "2026-01-29T19:48:48Z",
   "items": [
+    {
+      "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
+      "pubDate": "Thu, 29 Jan 2026 14:29:17 -0500"
+    },
     {
       "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
       "link": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
@@ -56,11 +61,6 @@
       "title": "Viral Moltbot AI assistant raises concerns over data security",
       "link": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
       "pubDate": "Wed, 28 Jan 2026 15:26:59 -0500"
-    },
-    {
-      "title": "New sandbox escape flaw exposes n8n instances to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-sandbox-escape-flaw-exposes-n8n-instances-to-rce-attacks/",
-      "pubDate": "Wed, 28 Jan 2026 12:46:57 -0500"
     }
   ]
 }
