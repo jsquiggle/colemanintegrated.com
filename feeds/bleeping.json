@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T21:48:07Z",
+  "updated": "2026-01-29T22:17:02Z",
   "items": [
+    {
+      "title": "Hugging Face abused to spread thousands of Android malware variants",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
+      "pubDate": "Thu, 29 Jan 2026 17:08:19 -0500"
+    },
+    {
+      "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
+      "pubDate": "Thu, 29 Jan 2026 17:07:33 -0500"
+    },
     {
       "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
       "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
@@ -51,16 +61,6 @@
       "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
       "pubDate": "Wed, 28 Jan 2026 17:14:35 -0500"
-    },
-    {
-      "title": "eScan confirms update server breached to push malicious update",
-      "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
-      "pubDate": "Wed, 28 Jan 2026 16:00:40 -0500"
-    },
-    {
-      "title": "Viral Moltbot AI assistant raises concerns over data security",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-moltbot-ai-assistant-raises-concerns-over-data-security/",
-      "pubDate": "Wed, 28 Jan 2026 15:26:59 -0500"
     }
   ]
 }
