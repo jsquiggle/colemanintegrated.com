@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T17:29:18Z",
+  "updated": "2026-01-29T18:01:38Z",
   "items": [
+    {
+      "title": "Marquis blames ransomware breach on SonicWall cloud backup hack",
+      "link": "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/",
+      "pubDate": "Thu, 29 Jan 2026 12:57:58 -0500"
+    },
     {
       "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
       "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
@@ -56,11 +61,6 @@
       "title": "FBI seizes RAMP cybercrime forum used by ransomware gangs",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-ramp-cybercrime-forum-used-by-ransomware-gangs/",
       "pubDate": "Wed, 28 Jan 2026 12:38:45 -0500"
-    },
-    {
-      "title": "Empire cybercrime market owner pleads guilty to drug conspiracy",
-      "link": "https://www.bleepingcomputer.com/news/security/empire-cybercrime-market-owner-pleads-guilty-to-drug-conspiracy/",
-      "pubDate": "Wed, 28 Jan 2026 12:19:02 -0500"
     }
   ]
 }
