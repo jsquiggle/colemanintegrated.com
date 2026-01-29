@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T12:31:54Z",
+  "updated": "2026-01-29T13:52:14Z",
   "items": [
+    {
+      "title": "France fines unemployment agency \u20ac5 million over data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/france-fines-unemployment-agency-5-million-over-data-breach/",
+      "pubDate": "Thu, 29 Jan 2026 08:36:01 -0500"
+    },
     {
       "title": "Google rolls out Android theft protection feature updates",
       "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-android-theft-protection-feature-updates/",
@@ -56,11 +61,6 @@
       "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
       "pubDate": "Wed, 28 Jan 2026 08:15:03 -0500"
-    },
-    {
-      "title": "Slovakian man pleads guilty to operating darknet marketplace",
-      "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
-      "pubDate": "Wed, 28 Jan 2026 07:49:05 -0500"
     }
   ]
 }
