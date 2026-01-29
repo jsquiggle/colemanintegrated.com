@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-29T11:03:10Z",
+  "updated": "2026-01-29T11:49:46Z",
   "items": [
+    {
+      "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
+      "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
+      "pubDate": "Thu, 29 Jan 2026 16:00:00 +0530"
+    },
     {
       "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
       "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
@@ -56,11 +61,6 @@
       "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
       "link": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
       "pubDate": "Wed, 28 Jan 2026 15:00:00 +0530"
-    },
-    {
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "link": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "pubDate": "Wed, 28 Jan 2026 10:19:00 +0530"
     }
   ]
 }
