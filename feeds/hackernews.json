@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-30T13:47:28Z",
+  "updated": "2026-01-30T14:26:49Z",
   "items": [
+    {
+      "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
+      "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
+      "pubDate": "Fri, 30 Jan 2026 19:12:00 +0530"
+    },
     {
       "title": "China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware",
       "link": "https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html",
@@ -56,11 +61,6 @@
       "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
       "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
       "pubDate": "Thu, 29 Jan 2026 12:46:00 +0530"
-    },
-    {
-      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-      "link": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
-      "pubDate": "Wed, 28 Jan 2026 23:16:00 +0530"
     }
   ]
 }
