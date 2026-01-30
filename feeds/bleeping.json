@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-29T23:46:01Z",
+  "updated": "2026-01-30T01:06:42Z",
   "items": [
+    {
+      "title": "Microsoft links Windows 11 boot failures to failed December 2025 update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-windows-11-boot-failures-to-failed-december-2025-update/",
+      "pubDate": "Thu, 29 Jan 2026 19:21:49 -0500"
+    },
     {
       "title": "Hugging Face abused to spread thousands of Android malware variants",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
@@ -56,11 +61,6 @@
       "title": "Initial access hackers switch to Tsundere Bot for ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/initial-access-hackers-switch-to-tsundere-bot-for-ransomware-attacks/",
       "pubDate": "Wed, 28 Jan 2026 18:29:00 -0500"
-    },
-    {
-      "title": "Cyberattack on Polish energy grid impacted around 30 facilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-on-polish-energy-grid-impacted-around-30-facilities/",
-      "pubDate": "Wed, 28 Jan 2026 17:14:35 -0500"
     }
   ]
 }
