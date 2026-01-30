@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-30T17:04:44Z",
+  "updated": "2026-01-30T17:57:06Z",
   "items": [
+    {
+      "title": "Microsoft to disable NTLM by default in future Windows releases",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
+      "pubDate": "Fri, 30 Jan 2026 12:08:57 -0500"
+    },
     {
       "title": "Operation Switch Off dismantles major pirate TV streaming services",
       "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
@@ -56,11 +61,6 @@
       "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
       "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
       "pubDate": "Thu, 29 Jan 2026 09:55:25 -0500"
-    },
-    {
-      "title": "New Microsoft Teams feature will let you report suspicious calls",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-feature-will-let-you-report-suspicious-calls/",
-      "pubDate": "Thu, 29 Jan 2026 09:49:47 -0500"
     }
   ]
 }
