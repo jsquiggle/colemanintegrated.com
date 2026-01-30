@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-30T18:34:32Z",
+  "updated": "2026-01-30T19:24:17Z",
   "items": [
+    {
+      "title": "Crypto wallets received a record $158 billion in illicit funds last year",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
+      "pubDate": "Fri, 30 Jan 2026 13:49:51 -0500"
+    },
     {
       "title": "Microsoft to disable NTLM by default in future Windows releases",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
@@ -56,11 +61,6 @@
       "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
       "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
       "pubDate": "Thu, 29 Jan 2026 10:02:12 -0500"
-    },
-    {
-      "title": "Aisuru botnet sets new record with 31.4 Tbps DDoS attack",
-      "link": "https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/",
-      "pubDate": "Thu, 29 Jan 2026 09:55:25 -0500"
     }
   ]
 }
