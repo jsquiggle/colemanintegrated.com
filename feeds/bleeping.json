@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-31T14:15:36Z",
+  "updated": "2026-01-31T14:47:16Z",
   "items": [
+    {
+      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
+      "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
+      "pubDate": "Sat, 31 Jan 2026 09:27:12 -0500"
+    },
     {
       "title": "Crypto wallets received a record $158 billion in illicit funds last year",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
@@ -56,11 +61,6 @@
       "title": "Marquis blames ransomware breach on SonicWall cloud backup hack",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/",
       "pubDate": "Thu, 29 Jan 2026 12:57:58 -0500"
-    },
-    {
-      "title": "Not a Kids Game: From Roblox Mod to Compromising Your Company",
-      "link": "https://www.bleepingcomputer.com/news/security/not-a-kids-game-from-roblox-mod-to-compromising-your-company/",
-      "pubDate": "Thu, 29 Jan 2026 10:02:12 -0500"
     }
   ]
 }
