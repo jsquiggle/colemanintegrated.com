@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-31T14:47:16Z",
+  "updated": "2026-01-31T15:13:27Z",
   "items": [
+    {
+      "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
+      "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
+      "pubDate": "Sat, 31 Jan 2026 10:02:12 -0500"
+    },
     {
       "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
       "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
@@ -56,11 +61,6 @@
       "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
       "link": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
       "pubDate": "Thu, 29 Jan 2026 13:09:40 -0500"
-    },
-    {
-      "title": "Marquis blames ransomware breach on SonicWall cloud backup hack",
-      "link": "https://www.bleepingcomputer.com/news/security/marquis-blames-ransomware-breach-on-sonicwall-cloud-backup-hack/",
-      "pubDate": "Thu, 29 Jan 2026 12:57:58 -0500"
     }
   ]
 }
