@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-31T16:15:07Z",
+  "updated": "2026-01-31T16:51:11Z",
   "items": [
+    {
+      "title": "Cloud storage payment scam floods inboxes with fake renewals",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
+      "pubDate": "Sat, 31 Jan 2026 11:21:32 -0500"
+    },
     {
       "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
       "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
@@ -56,11 +61,6 @@
       "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
       "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
       "pubDate": "Thu, 29 Jan 2026 14:29:17 -0500"
-    },
-    {
-      "title": "Match Group breach exposes data from Hinge, Tinder, OkCupid, and Match",
-      "link": "https://www.bleepingcomputer.com/news/security/match-group-breach-exposes-data-from-hinge-tinder-okcupid-and-match/",
-      "pubDate": "Thu, 29 Jan 2026 13:09:40 -0500"
     }
   ]
 }
