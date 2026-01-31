@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-01-31T17:15:22Z",
+  "updated": "2026-01-31T17:45:24Z",
   "items": [
+    {
+      "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
+      "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
+      "pubDate": "Sat, 31 Jan 2026 12:33:42 -0500"
+    },
     {
       "title": "Cloud storage payment scam floods inboxes with fake renewals",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
@@ -56,11 +61,6 @@
       "title": "Ivanti warns of two EPMM flaws exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
       "pubDate": "Thu, 29 Jan 2026 17:07:33 -0500"
-    },
-    {
-      "title": "Google disrupts IPIDEA residential proxy networks fueled by malware",
-      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-ipidea-residential-proxy-networks-fueled-by-malware/",
-      "pubDate": "Thu, 29 Jan 2026 14:29:17 -0500"
     }
   ]
 }
