@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-31T07:02:02Z",
+  "updated": "2026-01-31T07:45:47Z",
   "items": [
+    {
+      "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
+      "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+      "pubDate": "Sat, 31 Jan 2026 12:35:00 +0530"
+    },
     {
       "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
       "link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
@@ -18,7 +23,7 @@
       "pubDate": "Fri, 30 Jan 2026 17:00:00 +0530"
     },
     {
-      "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+      "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
       "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
       "pubDate": "Fri, 30 Jan 2026 13:05:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
       "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
       "pubDate": "Thu, 29 Jan 2026 14:30:00 +0530"
-    },
-    {
-      "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
-      "link": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
-      "pubDate": "Thu, 29 Jan 2026 12:46:00 +0530"
     }
   ]
 }
