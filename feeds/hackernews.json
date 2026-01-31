@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-31T08:17:04Z",
+  "updated": "2026-01-31T08:51:16Z",
   "items": [
+    {
+      "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
+      "link": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
+      "pubDate": "Sat, 31 Jan 2026 13:28:00 +0530"
+    },
     {
       "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
       "link": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
@@ -56,11 +61,6 @@
       "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
       "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
       "pubDate": "Thu, 29 Jan 2026 16:00:00 +0530"
-    },
-    {
-      "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
-      "link": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
-      "pubDate": "Thu, 29 Jan 2026 14:30:00 +0530"
     }
   ]
 }
