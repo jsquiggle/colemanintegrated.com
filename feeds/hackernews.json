@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-01-31T12:24:04Z",
+  "updated": "2026-01-31T13:13:38Z",
   "items": [
+    {
+      "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
+      "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
+      "pubDate": "Sat, 31 Jan 2026 17:32:00 +0530"
+    },
     {
       "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
       "link": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
@@ -56,11 +61,6 @@
       "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
       "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
       "pubDate": "Thu, 29 Jan 2026 17:25:00 +0530"
-    },
-    {
-      "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
-      "link": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
-      "pubDate": "Thu, 29 Jan 2026 16:00:00 +0530"
     }
   ]
 }
