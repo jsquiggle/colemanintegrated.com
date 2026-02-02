@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-02T03:59:03Z",
+  "updated": "2026-02-02T05:23:14Z",
   "items": [
+    {
+      "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+      "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+      "pubDate": "Mon, 02 Feb 2026 10:34:00 +0530"
+    },
     {
       "title": "Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists",
       "link": "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
       "link": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
       "pubDate": "Thu, 29 Jan 2026 18:31:00 +0530"
-    },
-    {
-      "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
-      "link": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
-      "pubDate": "Thu, 29 Jan 2026 17:25:00 +0530"
     }
   ]
 }
