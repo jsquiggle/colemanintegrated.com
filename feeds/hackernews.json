@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-02T09:35:38Z",
+  "updated": "2026-02-02T10:34:07Z",
   "items": [
+    {
+      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
+      "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+      "pubDate": "Mon, 02 Feb 2026 14:25:00 +0530"
+    },
     {
       "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
       "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
@@ -56,11 +61,6 @@
       "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
       "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
       "pubDate": "Fri, 30 Jan 2026 10:13:00 +0530"
-    },
-    {
-      "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
-      "link": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
-      "pubDate": "Fri, 30 Jan 2026 00:07:00 +0530"
     }
   ]
 }

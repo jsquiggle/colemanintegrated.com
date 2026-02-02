@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-02T09:35:38Z",
+  "updated": "2026-02-02T10:34:07Z",
   "items": [
+    {
+      "title": "NationStates confirms data breach, shuts down game site",
+      "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
+      "pubDate": "Mon, 02 Feb 2026 05:05:57 -0500"
+    },
     {
       "title": "Exposed MongoDB instances still targeted in data extortion attacks",
       "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
@@ -56,11 +61,6 @@
       "title": "Operation Switch Off dismantles major pirate TV streaming services",
       "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
       "pubDate": "Fri, 30 Jan 2026 11:39:43 -0500"
-    },
-    {
-      "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
-      "pubDate": "Fri, 30 Jan 2026 09:48:49 -0500"
     }
   ]
 }
