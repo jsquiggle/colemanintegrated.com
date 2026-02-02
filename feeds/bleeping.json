@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-02T15:29:53Z",
+  "updated": "2026-02-02T15:58:56Z",
   "items": [
+    {
+      "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
+      "pubDate": "Mon, 02 Feb 2026 10:34:44 -0500"
+    },
     {
       "title": "Notepad++ update feature hijacked by Chinese state hackers for months",
       "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/",
@@ -56,11 +61,6 @@
       "title": "Mandiant details how ShinyHunters abuse SSO to steal cloud data",
       "link": "https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/",
       "pubDate": "Sat, 31 Jan 2026 10:02:12 -0500"
-    },
-    {
-      "title": "Researcher reveals evidence of private Instagram profiles leaking photos",
-      "link": "https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/",
-      "pubDate": "Sat, 31 Jan 2026 09:27:12 -0500"
     }
   ]
 }
