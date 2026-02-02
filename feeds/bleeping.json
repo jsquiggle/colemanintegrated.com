@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-02T12:36:24Z",
+  "updated": "2026-02-02T13:54:35Z",
   "items": [
+    {
+      "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+      "pubDate": "Mon, 02 Feb 2026 08:46:39 -0500"
+    },
     {
       "title": "Microsoft fixes bug causing password sign-in option to disappear",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
@@ -56,11 +61,6 @@
       "title": "Crypto wallets received a record $158 billion in illicit funds last year",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/",
       "pubDate": "Fri, 30 Jan 2026 13:49:51 -0500"
-    },
-    {
-      "title": "Microsoft to disable NTLM by default in future Windows releases",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
-      "pubDate": "Fri, 30 Jan 2026 12:08:57 -0500"
     }
   ]
 }

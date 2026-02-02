@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-02T12:36:24Z",
+  "updated": "2026-02-02T13:54:35Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
+      "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+      "pubDate": "Mon, 02 Feb 2026 17:29:00 +0530"
+    },
+    {
+      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
+      "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+      "pubDate": "Mon, 02 Feb 2026 17:15:00 +0530"
+    },
     {
       "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
       "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
@@ -51,16 +61,6 @@
       "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
       "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
       "pubDate": "Fri, 30 Jan 2026 13:05:00 +0530"
-    },
-    {
-      "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
-      "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-      "pubDate": "Fri, 30 Jan 2026 12:39:00 +0530"
-    },
-    {
-      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-      "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-      "pubDate": "Fri, 30 Jan 2026 10:13:00 +0530"
     }
   ]
 }
