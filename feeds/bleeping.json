@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-02T17:30:22Z",
+  "updated": "2026-02-02T18:28:59Z",
   "items": [
+    {
+      "title": "Mozilla announces switch to disable all Firefox AI features",
+      "link": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
+      "pubDate": "Mon, 02 Feb 2026 13:09:13 -0500"
+    },
     {
       "title": "Microsoft: January update shutdown bug affects more Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
@@ -56,11 +61,6 @@
       "title": "U.S. convicts ex-Google engineer for sending AI tech data to China",
       "link": "https://www.bleepingcomputer.com/news/security/us-convicts-ex-google-engineer-for-sending-ai-tech-data-to-china/",
       "pubDate": "Sat, 31 Jan 2026 12:33:42 -0500"
-    },
-    {
-      "title": "Cloud storage payment scam floods inboxes with fake renewals",
-      "link": "https://www.bleepingcomputer.com/news/security/cloud-storage-payment-scam-floods-inboxes-with-fake-renewals/",
-      "pubDate": "Sat, 31 Jan 2026 11:21:32 -0500"
     }
   ]
 }
