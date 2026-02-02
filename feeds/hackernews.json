@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-02T15:58:56Z",
+  "updated": "2026-02-02T16:39:58Z",
   "items": [
+    {
+      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
+      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+      "pubDate": "Mon, 02 Feb 2026 21:29:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
       "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
@@ -56,11 +61,6 @@
       "title": "Badges, Bytes and Blackmail",
       "link": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
       "pubDate": "Fri, 30 Jan 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
-      "link": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
-      "pubDate": "Fri, 30 Jan 2026 13:05:00 +0530"
     }
   ]
 }
