@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-03T20:24:56Z",
+  "updated": "2026-02-03T20:59:42Z",
   "items": [
+    {
+      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
+      "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
+      "pubDate": "Tue, 03 Feb 2026 15:25:40 -0500"
+    },
     {
       "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: January update shutdown bug affects more Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
       "pubDate": "Mon, 02 Feb 2026 12:17:30 -0500"
-    },
-    {
-      "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
-      "pubDate": "Mon, 02 Feb 2026 10:34:44 -0500"
     }
   ]
 }
