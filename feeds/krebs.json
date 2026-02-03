@@ -1,5 +1,56 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-02-03T16:39:57Z",
-  "items": []
+  "updated": "2026-02-03T17:43:31Z",
+  "items": [
+    {
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "pubDate": "Mon, 02 Feb 2026 16:15:16 +0000"
+    },
+    {
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "pubDate": "Mon, 26 Jan 2026 16:11:38 +0000"
+    },
+    {
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "pubDate": "Tue, 20 Jan 2026 18:19:13 +0000"
+    },
+    {
+      "title": "Patch Tuesday, January 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "pubDate": "Wed, 14 Jan 2026 00:47:38 +0000"
+    },
+    {
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "pubDate": "Thu, 08 Jan 2026 23:23:43 +0000"
+    },
+    {
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "pubDate": "Fri, 02 Jan 2026 14:20:10 +0000"
+    },
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "pubDate": "Mon, 29 Dec 2025 20:23:26 +0000"
+    },
+    {
+      "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+      "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+      "pubDate": "Fri, 19 Dec 2025 15:14:55 +0000"
+    },
+    {
+      "title": "Most Parked Domains Now Serving Malicious Content",
+      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+      "pubDate": "Tue, 16 Dec 2025 14:14:48 +0000"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, December 2025 Edition",
+      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+      "pubDate": "Tue, 09 Dec 2025 23:18:29 +0000"
+    }
+  ]
 }
