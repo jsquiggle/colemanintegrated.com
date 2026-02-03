@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-03T13:56:18Z",
+  "updated": "2026-02-03T14:38:43Z",
   "items": [
+    {
+      "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
+      "pubDate": "Tue, 03 Feb 2026 09:25:50 -0500"
+    },
+    {
+      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
+      "pubDate": "Tue, 03 Feb 2026 09:00:00 -0500"
+    },
     {
       "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
       "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
@@ -51,16 +61,6 @@
       "title": "Microsoft fixes bug causing password sign-in option to disappear",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
       "pubDate": "Mon, 02 Feb 2026 06:34:34 -0500"
-    },
-    {
-      "title": "NationStates confirms data breach, shuts down game site",
-      "link": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
-      "pubDate": "Mon, 02 Feb 2026 05:05:57 -0500"
-    },
-    {
-      "title": "Exposed MongoDB instances still targeted in data extortion attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
-      "pubDate": "Sun, 01 Feb 2026 11:27:00 -0500"
     }
   ]
 }
