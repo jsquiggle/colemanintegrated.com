@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-03T12:34:38Z",
+  "updated": "2026-02-03T13:56:18Z",
   "items": [
+    {
+      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
+      "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
+      "pubDate": "Tue, 03 Feb 2026 07:43:37 -0500"
+    },
     {
       "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
       "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
@@ -56,11 +61,6 @@
       "title": "Exposed MongoDB instances still targeted in data extortion attacks",
       "link": "https://www.bleepingcomputer.com/news/security/exposed-mongodb-instances-still-targeted-in-data-extortion-attacks/",
       "pubDate": "Sun, 01 Feb 2026 11:27:00 -0500"
-    },
-    {
-      "title": "New Apple privacy feature limits location tracking on iPhones, iPads",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-privacy-feature-limits-location-tracking-on-iphones-ipads/",
-      "pubDate": "Sun, 01 Feb 2026 10:20:40 -0500"
     }
   ]
 }
