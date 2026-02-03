@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-03T18:41:10Z",
+  "updated": "2026-02-03T19:38:24Z",
   "items": [
+    {
+      "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
+      "pubDate": "Tue, 03 Feb 2026 14:37:00 -0500"
+    },
     {
       "title": "Iron Mountain: Data breach mostly limited to marketing materials",
       "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
@@ -56,11 +61,6 @@
       "title": "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams",
       "link": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
       "pubDate": "Mon, 02 Feb 2026 10:34:44 -0500"
-    },
-    {
-      "title": "Notepad++ update feature hijacked by Chinese state hackers for months",
-      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/",
-      "pubDate": "Mon, 02 Feb 2026 09:53:52 -0500"
     }
   ]
 }
