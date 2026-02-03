@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-03T14:38:43Z",
+  "updated": "2026-02-03T15:39:05Z",
   "items": [
+    {
+      "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
+      "pubDate": "Tue, 03 Feb 2026 10:01:11 -0500"
+    },
     {
       "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
       "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
@@ -56,11 +61,6 @@
       "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
       "pubDate": "Mon, 02 Feb 2026 08:46:39 -0500"
-    },
-    {
-      "title": "Microsoft fixes bug causing password sign-in option to disappear",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
-      "pubDate": "Mon, 02 Feb 2026 06:34:34 -0500"
     }
   ]
 }

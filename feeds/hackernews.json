@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-03T14:38:43Z",
+  "updated": "2026-02-03T15:39:05Z",
   "items": [
+    {
+      "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
+      "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
+      "pubDate": "Tue, 03 Feb 2026 19:44:00 +0530"
+    },
+    {
+      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
+      "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
+      "pubDate": "Tue, 03 Feb 2026 19:30:00 +0530"
+    },
     {
       "title": "When Cloud Outages Ripple Across the Internet",
       "link": "https://thehackernews.com/2026/02/when-cloud-outages-ripple-across.html",
@@ -51,16 +61,6 @@
       "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
       "link": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
       "pubDate": "Mon, 02 Feb 2026 14:25:00 +0530"
-    },
-    {
-      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
-      "link": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
-      "pubDate": "Mon, 02 Feb 2026 11:17:00 +0530"
-    },
-    {
-      "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
-      "link": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
-      "pubDate": "Mon, 02 Feb 2026 10:34:00 +0530"
     }
   ]
 }
