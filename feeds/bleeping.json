@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-04T20:57:25Z",
+  "updated": "2026-02-04T21:28:41Z",
   "items": [
+    {
+      "title": "Critical n8n flaws disclosed along with public exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
+      "pubDate": "Wed, 04 Feb 2026 16:14:36 -0500"
+    },
     {
       "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "CISA flags critical SolarWinds RCE flaw as exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/",
       "pubDate": "Tue, 03 Feb 2026 14:37:00 -0500"
-    },
-    {
-      "title": "Iron Mountain: Data breach mostly limited to marketing materials",
-      "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
-      "pubDate": "Tue, 03 Feb 2026 11:49:09 -0500"
     }
   ]
 }
