@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-04T14:36:30Z",
+  "updated": "2026-02-04T15:32:15Z",
   "items": [
+    {
+      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
+      "pubDate": "Wed, 04 Feb 2026 19:39:00 +0530"
+    },
     {
       "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
       "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
@@ -56,11 +61,6 @@
       "title": "Mozilla Adds One-Click Option to Disable Generative AI Features in Firefox",
       "link": "https://thehackernews.com/2026/02/mozilla-adds-one-click-option-to.html",
       "pubDate": "Tue, 03 Feb 2026 11:09:00 +0530"
-    },
-    {
-      "title": "Notepad++ Hosting Breach Attributed to China-Linked Lotus Blossom Hacking Group",
-      "link": "https://thehackernews.com/2026/02/notepad-hosting-breach-attributed-to.html",
-      "pubDate": "Tue, 03 Feb 2026 10:25:00 +0530"
     }
   ]
 }

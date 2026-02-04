@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-04T14:36:30Z",
+  "updated": "2026-02-04T15:32:15Z",
   "items": [
+    {
+      "title": "The Double-Edged Sword of Non-Human Identities",
+      "link": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
+      "pubDate": "Wed, 04 Feb 2026 10:05:15 -0500"
+    },
     {
       "title": "EDR killer tool uses signed kernel driver from forensic software",
       "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
@@ -56,11 +61,6 @@
       "title": "UK privacy watchdog probes Grok over AI-generated sexual images",
       "link": "https://www.bleepingcomputer.com/news/security/uk-privacy-watchdog-probes-grok-over-ai-generated-sexual-images/",
       "pubDate": "Tue, 03 Feb 2026 09:25:50 -0500"
-    },
-    {
-      "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
-      "pubDate": "Tue, 03 Feb 2026 09:00:00 -0500"
     }
   ]
 }
