@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-04T07:59:50Z",
+  "updated": "2026-02-04T08:45:42Z",
   "items": [
+    {
+      "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
+      "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
+      "pubDate": "Wed, 04 Feb 2026 13:12:00 +0530"
+    },
     {
       "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
       "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
@@ -56,11 +61,6 @@
       "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
       "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
       "pubDate": "Mon, 02 Feb 2026 21:58:00 +0530"
-    },
-    {
-      "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
-      "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
-      "pubDate": "Mon, 02 Feb 2026 21:29:00 +0530"
     }
   ]
 }
