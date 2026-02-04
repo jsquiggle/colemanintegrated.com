@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-04T10:29:06Z",
+  "updated": "2026-02-04T11:06:53Z",
   "items": [
+    {
+      "title": "The First 90 Seconds: How Early Decisions Shape Incident Response Investigations",
+      "link": "https://thehackernews.com/2026/02/the-first-90-seconds-how-early.html",
+      "pubDate": "Wed, 04 Feb 2026 15:30:00 +0530"
+    },
     {
       "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
       "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users",
       "link": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
       "pubDate": "Mon, 02 Feb 2026 23:19:00 +0530"
-    },
-    {
-      "title": "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link",
-      "link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
-      "pubDate": "Mon, 02 Feb 2026 21:58:00 +0530"
     }
   ]
 }
