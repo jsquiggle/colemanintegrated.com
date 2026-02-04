@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-04T13:55:56Z",
+  "updated": "2026-02-04T14:36:30Z",
   "items": [
+    {
+      "title": "EDR killer tool uses signed kernel driver from forensic software",
+      "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
+      "pubDate": "Wed, 04 Feb 2026 09:17:45 -0500"
+    },
+    {
+      "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
+      "pubDate": "Wed, 04 Feb 2026 09:00:00 -0500"
+    },
     {
       "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
@@ -51,16 +61,6 @@
       "title": "Hackers exploit critical React Native Metro bug to breach dev systems",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-react-native-metro-bug-to-breach-dev-systems/",
       "pubDate": "Tue, 03 Feb 2026 09:00:00 -0500"
-    },
-    {
-      "title": "French prosecutors raid X offices, summon Musk over Grok deepfakes",
-      "link": "https://www.bleepingcomputer.com/news/security/french-prosecutors-raid-x-offices-over-grok-sexual-deepfakes/",
-      "pubDate": "Tue, 03 Feb 2026 07:43:37 -0500"
-    },
-    {
-      "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
-      "pubDate": "Mon, 02 Feb 2026 17:04:19 -0500"
     }
   ]
 }
