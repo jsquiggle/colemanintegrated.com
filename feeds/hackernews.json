@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-04T06:06:56Z",
+  "updated": "2026-02-04T07:13:47Z",
   "items": [
+    {
+      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
+      "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
+      "pubDate": "Wed, 04 Feb 2026 11:56:00 +0530"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
+      "link": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
+      "pubDate": "Wed, 04 Feb 2026 11:20:00 +0530"
+    },
     {
       "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
       "link": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
@@ -51,16 +61,6 @@
       "title": "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos",
       "link": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
       "pubDate": "Mon, 02 Feb 2026 21:29:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats",
-      "link": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
-      "pubDate": "Mon, 02 Feb 2026 17:29:00 +0530"
-    },
-    {
-      "title": "Securing the Mid-Market Across the Complete Threat Lifecycle",
-      "link": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
-      "pubDate": "Mon, 02 Feb 2026 17:15:00 +0530"
     }
   ]
 }
