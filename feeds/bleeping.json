@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-04T17:37:32Z",
+  "updated": "2026-02-04T18:34:28Z",
   "items": [
+    {
+      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
+      "pubDate": "Wed, 04 Feb 2026 12:38:46 -0500"
+    },
     {
       "title": "CISA warns of five-year-old GitLab flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Iron Mountain: Data breach mostly limited to marketing materials",
       "link": "https://www.bleepingcomputer.com/news/security/iron-mountain-data-breach-mostly-limited-to-marketing-materials/",
       "pubDate": "Tue, 03 Feb 2026 11:49:09 -0500"
-    },
-    {
-      "title": "AI Agent Identity Management: A New Security Control Plane for CISOs",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agent-identity-management-a-new-security-control-plane-for-cisos/",
-      "pubDate": "Tue, 03 Feb 2026 10:01:11 -0500"
     }
   ]
 }
