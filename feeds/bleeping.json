@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-04T12:34:57Z",
+  "updated": "2026-02-04T13:55:56Z",
   "items": [
+    {
+      "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
+      "pubDate": "Wed, 04 Feb 2026 07:58:20 -0500"
+    },
     {
       "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
@@ -56,11 +61,6 @@
       "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
       "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
       "pubDate": "Mon, 02 Feb 2026 17:04:19 -0500"
-    },
-    {
-      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
-      "pubDate": "Mon, 02 Feb 2026 16:00:07 -0500"
     }
   ]
 }
