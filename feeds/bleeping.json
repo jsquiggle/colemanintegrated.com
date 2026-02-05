@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-05T16:34:01Z",
+  "updated": "2026-02-05T17:38:57Z",
   "items": [
+    {
+      "title": "Italian university La Sapienza goes offline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
+      "pubDate": "Thu, 05 Feb 2026 12:02:45 -0500"
+    },
     {
       "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
@@ -56,11 +61,6 @@
       "title": "EDR killer tool uses signed kernel driver from forensic software",
       "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
       "pubDate": "Wed, 04 Feb 2026 09:17:45 -0500"
-    },
-    {
-      "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
-      "pubDate": "Wed, 04 Feb 2026 09:00:00 -0500"
     }
   ]
 }
