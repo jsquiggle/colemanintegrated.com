@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-05T09:33:31Z",
+  "updated": "2026-02-05T10:30:43Z",
   "items": [
     {
       "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",

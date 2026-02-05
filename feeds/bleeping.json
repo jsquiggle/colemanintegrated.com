@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-05T09:33:31Z",
+  "updated": "2026-02-05T10:30:43Z",
   "items": [
+    {
+      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
+      "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
+      "pubDate": "Thu, 05 Feb 2026 05:22:36 -0500"
+    },
     {
       "title": "Hackers compromise NGINX servers to redirect user traffic",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
@@ -56,11 +61,6 @@
       "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
       "pubDate": "Tue, 03 Feb 2026 16:33:23 -0500"
-    },
-    {
-      "title": "Wave of Citrix NetScaler scans use thousands of residential proxies",
-      "link": "https://www.bleepingcomputer.com/news/security/wave-of-citrix-netscaler-scans-use-thousands-of-residential-proxies/",
-      "pubDate": "Tue, 03 Feb 2026 15:25:40 -0500"
     }
   ]
 }
