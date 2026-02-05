@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-05T10:30:43Z",
+  "updated": "2026-02-05T11:27:39Z",
   "items": [
+    {
+      "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
+      "pubDate": "Thu, 05 Feb 2026 06:16:12 -0500"
+    },
     {
       "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
       "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
@@ -56,11 +61,6 @@
       "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
       "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
       "pubDate": "Tue, 03 Feb 2026 21:04:23 -0500"
-    },
-    {
-      "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
-      "pubDate": "Tue, 03 Feb 2026 16:33:23 -0500"
     }
   ]
 }
