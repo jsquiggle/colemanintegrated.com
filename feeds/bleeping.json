@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-05T14:41:12Z",
+  "updated": "2026-02-05T15:32:00Z",
   "items": [
+    {
+      "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
+      "pubDate": "Thu, 05 Feb 2026 10:15:49 -0500"
+    },
+    {
+      "title": "When cloud logs fall short, the network tells the truth",
+      "link": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
+      "pubDate": "Thu, 05 Feb 2026 10:00:10 -0500"
+    },
     {
       "title": "Newsletter platform Substack notifies users of data breach",
       "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
@@ -51,16 +61,6 @@
       "title": "New Amaranth Dragon cyberespionage group exploits WinRAR flaw",
       "link": "https://www.bleepingcomputer.com/news/security/new-amaranth-dragon-cyberespionage-group-exploits-winrar-flaw/",
       "pubDate": "Wed, 04 Feb 2026 09:00:00 -0500"
-    },
-    {
-      "title": "Microsoft rolls out native Sysmon monitoring in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-native-windows-11-sysmon-security-monitoring/",
-      "pubDate": "Wed, 04 Feb 2026 07:58:20 -0500"
-    },
-    {
-      "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
-      "pubDate": "Wed, 04 Feb 2026 06:24:23 -0500"
     }
   ]
 }
