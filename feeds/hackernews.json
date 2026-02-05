@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-05T17:38:57Z",
+  "updated": "2026-02-05T18:35:24Z",
   "items": [
+    {
+      "title": "AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack",
+      "link": "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html",
+      "pubDate": "Thu, 05 Feb 2026 22:55:00 +0530"
+    },
     {
       "title": "ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories",
       "link": "https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
       "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
       "pubDate": "Wed, 04 Feb 2026 13:12:00 +0530"
-    },
-    {
-      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-      "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-      "pubDate": "Wed, 04 Feb 2026 11:56:00 +0530"
     }
   ]
 }

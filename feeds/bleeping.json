@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-05T17:38:57Z",
+  "updated": "2026-02-05T18:35:24Z",
   "items": [
+    {
+      "title": "Microsoft to shut down Exchange Online EWS in April 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
+      "pubDate": "Thu, 05 Feb 2026 13:07:41 -0500"
+    },
     {
       "title": "Italian university La Sapienza goes offline after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "The Double-Edged Sword of Non-Human Identities",
       "link": "https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/",
       "pubDate": "Wed, 04 Feb 2026 10:05:15 -0500"
-    },
-    {
-      "title": "EDR killer tool uses signed kernel driver from forensic software",
-      "link": "https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/",
-      "pubDate": "Wed, 04 Feb 2026 09:17:45 -0500"
     }
   ]
 }
