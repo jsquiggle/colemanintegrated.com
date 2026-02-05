@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-05T12:36:38Z",
+  "updated": "2026-02-05T13:58:33Z",
   "items": [
+    {
+      "title": "Newsletter platform Substack notifies users of data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
+      "pubDate": "Thu, 05 Feb 2026 07:54:48 -0500"
+    },
     {
       "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
@@ -56,11 +61,6 @@
       "title": "Owner of Incognito dark web drugs market gets 30 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/taiwanese-man-gets-30-years-for-operating-dark-web-drug-market/",
       "pubDate": "Wed, 04 Feb 2026 06:24:23 -0500"
-    },
-    {
-      "title": "Coinbase confirms insider breach linked to leaked support tool screenshots",
-      "link": "https://www.bleepingcomputer.com/news/security/coinbase-confirms-insider-breach-linked-to-leaked-support-tool-screenshots/",
-      "pubDate": "Tue, 03 Feb 2026 21:04:23 -0500"
     }
   ]
 }
