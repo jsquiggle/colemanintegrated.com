@@ -1,9 +1,14 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-05T06:13:28Z",
+  "updated": "2026-02-05T07:30:15Z",
   "items": [
     {
-      "title": "Hackers Exploit React2Shell to Hijack Web Traffic via Compromised NGINX Servers",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "link": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "pubDate": "Thu, 05 Feb 2026 11:46:00 +0530"
+    },
+    {
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
       "link": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
       "pubDate": "Thu, 05 Feb 2026 10:26:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "[Webinar] The Smarter SOC Blueprint: Learn What to Build, Buy, and Automate",
       "link": "https://thehackernews.com/2026/02/webinar-smarter-soc-blueprint-learn.html",
       "pubDate": "Tue, 03 Feb 2026 19:44:00 +0530"
-    },
-    {
-      "title": "Hackers Exploit Metro4Shell RCE Flaw in React Native CLI npm Package",
-      "link": "https://thehackernews.com/2026/02/hackers-exploit-metro4shell-rce-flaw-in.html",
-      "pubDate": "Tue, 03 Feb 2026 19:30:00 +0530"
     }
   ]
 }
