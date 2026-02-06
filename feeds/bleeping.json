@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-06T16:32:03Z",
+  "updated": "2026-02-06T17:33:39Z",
   "items": [
+    {
+      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
+      "pubDate": "Fri, 06 Feb 2026 12:16:03 -0500"
+    },
     {
       "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
       "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
@@ -56,11 +61,6 @@
       "title": "When cloud logs fall short, the network tells the truth",
       "link": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
       "pubDate": "Thu, 05 Feb 2026 10:00:10 -0500"
-    },
-    {
-      "title": "Newsletter platform Substack notifies users of data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
-      "pubDate": "Thu, 05 Feb 2026 07:54:48 -0500"
     }
   ]
 }
