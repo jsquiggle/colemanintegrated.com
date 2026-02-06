@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-06T18:33:45Z",
+  "updated": "2026-02-06T19:31:08Z",
   "items": [
+    {
+      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
+      "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
+      "pubDate": "Fri, 06 Feb 2026 13:35:11 -0500"
+    },
     {
       "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
       "pubDate": "Thu, 05 Feb 2026 10:15:49 -0500"
-    },
-    {
-      "title": "When cloud logs fall short, the network tells the truth",
-      "link": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
-      "pubDate": "Thu, 05 Feb 2026 10:00:10 -0500"
     }
   ]
 }
