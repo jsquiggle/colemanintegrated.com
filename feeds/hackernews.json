@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-06T12:35:10Z",
+  "updated": "2026-02-06T13:53:46Z",
   "items": [
+    {
+      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+      "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+      "pubDate": "Fri, 06 Feb 2026 19:13:00 +0530"
+    },
     {
       "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
       "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
       "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
       "pubDate": "Wed, 04 Feb 2026 23:22:00 +0530"
-    },
-    {
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "pubDate": "Wed, 04 Feb 2026 22:54:00 +0530"
     }
   ]
 }
