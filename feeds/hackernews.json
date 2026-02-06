@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-06T10:03:52Z",
+  "updated": "2026-02-06T11:05:06Z",
   "items": [
+    {
+      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+      "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+      "pubDate": "Fri, 06 Feb 2026 16:00:00 +0530"
+    },
     {
       "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
       "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
       "link": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
       "pubDate": "Wed, 04 Feb 2026 19:39:00 +0530"
-    },
-    {
-      "title": "Orchid Security Introduces Continuous Identity Observability for Enterprise Applications",
-      "link": "https://thehackernews.com/2026/02/orchid-security-introduces-continuous.html",
-      "pubDate": "Wed, 04 Feb 2026 17:28:00 +0530"
     }
   ]
 }
