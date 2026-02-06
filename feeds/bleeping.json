@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-06T08:00:41Z",
+  "updated": "2026-02-06T09:05:24Z",
   "items": [
+    {
+      "title": "CISA orders federal agencies to replace end-of-life edge devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
+      "pubDate": "Fri, 06 Feb 2026 03:41:11 -0500"
+    },
     {
       "title": "Spain's Ministry of Science shuts down systems after breach claims",
       "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
@@ -56,11 +61,6 @@
       "title": "Critical n8n flaws disclosed along with public exploits",
       "link": "https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/",
       "pubDate": "Wed, 04 Feb 2026 16:14:36 -0500"
-    },
-    {
-      "title": "CISA: VMware ESXi flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/",
-      "pubDate": "Wed, 04 Feb 2026 12:38:46 -0500"
     }
   ]
 }
