@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-06T11:52:17Z",
+  "updated": "2026-02-06T12:35:10Z",
   "items": [
+    {
+      "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
+      "pubDate": "Fri, 06 Feb 2026 07:34:30 -0500"
+    },
     {
       "title": "Flickr discloses potential data breach exposing users' names, emails",
       "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
@@ -56,11 +61,6 @@
       "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
       "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
       "pubDate": "Thu, 05 Feb 2026 05:22:36 -0500"
-    },
-    {
-      "title": "Hackers compromise NGINX servers to redirect user traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
-      "pubDate": "Wed, 04 Feb 2026 18:26:56 -0500"
     }
   ]
 }
