@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-06T14:34:11Z",
+  "updated": "2026-02-06T15:30:18Z",
   "items": [
+    {
+      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
+      "pubDate": "Fri, 06 Feb 2026 10:01:11 -0500"
+    },
     {
       "title": "EU says TikTok faces large fine over \"addictive design\"",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
@@ -56,11 +61,6 @@
       "title": "Newsletter platform Substack notifies users of data breach",
       "link": "https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/",
       "pubDate": "Thu, 05 Feb 2026 07:54:48 -0500"
-    },
-    {
-      "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
-      "pubDate": "Thu, 05 Feb 2026 06:16:12 -0500"
     }
   ]
 }
