@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-06T13:53:46Z",
+  "updated": "2026-02-06T14:34:11Z",
   "items": [
+    {
+      "title": "EU says TikTok faces large fine over \"addictive design\"",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
+      "pubDate": "Fri, 06 Feb 2026 08:53:53 -0500"
+    },
     {
       "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts",
       "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
@@ -56,11 +61,6 @@
       "title": "Data breach at fintech firm Betterment exposes 1.4 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/",
       "pubDate": "Thu, 05 Feb 2026 06:16:12 -0500"
-    },
-    {
-      "title": "Zendesk spam wave returns, floods users with 'Activate account' emails",
-      "link": "https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/",
-      "pubDate": "Thu, 05 Feb 2026 05:22:36 -0500"
     }
   ]
 }
