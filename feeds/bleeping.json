@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-07T09:20:55Z",
+  "updated": "2026-02-07T09:50:55Z",
   "items": [
+    {
+      "title": "Payment gateway BridgePay confirms ransomware attack behind outage",
+      "link": "https://www.bleepingcomputer.com/news/security/payment-gateway-bridgepay-confirms-ransomware-attack-behind-outage/",
+      "pubDate": "Sat, 07 Feb 2026 04:47:10 -0500"
+    },
     {
       "title": "Germany warns of Signal account hijacking targeting senior figures",
       "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to shut down Exchange Online EWS in April 2027",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
       "pubDate": "Thu, 05 Feb 2026 13:07:41 -0500"
-    },
-    {
-      "title": "Italian university La Sapienza goes offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
-      "pubDate": "Thu, 05 Feb 2026 12:02:45 -0500"
     }
   ]
 }
