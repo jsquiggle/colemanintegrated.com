@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-07T15:15:16Z",
+  "updated": "2026-02-07T15:45:13Z",
   "items": [
+    {
+      "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op",
+      "link": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
+      "pubDate": "Sat, 07 Feb 2026 10:09:46 -0500"
+    },
     {
       "title": "Payments platform BridgePay confirms ransomware attack behind outage",
       "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
@@ -56,11 +61,6 @@
       "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
       "pubDate": "Thu, 05 Feb 2026 15:57:11 -0500"
-    },
-    {
-      "title": "Microsoft to shut down Exchange Online EWS in April 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/",
-      "pubDate": "Thu, 05 Feb 2026 13:07:41 -0500"
     }
   ]
 }
