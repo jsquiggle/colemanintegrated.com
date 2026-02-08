@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-08T15:16:21Z",
+  "updated": "2026-02-08T15:46:44Z",
   "items": [
+    {
+      "title": "New tool blocks imposter attacks disguised as safe commands",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
+      "pubDate": "Sun, 08 Feb 2026 10:26:48 -0500"
+    },
     {
       "title": "State actor targets 155 countries in 'Shadow Campaigns' espionage op",
       "link": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
@@ -56,11 +61,6 @@
       "title": "Spain's Ministry of Science shuts down systems after breach claims",
       "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
       "pubDate": "Thu, 05 Feb 2026 16:23:00 -0500"
-    },
-    {
-      "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
-      "pubDate": "Thu, 05 Feb 2026 15:57:11 -0500"
     }
   ]
 }

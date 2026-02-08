@@ -1,17 +1,7 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-02-08T15:16:21Z",
+  "updated": "2026-02-08T15:46:44Z",
   "items": [
-    {
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "pubDate": "Mon, 02 Feb 2026 16:15:16 +0000"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "pubDate": "Mon, 26 Jan 2026 16:11:38 +0000"
-    },
     {
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -51,6 +41,16 @@
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
       "pubDate": "Tue, 09 Dec 2025 23:18:29 +0000"
+    },
+    {
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "pubDate": "Sat, 06 Dec 2025 14:45:03 +0000"
+    },
+    {
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "pubDate": "Thu, 04 Dec 2025 23:02:34 +0000"
     }
   ]
 }
