@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T22:03:43Z",
+  "updated": "2026-02-09T23:02:52Z",
   "items": [
+    {
+      "title": "Chinese cyberspies breach Singapore's four largest telcos",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
+      "pubDate": "Mon, 09 Feb 2026 17:47:53 -0500"
+    },
     {
       "title": "Hackers exploit SolarWinds WHD flaws to deploy DFIR tool in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
@@ -56,11 +61,6 @@
       "title": "Germany warns of Signal account hijacking targeting senior figures",
       "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
       "pubDate": "Fri, 06 Feb 2026 15:00:33 -0500"
-    },
-    {
-      "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
-      "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
-      "pubDate": "Fri, 06 Feb 2026 13:35:11 -0500"
     }
   ]
 }
