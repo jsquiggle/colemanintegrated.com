@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T08:38:20Z",
+  "updated": "2026-02-09T09:51:11Z",
   "items": [
+    {
+      "title": "European Commission discloses breach that exposed staff data",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
+      "pubDate": "Mon, 09 Feb 2026 04:49:04 -0500"
+    },
     {
       "title": "New tool blocks imposter attacks disguised as safe commands",
       "link": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
@@ -56,11 +61,6 @@
       "title": "CISA orders federal agencies to replace end-of-life edge devices",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
       "pubDate": "Fri, 06 Feb 2026 03:41:11 -0500"
-    },
-    {
-      "title": "Spain's Ministry of Science shuts down systems after breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
-      "pubDate": "Thu, 05 Feb 2026 16:23:00 -0500"
     }
   ]
 }
