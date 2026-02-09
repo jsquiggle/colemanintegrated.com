@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T19:56:34Z",
+  "updated": "2026-02-09T20:42:10Z",
   "items": [
+    {
+      "title": "Threat actors exploit SolarWinds WDH flaws to deploy Velociraptor",
+      "link": "https://www.bleepingcomputer.com/news/security/threat-actors-exploit-solarwinds-wdh-flaws-to-deploy-velociraptor/",
+      "pubDate": "Mon, 09 Feb 2026 15:28:15 -0500"
+    },
     {
       "title": "Hackers breach SmarterTools network using flaw in its own software",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
@@ -56,11 +61,6 @@
       "title": "DKnife Linux toolkit hijacks router traffic to spy, deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/dknife-linux-toolkit-hijacks-router-traffic-to-spy-deliver-malware/",
       "pubDate": "Fri, 06 Feb 2026 13:35:11 -0500"
-    },
-    {
-      "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
-      "pubDate": "Fri, 06 Feb 2026 12:16:03 -0500"
     }
   ]
 }
