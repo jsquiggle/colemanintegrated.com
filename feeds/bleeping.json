@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T10:46:11Z",
+  "updated": "2026-02-09T11:38:37Z",
   "items": [
+    {
+      "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
+      "pubDate": "Mon, 09 Feb 2026 05:47:25 -0500"
+    },
     {
       "title": "European Commission discloses breach that exposed staff data",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
@@ -56,11 +61,6 @@
       "title": "Flickr discloses potential data breach exposing users' names, emails",
       "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
       "pubDate": "Fri, 06 Feb 2026 04:43:10 -0500"
-    },
-    {
-      "title": "CISA orders federal agencies to replace end-of-life edge devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-replace-end-of-life-edge-devices/",
-      "pubDate": "Fri, 06 Feb 2026 03:41:11 -0500"
     }
   ]
 }
