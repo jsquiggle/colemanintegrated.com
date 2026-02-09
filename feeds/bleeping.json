@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T11:38:37Z",
+  "updated": "2026-02-09T12:41:39Z",
   "items": [
+    {
+      "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
+      "link": "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/",
+      "pubDate": "Mon, 09 Feb 2026 06:41:17 -0500"
+    },
     {
       "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
@@ -56,11 +61,6 @@
       "title": "Man pleads guilty to hacking nearly 600 women\u2019s Snapchat accounts",
       "link": "https://www.bleepingcomputer.com/news/security/man-pleads-guilty-to-hacking-nearly-600-womens-snapchat-accounts/",
       "pubDate": "Fri, 06 Feb 2026 07:34:30 -0500"
-    },
-    {
-      "title": "Flickr discloses potential data breach exposing users' names, emails",
-      "link": "https://www.bleepingcomputer.com/news/security/flickr-discloses-potential-data-breach-exposing-users-names-emails/",
-      "pubDate": "Fri, 06 Feb 2026 04:43:10 -0500"
     }
   ]
 }
