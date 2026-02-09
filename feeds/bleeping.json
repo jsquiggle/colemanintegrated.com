@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T18:42:54Z",
+  "updated": "2026-02-09T19:56:34Z",
   "items": [
+    {
+      "title": "Hackers breach SmarterTools network using flaw in its own software",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
+      "pubDate": "Mon, 09 Feb 2026 14:08:58 -0500"
+    },
     {
       "title": "Password guessing without AI: How attackers build targeted wordlists",
       "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
@@ -56,11 +61,6 @@
       "title": "CISA warns of SmarterMail RCE flaw used in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-smartermail-rce-flaw-used-in-ransomware-attacks/",
       "pubDate": "Fri, 06 Feb 2026 12:16:03 -0500"
-    },
-    {
-      "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
-      "pubDate": "Fri, 06 Feb 2026 10:01:11 -0500"
     }
   ]
 }
