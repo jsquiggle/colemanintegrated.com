@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-09T12:41:39Z",
+  "updated": "2026-02-09T14:07:19Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More",
+      "link": "https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html",
+      "pubDate": "Mon, 09 Feb 2026 18:29:00 +0530"
+    },
     {
       "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
       "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
@@ -56,11 +61,6 @@
       "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
       "link": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
       "pubDate": "Fri, 06 Feb 2026 14:10:00 +0530"
-    },
-    {
-      "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
-      "link": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
-      "pubDate": "Fri, 06 Feb 2026 11:19:00 +0530"
     }
   ]
 }
