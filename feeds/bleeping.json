@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-09T14:07:19Z",
+  "updated": "2026-02-09T15:28:14Z",
   "items": [
+    {
+      "title": "Password guessing without AI: How attackers build targeted wordlists",
+      "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
+      "pubDate": "Mon, 09 Feb 2026 10:01:11 -0500"
+    },
     {
       "title": "BeyondTrust warns of critical RCE flaw in remote support software",
       "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
@@ -56,11 +61,6 @@
       "title": "EDR, Email, and SASE Miss This Entire Class of Browser Attacks",
       "link": "https://www.bleepingcomputer.com/news/security/edr-email-and-sase-miss-this-entire-class-of-browser-attacks/",
       "pubDate": "Fri, 06 Feb 2026 10:01:11 -0500"
-    },
-    {
-      "title": "EU says TikTok faces large fine over \"addictive design\"",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-says-tiktok-facing-fine-over-addictive-design/",
-      "pubDate": "Fri, 06 Feb 2026 08:53:53 -0500"
     }
   ]
 }
