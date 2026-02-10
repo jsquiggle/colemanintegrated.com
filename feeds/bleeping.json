@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T16:52:54Z",
+  "updated": "2026-02-10T17:54:43Z",
   "items": [
+    {
+      "title": "Volvo Group North America customer data exposed in Conduent hack",
+      "link": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
+      "pubDate": "Tue, 10 Feb 2026 12:04:18 -0500"
+    },
+    {
+      "title": "Microsoft rolls out new Secure Boot certificates before June expiration",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-new-secure-boot-certificates-before-june-expiration/",
+      "pubDate": "Tue, 10 Feb 2026 12:00:00 -0500"
+    },
     {
       "title": "Microsoft 365 outage takes down admin center in North America",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
@@ -51,16 +61,6 @@
       "title": "BeyondTrust warns of critical RCE flaw in remote support software",
       "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
       "pubDate": "Mon, 09 Feb 2026 08:07:03 -0500"
-    },
-    {
-      "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
-      "link": "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/",
-      "pubDate": "Mon, 09 Feb 2026 06:41:17 -0500"
-    },
-    {
-      "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
-      "pubDate": "Mon, 09 Feb 2026 05:47:25 -0500"
     }
   ]
 }
