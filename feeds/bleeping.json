@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T23:08:12Z",
+  "updated": "2026-02-10T23:58:09Z",
   "items": [
+    {
+      "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
+      "pubDate": "Tue, 10 Feb 2026 18:09:48 -0500"
+    },
     {
       "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
       "link": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
       "pubDate": "Tue, 10 Feb 2026 08:00:00 -0500"
-    },
-    {
-      "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
-      "pubDate": "Tue, 10 Feb 2026 03:17:54 -0500"
     }
   ]
 }
