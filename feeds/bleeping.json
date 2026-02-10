@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T15:38:42Z",
+  "updated": "2026-02-10T16:52:54Z",
   "items": [
+    {
+      "title": "Microsoft 365 outage takes down admin center in North America",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-admin-center-in-north-america/",
+      "pubDate": "Tue, 10 Feb 2026 10:45:15 -0500"
+    },
     {
       "title": "How to Automate AWS Incident Investigation with Tines and AI",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Exchange Online flags legitimate emails as phishing",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-flags-legitimate-emails-as-phishing/",
       "pubDate": "Mon, 09 Feb 2026 05:47:25 -0500"
-    },
-    {
-      "title": "European Commission discloses breach that exposed staff data",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
-      "pubDate": "Mon, 09 Feb 2026 04:49:04 -0500"
     }
   ]
 }
