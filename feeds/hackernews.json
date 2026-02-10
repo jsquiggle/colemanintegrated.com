@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-10T10:43:28Z",
+  "updated": "2026-02-10T11:41:35Z",
   "items": [
+    {
+      "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
+      "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
+      "pubDate": "Tue, 10 Feb 2026 15:54:00 +0530"
+    },
     {
       "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
       "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
@@ -56,11 +61,6 @@
       "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
       "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
       "pubDate": "Sat, 07 Feb 2026 16:45:00 +0530"
-    },
-    {
-      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-      "link": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-      "pubDate": "Fri, 06 Feb 2026 20:26:00 +0530"
     }
   ]
 }
