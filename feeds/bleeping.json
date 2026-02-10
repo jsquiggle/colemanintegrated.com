@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T07:53:16Z",
+  "updated": "2026-02-10T08:38:34Z",
   "items": [
+    {
+      "title": "Fugitive behind $73M 'pig butchering' scheme gets 20 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/fugitive-behind-73m-pig-butchering-scheme-gets-20-years-in-prison/",
+      "pubDate": "Tue, 10 Feb 2026 03:17:54 -0500"
+    },
     {
       "title": "Chinese cyberspies breach Singapore's four largest telcos",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breach-singapores-four-largest-telcos/",
@@ -56,11 +61,6 @@
       "title": "Payments platform BridgePay confirms ransomware attack behind outage",
       "link": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
       "pubDate": "Sat, 07 Feb 2026 04:47:10 -0500"
-    },
-    {
-      "title": "Germany warns of Signal account hijacking targeting senior figures",
-      "link": "https://www.bleepingcomputer.com/news/security/germany-warns-of-signal-account-hijacking-targeting-senior-figures/",
-      "pubDate": "Fri, 06 Feb 2026 15:00:33 -0500"
     }
   ]
 }
