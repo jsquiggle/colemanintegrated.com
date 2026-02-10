@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-10T05:56:08Z",
+  "updated": "2026-02-10T06:55:51Z",
   "items": [
+    {
+      "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
+      "pubDate": "Tue, 10 Feb 2026 10:08:00 +0530"
+    },
     {
       "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
       "link": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
@@ -56,11 +61,6 @@
       "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
       "link": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
       "pubDate": "Fri, 06 Feb 2026 19:13:00 +0530"
-    },
-    {
-      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
-      "link": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
-      "pubDate": "Fri, 06 Feb 2026 17:37:00 +0530"
     }
   ]
 }
