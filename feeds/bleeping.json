@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T14:15:52Z",
+  "updated": "2026-02-10T15:38:42Z",
   "items": [
+    {
+      "title": "How to Automate AWS Incident Investigation with Tines and AI",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-automate-aws-incident-investigation-with-tines-and-ai/",
+      "pubDate": "Tue, 10 Feb 2026 10:01:11 -0500"
+    },
     {
       "title": "Microsoft announces new mobile-style Windows security controls",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
@@ -56,11 +61,6 @@
       "title": "European Commission discloses breach that exposed staff data",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-discloses-breach-that-exposed-staff-data/",
       "pubDate": "Mon, 09 Feb 2026 04:49:04 -0500"
-    },
-    {
-      "title": "New tool blocks imposter attacks disguised as safe commands",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tool-blocks-imposter-attacks-disguised-as-safe-commands/",
-      "pubDate": "Sun, 08 Feb 2026 10:26:48 -0500"
     }
   ]
 }
