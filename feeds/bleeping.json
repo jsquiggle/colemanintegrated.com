@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T17:54:43Z",
+  "updated": "2026-02-10T18:52:32Z",
   "items": [
+    {
+      "title": "Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/",
+      "pubDate": "Tue, 10 Feb 2026 13:51:46 -0500"
+    },
+    {
+      "title": "Windows 11 KB5077181 & KB5075941 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/",
+      "pubDate": "Tue, 10 Feb 2026 13:43:53 -0500"
+    },
     {
       "title": "Volvo Group North America customer data exposed in Conduent hack",
       "link": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
@@ -51,16 +61,6 @@
       "title": "Hackers breach SmarterTools network using flaw in its own software",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-smartertools-network-using-flaw-in-its-own-software/",
       "pubDate": "Mon, 09 Feb 2026 14:08:58 -0500"
-    },
-    {
-      "title": "Password guessing without AI: How attackers build targeted wordlists",
-      "link": "https://www.bleepingcomputer.com/news/security/password-guessing-without-ai-how-attackers-build-targeted-wordlists/",
-      "pubDate": "Mon, 09 Feb 2026 10:01:11 -0500"
-    },
-    {
-      "title": "BeyondTrust warns of critical RCE flaw in remote support software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-rce-flaw-in-remote-support-software/",
-      "pubDate": "Mon, 09 Feb 2026 08:07:03 -0500"
     }
   ]
 }
