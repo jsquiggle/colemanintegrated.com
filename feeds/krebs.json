@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-02-10T21:33:47Z",
+  "updated": "2026-02-10T22:29:43Z",
   "items": [
+    {
+      "title": "Patch Tuesday, February 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "pubDate": "Tue, 10 Feb 2026 21:49:53 +0000"
+    },
     {
       "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
       "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
@@ -46,11 +51,6 @@
       "title": "Most Parked Domains Now Serving Malicious Content",
       "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
       "pubDate": "Tue, 16 Dec 2025 14:14:48 +0000"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, December 2025 Edition",
-      "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
-      "pubDate": "Tue, 09 Dec 2025 23:18:29 +0000"
     }
   ]
 }
