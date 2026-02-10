@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-10T11:41:35Z",
+  "updated": "2026-02-10T12:47:04Z",
   "items": [
+    {
+      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
+      "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
+      "pubDate": "Tue, 10 Feb 2026 17:10:00 +0530"
+    },
     {
       "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
       "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
@@ -56,11 +61,6 @@
       "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
       "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
       "pubDate": "Sun, 08 Feb 2026 13:02:00 +0530"
-    },
-    {
-      "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
-      "link": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
-      "pubDate": "Sat, 07 Feb 2026 16:45:00 +0530"
     }
   ]
 }
