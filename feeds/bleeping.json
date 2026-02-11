@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-10T23:58:09Z",
+  "updated": "2026-02-11T02:07:55Z",
   "items": [
+    {
+      "title": "Microsoft releases Windows 11 26H1 for select and upcoming CPUs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/",
+      "pubDate": "Tue, 10 Feb 2026 21:06:42 -0500"
+    },
     {
       "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
@@ -56,11 +61,6 @@
       "title": "Microsoft announces new mobile-style Windows security controls",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-mobile-style-windows-security-controls/",
       "pubDate": "Tue, 10 Feb 2026 08:16:32 -0500"
-    },
-    {
-      "title": "ZeroDayRAT malware grants full access to Android, iOS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/zerodayrat-malware-grants-full-access-to-android-ios-devices/",
-      "pubDate": "Tue, 10 Feb 2026 08:00:00 -0500"
     }
   ]
 }
