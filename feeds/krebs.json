@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-02-11T15:30:50Z",
+  "updated": "2026-02-11T16:52:39Z",
   "items": [
+    {
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "link": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "pubDate": "Wed, 11 Feb 2026 16:08:11 +0000"
+    },
     {
       "title": "Patch Tuesday, February 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
@@ -46,11 +51,6 @@
       "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
       "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
       "pubDate": "Fri, 19 Dec 2025 15:14:55 +0000"
-    },
-    {
-      "title": "Most Parked Domains Now Serving Malicious Content",
-      "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
-      "pubDate": "Tue, 16 Dec 2025 14:14:48 +0000"
     }
   ]
 }

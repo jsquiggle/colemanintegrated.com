@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-11T15:30:50Z",
+  "updated": "2026-02-11T16:52:39Z",
   "items": [
+    {
+      "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
+      "link": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
+      "pubDate": "Wed, 11 Feb 2026 20:22:00 +0530"
+    },
     {
       "title": "Over 60 Software Vendors Issue Security Fixes Across OS, Cloud, and Network Platforms",
       "link": "https://thehackernews.com/2026/02/over-60-software-vendors-issue-security.html",
@@ -56,11 +61,6 @@
       "title": "Warlock Ransomware Breaches SmarterTools Through Unpatched SmarterMail Server",
       "link": "https://thehackernews.com/2026/02/warlock-ransomware-breaches.html",
       "pubDate": "Tue, 10 Feb 2026 15:54:00 +0530"
-    },
-    {
-      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
-      "link": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
-      "pubDate": "Tue, 10 Feb 2026 13:52:00 +0530"
     }
   ]
 }
