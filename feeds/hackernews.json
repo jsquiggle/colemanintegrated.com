@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-11T06:02:32Z",
+  "updated": "2026-02-11T07:32:56Z",
   "items": [
+    {
+      "title": "North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations",
+      "link": "https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html",
+      "pubDate": "Wed, 11 Feb 2026 12:20:00 +0530"
+    },
     {
       "title": "DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies",
       "link": "https://thehackernews.com/2026/02/dprk-operatives-impersonate.html",
@@ -56,11 +61,6 @@
       "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
       "link": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
       "pubDate": "Mon, 09 Feb 2026 16:53:00 +0530"
-    },
-    {
-      "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
-      "link": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
-      "pubDate": "Mon, 09 Feb 2026 16:28:00 +0530"
     }
   ]
 }
