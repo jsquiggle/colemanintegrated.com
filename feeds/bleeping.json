@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-11T22:56:20Z",
+  "updated": "2026-02-11T23:24:56Z",
   "items": [
+    {
+      "title": "Windows 11 Notepad flaw let files execute silently via Markdown links",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/",
+      "pubDate": "Wed, 11 Feb 2026 18:15:41 -0500"
+    },
     {
       "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
@@ -56,11 +61,6 @@
       "title": "Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/",
       "pubDate": "Tue, 10 Feb 2026 13:51:46 -0500"
-    },
-    {
-      "title": "Windows 11 KB5077181 & KB5075941 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/",
-      "pubDate": "Tue, 10 Feb 2026 13:43:53 -0500"
     }
   ]
 }
