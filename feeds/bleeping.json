@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-11T21:02:51Z",
+  "updated": "2026-02-11T21:55:48Z",
   "items": [
+    {
+      "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
+      "pubDate": "Wed, 11 Feb 2026 16:53:58 -0500"
+    },
     {
       "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5077181 & KB5075941 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/",
       "pubDate": "Tue, 10 Feb 2026 13:43:53 -0500"
-    },
-    {
-      "title": "Volvo Group North America customer data exposed in Conduent hack",
-      "link": "https://www.bleepingcomputer.com/news/security/volvo-group-north-america-customer-data-exposed-in-conduent-hack/",
-      "pubDate": "Tue, 10 Feb 2026 12:04:18 -0500"
     }
   ]
 }
