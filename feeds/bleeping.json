@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-12T17:31:37Z",
+  "updated": "2026-02-12T18:46:12Z",
   "items": [
+    {
+      "title": "Odido data breach exposes personal info of 6.2 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
+      "pubDate": "Thu, 12 Feb 2026 13:18:14 -0500"
+    },
     {
       "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
@@ -56,11 +61,6 @@
       "title": "LummaStealer infections surge after CastleLoader malware campaigns",
       "link": "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/",
       "pubDate": "Wed, 11 Feb 2026 12:02:29 -0500"
-    },
-    {
-      "title": "Microsoft releases Windows 11 26H1 for select and upcoming CPUs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-26h1-for-select-and-upcoming-cpus/",
-      "pubDate": "Tue, 10 Feb 2026 21:06:42 -0500"
     }
   ]
 }
