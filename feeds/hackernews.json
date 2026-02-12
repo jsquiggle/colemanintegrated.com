@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-12T06:49:26Z",
+  "updated": "2026-02-12T07:44:10Z",
   "items": [
+    {
+      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices",
+      "link": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
+      "pubDate": "Thu, 12 Feb 2026 11:09:00 +0530"
+    },
     {
       "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
       "link": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
@@ -56,11 +61,6 @@
       "title": "Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution",
       "link": "https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html",
       "pubDate": "Tue, 10 Feb 2026 19:00:00 +0530"
-    },
-    {
-      "title": "ZAST.AI Raises $6M Pre-A to Scale \"Zero False Positive\" AI-Powered Code Security",
-      "link": "https://thehackernews.com/2026/02/zastai-raises-6m-pre-to-scale-zero.html",
-      "pubDate": "Tue, 10 Feb 2026 17:10:00 +0530"
     }
   ]
 }
