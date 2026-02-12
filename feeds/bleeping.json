@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-12T14:03:16Z",
+  "updated": "2026-02-12T15:11:33Z",
   "items": [
+    {
+      "title": "AMOS infostealer targets macOS through a popular AI app",
+      "link": "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/",
+      "pubDate": "Thu, 12 Feb 2026 09:25:38 -0500"
+    },
     {
       "title": "Fake AI Chrome extensions with 300K users steal credentials, emails",
       "link": "https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/",
@@ -56,11 +61,6 @@
       "title": "New Linux botnet SSHStalker uses old-school IRC for C2 comms",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-botnet-sshstalker-uses-old-school-irc-for-c2-comms/",
       "pubDate": "Tue, 10 Feb 2026 18:09:48 -0500"
-    },
-    {
-      "title": "North Korean hackers use new macOS malware in crypto-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-in-crypto-theft-attacks/",
-      "pubDate": "Tue, 10 Feb 2026 17:17:35 -0500"
     }
   ]
 }
