@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-12T10:34:11Z",
+  "updated": "2026-02-12T11:33:02Z",
   "items": [
+    {
+      "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
+      "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
+      "pubDate": "Thu, 12 Feb 2026 16:00:00 +0530"
+    },
     {
       "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
       "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
@@ -56,11 +61,6 @@
       "title": "Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools",
       "link": "https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html",
       "pubDate": "Tue, 10 Feb 2026 20:06:00 +0530"
-    },
-    {
-      "title": "From Ransomware to Residency: Inside the Rise of the Digital Parasite",
-      "link": "https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html",
-      "pubDate": "Tue, 10 Feb 2026 19:29:00 +0530"
     }
   ]
 }
