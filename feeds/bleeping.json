@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-12T21:26:55Z",
+  "updated": "2026-02-12T21:56:04Z",
   "items": [
+    {
+      "title": "Bitwarden introduces \u2018Cupid Vault\u2019 for secure password sharing",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/",
+      "pubDate": "Thu, 12 Feb 2026 16:55:24 -0500"
+    },
+    {
+      "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
+      "pubDate": "Thu, 12 Feb 2026 16:34:12 -0500"
+    },
     {
       "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
@@ -51,16 +61,6 @@
       "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
       "pubDate": "Wed, 11 Feb 2026 16:53:58 -0500"
-    },
-    {
-      "title": "Crazy ransomware gang abuses employee monitoring tool in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/crazy-ransomware-gang-abuses-employee-monitoring-tool-in-attacks/",
-      "pubDate": "Wed, 11 Feb 2026 14:29:14 -0500"
-    },
-    {
-      "title": "Police arrest seller of JokerOTP MFA passcode capturing tool",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/",
-      "pubDate": "Wed, 11 Feb 2026 14:14:32 -0500"
     }
   ]
 }
