@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-12T20:56:25Z",
+  "updated": "2026-02-12T21:26:55Z",
   "items": [
+    {
+      "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
+      "pubDate": "Thu, 12 Feb 2026 16:01:00 -0500"
+    },
     {
       "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
       "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
@@ -56,11 +61,6 @@
       "title": "Police arrest seller of JokerOTP MFA passcode capturing tool",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrest-seller-of-jokerotp-mfa-passcode-capturing-tool/",
       "pubDate": "Wed, 11 Feb 2026 14:14:32 -0500"
-    },
-    {
-      "title": "Proactive strategies for cyber resilience with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/proactive-strategies-for-cyber-resilience-with-wazuh/",
-      "pubDate": "Wed, 11 Feb 2026 12:40:28 -0500"
     }
   ]
 }
