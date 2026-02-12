@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-12T22:54:47Z",
+  "updated": "2026-02-12T23:19:03Z",
   "items": [
+    {
+      "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
+      "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
+      "pubDate": "Thu, 12 Feb 2026 17:57:54 -0500"
+    },
     {
       "title": "Bitwarden introduces \u2018Cupid Vault\u2019 for secure password sharing",
       "link": "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 Notepad flaw let files execute silently via Markdown links",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/",
       "pubDate": "Wed, 11 Feb 2026 18:15:41 -0500"
-    },
-    {
-      "title": "Microsoft Store Outlook add-in hijacked to steal 4,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-store-outlook-add-in-hijacked-to-steal-4-000-microsoft-accounts/",
-      "pubDate": "Wed, 11 Feb 2026 16:53:58 -0500"
     }
   ]
 }
