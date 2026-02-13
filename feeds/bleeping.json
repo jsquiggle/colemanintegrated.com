@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-13T12:34:11Z",
+  "updated": "2026-02-13T13:54:28Z",
   "items": [
+    {
+      "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
+      "pubDate": "Fri, 13 Feb 2026 07:35:09 -0500"
+    },
     {
       "title": "Microsoft fixes bug that blocked Google Chrome from launching",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
@@ -56,11 +61,6 @@
       "title": "Google says hackers are abusing Gemini AI for all attacks stages",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
       "pubDate": "Thu, 12 Feb 2026 02:00:00 -0500"
-    },
-    {
-      "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
-      "pubDate": "Wed, 11 Feb 2026 20:06:05 -0500"
     }
   ]
 }
