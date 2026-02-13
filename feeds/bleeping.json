@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-13T08:31:12Z",
+  "updated": "2026-02-13T09:32:55Z",
   "items": [
+    {
+      "title": "Microsoft fixes bug that blocked Google Chrome from launching",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
+      "pubDate": "Fri, 13 Feb 2026 04:31:01 -0500"
+    },
     {
       "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
       "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
@@ -56,11 +61,6 @@
       "title": "Apple fixes zero-day flaw used in 'extremely sophisticated' attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/",
       "pubDate": "Wed, 11 Feb 2026 20:06:05 -0500"
-    },
-    {
-      "title": "Windows 11 Notepad flaw let files execute silently via Markdown links",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-flaw-let-files-execute-silently-via-markdown-links/",
-      "pubDate": "Wed, 11 Feb 2026 18:15:41 -0500"
     }
   ]
 }
