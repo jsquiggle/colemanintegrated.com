@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-13T22:24:38Z",
+  "updated": "2026-02-13T22:57:38Z",
   "items": [
+    {
+      "title": "Fake job recruiters hide malware in developer coding challenges",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
+      "pubDate": "Fri, 13 Feb 2026 17:35:37 -0500"
+    },
     {
       "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
@@ -56,11 +61,6 @@
       "title": "Odido data breach exposes personal info of 6.2 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
       "pubDate": "Thu, 12 Feb 2026 13:18:14 -0500"
-    },
-    {
-      "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
-      "pubDate": "Thu, 12 Feb 2026 12:09:41 -0500"
     }
   ]
 }
