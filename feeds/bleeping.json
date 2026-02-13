@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-13T14:34:47Z",
+  "updated": "2026-02-13T15:31:54Z",
   "items": [
+    {
+      "title": "Turning IBM QRadar Alerts into Action with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/",
+      "pubDate": "Fri, 13 Feb 2026 10:05:15 -0500"
+    },
     {
       "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Fake AI Chrome extensions with 300K users steal credentials, emails",
       "link": "https://www.bleepingcomputer.com/news/security/fake-ai-chrome-extensions-with-300k-users-steal-credentials-emails/",
       "pubDate": "Thu, 12 Feb 2026 08:41:55 -0500"
-    },
-    {
-      "title": "Google says hackers are abusing Gemini AI for all attacks stages",
-      "link": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
-      "pubDate": "Thu, 12 Feb 2026 02:00:00 -0500"
     }
   ]
 }
