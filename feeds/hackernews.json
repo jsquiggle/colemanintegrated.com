@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-13T10:29:33Z",
+  "updated": "2026-02-13T11:08:41Z",
   "items": [
+    {
+      "title": "npm\u2019s Update to Harden Their Supply Chain, and Points to Consider",
+      "link": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
+      "pubDate": "Fri, 13 Feb 2026 16:15:00 +0530"
+    },
     {
       "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
       "link": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
@@ -56,11 +61,6 @@
       "title": "Exposed Training Open the Door for Crypto-Mining in Fortune 500 Cloud Environments",
       "link": "https://thehackernews.com/2026/02/exposed-training-open-door-for-crypto.html",
       "pubDate": "Wed, 11 Feb 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days",
-      "link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
-      "pubDate": "Wed, 11 Feb 2026 15:52:00 +0530"
     }
   ]
 }
