@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-13T19:34:53Z",
+  "updated": "2026-02-13T20:25:13Z",
   "items": [
+    {
+      "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
+      "pubDate": "Fri, 13 Feb 2026 15:21:43 -0500"
+    },
     {
       "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
       "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
@@ -56,11 +61,6 @@
       "title": "WordPress plugin with 900k installs vulnerable to critical RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-with-900k-installs-vulnerable-to-critical-rce-flaw/",
       "pubDate": "Thu, 12 Feb 2026 12:09:41 -0500"
-    },
-    {
-      "title": "AMOS infostealer targets macOS through a popular AI app",
-      "link": "https://www.bleepingcomputer.com/news/security/amos-infostealer-targets-macos-through-a-popular-ai-app/",
-      "pubDate": "Thu, 12 Feb 2026 09:25:38 -0500"
     }
   ]
 }
