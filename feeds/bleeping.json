@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-14T15:45:30Z",
+  "updated": "2026-02-14T16:16:59Z",
   "items": [
+    {
+      "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
+      "pubDate": "Sat, 14 Feb 2026 11:02:34 -0500"
+    },
     {
       "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
       "pubDate": "Thu, 12 Feb 2026 16:01:00 -0500"
-    },
-    {
-      "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
-      "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
-      "pubDate": "Thu, 12 Feb 2026 14:16:38 -0500"
     }
   ]
 }
