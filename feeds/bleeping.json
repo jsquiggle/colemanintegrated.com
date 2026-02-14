@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-14T15:15:52Z",
+  "updated": "2026-02-14T15:45:30Z",
   "items": [
+    {
+      "title": "Snail mail letters target Trezor and Ledger users in crypto-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/snail-mail-letters-target-trezor-and-ledger-users-in-crypto-theft-attacks/",
+      "pubDate": "Sat, 14 Feb 2026 10:15:25 -0500"
+    },
     {
       "title": "Fake job recruiters hide malware in developer coding challenges",
       "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
@@ -56,11 +61,6 @@
       "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
       "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
       "pubDate": "Thu, 12 Feb 2026 14:16:38 -0500"
-    },
-    {
-      "title": "Odido data breach exposes personal info of 6.2 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
-      "pubDate": "Thu, 12 Feb 2026 13:18:14 -0500"
     }
   ]
 }
