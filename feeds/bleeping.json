@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-15T15:15:40Z",
+  "updated": "2026-02-15T15:45:22Z",
   "items": [
+    {
+      "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
+      "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
+      "pubDate": "Sun, 15 Feb 2026 10:17:27 -0500"
+    },
     {
       "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
@@ -56,11 +61,6 @@
       "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
       "pubDate": "Thu, 12 Feb 2026 16:34:12 -0500"
-    },
-    {
-      "title": "Microsoft: New Windows LNK spoofing issues aren't vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-lnk-spoofing-issues-arent-vulnerabilities/",
-      "pubDate": "Thu, 12 Feb 2026 16:01:00 -0500"
     }
   ]
 }
