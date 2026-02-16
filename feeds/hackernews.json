@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-16T12:37:34Z",
+  "updated": "2026-02-16T13:58:44Z",
   "items": [
+    {
+      "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud",
+      "link": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
+      "pubDate": "Mon, 16 Feb 2026 17:25:00 +0530"
+    },
     {
       "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
       "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
@@ -56,11 +61,6 @@
       "title": "Lazarus Campaign Plants Malicious Packages in npm and PyPI Ecosystems",
       "link": "https://thehackernews.com/2026/02/lazarus-campaign-plants-malicious.html",
       "pubDate": "Thu, 12 Feb 2026 22:25:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
-      "pubDate": "Thu, 12 Feb 2026 17:21:00 +0530"
     }
   ]
 }
