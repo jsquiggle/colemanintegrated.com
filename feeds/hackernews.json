@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-16T06:38:38Z",
+  "updated": "2026-02-16T07:44:41Z",
   "items": [
+    {
+      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
+      "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+      "pubDate": "Mon, 16 Feb 2026 12:08:00 +0530"
+    },
     {
       "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
       "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
@@ -56,11 +61,6 @@
       "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
       "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
       "pubDate": "Thu, 12 Feb 2026 16:00:00 +0530"
-    },
-    {
-      "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-      "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-      "pubDate": "Thu, 12 Feb 2026 13:02:00 +0530"
     }
   ]
 }
