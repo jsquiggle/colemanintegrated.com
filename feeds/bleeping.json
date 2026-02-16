@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-16T11:32:32Z",
+  "updated": "2026-02-16T12:37:34Z",
   "items": [
+    {
+      "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
+      "pubDate": "Mon, 16 Feb 2026 07:33:11 -0500"
+    },
     {
       "title": "Google patches first Chrome zero-day exploited in attacks this year",
       "link": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
@@ -56,11 +61,6 @@
       "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
       "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
       "pubDate": "Fri, 13 Feb 2026 13:35:15 -0500"
-    },
-    {
-      "title": "Turning IBM QRadar Alerts into Action with Criminal IP",
-      "link": "https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/",
-      "pubDate": "Fri, 13 Feb 2026 10:05:15 -0500"
     }
   ]
 }
