@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-16T01:11:51Z",
+  "updated": "2026-02-16T03:59:38Z",
   "items": [
     {
       "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
