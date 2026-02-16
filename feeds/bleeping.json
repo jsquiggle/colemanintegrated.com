@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-16T14:40:00Z",
+  "updated": "2026-02-16T15:31:30Z",
   "items": [
+    {
+      "title": "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era",
+      "link": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
+      "pubDate": "Mon, 16 Feb 2026 10:02:12 -0500"
+    },
     {
       "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
@@ -56,11 +61,6 @@
       "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
       "pubDate": "Fri, 13 Feb 2026 15:21:43 -0500"
-    },
-    {
-      "title": "Louis Vuitton, Dior, and Tiffany fined $25 million over data breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/louis-vuitton-dior-and-tiffany-fined-25-million-over-data-breaches/",
-      "pubDate": "Fri, 13 Feb 2026 13:35:15 -0500"
     }
   ]
 }
