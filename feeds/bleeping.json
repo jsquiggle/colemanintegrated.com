@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-16T20:52:13Z",
+  "updated": "2026-02-16T21:19:23Z",
   "items": [
+    {
+      "title": "Washington Hotel in Japan discloses ransomware infection incident",
+      "link": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
+      "pubDate": "Mon, 16 Feb 2026 16:10:38 -0500"
+    },
     {
       "title": "Eurail says stolen traveler data now up for sale on dark web",
       "link": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
@@ -56,11 +61,6 @@
       "title": "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps",
       "link": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
       "pubDate": "Sun, 15 Feb 2026 10:17:27 -0500"
-    },
-    {
-      "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
-      "pubDate": "Sat, 14 Feb 2026 11:02:34 -0500"
     }
   ]
 }
