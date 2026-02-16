@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-15T23:46:35Z",
+  "updated": "2026-02-16T01:11:51Z",
   "items": [
+    {
+      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
+      "pubDate": "Sun, 15 Feb 2026 19:29:00 -0500"
+    },
     {
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes bug that blocked Google Chrome from launching",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
       "pubDate": "Fri, 13 Feb 2026 04:31:01 -0500"
-    },
-    {
-      "title": "Russia tries to block WhatsApp, Telegram in communication blockade",
-      "link": "https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/",
-      "pubDate": "Thu, 12 Feb 2026 17:57:54 -0500"
     }
   ]
 }
