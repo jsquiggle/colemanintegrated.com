@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-17T21:00:47Z",
+  "updated": "2026-02-17T21:52:22Z",
   "items": [
+    {
+      "title": "Flaws in popular VSCode extensions expose developers to attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
+      "pubDate": "Tue, 17 Feb 2026 16:27:12 -0500"
+    },
     {
       "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
@@ -56,11 +61,6 @@
       "title": "Infostealer malware found stealing OpenClaw secrets for first time",
       "link": "https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/",
       "pubDate": "Mon, 16 Feb 2026 12:32:26 -0500"
-    },
-    {
-      "title": "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era",
-      "link": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
-      "pubDate": "Mon, 16 Feb 2026 10:02:12 -0500"
     }
   ]
 }
