@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-17T17:30:30Z",
+  "updated": "2026-02-17T18:41:57Z",
   "items": [
+    {
+      "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+      "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+      "pubDate": "Tue, 17 Feb 2026 23:38:00 +0530"
+    },
     {
       "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
       "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
@@ -56,11 +61,6 @@
       "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
       "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
       "pubDate": "Mon, 16 Feb 2026 15:54:00 +0530"
-    },
-    {
-      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
-      "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
-      "pubDate": "Mon, 16 Feb 2026 12:08:00 +0530"
     }
   ]
 }

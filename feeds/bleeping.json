@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-17T17:30:30Z",
+  "updated": "2026-02-17T18:41:57Z",
   "items": [
+    {
+      "title": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism",
+      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+      "pubDate": "Tue, 17 Feb 2026 13:29:18 -0500"
+    },
     {
       "title": "Microsoft Teams outage affects users in United States, Europe",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
@@ -56,11 +61,6 @@
       "title": "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
       "pubDate": "Mon, 16 Feb 2026 07:33:11 -0500"
-    },
-    {
-      "title": "Google patches first Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
-      "pubDate": "Mon, 16 Feb 2026 03:19:19 -0500"
     }
   ]
 }
