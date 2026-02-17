@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-17T11:10:26Z",
+  "updated": "2026-02-17T11:58:00Z",
   "items": [
+    {
+      "title": "Poland arrests suspect linked to Phobos ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
+      "pubDate": "Tue, 17 Feb 2026 06:31:37 -0500"
+    },
     {
       "title": "Ireland now also investigating X over Grok-made sexual images",
       "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
       "pubDate": "Sun, 15 Feb 2026 17:08:53 -0500"
-    },
-    {
-      "title": "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups",
-      "link": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
-      "pubDate": "Sun, 15 Feb 2026 11:30:41 -0500"
     }
   ]
 }
