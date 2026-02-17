@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-17T11:58:00Z",
+  "updated": "2026-02-17T12:58:05Z",
   "items": [
+    {
+      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+      "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+      "pubDate": "Tue, 17 Feb 2026 17:29:00 +0530"
+    },
+    {
+      "title": "My Day Getting My Hands Dirty with an NDR System",
+      "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+      "pubDate": "Tue, 17 Feb 2026 17:00:00 +0530"
+    },
     {
       "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
       "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
@@ -51,16 +61,6 @@
       "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
       "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
       "pubDate": "Fri, 13 Feb 2026 22:57:00 +0530"
-    },
-    {
-      "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-      "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-      "pubDate": "Fri, 13 Feb 2026 21:53:00 +0530"
-    },
-    {
-      "title": "UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors",
-      "link": "https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html",
-      "pubDate": "Fri, 13 Feb 2026 20:53:00 +0530"
     }
   ]
 }
