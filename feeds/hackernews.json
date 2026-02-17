@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-17T16:13:04Z",
+  "updated": "2026-02-17T17:30:30Z",
   "items": [
+    {
+      "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+      "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
+      "pubDate": "Tue, 17 Feb 2026 22:11:00 +0530"
+    },
     {
       "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
       "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
@@ -56,11 +61,6 @@
       "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
       "link": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
       "pubDate": "Mon, 16 Feb 2026 12:08:00 +0530"
-    },
-    {
-      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
-      "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
-      "pubDate": "Sun, 15 Feb 2026 19:40:00 +0530"
     }
   ]
 }
