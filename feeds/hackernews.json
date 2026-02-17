@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-17T12:58:05Z",
+  "updated": "2026-02-17T14:05:33Z",
   "items": [
+    {
+      "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+      "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+      "pubDate": "Tue, 17 Feb 2026 18:12:00 +0530"
+    },
     {
       "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
       "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
       "link": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
       "pubDate": "Sun, 15 Feb 2026 19:40:00 +0530"
-    },
-    {
-      "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
-      "link": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
-      "pubDate": "Fri, 13 Feb 2026 22:57:00 +0530"
     }
   ]
 }

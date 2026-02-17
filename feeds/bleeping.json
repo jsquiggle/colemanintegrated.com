@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-17T12:58:05Z",
+  "updated": "2026-02-17T14:05:33Z",
   "items": [
+    {
+      "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
+      "pubDate": "Tue, 17 Feb 2026 09:05:25 -0500"
+    },
     {
       "title": "Poland arrests suspect linked to Phobos ransomware operation",
       "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
@@ -56,11 +61,6 @@
       "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
       "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
       "pubDate": "Sun, 15 Feb 2026 19:29:00 -0500"
-    },
-    {
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "pubDate": "Sun, 15 Feb 2026 17:08:53 -0500"
     }
   ]
 }
