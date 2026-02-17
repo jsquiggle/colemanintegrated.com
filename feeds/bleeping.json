@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-17T14:05:33Z",
+  "updated": "2026-02-17T15:10:46Z",
   "items": [
+    {
+      "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
+      "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
+      "pubDate": "Tue, 17 Feb 2026 09:40:49 -0500"
+    },
     {
       "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
       "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
@@ -56,11 +61,6 @@
       "title": "Canada Goose investigating as hackers leak 600K customer records",
       "link": "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/",
       "pubDate": "Sun, 15 Feb 2026 23:45:32 -0500"
-    },
-    {
-      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-      "pubDate": "Sun, 15 Feb 2026 19:29:00 -0500"
     }
   ]
 }
