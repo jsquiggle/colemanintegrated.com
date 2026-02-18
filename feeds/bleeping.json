@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-18T10:33:14Z",
+  "updated": "2026-02-18T11:31:15Z",
   "items": [
+    {
+      "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
+      "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
+      "pubDate": "Wed, 18 Feb 2026 05:50:50 -0500"
+    },
     {
       "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
       "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
@@ -56,11 +61,6 @@
       "title": "Eurail says stolen traveler data now up for sale on dark web",
       "link": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
       "pubDate": "Mon, 16 Feb 2026 14:19:09 -0500"
-    },
-    {
-      "title": "Man arrested for demanding reward after accidental police data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/",
-      "pubDate": "Mon, 16 Feb 2026 14:13:39 -0500"
     }
   ]
 }
