@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-18T12:36:37Z",
+  "updated": "2026-02-18T14:00:45Z",
   "items": [
+    {
+      "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
+      "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
+      "pubDate": "Wed, 18 Feb 2026 18:46:00 +0530"
+    },
+    {
+      "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
+      "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
+      "pubDate": "Wed, 18 Feb 2026 17:28:00 +0530"
+    },
     {
       "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
       "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
@@ -51,16 +61,6 @@
       "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
       "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
       "pubDate": "Tue, 17 Feb 2026 15:01:00 +0530"
-    },
-    {
-      "title": "Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta",
-      "link": "https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html",
-      "pubDate": "Tue, 17 Feb 2026 12:14:00 +0530"
-    },
-    {
-      "title": "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens",
-      "link": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
-      "pubDate": "Tue, 17 Feb 2026 00:13:00 +0530"
     }
   ]
 }
