@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-18T08:33:23Z",
+  "updated": "2026-02-18T09:36:11Z",
   "items": [
+    {
+      "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+      "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+      "pubDate": "Wed, 18 Feb 2026 13:10:00 +0530"
+    },
     {
       "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
       "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
@@ -56,11 +61,6 @@
       "title": "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware",
       "link": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
       "pubDate": "Mon, 16 Feb 2026 18:25:00 +0530"
-    },
-    {
-      "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud",
-      "link": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
-      "pubDate": "Mon, 16 Feb 2026 17:25:00 +0530"
     }
   ]
 }
