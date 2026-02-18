@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-18T20:27:39Z",
+  "updated": "2026-02-18T21:03:15Z",
   "items": [
+    {
+      "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
+      "pubDate": "Wed, 18 Feb 2026 15:58:20 -0500"
+    },
     {
       "title": "AI platforms can be abused for stealthy malware communication",
       "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Teams outage affects users in United States, Europe",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
       "pubDate": "Tue, 17 Feb 2026 10:37:45 -0500"
-    },
-    {
-      "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
-      "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
-      "pubDate": "Tue, 17 Feb 2026 09:40:49 -0500"
     }
   ]
 }
