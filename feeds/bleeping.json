@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-18T19:39:46Z",
+  "updated": "2026-02-18T20:27:39Z",
   "items": [
+    {
+      "title": "AI platforms can be abused for stealthy malware communication",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
+      "pubDate": "Wed, 18 Feb 2026 15:18:24 -0500"
+    },
     {
       "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
       "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
@@ -56,11 +61,6 @@
       "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
       "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
       "pubDate": "Tue, 17 Feb 2026 09:40:49 -0500"
-    },
-    {
-      "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
-      "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
-      "pubDate": "Tue, 17 Feb 2026 09:05:25 -0500"
     }
   ]
 }
