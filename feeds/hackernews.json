@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-18T17:32:23Z",
+  "updated": "2026-02-18T18:37:48Z",
   "items": [
+    {
+      "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
+      "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
+      "pubDate": "Wed, 18 Feb 2026 23:00:00 +0530"
+    },
     {
       "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
       "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
@@ -56,11 +61,6 @@
       "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
       "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
       "pubDate": "Tue, 17 Feb 2026 18:12:00 +0530"
-    },
-    {
-      "title": "My Day Getting My Hands Dirty with an NDR System",
-      "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
-      "pubDate": "Tue, 17 Feb 2026 17:00:00 +0530"
     }
   ]
 }
