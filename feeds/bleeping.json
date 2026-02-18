@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-18T14:00:45Z",
+  "updated": "2026-02-18T15:09:10Z",
   "items": [
+    {
+      "title": "Data breach at fintech firm Figure affects nearly 1 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/",
+      "pubDate": "Wed, 18 Feb 2026 09:01:08 -0500"
+    },
     {
       "title": "Microsoft says bug causes Copilot to summarize confidential emails",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
@@ -56,11 +61,6 @@
       "title": "Ireland now also investigating X over Grok-made sexual images",
       "link": "https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/",
       "pubDate": "Tue, 17 Feb 2026 05:02:21 -0500"
-    },
-    {
-      "title": "Washington Hotel in Japan discloses ransomware infection incident",
-      "link": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
-      "pubDate": "Mon, 16 Feb 2026 16:10:38 -0500"
     }
   ]
 }
