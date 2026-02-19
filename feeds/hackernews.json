@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-19T08:31:24Z",
+  "updated": "2026-02-19T09:34:32Z",
   "items": [
+    {
+      "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+      "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+      "pubDate": "Thu, 19 Feb 2026 13:43:00 +0530"
+    },
     {
       "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
       "link": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
@@ -56,11 +61,6 @@
       "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
       "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
       "pubDate": "Tue, 17 Feb 2026 22:11:00 +0530"
-    },
-    {
-      "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
-      "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
-      "pubDate": "Tue, 17 Feb 2026 18:12:00 +0530"
     }
   ]
 }
