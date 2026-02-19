@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T10:32:48Z",
+  "updated": "2026-02-19T11:30:44Z",
   "items": [
+    {
+      "title": "Police arrests 651 suspects in African cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
+      "pubDate": "Thu, 19 Feb 2026 06:24:17 -0500"
+    },
     {
       "title": "New 'Massiv' Android banking malware poses as an IPTV app",
       "link": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
@@ -56,11 +61,6 @@
       "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
       "pubDate": "Tue, 17 Feb 2026 15:15:03 -0500"
-    },
-    {
-      "title": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism",
-      "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
-      "pubDate": "Tue, 17 Feb 2026 13:29:18 -0500"
     }
   ]
 }
