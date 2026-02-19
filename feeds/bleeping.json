@@ -1,11 +1,16 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T18:09:42Z",
+  "updated": "2026-02-19T19:16:00Z",
   "items": [
     {
       "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
       "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
       "pubDate": "Thu, 19 Feb 2026 12:16:32 -0500"
+    },
+    {
+      "title": "Google blocked over 1.75 million Play Store app submissions in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/",
+      "pubDate": "Thu, 19 Feb 2026 12:00:00 -0500"
     },
     {
       "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
@@ -56,11 +61,6 @@
       "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
       "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
       "pubDate": "Wed, 18 Feb 2026 11:27:38 -0500"
-    },
-    {
-      "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
-      "pubDate": "Wed, 18 Feb 2026 11:26:53 -0500"
     }
   ]
 }
