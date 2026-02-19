@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T22:21:05Z",
+  "updated": "2026-02-19T22:56:17Z",
   "items": [
+    {
+      "title": "PromptSpy is the first Android malware to use generative AI at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-android-malware-to-use-generative-ai-at-runtime/",
+      "pubDate": "Thu, 19 Feb 2026 17:36:25 -0500"
+    },
     {
       "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
       "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
@@ -56,11 +61,6 @@
       "title": "AI platforms can be abused for stealthy malware communication",
       "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
       "pubDate": "Wed, 18 Feb 2026 15:18:24 -0500"
-    },
-    {
-      "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
-      "pubDate": "Wed, 18 Feb 2026 11:27:38 -0500"
     }
   ]
 }
