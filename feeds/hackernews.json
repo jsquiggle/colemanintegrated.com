@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-19T14:02:04Z",
+  "updated": "2026-02-19T15:11:02Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories",
+      "link": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
+      "pubDate": "Thu, 19 Feb 2026 20:05:00 +0530"
+    },
     {
       "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
       "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
@@ -56,11 +61,6 @@
       "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
       "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
       "pubDate": "Wed, 18 Feb 2026 12:22:00 +0530"
-    },
-    {
-      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-      "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-      "pubDate": "Wed, 18 Feb 2026 00:38:00 +0530"
     }
   ]
 }

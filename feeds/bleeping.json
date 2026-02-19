@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T14:02:04Z",
+  "updated": "2026-02-19T15:11:02Z",
   "items": [
+    {
+      "title": "How infostealers turn stolen credentials into real identities",
+      "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+      "pubDate": "Thu, 19 Feb 2026 10:05:15 -0500"
+    },
     {
       "title": "Nigerian man gets eight years in prison for hacking tax firms",
       "link": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
@@ -56,11 +61,6 @@
       "title": "Microsoft says bug causes Copilot to summarize confidential emails",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
       "pubDate": "Wed, 18 Feb 2026 07:03:05 -0500"
-    },
-    {
-      "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
-      "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
-      "pubDate": "Wed, 18 Feb 2026 05:50:50 -0500"
     }
   ]
 }
