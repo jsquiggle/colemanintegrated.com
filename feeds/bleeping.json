@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T09:34:32Z",
+  "updated": "2026-02-19T10:32:48Z",
   "items": [
+    {
+      "title": "New 'Massiv' Android banking malware poses as an IPTV app",
+      "link": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
+      "pubDate": "Thu, 19 Feb 2026 05:00:00 -0500"
+    },
     {
       "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
       "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
@@ -56,11 +61,6 @@
       "title": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism",
       "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
       "pubDate": "Tue, 17 Feb 2026 13:29:18 -0500"
-    },
-    {
-      "title": "Microsoft Teams outage affects users in United States, Europe",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
-      "pubDate": "Tue, 17 Feb 2026 10:37:45 -0500"
     }
   ]
 }
