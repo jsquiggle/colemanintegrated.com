@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T16:08:17Z",
+  "updated": "2026-02-19T17:26:08Z",
   "items": [
+    {
+      "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
+      "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
+      "pubDate": "Thu, 19 Feb 2026 12:16:32 -0500"
+    },
     {
       "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
       "pubDate": "Wed, 18 Feb 2026 11:26:53 -0500"
-    },
-    {
-      "title": "Data breach at fintech firm Figure affects nearly 1 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/",
-      "pubDate": "Wed, 18 Feb 2026 09:01:08 -0500"
     }
   ]
 }
