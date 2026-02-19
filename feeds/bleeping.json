@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T15:11:02Z",
+  "updated": "2026-02-19T16:08:17Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+      "pubDate": "Thu, 19 Feb 2026 10:30:37 -0500"
+    },
     {
       "title": "How infostealers turn stolen credentials into real identities",
       "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
@@ -56,11 +61,6 @@
       "title": "Data breach at fintech firm Figure affects nearly 1 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/",
       "pubDate": "Wed, 18 Feb 2026 09:01:08 -0500"
-    },
-    {
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "pubDate": "Wed, 18 Feb 2026 07:03:05 -0500"
     }
   ]
 }
