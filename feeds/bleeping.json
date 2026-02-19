@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-19T11:30:44Z",
+  "updated": "2026-02-19T12:37:56Z",
   "items": [
+    {
+      "title": "Texas sues TP-Link over Chinese hacking risks, user deception",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/",
+      "pubDate": "Thu, 19 Feb 2026 07:36:51 -0500"
+    },
+    {
+      "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
+      "pubDate": "Thu, 19 Feb 2026 07:30:37 -0500"
+    },
     {
       "title": "Police arrests 651 suspects in African cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
@@ -51,16 +61,6 @@
       "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
       "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
       "pubDate": "Tue, 17 Feb 2026 18:15:49 -0500"
-    },
-    {
-      "title": "Flaws in popular VSCode extensions expose developers to attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
-      "pubDate": "Tue, 17 Feb 2026 16:27:12 -0500"
-    },
-    {
-      "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
-      "pubDate": "Tue, 17 Feb 2026 15:15:03 -0500"
     }
   ]
 }
