@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-20T18:02:24Z",
+  "updated": "2026-02-20T19:09:35Z",
   "items": [
+    {
+      "title": "Japanese tech giant Advantest hit by ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
+      "pubDate": "Fri, 20 Feb 2026 13:30:44 -0500"
+    },
     {
       "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch actively exploited Dell flaw within 3 days",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
       "pubDate": "Thu, 19 Feb 2026 10:30:37 -0500"
-    },
-    {
-      "title": "How infostealers turn stolen credentials into real identities",
-      "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
-      "pubDate": "Thu, 19 Feb 2026 10:05:15 -0500"
     }
   ]
 }
