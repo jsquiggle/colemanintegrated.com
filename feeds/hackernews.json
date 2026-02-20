@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-20T16:43:52Z",
+  "updated": "2026-02-20T17:29:17Z",
   "items": [
+    {
+      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
+      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
+      "pubDate": "Fri, 20 Feb 2026 21:15:00 +0530"
+    },
     {
       "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
       "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
@@ -56,11 +61,6 @@
       "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
       "link": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
       "pubDate": "Thu, 19 Feb 2026 17:25:00 +0530"
-    },
-    {
-      "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
-      "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
-      "pubDate": "Thu, 19 Feb 2026 15:54:00 +0530"
     }
   ]
 }

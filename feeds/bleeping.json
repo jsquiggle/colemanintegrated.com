@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-20T16:43:52Z",
+  "updated": "2026-02-20T17:29:17Z",
   "items": [
+    {
+      "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "pubDate": "Fri, 20 Feb 2026 12:02:25 -0500"
+    },
     {
       "title": "Data breach at French bank registry impacts 1.2 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
@@ -56,11 +61,6 @@
       "title": "How infostealers turn stolen credentials into real identities",
       "link": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
       "pubDate": "Thu, 19 Feb 2026 10:05:15 -0500"
-    },
-    {
-      "title": "Nigerian man gets eight years in prison for hacking tax firms",
-      "link": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
-      "pubDate": "Thu, 19 Feb 2026 08:51:49 -0500"
     }
   ]
 }
