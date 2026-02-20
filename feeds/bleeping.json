@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-20T14:33:07Z",
+  "updated": "2026-02-20T15:29:32Z",
   "items": [
+    {
+      "title": "Why the shift left dream has become a nightmare for security and developers",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
+      "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500"
+    },
     {
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
@@ -56,11 +61,6 @@
       "title": "Texas sues TP-Link over Chinese hacking risks, user deception",
       "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/",
       "pubDate": "Thu, 19 Feb 2026 07:36:51 -0500"
-    },
-    {
-      "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
-      "pubDate": "Thu, 19 Feb 2026 07:30:37 -0500"
     }
   ]
 }
