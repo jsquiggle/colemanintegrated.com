@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-20T08:01:21Z",
+  "updated": "2026-02-20T09:02:50Z",
   "items": [
+    {
+      "title": "Ukrainian gets 5 years for helping North Koreans infiltrate US firms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-gets-5-years-for-helping-north-koreans-infiltrate-us-firms/",
+      "pubDate": "Fri, 20 Feb 2026 04:00:15 -0500"
+    },
     {
       "title": "PromptSpy is the first known Android malware to use generative AI at runtime",
       "link": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
@@ -56,11 +61,6 @@
       "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
       "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
       "pubDate": "Wed, 18 Feb 2026 15:58:20 -0500"
-    },
-    {
-      "title": "AI platforms can be abused for stealthy malware communication",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
-      "pubDate": "Wed, 18 Feb 2026 15:18:24 -0500"
     }
   ]
 }
