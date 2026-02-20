@@ -1,9 +1,14 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-20T13:53:11Z",
+  "updated": "2026-02-20T14:33:07Z",
   "items": [
     {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT RAT",
+      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
+      "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "pubDate": "Fri, 20 Feb 2026 19:50:00 +0530"
+    },
+    {
+      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
       "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
       "pubDate": "Fri, 20 Feb 2026 17:25:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
       "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
       "pubDate": "Thu, 19 Feb 2026 15:54:00 +0530"
-    },
-    {
-      "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-      "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
-      "pubDate": "Thu, 19 Feb 2026 13:43:00 +0530"
     }
   ]
 }
