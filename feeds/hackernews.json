@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-20T05:11:23Z",
+  "updated": "2026-02-20T06:11:20Z",
   "items": [
+    {
+      "title": "Three Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
+      "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
+      "pubDate": "Fri, 20 Feb 2026 10:57:00 +0530"
+    },
     {
       "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
       "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
@@ -56,11 +61,6 @@
       "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
       "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
       "pubDate": "Wed, 18 Feb 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
-      "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
-      "pubDate": "Wed, 18 Feb 2026 16:02:00 +0530"
     }
   ]
 }
