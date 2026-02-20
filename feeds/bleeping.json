@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-20T11:01:49Z",
+  "updated": "2026-02-20T11:50:18Z",
   "items": [
+    {
+      "title": "Mississippi medical center closes all clinics after ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
+      "pubDate": "Fri, 20 Feb 2026 06:50:14 -0500"
+    },
     {
       "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
@@ -56,11 +61,6 @@
       "title": "Police arrests 651 suspects in African cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
       "pubDate": "Thu, 19 Feb 2026 06:24:17 -0500"
-    },
-    {
-      "title": "New 'Massiv' Android banking malware poses as an IPTV app",
-      "link": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
-      "pubDate": "Thu, 19 Feb 2026 05:00:00 -0500"
     }
   ]
 }
