@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-20T12:33:43Z",
+  "updated": "2026-02-20T13:53:11Z",
   "items": [
+    {
+      "title": "PayPal discloses data breach that exposed user info for 6 months",
+      "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
+      "pubDate": "Fri, 20 Feb 2026 08:12:01 -0500"
+    },
     {
       "title": "Mississippi medical center closes all clinics after ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
@@ -56,11 +61,6 @@
       "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
       "pubDate": "Thu, 19 Feb 2026 07:30:37 -0500"
-    },
-    {
-      "title": "Police arrests 651 suspects in African cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
-      "pubDate": "Thu, 19 Feb 2026 06:24:17 -0500"
     }
   ]
 }
