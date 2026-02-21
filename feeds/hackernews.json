@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-21T14:49:06Z",
+  "updated": "2026-02-21T15:14:57Z",
   "items": [
+    {
+      "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
+      "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
+      "pubDate": "Sat, 21 Feb 2026 20:19:00 +0530"
+    },
     {
       "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
       "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
@@ -56,11 +61,6 @@
       "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
       "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
       "pubDate": "Thu, 19 Feb 2026 23:22:00 +0530"
-    },
-    {
-      "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
-      "link": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
-      "pubDate": "Thu, 19 Feb 2026 23:20:00 +0530"
     }
   ]
 }
