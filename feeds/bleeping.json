@@ -1,9 +1,14 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-21T15:45:08Z",
+  "updated": "2026-02-21T16:16:15Z",
   "items": [
     {
-      "title": "Amazon: AI-assisted hacker breached 600 FortiGate firewalls in 5 weeks",
+      "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
+      "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
+      "pubDate": "Sat, 21 Feb 2026 11:13:24 -0500"
+    },
+    {
+      "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
       "pubDate": "Sat, 21 Feb 2026 08:50:58 -0500"
     },
@@ -56,11 +61,6 @@
       "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
       "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
       "pubDate": "Thu, 19 Feb 2026 12:16:32 -0500"
-    },
-    {
-      "title": "Google blocked over 1.75 million Play Store app submissions in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/",
-      "pubDate": "Thu, 19 Feb 2026 12:00:00 -0500"
     }
   ]
 }
