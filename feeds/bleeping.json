@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-23T18:48:07Z",
+  "updated": "2026-02-23T19:50:51Z",
   "items": [
+    {
+      "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
+      "pubDate": "Mon, 23 Feb 2026 14:40:42 -0500"
+    },
     {
       "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
       "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
@@ -56,11 +61,6 @@
       "title": "PayPal discloses data breach that exposed user info for 6 months",
       "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
       "pubDate": "Fri, 20 Feb 2026 08:12:01 -0500"
-    },
-    {
-      "title": "Mississippi medical center closes all clinics after ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
-      "pubDate": "Fri, 20 Feb 2026 06:50:14 -0500"
     }
   ]
 }
