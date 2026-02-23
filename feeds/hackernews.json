@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-23T20:33:46Z",
+  "updated": "2026-02-23T21:34:11Z",
   "items": [
+    {
+      "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
+      "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
+      "pubDate": "Tue, 24 Feb 2026 01:11:00 +0530"
+    },
     {
       "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
       "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
@@ -56,11 +61,6 @@
       "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
       "link": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
       "pubDate": "Fri, 20 Feb 2026 19:50:00 +0530"
-    },
-    {
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "link": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "pubDate": "Fri, 20 Feb 2026 17:25:00 +0530"
     }
   ]
 }
