@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-23T12:38:04Z",
+  "updated": "2026-02-23T14:01:06Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
+      "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
+      "pubDate": "Mon, 23 Feb 2026 18:30:00 +0530"
+    },
     {
       "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
       "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
@@ -56,11 +61,6 @@
       "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
       "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
       "pubDate": "Fri, 20 Feb 2026 16:00:00 +0530"
-    },
-    {
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "pubDate": "Fri, 20 Feb 2026 15:22:00 +0530"
     }
   ]
 }
