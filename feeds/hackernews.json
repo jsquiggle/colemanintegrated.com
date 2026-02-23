@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-23T07:46:35Z",
+  "updated": "2026-02-23T08:36:19Z",
   "items": [
+    {
+      "title": "MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP",
+      "link": "https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html",
+      "pubDate": "Mon, 23 Feb 2026 12:55:00 +0530"
+    },
     {
       "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
       "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
@@ -56,11 +61,6 @@
       "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
       "link": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
       "pubDate": "Fri, 20 Feb 2026 10:57:00 +0530"
-    },
-    {
-      "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
-      "link": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
-      "pubDate": "Thu, 19 Feb 2026 23:22:00 +0530"
     }
   ]
 }
