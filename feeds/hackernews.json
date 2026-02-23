@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-23T11:32:15Z",
+  "updated": "2026-02-23T12:38:04Z",
   "items": [
+    {
+      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
+      "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+      "pubDate": "Mon, 23 Feb 2026 17:28:00 +0530"
+    },
     {
       "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
       "link": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
@@ -56,11 +61,6 @@
       "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
       "link": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
       "pubDate": "Fri, 20 Feb 2026 15:22:00 +0530"
-    },
-    {
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "link": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "pubDate": "Fri, 20 Feb 2026 13:35:00 +0530"
     }
   ]
 }
