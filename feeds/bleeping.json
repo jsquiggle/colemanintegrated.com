@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-23T17:34:15Z",
+  "updated": "2026-02-23T18:48:07Z",
   "items": [
+    {
+      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
+      "pubDate": "Mon, 23 Feb 2026 13:04:01 -0500"
+    },
     {
       "title": "When identity isn\u2019t the weak link, access still is",
       "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
@@ -56,11 +61,6 @@
       "title": "Mississippi medical center closes all clinics after ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-mississippi-medical-center-closes-clinics-after-ransomware-attack/",
       "pubDate": "Fri, 20 Feb 2026 06:50:14 -0500"
-    },
-    {
-      "title": "FBI: Over $20 million stolen in surge of ATM malware attacks in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-over-20-million-stolen-in-surge-of-atm-malware-attacks-in-2025/",
-      "pubDate": "Fri, 20 Feb 2026 05:08:49 -0500"
     }
   ]
 }
