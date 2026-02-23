@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-23T22:30:37Z",
+  "updated": "2026-02-23T23:26:04Z",
   "items": [
+    {
+      "title": "Android mental health apps with 14.7M installs filled with security flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
+      "pubDate": "Mon, 23 Feb 2026 17:59:04 -0500"
+    },
     {
       "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
@@ -56,11 +61,6 @@
       "title": "Data breach at French bank registry impacts 1.2 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
       "pubDate": "Fri, 20 Feb 2026 11:20:40 -0500"
-    },
-    {
-      "title": "Why the shift left dream has become a nightmare for security and developers",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
-      "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500"
     }
   ]
 }
