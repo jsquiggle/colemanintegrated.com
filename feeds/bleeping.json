@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-23T21:34:11Z",
+  "updated": "2026-02-23T22:30:37Z",
   "items": [
+    {
+      "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
+      "pubDate": "Mon, 23 Feb 2026 16:59:42 -0500"
+    },
     {
       "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
@@ -56,11 +61,6 @@
       "title": "Why the shift left dream has become a nightmare for security and developers",
       "link": "https://www.bleepingcomputer.com/news/security/why-the-shift-left-dream-has-become-a-nightmare-for-security-and-developers/",
       "pubDate": "Fri, 20 Feb 2026 09:45:54 -0500"
-    },
-    {
-      "title": "PayPal discloses data breach that exposed user info for 6 months",
-      "link": "https://www.bleepingcomputer.com/news/security/paypal-discloses-data-breach-exposing-users-personal-information/",
-      "pubDate": "Fri, 20 Feb 2026 08:12:01 -0500"
     }
   ]
 }
