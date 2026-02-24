@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T17:50:14Z",
+  "updated": "2026-02-24T18:45:41Z",
   "items": [
+    {
+      "title": "CarGurus data breach exposes information of 12.4 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
+      "pubDate": "Tue, 24 Feb 2026 13:08:20 -0500"
+    },
     {
       "title": "Microsoft adds Copilot data controls to all storage locations",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/",
@@ -56,11 +61,6 @@
       "title": "When identity isn\u2019t the weak link, access still is",
       "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
       "pubDate": "Mon, 23 Feb 2026 10:00:10 -0500"
-    },
-    {
-      "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
-      "pubDate": "Mon, 23 Feb 2026 06:44:21 -0500"
     }
   ]
 }
