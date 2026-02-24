@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T10:37:36Z",
+  "updated": "2026-02-24T11:32:41Z",
   "items": [
+    {
+      "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
+      "pubDate": "Tue, 24 Feb 2026 06:00:00 -0500"
+    },
     {
       "title": "Android mental health apps with 14.7M installs filled with security flaws",
       "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
@@ -56,11 +61,6 @@
       "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
       "pubDate": "Fri, 20 Feb 2026 12:02:25 -0500"
-    },
-    {
-      "title": "Data breach at French bank registry impacts 1.2 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-french-bank-registry-impacts-12-million-accounts/",
-      "pubDate": "Fri, 20 Feb 2026 11:20:40 -0500"
     }
   ]
 }
