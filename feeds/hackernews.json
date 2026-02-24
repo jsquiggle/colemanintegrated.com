@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-24T09:40:42Z",
+  "updated": "2026-02-24T10:37:36Z",
   "items": [
+    {
+      "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
+      "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
+      "pubDate": "Tue, 24 Feb 2026 15:24:00 +0530"
+    },
     {
       "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
       "link": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
@@ -56,11 +61,6 @@
       "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
       "link": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
       "pubDate": "Sat, 21 Feb 2026 10:00:00 +0530"
-    },
-    {
-      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-      "pubDate": "Fri, 20 Feb 2026 21:15:00 +0530"
     }
   ]
 }
