@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T14:03:36Z",
+  "updated": "2026-02-24T15:14:30Z",
   "items": [
+    {
+      "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation",
+      "link": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/",
+      "pubDate": "Tue, 24 Feb 2026 10:02:12 -0500"
+    },
+    {
+      "title": "UK fines Reddit $19 million for using children\u2019s data unlawfully",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-reddit-19-million-for-using-childrens-data-unlawfully/",
+      "pubDate": "Tue, 24 Feb 2026 09:54:24 -0500"
+    },
     {
       "title": "Critical SolarWinds Serv-U flaws offer root access to servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-solarwinds-serv-u-flaws-offer-root-access-to-servers/",
@@ -51,16 +61,6 @@
       "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
       "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
       "pubDate": "Sun, 22 Feb 2026 10:33:26 -0500"
-    },
-    {
-      "title": "Predator spyware hooks iOS SpringBoard to hide mic, camera activity",
-      "link": "https://www.bleepingcomputer.com/news/security/predator-spyware-hooks-ios-springboard-to-hide-mic-camera-activity/",
-      "pubDate": "Sat, 21 Feb 2026 11:13:24 -0500"
-    },
-    {
-      "title": "Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/",
-      "pubDate": "Sat, 21 Feb 2026 08:50:58 -0500"
     }
   ]
 }
