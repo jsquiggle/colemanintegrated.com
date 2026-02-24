@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T11:32:41Z",
+  "updated": "2026-02-24T12:38:45Z",
   "items": [
+    {
+      "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
+      "pubDate": "Tue, 24 Feb 2026 06:40:20 -0500"
+    },
     {
       "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Japanese tech giant Advantest hit by ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-tech-giant-advantest-hit-by-ransomware-attack/",
       "pubDate": "Fri, 20 Feb 2026 13:30:44 -0500"
-    },
-    {
-      "title": "CISA: BeyondTrust RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-beyondtrust-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "pubDate": "Fri, 20 Feb 2026 12:02:25 -0500"
     }
   ]
 }
