@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T21:38:32Z",
+  "updated": "2026-02-24T22:22:20Z",
   "items": [
+    {
+      "title": "Wynn Resorts confirms employee data breach after extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
+      "pubDate": "Tue, 24 Feb 2026 16:51:20 -0500"
+    },
+    {
+      "title": "1Campaign platform helps malicious Google ads evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/1campaign-platform-helps-malicious-google-ads-evade-detection/",
+      "pubDate": "Tue, 24 Feb 2026 16:45:05 -0500"
+    },
     {
       "title": "CarGurus data breach exposes information of 12.4 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
@@ -51,16 +61,6 @@
       "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
       "pubDate": "Mon, 23 Feb 2026 14:40:42 -0500"
-    },
-    {
-      "title": "Ad tech firm Optimizely confirms data breach after vishing attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/",
-      "pubDate": "Mon, 23 Feb 2026 13:04:01 -0500"
-    },
-    {
-      "title": "When identity isn\u2019t the weak link, access still is",
-      "link": "https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/",
-      "pubDate": "Mon, 23 Feb 2026 10:00:10 -0500"
     }
   ]
 }
