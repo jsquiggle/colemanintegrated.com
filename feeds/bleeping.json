@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T16:32:38Z",
+  "updated": "2026-02-24T17:50:14Z",
   "items": [
+    {
+      "title": "Microsoft adds Copilot data controls to all storage locations",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/",
+      "pubDate": "Tue, 24 Feb 2026 12:30:10 -0500"
+    },
     {
       "title": "Identity-First AI Security: Why CISOs Must Add Intent to the Equation",
       "link": "https://www.bleepingcomputer.com/news/security/identity-first-ai-security-why-cisos-must-add-intent-to-the-equation/",
@@ -56,11 +61,6 @@
       "title": "CISA: Recently patched RoundCube flaws now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/",
       "pubDate": "Mon, 23 Feb 2026 06:44:21 -0500"
-    },
-    {
-      "title": "Arkanix Stealer pops up as short-lived AI info-stealer experiment",
-      "link": "https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/",
-      "pubDate": "Sun, 22 Feb 2026 10:33:26 -0500"
     }
   ]
 }

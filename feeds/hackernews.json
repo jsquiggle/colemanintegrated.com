@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-24T16:32:38Z",
+  "updated": "2026-02-24T17:50:14Z",
   "items": [
+    {
+      "title": "UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware",
+      "link": "https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html",
+      "pubDate": "Tue, 24 Feb 2026 19:51:00 +0530"
+    },
     {
       "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
       "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
@@ -56,11 +61,6 @@
       "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
       "link": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
       "pubDate": "Sat, 21 Feb 2026 20:19:00 +0530"
-    },
-    {
-      "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
-      "link": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
-      "pubDate": "Sat, 21 Feb 2026 13:28:00 +0530"
     }
   ]
 }
