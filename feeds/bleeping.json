@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-25T07:44:28Z",
+  "updated": "2026-02-25T08:35:45Z",
   "items": [
+    {
+      "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
+      "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
+      "pubDate": "Wed, 25 Feb 2026 03:21:40 -0500"
+    },
+    {
+      "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/",
+      "pubDate": "Wed, 25 Feb 2026 02:51:51 -0500"
+    },
     {
       "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
       "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
@@ -51,16 +61,6 @@
       "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
       "pubDate": "Tue, 24 Feb 2026 06:00:00 -0500"
-    },
-    {
-      "title": "Android mental health apps with 14.7M installs filled with security flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/android-mental-health-apps-with-147m-installs-filled-with-security-flaws/",
-      "pubDate": "Mon, 23 Feb 2026 17:59:04 -0500"
-    },
-    {
-      "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
-      "pubDate": "Mon, 23 Feb 2026 16:59:42 -0500"
     }
   ]
 }
