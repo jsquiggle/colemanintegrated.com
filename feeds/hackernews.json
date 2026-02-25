@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-25T16:39:04Z",
+  "updated": "2026-02-25T17:50:56Z",
   "items": [
+    {
+      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+      "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+      "pubDate": "Wed, 25 Feb 2026 22:30:00 +0530"
+    },
     {
       "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
       "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
@@ -56,11 +61,6 @@
       "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
       "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
       "pubDate": "Tue, 24 Feb 2026 17:22:00 +0530"
-    },
-    {
-      "title": "UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors",
-      "link": "https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html",
-      "pubDate": "Tue, 24 Feb 2026 15:24:00 +0530"
     }
   ]
 }
