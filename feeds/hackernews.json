@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-25T14:02:27Z",
+  "updated": "2026-02-25T15:15:18Z",
   "items": [
+    {
+      "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
+      "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
+      "pubDate": "Wed, 25 Feb 2026 18:13:00 +0530"
+    },
     {
       "title": "Manual Processes Are Putting National Security at Risk",
       "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
@@ -56,11 +61,6 @@
       "title": "APT28 Targeted European Entities Using Webhook-Based Macro Malware",
       "link": "https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html",
       "pubDate": "Tue, 24 Feb 2026 01:11:00 +0530"
-    },
-    {
-      "title": "Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb",
-      "link": "https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html",
-      "pubDate": "Mon, 23 Feb 2026 23:29:00 +0530"
     }
   ]
 }
