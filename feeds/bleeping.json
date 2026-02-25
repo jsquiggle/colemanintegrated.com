@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-24T23:53:57Z",
+  "updated": "2026-02-25T01:14:38Z",
   "items": [
+    {
+      "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
+      "pubDate": "Tue, 24 Feb 2026 18:57:58 -0500"
+    },
     {
       "title": "Wynn Resorts confirms employee data breach after extortion threat",
       "link": "https://www.bleepingcomputer.com/news/security/wynn-resorts-confirms-employee-data-breach-after-extortion-threat/",
@@ -56,11 +61,6 @@
       "title": "Spain arrests suspected hacktivists for DDoSing govt sites",
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/",
       "pubDate": "Mon, 23 Feb 2026 16:59:42 -0500"
-    },
-    {
-      "title": "Microsoft says bug in classic Outlook hides the mouse pointer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/",
-      "pubDate": "Mon, 23 Feb 2026 14:40:42 -0500"
     }
   ]
 }
