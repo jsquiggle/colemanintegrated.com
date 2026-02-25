@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-25T08:35:45Z",
+  "updated": "2026-02-25T09:41:56Z",
   "items": [
+    {
+      "title": "Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker",
+      "link": "https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html",
+      "pubDate": "Wed, 25 Feb 2026 14:19:00 +0530"
+    },
     {
       "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution",
       "link": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
       "link": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
       "pubDate": "Mon, 23 Feb 2026 18:30:00 +0530"
-    },
-    {
-      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-      "link": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-      "pubDate": "Mon, 23 Feb 2026 17:28:00 +0530"
     }
   ]
 }
