@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-25T17:50:56Z",
+  "updated": "2026-02-25T18:51:40Z",
   "items": [
+    {
+      "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
+      "pubDate": "Wed, 25 Feb 2026 13:01:51 -0500"
+    },
     {
       "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
@@ -56,11 +61,6 @@
       "title": "CarGurus data breach exposes information of 12.4 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/cargurus-data-breach-exposes-information-of-124-million-accounts/",
       "pubDate": "Tue, 24 Feb 2026 13:08:20 -0500"
-    },
-    {
-      "title": "Microsoft adds Copilot data controls to all storage locations",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-copilot-data-controls-to-all-storage-locations/",
-      "pubDate": "Tue, 24 Feb 2026 12:30:10 -0500"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-25T17:50:56Z",
+  "updated": "2026-02-25T18:51:40Z",
   "items": [
+    {
+      "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
+      "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+      "pubDate": "Wed, 25 Feb 2026 23:16:00 +0530"
+    },
     {
       "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
       "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
@@ -56,11 +61,6 @@
       "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
       "link": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
       "pubDate": "Tue, 24 Feb 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks",
-      "link": "https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html",
-      "pubDate": "Tue, 24 Feb 2026 17:22:00 +0530"
     }
   ]
 }
