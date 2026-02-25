@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-25T09:41:56Z",
+  "updated": "2026-02-25T10:39:33Z",
   "items": [
+    {
+      "title": "US sanctions Russian broker for buying stolen zero-day exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
+      "pubDate": "Wed, 25 Feb 2026 05:31:13 -0500"
+    },
     {
       "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
       "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
@@ -56,11 +61,6 @@
       "title": "ShinyHunters extortion gang claims Odido breach affecting millions",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/",
       "pubDate": "Tue, 24 Feb 2026 06:40:20 -0500"
-    },
-    {
-      "title": "North Korean Lazarus group linked to Medusa ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-lazarus-group-linked-to-medusa-ransomware-attacks/",
-      "pubDate": "Tue, 24 Feb 2026 06:00:00 -0500"
     }
   ]
 }
