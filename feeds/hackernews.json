@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-26T18:37:24Z",
+  "updated": "2026-02-26T19:36:05Z",
   "items": [
+    {
+      "title": "Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown",
+      "link": "https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html",
+      "pubDate": "Thu, 26 Feb 2026 23:30:00 +0530"
+    },
     {
       "title": "UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor",
       "link": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
@@ -56,11 +61,6 @@
       "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
       "link": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
       "pubDate": "Wed, 25 Feb 2026 18:13:00 +0530"
-    },
-    {
-      "title": "Manual Processes Are Putting National Security at Risk",
-      "link": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
-      "pubDate": "Wed, 25 Feb 2026 16:30:00 +0530"
     }
   ]
 }
