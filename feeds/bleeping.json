@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-26T17:32:30Z",
+  "updated": "2026-02-26T18:37:24Z",
   "items": [
+    {
+      "title": "Trend Micro warns of critical Apex One code execution flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
+      "pubDate": "Thu, 26 Feb 2026 12:58:28 -0500"
+    },
+    {
+      "title": "European DYI chain ManoMano data breach impacts 38 million customers",
+      "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
+      "pubDate": "Thu, 26 Feb 2026 12:35:21 -0500"
+    },
     {
       "title": "Critical Juniper Networks PTX flaw allows full router takeover",
       "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
@@ -51,16 +61,6 @@
       "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
       "pubDate": "Wed, 25 Feb 2026 10:54:44 -0500"
-    },
-    {
-      "title": "The OpenClaw Hype: Analysis of Chatter from Open-Source Deep and Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/the-openclaw-hype-analysis-of-chatter-from-open-source-deep-and-dark-web/",
-      "pubDate": "Wed, 25 Feb 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
-      "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
-      "pubDate": "Wed, 25 Feb 2026 07:53:02 -0500"
     }
   ]
 }
