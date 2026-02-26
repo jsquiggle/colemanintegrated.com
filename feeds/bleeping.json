@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-26T12:38:46Z",
+  "updated": "2026-02-26T14:02:35Z",
   "items": [
+    {
+      "title": "Ransomware payment rate drops to record low despite attack surge",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/",
+      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500"
+    },
+    {
+      "title": "Microsoft expands Windows restore to more enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
+      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500"
+    },
     {
       "title": "New York sues Valve for promoting illegal gambling via game loot boxes",
       "link": "https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/",
@@ -51,16 +61,6 @@
       "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
       "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
       "pubDate": "Wed, 25 Feb 2026 03:21:40 -0500"
-    },
-    {
-      "title": "Windows 11 KB5077241 update improves BitLocker, adds Sysmon tool",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077241-update-improves-bitlocker-adds-sysmon-tool/",
-      "pubDate": "Wed, 25 Feb 2026 02:51:51 -0500"
-    },
-    {
-      "title": "Phishing campaign targets freight and logistics orgs in the US, Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-campaign-targets-freight-and-logistics-orgs-in-the-us-europe/",
-      "pubDate": "Tue, 24 Feb 2026 18:57:58 -0500"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-26T12:38:46Z",
+  "updated": "2026-02-26T14:02:35Z",
   "items": [
+    {
+      "title": "Expert Recommends: Prepare for PQC Right Now",
+      "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
+      "pubDate": "Thu, 26 Feb 2026 17:36:00 +0530"
+    },
     {
       "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
       "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
@@ -56,11 +61,6 @@
       "title": "SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution",
       "link": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html",
       "pubDate": "Wed, 25 Feb 2026 12:34:00 +0530"
-    },
-    {
-      "title": "CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability",
-      "link": "https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html",
-      "pubDate": "Wed, 25 Feb 2026 10:53:00 +0530"
     }
   ]
 }
