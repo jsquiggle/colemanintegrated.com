@@ -1,10 +1,15 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-26T15:09:52Z",
+  "updated": "2026-02-26T16:12:03Z",
   "items": [
     {
+      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
+      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500"
+    },
+    {
       "title": "Ransomware payment rate drops to record low as attacks surge",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-despite-attack-surge/",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
       "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500"
     },
     {
@@ -56,11 +61,6 @@
       "title": "US sanctions Russian broker for buying stolen zero-day exploits",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
       "pubDate": "Wed, 25 Feb 2026 05:31:13 -0500"
-    },
-    {
-      "title": "Ex-L3Harris exec jailed for selling zero-days to Russian exploit broker",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-jailed-for-selling-zero-days-to-russian-exploit-broker/",
-      "pubDate": "Wed, 25 Feb 2026 03:21:40 -0500"
     }
   ]
 }
