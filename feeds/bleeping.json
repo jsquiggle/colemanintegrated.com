@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-26T16:12:03Z",
+  "updated": "2026-02-26T17:32:30Z",
   "items": [
+    {
+      "title": "Critical Juniper Networks PTX flaw allows full router takeover",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
+      "pubDate": "Thu, 26 Feb 2026 11:42:12 -0500"
+    },
     {
       "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
       "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
@@ -56,11 +61,6 @@
       "title": "Zyxel warns of critical RCE flaw affecting over a dozen routers",
       "link": "https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/",
       "pubDate": "Wed, 25 Feb 2026 07:53:02 -0500"
-    },
-    {
-      "title": "US sanctions Russian broker for buying stolen zero-day exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
-      "pubDate": "Wed, 25 Feb 2026 05:31:13 -0500"
     }
   ]
 }
