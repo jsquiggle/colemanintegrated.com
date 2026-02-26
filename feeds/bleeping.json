@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-26T20:24:54Z",
+  "updated": "2026-02-26T21:00:09Z",
   "items": [
+    {
+      "title": "Previously harmless Google API keys now expose Gemini AI data",
+      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
+      "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500"
+    },
     {
       "title": "Trend Micro warns of critical Apex One code execution flaws",
       "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
@@ -56,11 +61,6 @@
       "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
       "pubDate": "Wed, 25 Feb 2026 12:00:15 -0500"
-    },
-    {
-      "title": "Marquis sues SonicWall over backup breach that led to ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/marquis-sues-sonicwall-over-backup-breach-that-led-to-ransomware-attack/",
-      "pubDate": "Wed, 25 Feb 2026 10:54:44 -0500"
     }
   ]
 }
