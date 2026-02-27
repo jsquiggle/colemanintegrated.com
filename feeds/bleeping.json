@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-27T17:58:17Z",
+  "updated": "2026-02-27T18:39:42Z",
   "items": [
+    {
+      "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
+      "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
+      "pubDate": "Fri, 27 Feb 2026 13:20:15 -0500"
+    },
     {
       "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
@@ -56,11 +61,6 @@
       "title": "New York sues Valve for promoting illegal gambling via game loot boxes",
       "link": "https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/",
       "pubDate": "Thu, 26 Feb 2026 06:44:50 -0500"
-    },
-    {
-      "title": "Medical device maker UFP Technologies warns of data stolen in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/medical-device-maker-ufp-technologies-warns-of-data-stolen-in-cyberattack/",
-      "pubDate": "Wed, 25 Feb 2026 18:02:16 -0500"
     }
   ]
 }
