@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-27T18:39:42Z",
+  "updated": "2026-02-27T19:26:07Z",
   "items": [
+    {
+      "title": "APT37 hackers use new malware to breach air-gapped networks",
+      "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
+      "pubDate": "Fri, 27 Feb 2026 14:21:25 -0500"
+    },
     {
       "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
       "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
@@ -56,11 +61,6 @@
       "title": "Microsoft expands Windows restore to more enterprise devices",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
       "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500"
-    },
-    {
-      "title": "New York sues Valve for promoting illegal gambling via game loot boxes",
-      "link": "https://www.bleepingcomputer.com/news/gaming/new-york-sues-valve-for-promoting-illegal-gambling-via-game-loot-boxes/",
-      "pubDate": "Thu, 26 Feb 2026 06:44:50 -0500"
     }
   ]
 }
