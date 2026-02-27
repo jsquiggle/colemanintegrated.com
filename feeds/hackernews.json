@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-27T16:43:38Z",
+  "updated": "2026-02-27T17:25:57Z",
   "items": [
+    {
+      "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
+      "link": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
+      "pubDate": "Fri, 27 Feb 2026 21:03:00 +0530"
+    },
     {
       "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
       "link": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
@@ -56,11 +61,6 @@
       "title": "Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries",
       "link": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
       "pubDate": "Wed, 25 Feb 2026 23:16:00 +0530"
-    },
-    {
-      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-      "link": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-      "pubDate": "Wed, 25 Feb 2026 22:30:00 +0530"
     }
   ]
 }
