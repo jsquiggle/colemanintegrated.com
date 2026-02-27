@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-27T10:02:38Z",
+  "updated": "2026-02-27T11:02:34Z",
   "items": [
+    {
+      "title": "Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms",
+      "link": "https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html",
+      "pubDate": "Fri, 27 Feb 2026 15:36:00 +0530"
+    },
     {
       "title": "Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams",
       "link": "https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html",
@@ -56,11 +61,6 @@
       "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
       "link": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
       "pubDate": "Wed, 25 Feb 2026 20:36:00 +0530"
-    },
-    {
-      "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
-      "link": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
-      "pubDate": "Wed, 25 Feb 2026 20:00:00 +0530"
     }
   ]
 }
