@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-27T19:51:20Z",
+  "updated": "2026-02-27T20:18:01Z",
   "items": [
+    {
+      "title": "Microsoft testing Windows 11 batch file security improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
+      "pubDate": "Fri, 27 Feb 2026 15:00:27 -0500"
+    },
     {
       "title": "APT37 hackers use new malware to breach air-gapped networks",
       "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
@@ -56,11 +61,6 @@
       "title": "Ransomware payment rate drops to record low as attacks surge",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
       "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500"
-    },
-    {
-      "title": "Microsoft expands Windows restore to more enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-expands-windows-restore-to-more-enterprise-devices/",
-      "pubDate": "Thu, 26 Feb 2026 08:04:02 -0500"
     }
   ]
 }
