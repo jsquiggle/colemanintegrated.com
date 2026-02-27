@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-27T14:31:55Z",
+  "updated": "2026-02-27T15:29:41Z",
   "items": [
+    {
+      "title": "Third-Party Patching and the Business Footprint We All Share",
+      "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
+      "pubDate": "Fri, 27 Feb 2026 10:00:10 -0500"
+    },
     {
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
@@ -56,11 +61,6 @@
       "title": "Fake Next.js job interview tests backdoor developer's devices",
       "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
       "pubDate": "Wed, 25 Feb 2026 16:47:12 -0500"
-    },
-    {
-      "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
-      "pubDate": "Wed, 25 Feb 2026 13:01:51 -0500"
     }
   ]
 }
