@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-27T11:50:08Z",
+  "updated": "2026-02-27T12:33:49Z",
   "items": [
+    {
+      "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
+      "pubDate": "Fri, 27 Feb 2026 07:30:07 -0500"
+    },
     {
       "title": "Previously harmless Google API keys now expose Gemini AI data",
       "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
@@ -56,11 +61,6 @@
       "title": "Critical Cisco SD-WAN bug exploited in zero-day attacks since 2023",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-sd-wan-bug-exploited-in-zero-day-attacks-since-2023/",
       "pubDate": "Wed, 25 Feb 2026 13:01:51 -0500"
-    },
-    {
-      "title": "Chinese cyberspies breached dozens of telecom firms, govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-cyberspies-breached-dozens-of-telecom-firms-govt-agencies/",
-      "pubDate": "Wed, 25 Feb 2026 12:00:15 -0500"
     }
   ]
 }
