@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-02-28T17:41:03Z",
+  "updated": "2026-02-28T18:18:30Z",
   "items": [
+    {
+      "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+      "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
+      "pubDate": "Sat, 28 Feb 2026 22:51:00 +0530"
+    },
     {
       "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
       "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
       "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
       "pubDate": "Thu, 26 Feb 2026 19:58:00 +0530"
-    },
-    {
-      "title": "Expert Recommends: Prepare for PQC Right Now",
-      "link": "https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html",
-      "pubDate": "Thu, 26 Feb 2026 17:36:00 +0530"
     }
   ]
 }
