@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-28T19:13:25Z",
+  "updated": "2026-02-28T19:38:56Z",
   "items": [
+    {
+      "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
+      "pubDate": "Sat, 28 Feb 2026 14:18:52 -0500"
+    },
     {
       "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
       "link": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/",
@@ -56,11 +61,6 @@
       "title": "Critical Juniper Networks PTX flaw allows full router takeover",
       "link": "https://www.bleepingcomputer.com/news/security/critical-juniper-networks-ptx-flaw-allows-full-router-takeover/",
       "pubDate": "Thu, 26 Feb 2026 11:42:12 -0500"
-    },
-    {
-      "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
-      "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500"
     }
   ]
 }
