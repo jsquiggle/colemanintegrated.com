@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-02-28T11:38:48Z",
+  "updated": "2026-02-28T12:23:47Z",
   "items": [
+    {
+      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
+      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "pubDate": "Sat, 28 Feb 2026 12:01:57 +0000"
+    },
     {
       "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
       "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
@@ -46,11 +51,6 @@
       "title": "The Kimwolf Botnet is Stalking Your Local Network",
       "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
       "pubDate": "Fri, 02 Jan 2026 14:20:10 +0000"
-    },
-    {
-      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
-      "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
-      "pubDate": "Mon, 29 Dec 2025 20:23:26 +0000"
     }
   ]
 }
