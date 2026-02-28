@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-02-28T15:12:02Z",
+  "updated": "2026-02-28T15:40:56Z",
   "items": [
+    {
+      "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
+      "link": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/",
+      "pubDate": "Sat, 28 Feb 2026 10:17:23 -0500"
+    },
     {
       "title": "Microsoft testing Windows 11 batch file security improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
@@ -56,11 +61,6 @@
       "title": "Olympique Marseille confirms 'attempted' cyberattack after data leak",
       "link": "https://www.bleepingcomputer.com/news/security/olympique-marseille-football-club-confirms-cyberattack-after-data-leak/",
       "pubDate": "Thu, 26 Feb 2026 11:11:30 -0500"
-    },
-    {
-      "title": "Ransomware payment rate drops to record low as attacks surge",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
-      "pubDate": "Thu, 26 Feb 2026 09:00:59 -0500"
     }
   ]
 }
