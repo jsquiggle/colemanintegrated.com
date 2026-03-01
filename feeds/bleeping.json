@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-01T21:41:22Z",
+  "updated": "2026-03-01T22:13:24Z",
   "items": [
+    {
+      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
+      "pubDate": "Sun, 01 Mar 2026 16:44:55 -0500"
+    },
     {
       "title": "Samsung TVs to stop collecting Texans\u2019 data without express consent",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
@@ -56,11 +61,6 @@
       "title": "Trend Micro warns of critical Apex One code execution flaws",
       "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
       "pubDate": "Thu, 26 Feb 2026 12:58:28 -0500"
-    },
-    {
-      "title": "European DYI chain ManoMano data breach impacts 38 million customers",
-      "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
-      "pubDate": "Thu, 26 Feb 2026 12:35:21 -0500"
     }
   ]
 }
