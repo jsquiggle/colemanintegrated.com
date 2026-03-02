@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-02T16:31:00Z",
+  "updated": "2026-03-02T17:36:31Z",
   "items": [
+    {
+      "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
+      "pubDate": "Mon, 02 Mar 2026 12:30:13 -0500"
+    },
     {
       "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
       "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
@@ -56,11 +61,6 @@
       "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
       "pubDate": "Fri, 27 Feb 2026 10:57:04 -0500"
-    },
-    {
-      "title": "Third-Party Patching and the Business Footprint We All Share",
-      "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
-      "pubDate": "Fri, 27 Feb 2026 10:00:10 -0500"
     }
   ]
 }
