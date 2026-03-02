@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-02T11:49:38Z",
+  "updated": "2026-03-02T12:33:28Z",
   "items": [
+    {
+      "title": "Anthropic confirms Claude is down in a worldwide outage",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
+      "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500"
+    },
     {
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
@@ -56,11 +61,6 @@
       "title": "Previously harmless Google API keys now expose Gemini AI data",
       "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
       "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500"
-    },
-    {
-      "title": "Trend Micro warns of critical Apex One code execution flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/",
-      "pubDate": "Thu, 26 Feb 2026 12:58:28 -0500"
     }
   ]
 }
