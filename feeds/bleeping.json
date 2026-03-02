@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-02T18:32:04Z",
+  "updated": "2026-03-02T19:29:38Z",
   "items": [
+    {
+      "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
+      "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
+      "pubDate": "Mon, 02 Mar 2026 13:54:34 -0500"
+    },
     {
       "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
       "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
@@ -56,11 +61,6 @@
       "title": "Europol-led crackdown on The Com hackers leads to 30 arrests",
       "link": "https://www.bleepingcomputer.com/news/security/police-crackdown-on-the-com-cybercrime-gang-leads-to-30-arrests/",
       "pubDate": "Fri, 27 Feb 2026 13:20:15 -0500"
-    },
-    {
-      "title": "CISA warns that RESURGE malware can be dormant on Ivanti devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-that-resurge-malware-can-be-dormant-on-ivanti-devices/",
-      "pubDate": "Fri, 27 Feb 2026 10:57:04 -0500"
     }
   ]
 }
