@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-02T14:36:09Z",
+  "updated": "2026-03-02T15:31:39Z",
   "items": [
+    {
+      "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
+      "pubDate": "Mon, 02 Mar 2026 10:01:11 -0500"
+    },
     {
       "title": "Anthropic confirms Claude is down in a worldwide outage",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
@@ -56,11 +61,6 @@
       "title": "Ukrainian man pleads guilty to running AI-powered fake ID site",
       "link": "https://www.bleepingcomputer.com/news/security/ukrainian-man-pleads-guilty-to-running-ai-powered-fake-id-site/",
       "pubDate": "Fri, 27 Feb 2026 07:30:07 -0500"
-    },
-    {
-      "title": "Previously harmless Google API keys now expose Gemini AI data",
-      "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "pubDate": "Thu, 26 Feb 2026 15:55:29 -0500"
     }
   ]
 }
