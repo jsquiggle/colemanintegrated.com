@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T07:58:00Z",
+  "updated": "2026-03-03T08:37:41Z",
   "items": [
+    {
+      "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
+      "pubDate": "Tue, 03 Mar 2026 03:19:53 -0500"
+    },
     {
       "title": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/",
@@ -56,11 +61,6 @@
       "title": "$4.8M in crypto stolen after Korean tax agency exposes wallet seed",
       "link": "https://www.bleepingcomputer.com/news/security/48m-in-crypto-stolen-after-korean-tax-agency-exposes-wallet-seed/",
       "pubDate": "Sat, 28 Feb 2026 10:17:23 -0500"
-    },
-    {
-      "title": "Microsoft testing Windows 11 batch file security improvements",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
-      "pubDate": "Fri, 27 Feb 2026 15:00:27 -0500"
     }
   ]
 }
