@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T22:18:09Z",
+  "updated": "2026-03-03T22:50:39Z",
   "items": [
+    {
+      "title": "Facebook accounts unavailable in worldwide outage",
+      "link": "https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/",
+      "pubDate": "Tue, 03 Mar 2026 17:38:55 -0500"
+    },
     {
       "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
@@ -56,11 +61,6 @@
       "title": "Alabama man pleads guilty to hacking, extorting hundreds of women",
       "link": "https://www.bleepingcomputer.com/news/security/alabama-man-pleads-guilty-to-hacking-extorting-hundreds-of-women/",
       "pubDate": "Mon, 02 Mar 2026 13:54:34 -0500"
-    },
-    {
-      "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
-      "pubDate": "Mon, 02 Mar 2026 12:30:13 -0500"
     }
   ]
 }
