@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-03T10:28:36Z",
+  "updated": "2026-03-03T11:04:58Z",
   "items": [
+    {
+      "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
+      "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
+      "pubDate": "Tue, 03 Mar 2026 14:50:00 +0530"
+    },
     {
       "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
       "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
@@ -56,11 +61,6 @@
       "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
       "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
       "pubDate": "Sat, 28 Feb 2026 10:27:00 +0530"
-    },
-    {
-      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-      "link": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-      "pubDate": "Fri, 27 Feb 2026 23:41:00 +0530"
     }
   ]
 }

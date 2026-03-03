@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T10:28:36Z",
+  "updated": "2026-03-03T11:04:58Z",
   "items": [
+    {
+      "title": "Star Citizen game dev discloses breach affecting user data",
+      "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
+      "pubDate": "Tue, 03 Mar 2026 05:50:26 -0500"
+    },
     {
       "title": "UH Cancer Center data breach affects nearly 1.2 million people",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/",
@@ -56,11 +61,6 @@
       "title": "Samsung TVs to stop collecting Texans\u2019 data without express consent",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
       "pubDate": "Sun, 01 Mar 2026 10:23:34 -0500"
-    },
-    {
-      "title": "QuickLens Chrome extension steals crypto, shows ClickFix attack",
-      "link": "https://www.bleepingcomputer.com/news/security/quicklens-chrome-extension-steals-crypto-shows-clickfix-attack/",
-      "pubDate": "Sat, 28 Feb 2026 14:18:52 -0500"
     }
   ]
 }
