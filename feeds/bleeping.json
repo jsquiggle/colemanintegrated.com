@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T14:36:18Z",
+  "updated": "2026-03-03T15:37:45Z",
   "items": [
+    {
+      "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
+      "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
+      "pubDate": "Tue, 03 Mar 2026 10:01:11 -0500"
+    },
     {
       "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
       "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
@@ -56,11 +61,6 @@
       "title": "Anthropic confirms Claude is down in a worldwide outage",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
       "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500"
-    },
-    {
-      "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
-      "pubDate": "Sun, 01 Mar 2026 16:44:55 -0500"
     }
   ]
 }
