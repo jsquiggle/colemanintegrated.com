@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T23:16:06Z",
+  "updated": "2026-03-03T23:46:33Z",
   "items": [
+    {
+      "title": "CISA flags VMware Aria Operations RCE flaw as exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/",
+      "pubDate": "Tue, 03 Mar 2026 18:40:37 -0500"
+    },
     {
       "title": "Paint maker giant AkzoNobel confirms cyberattack on U.S. site",
       "link": "https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/",
@@ -56,11 +61,6 @@
       "title": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/",
       "pubDate": "Mon, 02 Mar 2026 19:06:39 -0500"
-    },
-    {
-      "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
-      "pubDate": "Mon, 02 Mar 2026 15:23:41 -0500"
     }
   ]
 }
