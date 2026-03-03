@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T11:04:58Z",
+  "updated": "2026-03-03T11:51:11Z",
   "items": [
+    {
+      "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
+      "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
+      "pubDate": "Tue, 03 Mar 2026 06:44:44 -0500"
+    },
     {
       "title": "Star Citizen game dev discloses breach affecting user data",
       "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
@@ -56,11 +61,6 @@
       "title": "ClawJacked attack let malicious websites hijack OpenClaw to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/clawjacked-attack-let-malicious-websites-hijack-openclaw-to-steal-data/",
       "pubDate": "Sun, 01 Mar 2026 16:44:55 -0500"
-    },
-    {
-      "title": "Samsung TVs to stop collecting Texans\u2019 data without express consent",
-      "link": "https://www.bleepingcomputer.com/news/security/samsung-tvs-to-stop-collecting-texans-data-without-express-consent/",
-      "pubDate": "Sun, 01 Mar 2026 10:23:34 -0500"
     }
   ]
 }
