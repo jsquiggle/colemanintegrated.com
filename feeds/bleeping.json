@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T20:53:18Z",
+  "updated": "2026-03-03T21:24:00Z",
   "items": [
+    {
+      "title": "Microsoft: Hackers abuse OAuth error flows to spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/",
+      "pubDate": "Tue, 03 Mar 2026 15:59:19 -0500"
+    },
     {
       "title": "Google Chrome shifts to two-week release cycle for increased stability",
       "link": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
@@ -56,11 +61,6 @@
       "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
       "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
       "pubDate": "Mon, 02 Mar 2026 12:30:13 -0500"
-    },
-    {
-      "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
-      "pubDate": "Mon, 02 Mar 2026 10:54:33 -0500"
     }
   ]
 }
