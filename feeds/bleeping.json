@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-03T15:37:45Z",
+  "updated": "2026-03-03T16:34:29Z",
   "items": [
+    {
+      "title": "LexisNexis confirms data breach as hackers leak stolen files",
+      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
+      "pubDate": "Tue, 03 Mar 2026 10:40:48 -0500"
+    },
     {
       "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
       "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
@@ -56,11 +61,6 @@
       "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
       "pubDate": "Mon, 02 Mar 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Anthropic confirms Claude is down in a worldwide outage",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/",
-      "pubDate": "Mon, 02 Mar 2026 07:23:00 -0500"
     }
   ]
 }
