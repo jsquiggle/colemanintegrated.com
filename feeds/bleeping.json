@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-02T23:45:57Z",
+  "updated": "2026-03-03T01:11:09Z",
   "items": [
+    {
+      "title": "CyberStrikeAI tool adopted by hackers for AI-powered attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberstrikeai-tool-adopted-by-hackers-for-ai-powered-attacks/",
+      "pubDate": "Mon, 02 Mar 2026 19:06:39 -0500"
+    },
     {
       "title": "Fake Google Security site uses PWA app to steal credentials, MFA codes",
       "link": "https://www.bleepingcomputer.com/news/security/fake-google-security-site-uses-pwa-app-to-steal-credentials-mfa-codes/",
@@ -56,11 +61,6 @@
       "title": "Microsoft testing Windows 11 batch file security improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/",
       "pubDate": "Fri, 27 Feb 2026 15:00:27 -0500"
-    },
-    {
-      "title": "APT37 hackers use new malware to breach air-gapped networks",
-      "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-use-new-malware-to-breach-air-gapped-networks/",
-      "pubDate": "Fri, 27 Feb 2026 14:21:25 -0500"
     }
   ]
 }
