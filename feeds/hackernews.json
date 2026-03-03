@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-03T11:51:11Z",
+  "updated": "2026-03-03T12:33:07Z",
   "items": [
+    {
+      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
+      "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
+      "pubDate": "Tue, 03 Mar 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
+      "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
+      "pubDate": "Tue, 03 Mar 2026 16:40:00 +0530"
+    },
     {
       "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
       "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
@@ -51,16 +61,6 @@
       "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
       "link": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
       "pubDate": "Sat, 28 Feb 2026 22:51:00 +0530"
-    },
-    {
-      "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
-      "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
-      "pubDate": "Sat, 28 Feb 2026 15:26:00 +0530"
-    },
-    {
-      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-      "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-      "pubDate": "Sat, 28 Feb 2026 10:27:00 +0530"
     }
   ]
 }
