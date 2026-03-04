@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-04T19:09:34Z",
+  "updated": "2026-03-04T19:54:31Z",
   "items": [
+    {
+      "title": "Cisco warns of max severity Secure FMC flaws giving root access",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
+      "pubDate": "Wed, 04 Mar 2026 14:12:43 -0500"
+    },
     {
       "title": "Spyware-grade Coruna iOS exploit kit now used in crypto theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Google Chrome shifts to two-week release cycle for increased stability",
       "link": "https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/",
       "pubDate": "Tue, 03 Mar 2026 12:00:00 -0500"
-    },
-    {
-      "title": "LexisNexis confirms data breach as hackers leak stolen files",
-      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/",
-      "pubDate": "Tue, 03 Mar 2026 10:40:48 -0500"
     }
   ]
 }
