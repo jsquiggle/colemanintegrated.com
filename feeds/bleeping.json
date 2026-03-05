@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-05T12:35:52Z",
+  "updated": "2026-03-05T13:54:20Z",
   "items": [
+    {
+      "title": "Police dismantles online gambling ring exploiting Ukrainian women",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
+      "pubDate": "Thu, 05 Mar 2026 07:39:20 -0500"
+    },
     {
       "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
       "link": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
       "pubDate": "Wed, 04 Mar 2026 12:01:26 -0500"
-    },
-    {
-      "title": "Mississippi medical center reopens clinics hit by ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/mississippi-medical-center-reopens-clinics-hit-by-ransomware-attack/",
-      "pubDate": "Wed, 04 Mar 2026 10:28:56 -0500"
     }
   ]
 }
