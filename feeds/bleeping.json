@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-05T22:28:09Z",
+  "updated": "2026-03-05T23:35:08Z",
   "items": [
+    {
+      "title": "Chinese state hackers target telcos with new malware toolkit",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
+      "pubDate": "Thu, 05 Mar 2026 18:19:49 -0500"
+    },
+    {
+      "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
+      "pubDate": "Thu, 05 Mar 2026 17:37:34 -0500"
+    },
     {
       "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
       "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
@@ -51,16 +61,6 @@
       "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
       "link": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
       "pubDate": "Wed, 04 Mar 2026 16:51:32 -0500"
-    },
-    {
-      "title": "Windows 10 KB5075039 update fixes broken Recovery Environment",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5075039-update-fixes-broken-recovery-environment/",
-      "pubDate": "Wed, 04 Mar 2026 16:03:39 -0500"
-    },
-    {
-      "title": "Fake LastPass support email threads try to steal vault passwords",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
-      "pubDate": "Wed, 04 Mar 2026 15:44:21 -0500"
     }
   ]
 }
