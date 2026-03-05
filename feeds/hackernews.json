@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-05T10:28:45Z",
+  "updated": "2026-03-05T11:06:03Z",
   "items": [
+    {
+      "title": "APT28-Linked Campaign Deploys BadPaw Loader and MeowMeow Backdoor in Ukraine",
+      "link": "https://thehackernews.com/2026/03/apt28-linked-campaign-deploys-badpaw.html",
+      "pubDate": "Thu, 05 Mar 2026 15:40:00 +0530"
+    },
     {
       "title": "Europol-Led Operation Takes Down Tycoon 2FA Phishing-as-a-Service Linked to 64,000 Attacks",
       "link": "https://thehackernews.com/2026/03/europol-led-operation-takes-down-tycoon.html",
@@ -56,11 +61,6 @@
       "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
       "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
       "pubDate": "Tue, 03 Mar 2026 19:59:00 +0530"
-    },
-    {
-      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
-      "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-      "pubDate": "Tue, 03 Mar 2026 17:00:00 +0530"
     }
   ]
 }
