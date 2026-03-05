@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-05T14:38:15Z",
+  "updated": "2026-03-05T15:40:09Z",
   "items": [
+    {
+      "title": "Google says 90 zero-days were exploited in attacks last year",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
+      "pubDate": "Thu, 05 Mar 2026 10:03:43 -0500"
+    },
+    {
+      "title": "2026 Browser Data Reveals Major Enterprise Security Blind Spots",
+      "link": "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/",
+      "pubDate": "Thu, 05 Mar 2026 10:01:11 -0500"
+    },
     {
       "title": "Police dismantles online gambling ring exploiting Ukrainian women",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
@@ -51,16 +61,6 @@
       "title": "Hacker mass-mails HungerRush extortion emails to restaurant patrons",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-mass-mails-hungerrush-extortion-emails-to-restaurant-patrons/",
       "pubDate": "Wed, 04 Mar 2026 13:44:14 -0500"
-    },
-    {
-      "title": "FBI seizes LeakBase cybercrime forum, data of 142,000 members",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-leakbase-cybercrime-forum-data-of-142-000-members/",
-      "pubDate": "Wed, 04 Mar 2026 12:44:46 -0500"
-    },
-    {
-      "title": "Europol-coordinated action disrupts Tycoon2FA phishing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
-      "pubDate": "Wed, 04 Mar 2026 12:01:26 -0500"
     }
   ]
 }
