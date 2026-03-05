@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-05T20:02:43Z",
+  "updated": "2026-03-05T20:57:25Z",
   "items": [
+    {
+      "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
+      "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
+      "pubDate": "Thu, 05 Mar 2026 15:42:25 -0500"
+    },
     {
       "title": "WordPress membership plugin bug exploited to create admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
@@ -56,11 +61,6 @@
       "title": "Fake LastPass support email threads try to steal vault passwords",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-support-email-threads-try-to-steal-vault-passwords/",
       "pubDate": "Wed, 04 Mar 2026 15:44:21 -0500"
-    },
-    {
-      "title": "Cisco warns of max severity Secure FMC flaws giving root access",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-secure-fmc-flaws-giving-root-access/",
-      "pubDate": "Wed, 04 Mar 2026 14:12:43 -0500"
     }
   ]
 }
