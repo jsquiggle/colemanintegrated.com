@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-06T15:04:14Z",
+  "updated": "2026-03-06T15:57:22Z",
   "items": [
+    {
+      "title": "CISA warns of Apple flaws exploited in spyware, crypto-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
+      "pubDate": "Fri, 06 Mar 2026 10:57:16 -0500"
+    },
+    {
+      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+      "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
+      "pubDate": "Fri, 06 Mar 2026 10:00:10 -0500"
+    },
     {
       "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
@@ -51,16 +61,6 @@
       "title": "Google says 90 zero-days were exploited in attacks last year",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
       "pubDate": "Thu, 05 Mar 2026 10:03:43 -0500"
-    },
-    {
-      "title": "2026 Browser Data Reveals Major Enterprise Security Blind Spots",
-      "link": "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/",
-      "pubDate": "Thu, 05 Mar 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Police dismantles online gambling ring exploiting Ukrainian women",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
-      "pubDate": "Thu, 05 Mar 2026 07:39:20 -0500"
     }
   ]
 }
