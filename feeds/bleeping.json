@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-06T09:59:20Z",
+  "updated": "2026-03-06T10:35:59Z",
   "items": [
+    {
+      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
+      "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
+      "pubDate": "Fri, 06 Mar 2026 05:08:00 -0500"
+    },
     {
       "title": "FBI investigates breach of surveillance and wiretap systems",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
@@ -56,11 +61,6 @@
       "title": "Phobos ransomware admin pleads guilty to wire fraud conspiracy",
       "link": "https://www.bleepingcomputer.com/news/security/phobos-ransomware-admin-pleads-guilty-to-wire-fraud-conspiracy/",
       "pubDate": "Thu, 05 Mar 2026 03:34:42 -0500"
-    },
-    {
-      "title": "Bitwarden adds support for passkey login on Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
-      "pubDate": "Wed, 04 Mar 2026 17:34:58 -0500"
     }
   ]
 }
