@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-06T08:25:26Z",
+  "updated": "2026-03-06T09:00:26Z",
   "items": [
+    {
+      "title": "FBI investigates breach of surveillance and wiretap systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
+      "pubDate": "Fri, 06 Mar 2026 03:44:53 -0500"
+    },
     {
       "title": "Chinese state hackers target telcos with new malware toolkit",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
@@ -56,11 +61,6 @@
       "title": "Bitwarden adds support for passkey login on Windows 11",
       "link": "https://www.bleepingcomputer.com/news/security/bitwarden-adds-support-for-passkey-login-on-windows-11/",
       "pubDate": "Wed, 04 Mar 2026 17:34:58 -0500"
-    },
-    {
-      "title": "Mail2Shell zero-click attack lets hackers hijack FreeScout mail servers",
-      "link": "https://www.bleepingcomputer.com/news/security/mail2shell-zero-click-attack-lets-hackers-hijack-freescout-mail-servers/",
-      "pubDate": "Wed, 04 Mar 2026 16:51:32 -0500"
     }
   ]
 }
