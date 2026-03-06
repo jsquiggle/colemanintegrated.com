@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-06T14:29:04Z",
+  "updated": "2026-03-06T15:04:14Z",
   "items": [
+    {
+      "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
+      "pubDate": "Fri, 06 Mar 2026 10:00:00 -0500"
+    },
     {
       "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
@@ -56,11 +61,6 @@
       "title": "Police dismantles online gambling ring exploiting Ukrainian women",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-online-gambling-ring-exploiting-ukrainian-women/",
       "pubDate": "Thu, 05 Mar 2026 07:39:20 -0500"
-    },
-    {
-      "title": "Cisco flags more SD-WAN flaws as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/",
-      "pubDate": "Thu, 05 Mar 2026 05:32:19 -0500"
     }
   ]
 }
