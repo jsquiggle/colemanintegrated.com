@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-06T19:26:57Z",
+  "updated": "2026-03-06T19:52:59Z",
   "items": [
+    {
+      "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
+      "pubDate": "Fri, 06 Mar 2026 14:50:21 -0500"
+    },
     {
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
       "pubDate": "Thu, 05 Mar 2026 13:36:18 -0500"
-    },
-    {
-      "title": "Google says 90 zero-days were exploited in attacks last year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
-      "pubDate": "Thu, 05 Mar 2026 10:03:43 -0500"
     }
   ]
 }
