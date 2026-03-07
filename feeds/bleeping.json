@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-07T16:15:50Z",
+  "updated": "2026-03-07T16:47:15Z",
   "items": [
+    {
+      "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
+      "pubDate": "Sat, 07 Mar 2026 11:14:32 -0500"
+    },
     {
       "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
@@ -56,11 +61,6 @@
       "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
       "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
       "pubDate": "Thu, 05 Mar 2026 15:42:25 -0500"
-    },
-    {
-      "title": "WordPress membership plugin bug exploited to create admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
-      "pubDate": "Thu, 05 Mar 2026 13:44:58 -0500"
     }
   ]
 }
