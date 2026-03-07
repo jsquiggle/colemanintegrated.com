@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-07T15:13:16Z",
+  "updated": "2026-03-07T15:42:04Z",
   "items": [
+    {
+      "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
+      "pubDate": "Sat, 07 Mar 2026 10:15:25 -0500"
+    },
     {
       "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
@@ -56,11 +61,6 @@
       "title": "WordPress membership plugin bug exploited to create admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-membership-plugin-bug-exploited-to-create-admin-accounts/",
       "pubDate": "Thu, 05 Mar 2026 13:44:58 -0500"
-    },
-    {
-      "title": "FBI arrests suspect linked to $46M crypto theft from US Marshals",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/",
-      "pubDate": "Thu, 05 Mar 2026 13:36:18 -0500"
     }
   ]
 }
