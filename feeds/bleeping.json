@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-08T15:13:52Z",
+  "updated": "2026-03-08T15:42:54Z",
   "items": [
+    {
+      "title": "EU court adviser says banks must immediately refund phishing victims",
+      "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
+      "pubDate": "Sun, 08 Mar 2026 11:25:37 -0400"
+    },
     {
       "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
@@ -56,11 +61,6 @@
       "title": "Chinese state hackers target telcos with new malware toolkit",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
       "pubDate": "Thu, 05 Mar 2026 18:19:49 -0500"
-    },
-    {
-      "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
-      "pubDate": "Thu, 05 Mar 2026 17:37:34 -0500"
     }
   ]
 }
