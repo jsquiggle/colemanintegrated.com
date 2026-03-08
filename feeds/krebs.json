@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-03-08T23:13:58Z",
+  "updated": "2026-03-08T23:42:56Z",
   "items": [
+    {
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "pubDate": "Sun, 08 Mar 2026 23:35:42 +0000"
+    },
     {
       "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
       "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -46,11 +51,6 @@
       "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
       "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
       "pubDate": "Thu, 08 Jan 2026 23:23:43 +0000"
-    },
-    {
-      "title": "The Kimwolf Botnet is Stalking Your Local Network",
-      "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
-      "pubDate": "Fri, 02 Jan 2026 14:20:10 +0000"
     }
   ]
 }
