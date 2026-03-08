@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-08T14:16:00Z",
+  "updated": "2026-03-08T14:46:47Z",
   "items": [
+    {
+      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
+      "pubDate": "Sun, 08 Mar 2026 10:12:22 -0400"
+    },
     {
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
       "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
@@ -56,11 +61,6 @@
       "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
       "pubDate": "Thu, 05 Mar 2026 17:37:34 -0500"
-    },
-    {
-      "title": "Wikipedia hit by self-propagating JavaScript worm that vandalized pages",
-      "link": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
-      "pubDate": "Thu, 05 Mar 2026 15:42:25 -0500"
     }
   ]
 }
