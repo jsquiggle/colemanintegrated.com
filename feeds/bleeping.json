@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-09T22:18:05Z",
+  "updated": "2026-03-09T22:51:18Z",
   "items": [
+    {
+      "title": "Microsoft Teams phishing targets employees with backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
+      "pubDate": "Mon, 09 Mar 2026 18:50:38 -0400"
+    },
     {
       "title": "Google: Cloud attacks exploit flaws more than weak credentials",
       "link": "https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/",
@@ -56,11 +61,6 @@
       "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
       "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
       "pubDate": "Sat, 07 Mar 2026 11:14:32 -0500"
-    },
-    {
-      "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-      "pubDate": "Sat, 07 Mar 2026 10:15:25 -0500"
     }
   ]
 }
