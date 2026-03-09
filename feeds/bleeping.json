@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-09T16:45:13Z",
+  "updated": "2026-03-09T17:39:24Z",
   "items": [
+    {
+      "title": "Microsoft Teams will tag third-party bots trying to join meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
+      "pubDate": "Mon, 09 Mar 2026 13:12:49 -0400"
+    },
+    {
+      "title": "ShinyHunters claims ongoing Salesforce Aura data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
+      "pubDate": "Mon, 09 Mar 2026 13:12:22 -0400"
+    },
     {
       "title": "FBI warns of phishing attacks impersonating US city, county officials",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
@@ -51,16 +61,6 @@
       "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
       "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
       "pubDate": "Fri, 06 Mar 2026 10:00:10 -0500"
-    },
-    {
-      "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-      "pubDate": "Fri, 06 Mar 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
-      "pubDate": "Fri, 06 Mar 2026 09:21:09 -0500"
     }
   ]
 }
