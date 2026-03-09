@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-09T11:54:50Z",
+  "updated": "2026-03-09T12:35:58Z",
   "items": [
+    {
+      "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
+      "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
+      "pubDate": "Mon, 09 Mar 2026 17:15:00 +0530"
+    },
     {
       "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
       "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
@@ -56,11 +61,6 @@
       "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
       "link": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
       "pubDate": "Fri, 06 Mar 2026 12:00:00 +0530"
-    },
-    {
-      "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
-      "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
-      "pubDate": "Thu, 05 Mar 2026 20:52:00 +0530"
     }
   ]
 }
