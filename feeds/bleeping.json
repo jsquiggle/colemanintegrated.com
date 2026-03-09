@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-09T20:56:19Z",
+  "updated": "2026-03-09T21:25:03Z",
   "items": [
+    {
+      "title": "Dutch govt warns of Signal, WhatsApp account hijacking attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/",
+      "pubDate": "Mon, 09 Mar 2026 17:24:49 -0400"
+    },
     {
       "title": "Ericsson US discloses data breach after service provider hack",
       "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
@@ -56,11 +61,6 @@
       "title": "Cognizant TriZetto breach exposes health data of 3.4 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/",
       "pubDate": "Fri, 06 Mar 2026 14:50:21 -0500"
-    },
-    {
-      "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
-      "pubDate": "Fri, 06 Mar 2026 10:57:16 -0500"
     }
   ]
 }
