@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-09T18:37:21Z",
+  "updated": "2026-03-09T19:32:50Z",
   "items": [
+    {
+      "title": "Ericsson US discloses data breach after service provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/",
+      "pubDate": "Mon, 09 Mar 2026 15:07:50 -0400"
+    },
     {
       "title": "Microsoft Teams will tag third-party bots trying to join meetings",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
@@ -56,11 +61,6 @@
       "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
       "pubDate": "Fri, 06 Mar 2026 10:57:16 -0500"
-    },
-    {
-      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-      "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-      "pubDate": "Fri, 06 Mar 2026 10:00:10 -0500"
     }
   ]
 }

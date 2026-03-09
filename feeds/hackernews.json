@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-09T18:37:21Z",
+  "updated": "2026-03-09T19:32:50Z",
   "items": [
+    {
+      "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
+      "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
+      "pubDate": "Tue, 10 Mar 2026 00:01:00 +0530"
+    },
     {
       "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
       "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
@@ -56,11 +61,6 @@
       "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
       "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
       "pubDate": "Fri, 06 Mar 2026 15:53:00 +0530"
-    },
-    {
-      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
-      "link": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
-      "pubDate": "Fri, 06 Mar 2026 13:52:00 +0530"
     }
   ]
 }
