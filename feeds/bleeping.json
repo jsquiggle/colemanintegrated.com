@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-09T14:47:31Z",
+  "updated": "2026-03-09T15:46:08Z",
   "items": [
+    {
+      "title": "FBI warns of phishing attacks impersonating US city, county officials",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
+      "pubDate": "Mon, 09 Mar 2026 11:30:50 -0400"
+    },
     {
       "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
       "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
@@ -56,11 +61,6 @@
       "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
       "pubDate": "Fri, 06 Mar 2026 09:21:09 -0500"
-    },
-    {
-      "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
-      "pubDate": "Fri, 06 Mar 2026 05:08:00 -0500"
     }
   ]
 }
