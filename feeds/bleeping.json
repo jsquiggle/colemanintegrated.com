@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-09T13:58:14Z",
+  "updated": "2026-03-09T14:47:31Z",
   "items": [
+    {
+      "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
+      "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
+      "pubDate": "Mon, 09 Mar 2026 10:10:20 -0400"
+    },
+    {
+      "title": "Microsoft still working to fix Windows Explorer white flashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
+      "pubDate": "Mon, 09 Mar 2026 10:10:17 -0400"
+    },
     {
       "title": "EU court adviser says banks must immediately refund phishing victims",
       "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
@@ -51,16 +61,6 @@
       "title": "Ghanain man pleads guilty to role in $100 million fraud ring",
       "link": "https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/",
       "pubDate": "Fri, 06 Mar 2026 05:08:00 -0500"
-    },
-    {
-      "title": "FBI investigates breach of surveillance and wiretap systems",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-investigates-breach-of-surveillance-and-wiretap-systems/",
-      "pubDate": "Fri, 06 Mar 2026 03:44:53 -0500"
-    },
-    {
-      "title": "Chinese state hackers target telcos with new malware toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-state-hackers-target-telcos-with-new-malware-toolkit/",
-      "pubDate": "Thu, 05 Mar 2026 18:19:49 -0500"
     }
   ]
 }
