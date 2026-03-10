@@ -395,30 +395,72 @@
 </div>
 </div>
 </section>
-<section class="section" id="cyber-feeds">
+<section class="section alt" id="intel-sources">
 <div class="container">
 <p class="section-eyebrow">Always-On Threat Monitoring</p>
-<h2>Live Threat Intelligence</h2>
-<p class="section-sub">We monitor these feeds daily and cross-reference every advisory against your specific device inventory — so you hear about relevant threats before they become incidents.</p>
-<div class="feeds-grid">
-<div class="feed-box" id="krebs-feed">
-<div class="feed-hdr"><h3>Krebs on Security</h3><span class="feed-badge">Breach &amp; Fraud</span></div>
-<ul class="feed-list"><li>Loading…</li></ul>
+<h2>What we monitor</h2>
+<p class="section-sub">We pull directly from vendor PSIRT feeds and government advisory catalogs — not news blogs. Every advisory is cross-referenced against your live device inventory within 24 hours of publication.</p>
+<div class="intel-grid">
+
+<div class="intel-card">
+<div class="intel-card-hdr">
+<span class="intel-badge intel-badge--vendor">Vendor Advisory</span>
 </div>
-<div class="feed-box" id="bleeping-feed">
-<div class="feed-hdr"><h3>BleepingComputer</h3><span class="feed-badge">Vulnerabilities</span></div>
-<ul class="feed-list"><li>Loading…</li></ul>
+<h3 class="intel-name">Cisco PSIRT</h3>
+<p class="intel-desc">Official security advisories for IOS-XE, IOS-XR, NX-OS, ASA, and Meraki. Primary source for the majority of our clients' device fleets.</p>
+<a class="intel-link" href="https://tools.cisco.com/security/center/publicationListing.x" target="_blank" rel="noopener noreferrer">tools.cisco.com →</a>
 </div>
-<div class="feed-box" id="hackernews-feed">
-<div class="feed-hdr"><h3>The Hacker News</h3><span class="feed-badge">Threat Intel</span></div>
-<ul class="feed-list"><li>Loading…</li></ul>
+
+<div class="intel-card">
+<div class="intel-card-hdr">
+<span class="intel-badge intel-badge--vendor">Vendor Advisory</span>
 </div>
+<h3 class="intel-name">Fortinet PSIRT</h3>
+<p class="intel-desc">FortiOS, FortiGate, FortiManager, and FortiAnalyzer CVEs with severity scoring and patch availability. Updated with every release cycle.</p>
+<a class="intel-link" href="https://www.fortiguard.com/psirt" target="_blank" rel="noopener noreferrer">fortiguard.com →</a>
 </div>
-<div class="feeds-note">
+
+<div class="intel-card">
+<div class="intel-card-hdr">
+<span class="intel-badge intel-badge--vendor">Vendor Advisory</span>
+</div>
+<h3 class="intel-name">Palo Alto Networks Security</h3>
+<p class="intel-desc">PAN-OS, Prisma Access, and Cortex vulnerability disclosures. Includes exploitation status and workaround guidance.</p>
+<a class="intel-link" href="https://security.paloaltonetworks.com" target="_blank" rel="noopener noreferrer">security.paloaltonetworks.com →</a>
+</div>
+
+<div class="intel-card">
+<div class="intel-card-hdr">
+<span class="intel-badge intel-badge--cisa">Active Exploitation</span>
+</div>
+<h3 class="intel-name">CISA KEV Catalog</h3>
+<p class="intel-desc">The Known Exploited Vulnerabilities catalog — if it's listed here, it's being actively exploited in the wild. Federal agencies must patch within days. We treat it the same.</p>
+<a class="intel-link" href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener noreferrer">cisa.gov/kev →</a>
+</div>
+
+<div class="intel-card">
+<div class="intel-card-hdr">
+<span class="intel-badge intel-badge--research">Threat Research</span>
+</div>
+<h3 class="intel-name">Cisco Talos Intelligence</h3>
+<p class="intel-desc">Cisco's threat research arm and one of the largest commercial threat intelligence teams. Primary discovery source for many Cisco-platform CVEs before public disclosure.</p>
+<a class="intel-link" href="https://blog.talosintelligence.com" target="_blank" rel="noopener noreferrer">talosintelligence.com →</a>
+</div>
+
+<div class="intel-card">
+<div class="intel-card-hdr">
+<span class="intel-badge intel-badge--nvd">CVE Database</span>
+</div>
+<h3 class="intel-name">NIST National Vulnerability Database</h3>
+<p class="intel-desc">Authoritative CVSS scoring and enrichment for all published CVEs. Used to normalize severity across vendor advisories and prioritize remediation order.</p>
+<a class="intel-link" href="https://nvd.nist.gov" target="_blank" rel="noopener noreferrer">nvd.nist.gov →</a>
+</div>
+
+</div>
+<div class="intel-note">
 <svg fill="none" height="16" viewBox="0 0 24 24" width="16"><circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.6"/><path d="M12 8v4m0 4h.01" stroke="currentColor" stroke-linecap="round" stroke-width="1.6"/></svg>
-<p>When a PSIRT or advisory affects your fleet, we flag it and remediate it. <a href="contact.html">Ask about proactive PSIRT monitoring →</a></p>
+<p>When a PSIRT or KEV entry affects your fleet, we flag it, map it to affected devices, and initiate remediation — before you have to ask. <a href="contact.html">Ask about proactive PSIRT monitoring →</a></p>
 </div>
-<p class="feeds-updated"></p>
 </div>
 </section>
 <section class="cta-band">
