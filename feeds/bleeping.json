@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-10T13:54:41Z",
+  "updated": "2026-03-10T14:40:05Z",
   "items": [
+    {
+      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
+      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
+      "pubDate": "Tue, 10 Mar 2026 10:02:12 -0400"
+    },
     {
       "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
@@ -56,11 +61,6 @@
       "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
       "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
       "pubDate": "Mon, 09 Mar 2026 10:10:20 -0400"
-    },
-    {
-      "title": "Microsoft still working to fix Windows Explorer white flashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
-      "pubDate": "Mon, 09 Mar 2026 10:10:17 -0400"
     }
   ]
 }
