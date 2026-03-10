@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="ci-a" x1="0" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#4da3ff"/>
+      <stop offset="100%" stop-color="#7c6aff"/>
+    </linearGradient>
+    <linearGradient id="ci-b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4da3ff"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- C bracket: top bar -->
+  <rect x="2" y="2" width="24" height="7" rx="2.5" fill="url(#ci-a)"/>
+  <!-- C bracket: left vertical bar -->
+  <rect x="2" y="2" width="7" height="44" rx="2.5" fill="url(#ci-a)"/>
+  <!-- C bracket: bottom bar -->
+  <rect x="2" y="39" width="24" height="7" rx="2.5" fill="url(#ci-a)"/>
+
+  <!-- Connector line (C opening → node) -->
+  <rect x="26" y="20.5" width="7" height="7" rx="2" fill="url(#ci-b)" opacity="0.6"/>
+
+  <!-- Integration node: glow halo -->
+  <circle cx="40" cy="24" r="11" fill="#8b5cf6" opacity="0.15"/>
+  <!-- Integration node: solid dot -->
+  <circle cx="40" cy="24" r="6.5" fill="url(#ci-b)"/>
+</svg>

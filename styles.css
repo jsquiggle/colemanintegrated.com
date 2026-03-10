@@ -6,9 +6,9 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
 .container{max-width:1100px;margin:0 auto;padding:0 1rem}
 .site-header{position:sticky;top:0;z-index:10;background:rgba(16,21,29,.8);backdrop-filter:saturate(150%) blur(10px);border-bottom:1px solid var(--border)}
 .site-header .container{display:flex;align-items:center;justify-content:space-between;height:64px}
-.brand{display:flex;align-items:center;gap:.5rem;font-weight:700;color:var(--text)}
-.brand-text{display:none}
-.logo{height:42px;width:auto}
+.brand{display:flex;align-items:center;gap:.65rem;font-weight:700;color:var(--text)}
+.brand-text{display:inline;font-size:1rem;font-weight:700;letter-spacing:.01em;color:var(--text)}
+.logo{height:44px;width:auto}
 .nav{display:flex;gap:1rem;align-items:center}
 .nav a{padding:.4rem .6rem;border-radius:.6rem}
 .btn{background:var(--primary);color:#000;padding:.55rem .9rem;border-radius:.6rem;font-weight:700}
@@ -37,7 +37,6 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
   .nav{display:none;position:absolute;right:1rem;top:64px;flex-direction:column;background:var(--surface);border:1px solid var(--border);padding:.75rem;border-radius:.75rem}
   .nav.open{display:flex}
   .nav-toggle{display:inline-block}
-  .brand-text{display:inline}
 }
 
 /* === Industries Section === */
