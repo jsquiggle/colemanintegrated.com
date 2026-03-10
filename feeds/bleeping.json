@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-10T11:06:32Z",
+  "updated": "2026-03-10T11:51:53Z",
   "items": [
+    {
+      "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
+      "pubDate": "Tue, 10 Mar 2026 07:36:13 -0400"
+    },
     {
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
@@ -56,11 +61,6 @@
       "title": "Microsoft still working to fix Windows Explorer white flashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
       "pubDate": "Mon, 09 Mar 2026 10:10:17 -0400"
-    },
-    {
-      "title": "EU court adviser says banks must immediately refund phishing victims",
-      "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
-      "pubDate": "Sun, 08 Mar 2026 11:25:37 -0400"
     }
   ]
 }
