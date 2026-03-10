@@ -484,6 +484,8 @@
 
     function updateROI() {
       const devices = parseInt(slider.value);
+      const pct = ((devices - 10) / (400 - 10) * 100).toFixed(1) + '%';
+      slider.style.setProperty('--pct', pct);
       countEl.textContent = devices >= 400 ? '400+' : devices;
 
       let plan, annualCost, planSlug;
