@@ -213,12 +213,19 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
   from { transform: translateX(0); }
   to   { transform: translateX(-50%); }
 }
+.platform-bar { padding-bottom: .75rem; }
 .platform-chip {
   font-size: .78rem; font-weight: 500; white-space: nowrap;
   padding: .28rem .75rem; border-radius: 999px;
   background: rgba(77,163,255,.07); border: 1px solid rgba(77,163,255,.18);
   color: var(--primary); flex-shrink: 0;
 }
+.platform-chip--fw {
+  background: rgba(139,92,246,.08); border-color: rgba(139,92,246,.22);
+  color: var(--accent);
+}
+.marquee-inner--reverse { animation-direction: reverse; }
+.marquee-track + .marquee-track { margin-top: .4rem; }
 
 /* --- How it works / Steps --- */
 .section--steps { background:var(--surface); }
