@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-10T22:50:48Z",
+  "updated": "2026-03-10T23:17:53Z",
   "items": [
+    {
+      "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments",
+      "link": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
+      "pubDate": "Tue, 10 Mar 2026 18:57:54 -0400"
+    },
     {
       "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
       "link": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to enable Windows hotpatch security updates by default",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
       "pubDate": "Tue, 10 Mar 2026 06:35:33 -0400"
-    },
-    {
-      "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
-      "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
-      "pubDate": "Tue, 10 Mar 2026 06:00:00 -0400"
     }
   ]
 }
