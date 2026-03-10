@@ -425,3 +425,41 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
   font-size: .85rem; font-weight: 600; color: var(--primary);
 }
 .pillar-link:hover { text-decoration: underline; }
+
+/* =====================================================
+   GLOBAL POLISH & CONSISTENCY OVERRIDES
+   ===================================================== */
+
+/* Base typography — establish consistent scale */
+h1 { font-size: clamp(1.9rem, 4.5vw, 2.8rem); font-weight: 800; line-height: 1.15; margin: 0 0 .5rem; }
+h2 { font-size: 1.85rem; font-weight: 700; line-height: 1.2; margin: 0 0 .25rem; }
+h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 .4rem; }
+
+/* Utility classes (were referenced in HTML but never defined) */
+.muted { color: var(--muted); }
+.small { font-size: .85rem; }
+.link { color: var(--primary); font-weight: 500; }
+.link:hover { text-decoration: underline; }
+
+/* Section rhythm: alternate --bg / --surface */
+/* How it works → --bg (was --surface, same as adjacent sections) */
+.section--steps { background: var(--bg); }
+
+/* Industries → --bg to alternate with Services (--surface) and Feeds (--surface) */
+#industries {
+  padding: 3rem 0;
+  background: var(--bg);
+  color: inherit;
+}
+/* Counteract old ID-rule: centred heading & wider container */
+#industries h2 { text-align: left; font-size: 1.85rem; }
+#industries .container { max-width: 1100px; padding: 0 1rem; }
+#industries .section-kicker { text-align: left; }
+
+/* Cyber Feeds: fix old ID rules (centred h2, wide container) */
+#cyber-feeds .container { max-width: 1100px; padding: 0 1rem; }
+#cyber-feeds h2 { text-align: left; font-size: 1.85rem; }
+#cyber-feeds { padding: 3rem 0; margin-top: 0; }
+
+/* Industries section: override old padding */
+#industries { padding: 3rem 0; }
