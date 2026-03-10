@@ -27,6 +27,8 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
 .badge-list li{list-style:disc;color:var(--muted)}
 .chips{display:flex;flex-wrap:wrap;gap:.5rem}
 .chip{background:var(--chip);border:1px solid var(--border);padding:.35rem .6rem;border-radius:999px;color:var(--muted)}
+.framework-chips{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:1rem}
+.fw-chip{font-size:.75rem;font-weight:600;letter-spacing:.04em;padding:.28rem .7rem;border-radius:999px;border:1px solid var(--border);color:var(--muted);background:rgba(255,255,255,.03)}
 .checklist{padding-left:1.1rem}
 .checklist li{list-style:'✓ ';margin:.4rem 0}
 .site-footer{border-top:1px solid var(--border);padding:2rem 0;color:var(--muted)}
