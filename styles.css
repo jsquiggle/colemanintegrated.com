@@ -567,3 +567,77 @@ h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 .4rem; 
   .nav-toggle:hover::after,
   .nav-toggle:hover span { background: var(--text); }
 }
+
+/* === About page === */
+.about-grid {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+@media (max-width: 900px) { .about-grid { grid-template-columns: 1fr; } }
+
+.about-photo img {
+  width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,.4);
+  display: block;
+}
+.about-bio h2 { margin: .25rem 0 1rem; }
+.about-bio p { color: var(--muted); margin: 0 0 1rem; line-height: 1.7; }
+.about-cta-row { display: flex; gap: 1rem; align-items: center; margin-top: 1.5rem; flex-wrap: wrap; }
+
+/* Expertise grid */
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin-top: 2rem;
+}
+@media (max-width: 900px) { .expertise-grid { grid-template-columns: 1fr; } }
+
+.expertise-card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  padding: 1.4rem 1.5rem;
+  transition: border-color .2s;
+}
+.expertise-card:hover { border-color: rgba(77,163,255,.3); }
+.expertise-icon {
+  width: 38px; height: 38px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 10px;
+  background: rgba(77,163,255,.1); border: 1px solid rgba(77,163,255,.2);
+  color: var(--primary); margin-bottom: .75rem;
+}
+.expertise-card h3 { margin: 0 0 .75rem; }
+.expertise-list { margin: 0 0 0 1.1rem; padding: 0; }
+.expertise-list li { font-size: .85rem; color: var(--muted); margin: .35rem 0; list-style: disc; }
+
+/* Philosophy section */
+.philosophy-grid {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+@media (max-width: 900px) { .philosophy-grid { grid-template-columns: 1fr; } }
+
+.philosophy-points { display: flex; flex-direction: column; gap: 1.5rem; }
+.philo-point {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.philo-point:last-child { border-bottom: none; padding-bottom: 0; }
+.philo-num {
+  font-size: 1.4rem; font-weight: 900; line-height: 1;
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+  flex-shrink: 0; width: 2rem; padding-top: .1rem;
+}
+.philo-point h3 { margin: 0 0 .3rem; font-size: 1rem; }
+.philo-point p { margin: 0; font-size: .9rem; line-height: 1.6; }

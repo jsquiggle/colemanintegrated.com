@@ -83,6 +83,49 @@
             </div>
           </article>
 
+
+          <article class="case-card">
+            <div class="case-meta">
+              <span class="case-tag">Healthcare · HIPAA · 802.1X</span>
+            </div>
+            <h2>PHI Segmentation &amp; HIPAA Evidence Automation for Regional Health Network</h2>
+            <p class="case-situation"><strong>Situation:</strong> A regional health system with 8 clinics and 2 hospitals had medical IoT devices — infusion pumps, imaging systems, monitoring equipment — sharing VLANs with clinical workstations. An upcoming HIPAA audit flagged PHI segmentation as a critical gap. Manual evidence collection was consuming 3+ weeks of the compliance team's time each audit cycle.</p>
+            <p><strong>What we did:</strong> Used passive discovery and NAC profiling to catalogue every IoT device type, redesigned VLAN architecture to enforce strict PHI segmentation, deployed 802.1X with Aruba ClearPass for clinical endpoints, and built an automated evidence pipeline mapping config snapshots and access logs directly to HIPAA safeguard controls.</p>
+            <div class="case-results">
+              <div class="case-result"><span class="result-num">100%</span><span class="result-lbl">PHI segments enforced</span></div>
+              <div class="case-result"><span class="result-num">3 wks → 4h</span><span class="result-lbl">Evidence collection</span></div>
+              <div class="case-result"><span class="result-num">✓</span><span class="result-lbl">HIPAA audit passed</span></div>
+            </div>
+          </article>
+
+          <article class="case-card">
+            <div class="case-meta">
+              <span class="case-tag">Retail · PCI DSS · Wireless</span>
+            </div>
+            <h2>40-Location 802.1X Migration Completed in 8 Weeks</h2>
+            <p class="case-situation"><strong>Situation:</strong> A national retail chain needed to replace pre-shared key Wi-Fi with enterprise 802.1X authentication across 40 locations to satisfy PCI DSS wireless requirements. A manual site-by-site approach was projected to take 6+ months and require on-site visits — neither was acceptable before their upcoming QSA assessment.</p>
+            <p><strong>What we did:</strong> Built a Fortinet FortiGate/FortiAP automation framework that pushed complete 802.1X configurations remotely across all sites, integrated Microsoft NPS for certificate-based machine authentication, and implemented rollback-safe change windows with automated per-site validation tests to confirm auth success before moving on.</p>
+            <div class="case-results">
+              <div class="case-result"><span class="result-num">40</span><span class="result-lbl">Sites completed</span></div>
+              <div class="case-result"><span class="result-num">8 wks</span><span class="result-lbl">vs 6+ month estimate</span></div>
+              <div class="case-result"><span class="result-num">0</span><span class="result-lbl">Production outages</span></div>
+            </div>
+          </article>
+
+          <article class="case-card">
+            <div class="case-meta">
+              <span class="case-tag">Manufacturing · ICS/OT · IEC 62443</span>
+            </div>
+            <h2>Purdue-Model OT Segmentation for Critical Manufacturing Facility</h2>
+            <p class="case-situation"><strong>Situation:</strong> A precision manufacturing plant running PLCs, HMIs, and SCADA systems had a completely flat OT network — no segmentation between engineering workstations, field devices, and corporate IT. An IEC 62443 gap assessment identified multiple critical lateral movement paths, any of which could halt production if exploited.</p>
+            <p><strong>What we did:</strong> Designed a full Purdue-model network architecture with defined security zones, deployed Cisco ISA3000 industrial firewalls at the OT/IT boundary, implemented zone-based security policies with least-privilege remote access, and automated compliance checks against IEC 62443 Level 2 control requirements — all within change windows that avoided production downtime.</p>
+            <div class="case-results">
+              <div class="case-result"><span class="result-num">IEC 62443</span><span class="result-lbl">Level 2 achieved</span></div>
+              <div class="case-result"><span class="result-num">0</span><span class="result-lbl">IT/OT lateral paths remaining</span></div>
+              <div class="case-result"><span class="result-num">0</span><span class="result-lbl">Production minutes lost</span></div>
+            </div>
+          </article>
+
         </div>
       </div>
     </section>
