@@ -28,17 +28,96 @@
   </header>
 
 
-  <main class="section">
-    <div class="container">
-      <h1>Case Studies</h1>
-      <div class="cards grid-3">
-        <article class="card"><h3>Meraki Drift Elimination</h3><p>Cut drift by 68% in 45 days with snapshot diffs + golden policies.</p></article>
-        <article class="card"><h3>FTD Golden Image Program</h3><p>Standardized images and automated PSIRT checks to reduce risk.</p></article>
-        <article class="card"><h3>License Health & Evidence</h3><p>Automated SOC 2 evidence exports and smart‑licensing snapshots.</p></article>
+  <main>
+    <section class="hero hero--sub">
+      <div class="container">
+        <p class="hero-eyebrow">Results</p>
+        <h1>Case Studies</h1>
+        <p class="hero-sub">Real outcomes from automation‑first network compliance programs.</p>
       </div>
-    </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="case-studies-list">
+
+          <article class="case-card">
+            <div class="case-meta">
+              <span class="case-tag">Meraki · Drift Management</span>
+            </div>
+            <h2>68% Drift Reduction in 45 Days</h2>
+            <p class="case-situation"><strong>Situation:</strong> A mid-market organization running 80+ Meraki MX/MR devices had no systematic way to detect when device configs diverged from their intended baseline. Audits were manual, slow, and routinely missed policy violations.</p>
+            <p><strong>What we did:</strong> Deployed automated snapshot collection and diff-based golden policy checks. Built a scheduler to run comparisons nightly and surface findings in a prioritized report.</p>
+            <div class="case-results">
+              <div class="case-result"><span class="result-num">68%</span><span class="result-lbl">Drift reduction</span></div>
+              <div class="case-result"><span class="result-num">45</span><span class="result-lbl">Days to results</span></div>
+              <div class="case-result"><span class="result-num">80+</span><span class="result-lbl">Devices covered</span></div>
+            </div>
+          </article>
+
+          <article class="case-card">
+            <div class="case-meta">
+              <span class="case-tag">Cisco FTD · Security Posture</span>
+            </div>
+            <h2>FTD Golden Image &amp; PSIRT Automation</h2>
+            <p class="case-situation"><strong>Situation:</strong> A distributed enterprise running Cisco FTD firewalls lacked a standardized image program. Devices ran mixed firmware versions, and vulnerability advisories (PSIRTs) were tracked manually in spreadsheets.</p>
+            <p><strong>What we did:</strong> Established a golden image standard, automated firmware version inventory across all devices, and wired Cisco PSIRT advisories directly to the affected device list — with risk scoring and remediation playbooks.</p>
+            <div class="case-results">
+              <div class="case-result"><span class="result-num">100%</span><span class="result-lbl">Image standardization</span></div>
+              <div class="case-result"><span class="result-num">&lt;24h</span><span class="result-lbl">Advisory-to-device mapping</span></div>
+              <div class="case-result"><span class="result-num">0</span><span class="result-lbl">Spreadsheets required</span></div>
+            </div>
+          </article>
+
+          <article class="case-card">
+            <div class="case-meta">
+              <span class="case-tag">SOC 2 · Evidence Automation</span>
+            </div>
+            <h2>Audit‑Ready SOC 2 Evidence in Hours, Not Weeks</h2>
+            <p class="case-situation"><strong>Situation:</strong> An organization preparing for SOC 2 Type II faced a manual evidence collection process that took 2–3 weeks each audit cycle. Licensing health, config baselines, and access logs were all pulled by hand.</p>
+            <p><strong>What we did:</strong> Automated evidence collection — config snapshots, license health reports, and smart-licensing exports — and structured outputs to map directly to SOC 2 control requirements. Delivered a repeatable, scheduler-driven pipeline.</p>
+            <div class="case-results">
+              <div class="case-result"><span class="result-num">95%</span><span class="result-lbl">Time saved on evidence</span></div>
+              <div class="case-result"><span class="result-num">2–3 wks</span><span class="result-lbl">→ hours per cycle</span></div>
+              <div class="case-result"><span class="result-num">SOC 2</span><span class="result-lbl">Type II ready</span></div>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-band">
+      <div class="container">
+        <h2>Want results like these?</h2>
+        <p>Book a free scoping call and we'll map your current gaps to a concrete remediation plan.</p>
+        <a class="btn btn-lg" href="contact.html">Book a discovery call</a>
+      </div>
+    </section>
   </main>
 
-  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <a class="brand" href="index.html">
+          <img alt="Coleman Integrated Solutions" class="logo" src="assets/coleman-logo.png"/>
+          <span class="brand-text">Coleman Integrated</span>
+        </a>
+        <p class="muted small" style="margin-top:.75rem">Automation • Compliance • Network</p>
+        <p class="muted small"><a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a></p>
+      </div>
+      <div class="footer-links">
+        <p class="footer-heading">Company</p>
+        <a href="pricing.html">Pricing</a>
+        <a href="case-studies.html">Case Studies</a>
+        <a href="dashboard.html">Demo Dashboard</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p class="muted small">© <span id="year"></span> Coleman Integrated Solutions · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+    </div>
+  </footer>
 </body>
 </html>
