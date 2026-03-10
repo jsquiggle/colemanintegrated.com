@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-10T16:45:01Z",
+  "updated": "2026-03-10T17:38:03Z",
   "items": [
+    {
+      "title": "HPE warns of critical AOS-CX flaw allowing admin password resets",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-aos-cx-flaw-allowing-admin-password-resets/",
+      "pubDate": "Tue, 10 Mar 2026 13:30:35 -0400"
+    },
     {
       "title": "Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Teams will tag third-party bots trying to join meetings",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
       "pubDate": "Mon, 09 Mar 2026 13:12:49 -0400"
-    },
-    {
-      "title": "ShinyHunters claims ongoing Salesforce Aura data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
-      "pubDate": "Mon, 09 Mar 2026 13:12:22 -0400"
     }
   ]
 }
