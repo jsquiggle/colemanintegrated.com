@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-10T07:11:00Z",
+  "updated": "2026-03-10T07:58:21Z",
   "items": [
+    {
+      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
+      "pubDate": "Tue, 10 Mar 2026 11:47:00 +0530"
+    },
     {
       "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
       "link": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
@@ -56,11 +61,6 @@
       "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
       "link": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
       "pubDate": "Fri, 06 Mar 2026 16:00:00 +0530"
-    },
-    {
-      "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
-      "link": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
-      "pubDate": "Fri, 06 Mar 2026 15:53:00 +0530"
     }
   ]
 }
