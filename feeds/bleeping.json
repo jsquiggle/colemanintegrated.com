@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-10T10:28:47Z",
+  "updated": "2026-03-10T11:06:32Z",
   "items": [
+    {
+      "title": "Microsoft to enable Windows hotpatch security updates by default",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
+      "pubDate": "Tue, 10 Mar 2026 06:35:33 -0400"
+    },
     {
       "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
       "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
@@ -56,11 +61,6 @@
       "title": "EU court adviser says banks must immediately refund phishing victims",
       "link": "https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/",
       "pubDate": "Sun, 08 Mar 2026 11:25:37 -0400"
-    },
-    {
-      "title": "Hackers abuse .arpa DNS and ipv6 to evade phishing defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-arpa-dns-and-ipv6-to-evade-phishing-defenses/",
-      "pubDate": "Sun, 08 Mar 2026 10:12:22 -0400"
     }
   ]
 }
