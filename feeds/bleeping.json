@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-10T21:20:50Z",
+  "updated": "2026-03-10T21:47:52Z",
   "items": [
+    {
+      "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
+      "pubDate": "Tue, 10 Mar 2026 17:27:59 -0400"
+    },
     {
       "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
       "link": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
@@ -56,11 +61,6 @@
       "title": "APT28 hackers deploy customized variant of Covenant open-source tool",
       "link": "https://www.bleepingcomputer.com/news/security/apt28-hackers-deploy-customized-variant-of-covenant-open-source-tool/",
       "pubDate": "Tue, 10 Mar 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Microsoft Teams phishing targets employees with A0Backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/",
-      "pubDate": "Mon, 09 Mar 2026 18:50:38 -0400"
     }
   ]
 }
