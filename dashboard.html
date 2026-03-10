@@ -9,7 +9,7 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 </head>
 <body>
-  
+
   <header class="site-header">
     <div class="container">
       <a class="brand" href="index.html">
@@ -28,78 +28,412 @@
     </div>
   </header>
 
-  <main class="section">
-    <div class="container">
-      <h1>Compliance Dashboard (Demo)</h1>
-      <p class="muted">A sample, read‑only view showing how we present compliance and drift over time.</p>
+  <main>
 
-      <div class="cards grid-3" style="margin-top:1rem">
-        <div class="card">
-          <h3>Overall Score</h3>
-          <p class="score" id="overall-score">92<span>/100</span></p>
-          <p class="muted">Target ≥ 95</p>
-        </div>
-        <div class="card">
-          <h3>Open Findings</h3>
-          <ul class="bullets">
-            <li>8 High, 14 Medium, 23 Low</li>
-            <li>Golden image drift on 12 devices</li>
-            <li>4 pending PSIRT fixes</li>
-          </ul>
-        </div>
-        <div class="card">
-          <h3>Coverage</h3>
-          <ul class="bullets">
-            <li>67 Cisco (IOS-XE)</li>
-            <li>24 Fortinet (FortiGate/Switch)</li>
-            <li>18 Palo Alto (PanOS)</li>
-            <li>42 Meraki (MX/MR)</li>
-          </ul>
+    <!-- Dashboard Hero -->
+    <section class="dash-hero">
+      <div class="container">
+        <p class="hero-eyebrow">Sample View</p>
+        <h1>Compliance Dashboard</h1>
+        <p class="muted" style="margin:.25rem 0 0;max-width:560px">This is what your environment looks like after onboarding — a live, unified view of drift, findings, PSIRT exposure, and framework coverage across every managed device.</p>
+        <div class="dash-meta">
+          <div class="dash-meta-item"><span class="dash-meta-dot"></span> All systems nominal</div>
+          <div class="dash-meta-item">Last scan: <strong>Today, 06:14 UTC</strong></div>
+          <div class="dash-meta-item">151 devices across 4 platforms</div>
+          <a class="dash-export-btn" href="contact.html">
+            <svg width="14" height="14" fill="none" viewBox="0 0 24 24"><path d="M12 3v13M7 11l5 5 5-5M4 20h16" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            Export PDF Report
+          </a>
         </div>
       </div>
+    </section>
 
-      <div class="card" style="margin-top:1rem">
-        <h3>Compliance Trend</h3>
-        <canvas id="trendChart" height="140"></canvas>
-      </div>
+    <div class="section">
+      <div class="container" style="display:flex;flex-direction:column;gap:1.5rem">
 
-      <div class="cards grid-3" style="margin-top:1rem">
-        <div class="card"><h3>CIS Benchmarks</h3><canvas id="cisChart" height="160"></canvas></div>
-        <div class="card"><h3>SOC 2 Controls</h3><canvas id="soc2Chart" height="160"></canvas></div>
-        <div class="card"><h3>NIST 800‑53 Families</h3><canvas id="nistChart" height="160"></canvas></div>
+        <!-- Row 1: Score + Scan Stats -->
+        <div class="dash-kpi-row">
+
+          <!-- Overall score -->
+          <div class="score-card">
+            <div class="score-header">
+              <h3>Overall Score</h3>
+              <span class="badge-live">Live</span>
+            </div>
+            <div class="score-val">92<span>/100</span></div>
+            <div class="score-bar-wrap"><div class="score-bar" style="width:92%"></div></div>
+            <p class="score-target muted small">Target ≥ 95 &nbsp;·&nbsp; +3 pts from last month</p>
+          </div>
+
+          <!-- Mini scan stats -->
+          <div style="display:flex;flex-direction:column;gap:.75rem">
+            <div class="scan-summary">
+              <div class="scan-stat">
+                <span class="scan-num">151</span>
+                <span class="scan-lbl">Devices Scanned</span>
+              </div>
+              <div class="scan-stat">
+                <span class="scan-num">45</span>
+                <span class="scan-lbl">Open Findings</span>
+              </div>
+              <div class="scan-stat">
+                <span class="scan-num">4</span>
+                <span class="scan-lbl">Active PSIRTs</span>
+              </div>
+            </div>
+            <div class="scan-summary">
+              <div class="scan-stat">
+                <span class="scan-num" style="color:#ef4444">8</span>
+                <span class="scan-lbl">High Severity</span>
+              </div>
+              <div class="scan-stat">
+                <span class="scan-num" style="color:#f59e0b">14</span>
+                <span class="scan-lbl">Medium Severity</span>
+              </div>
+              <div class="scan-stat">
+                <span class="scan-num" style="color:var(--muted)">23</span>
+                <span class="scan-lbl">Low Severity</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Row 2: Compliance Trend -->
+        <div class="chart-card">
+          <h3>Compliance Score Trend — rolling 10 months</h3>
+          <canvas id="trendChart" height="110"></canvas>
+        </div>
+
+        <!-- Row 3: Framework Donuts -->
+        <div>
+          <h2 style="margin:0 0 1rem;font-size:1.2rem">Framework Coverage</h2>
+          <div class="donut-grid">
+
+            <div class="donut-card">
+              <h3>CIS Benchmarks</h3>
+              <div class="donut-wrap">
+                <canvas id="cisChart"></canvas>
+                <div class="donut-center">
+                  <span class="donut-pct" style="color:var(--primary)">82%</span>
+                  <span class="donut-sub">Pass</span>
+                </div>
+              </div>
+              <div class="donut-legend">
+                <span><span class="legend-dot" style="background:var(--primary)"></span> Pass 82</span>
+                <span><span class="legend-dot" style="background:var(--border)"></span> Fail 18</span>
+              </div>
+            </div>
+
+            <div class="donut-card">
+              <h3>SOC 2 Controls</h3>
+              <div class="donut-wrap">
+                <canvas id="soc2Chart"></canvas>
+                <div class="donut-center">
+                  <span class="donut-pct" style="color:var(--accent)">88%</span>
+                  <span class="donut-sub">Pass</span>
+                </div>
+              </div>
+              <div class="donut-legend">
+                <span><span class="legend-dot" style="background:var(--accent)"></span> Pass 88</span>
+                <span><span class="legend-dot" style="background:var(--border)"></span> Fail 12</span>
+              </div>
+            </div>
+
+            <div class="donut-card">
+              <h3>NIST 800-53 Families</h3>
+              <div class="donut-wrap">
+                <canvas id="nistChart"></canvas>
+                <div class="donut-center">
+                  <span class="donut-pct" style="color:#22d3ee">76%</span>
+                  <span class="donut-sub">Pass</span>
+                </div>
+              </div>
+              <div class="donut-legend">
+                <span><span class="legend-dot" style="background:#22d3ee"></span> Pass 76</span>
+                <span><span class="legend-dot" style="background:var(--border)"></span> Fail 24</span>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Row 4: Findings by Severity -->
+        <div>
+          <div class="findings-header">
+            <h2 style="margin:0;font-size:1.2rem">Open Findings</h2>
+            <span class="muted small">45 total &nbsp;·&nbsp; Sorted by severity</span>
+          </div>
+          <div class="findings-grid">
+
+            <div class="finding-card finding-card--high">
+              <div class="finding-sev">
+                <span class="finding-sev-dot finding-sev-dot--high"></span>
+                <span class="finding-sev-label" style="color:#ef4444">High</span>
+              </div>
+              <div class="finding-count finding-count--high">8</div>
+              <ul class="finding-examples">
+                <li>SNMPv2 community string on 3 IOS-XE devices</li>
+                <li>Telnet enabled — FTD firewall cluster</li>
+                <li>Management plane unrestricted on 2 FortiGates</li>
+                <li>SSH v1 fallback permitted — Meraki MX</li>
+              </ul>
+            </div>
+
+            <div class="finding-card finding-card--medium">
+              <div class="finding-sev">
+                <span class="finding-sev-dot finding-sev-dot--medium"></span>
+                <span class="finding-sev-label" style="color:#f59e0b">Medium</span>
+              </div>
+              <div class="finding-count finding-count--medium">14</div>
+              <ul class="finding-examples">
+                <li>NTP not configured on 6 access-layer switches</li>
+                <li>Syslog missing on 4 FortiSwitch devices</li>
+                <li>Weak password policy — local accounts on 3 PAN-OS</li>
+                <li>Login banner absent — 5 WLC access points</li>
+              </ul>
+            </div>
+
+            <div class="finding-card finding-card--low">
+              <div class="finding-sev">
+                <span class="finding-sev-dot finding-sev-dot--low"></span>
+                <span class="finding-sev-label" style="color:var(--muted)">Low</span>
+              </div>
+              <div class="finding-count finding-count--low">23</div>
+              <ul class="finding-examples">
+                <li>CDP enabled on WAN-facing interfaces (7)</li>
+                <li>HTTP redirect not configured on 8 management interfaces</li>
+                <li>Hostname format non-standard — 5 switches</li>
+                <li>Unused interfaces not shut — 12 devices</li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Row 5: PSIRT Exposure -->
+        <div>
+          <div class="findings-header">
+            <div>
+              <h2 style="margin:0 0 .2rem;font-size:1.2rem">Active PSIRT Advisories</h2>
+              <p class="muted small" style="margin:0">Auto-mapped from Cisco, Fortinet, and Palo Alto advisory feeds to affected device inventory.</p>
+            </div>
+          </div>
+          <div class="psirt-table-wrap">
+            <table class="psirt-table">
+              <thead>
+                <tr>
+                  <th>CVE / Advisory</th>
+                  <th>Severity</th>
+                  <th>Platform</th>
+                  <th>Devices Affected</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><span class="psirt-cve">CVE-2024-20399</span></td>
+                  <td><span class="psirt-sev psirt-sev--critical">Critical</span></td>
+                  <td>Cisco IOS-XE</td>
+                  <td>14 devices</td>
+                  <td><span class="psirt-status"><span class="status-dot status-dot--inprog"></span> In Progress</span></td>
+                </tr>
+                <tr>
+                  <td><span class="psirt-cve">FG-IR-24-015</span></td>
+                  <td><span class="psirt-sev psirt-sev--high">High</span></td>
+                  <td>FortiGate SSL-VPN</td>
+                  <td>6 devices</td>
+                  <td><span class="psirt-status"><span class="status-dot status-dot--open"></span> Open</span></td>
+                </tr>
+                <tr>
+                  <td><span class="psirt-cve">CVE-2024-3400</span></td>
+                  <td><span class="psirt-sev psirt-sev--critical">Critical</span></td>
+                  <td>Palo Alto PAN-OS</td>
+                  <td>3 devices</td>
+                  <td><span class="psirt-status"><span class="status-dot status-dot--patched"></span> Patched</span></td>
+                </tr>
+                <tr>
+                  <td><span class="psirt-cve">CVE-2023-20198</span></td>
+                  <td><span class="psirt-sev psirt-sev--critical">Critical</span></td>
+                  <td>Cisco IOS-XE Web UI</td>
+                  <td>9 devices</td>
+                  <td><span class="psirt-status"><span class="status-dot status-dot--patched"></span> Patched</span></td>
+                </tr>
+                <tr>
+                  <td><span class="psirt-cve">FG-IR-23-097</span></td>
+                  <td><span class="psirt-sev psirt-sev--medium">Medium</span></td>
+                  <td>FortiSwitch</td>
+                  <td>11 devices</td>
+                  <td><span class="psirt-status"><span class="status-dot status-dot--inprog"></span> In Progress</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Row 6: Coverage by Platform -->
+        <div class="chart-card">
+          <h3>Device Coverage by Platform</h3>
+          <div class="coverage-list">
+            <div class="cover-row">
+              <span class="cover-label">Cisco IOS-XE</span>
+              <div class="cover-track"><div class="cover-fill" style="width:100%"></div></div>
+              <span class="cover-count">67</span>
+            </div>
+            <div class="cover-row">
+              <span class="cover-label">Meraki MX/MR</span>
+              <div class="cover-track"><div class="cover-fill" style="width:62.7%"></div></div>
+              <span class="cover-count">42</span>
+            </div>
+            <div class="cover-row">
+              <span class="cover-label">Fortinet</span>
+              <div class="cover-track"><div class="cover-fill" style="width:35.8%"></div></div>
+              <span class="cover-count">24</span>
+            </div>
+            <div class="cover-row">
+              <span class="cover-label">Palo Alto PAN-OS</span>
+              <div class="cover-track"><div class="cover-fill" style="width:26.9%"></div></div>
+              <span class="cover-count">18</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Export CTA -->
+        <div class="dash-cta">
+          <div class="dash-cta-text">
+            <h3>Want a report like this for your environment?</h3>
+            <p>Book a free 30-minute discovery call — we'll map your current exposure and show you what onboarding looks like.</p>
+          </div>
+          <a class="btn btn-lg" href="contact.html">Book a discovery call</a>
+        </div>
+
       </div>
     </div>
+
   </main>
-  <footer class="site-footer"><div class="container"><p>© <span id="year"></span> Coleman Integrated Solutions</p></div></footer>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <a class="brand" href="index.html">
+          <img alt="Coleman Integrated Solutions" class="logo" src="assets/coleman-mark.svg"/>
+          <span class="brand-text"><strong class="brand-name">COLEMAN</strong><span class="brand-sub">INTEGRATED</span></span>
+        </a>
+        <p class="muted small" style="margin-top:.75rem">Automation • Compliance • Network</p>
+        <p class="muted small"><a href="mailto:kyle.coleman@colemanintegrated.com">kyle.coleman@colemanintegrated.com</a></p>
+      </div>
+      <div class="footer-links">
+        <p class="footer-heading">Services</p>
+        <a href="index.html#services">Compliance as Code</a>
+        <a href="index.html#services">Network &amp; Security Eng.</a>
+        <a href="index.html#services">Custom Automation</a>
+        <a href="pricing.html">Pricing</a>
+      </div>
+      <div class="footer-links">
+        <p class="footer-heading">Company</p>
+        <a href="pricing.html">Pricing</a>
+        <a href="case-studies.html">Case Studies</a>
+        <a href="dashboard.html">Compliance Dashboard</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+      </div>
+      <div class="footer-links">
+        <p class="footer-heading">Frameworks</p>
+        <span class="muted small">SOC 2 Type II</span>
+        <span class="muted small">NIST 800‑53</span>
+        <span class="muted small">CIS Controls</span>
+        <span class="muted small">HIPAA / HITECH</span>
+        <span class="muted small">PCI DSS</span>
+        <span class="muted small">ISO 27001</span>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p class="muted small">© <span id="year"></span> Coleman Integrated Solutions · <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+    </div>
+  </footer>
 
   <script>
-    // Simple demo data
-    const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct"];
+    // ── Shared Chart.js defaults (dark theme) ───────────────────────────
+    Chart.defaults.color = '#c3c7d1';
+    Chart.defaults.borderColor = '#1f2937';
+    Chart.defaults.font.family = 'system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial, sans-serif';
+
+    // ── Trend line chart ─────────────────────────────────────────────────
     const ctxTrend = document.getElementById('trendChart');
     if (ctxTrend) new Chart(ctxTrend, {
       type: 'line',
       data: {
-        labels: months,
-        datasets: [{ label: 'Score', data: [78,81,83,84,86,88,89,90,92,92] }]
+        labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct'],
+        datasets: [{
+          label: 'Compliance Score',
+          data: [78, 81, 83, 84, 86, 88, 89, 90, 92, 92],
+          borderColor: '#4da3ff',
+          backgroundColor: 'rgba(77,163,255,.08)',
+          pointBackgroundColor: '#4da3ff',
+          pointRadius: 4,
+          pointHoverRadius: 6,
+          tension: .35,
+          fill: true,
+        }]
       },
-      options: { responsive: true, plugins: { legend: { display: false } } }
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            backgroundColor: '#10151d',
+            borderColor: '#1f2937',
+            borderWidth: 1,
+            titleColor: '#e9edf3',
+            bodyColor: '#c3c7d1',
+            callbacks: { label: ctx => ` Score: ${ctx.parsed.y}/100` }
+          }
+        },
+        scales: {
+          x: { grid: { color: 'rgba(255,255,255,.04)' }, ticks: { color: '#c3c7d1' } },
+          y: {
+            min: 70, max: 100,
+            grid: { color: 'rgba(255,255,255,.04)' },
+            ticks: { color: '#c3c7d1', stepSize: 5, callback: v => v + '%' }
+          }
+        }
+      }
     });
 
-    function donut(id, label, dataVals) {
+    // ── Donut helper ─────────────────────────────────────────────────────
+    function donut(id, passVal, failVal, passColor) {
       const el = document.getElementById(id);
       if (!el) return;
       new Chart(el, {
         type: 'doughnut',
         data: {
-          labels: ['Pass','Fail'],
-          datasets: [{ data: dataVals }]
+          labels: ['Pass', 'Fail'],
+          datasets: [{
+            data: [passVal, failVal],
+            backgroundColor: [passColor, '#1f2937'],
+            borderColor: ['transparent', 'transparent'],
+            borderWidth: 0,
+          }]
         },
-        options: { cutout: '65%', plugins: { legend: { display: false } } }
+        options: {
+          cutout: '68%',
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              backgroundColor: '#10151d',
+              borderColor: '#1f2937',
+              borderWidth: 1,
+              titleColor: '#e9edf3',
+              bodyColor: '#c3c7d1',
+            }
+          }
+        }
       });
     }
-    donut('cisChart', 'CIS', [82, 18]);
-    donut('soc2Chart', 'SOC2', [88, 12]);
-    donut('nistChart', 'NIST', [76, 24]);
+    donut('cisChart',  82, 18, '#4da3ff');
+    donut('soc2Chart', 88, 12, '#8b5cf6');
+    donut('nistChart', 76, 24, '#22d3ee');
   </script>
+
 </body>
 </html>
