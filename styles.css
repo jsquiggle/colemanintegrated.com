@@ -350,3 +350,78 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
 }
 .feeds-note svg { color: var(--primary); flex-shrink: 0; margin-top: .15rem; }
 .feeds-note p { margin: 0; }
+
+/* === Service Pillars === */
+.section--alt { background: var(--surface); }
+.pillars {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-top: 2rem;
+  align-items: start;
+}
+@media (max-width: 900px) { .pillars { grid-template-columns: 1fr; } }
+
+.pillar {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  transition: border-color .2s, box-shadow .2s;
+}
+.pillar:hover {
+  border-color: rgba(77,163,255,.3);
+  box-shadow: 0 4px 24px rgba(77,163,255,.07);
+}
+
+/* Featured core pillar */
+.pillar--core {
+  border-color: rgba(77,163,255,.35);
+  box-shadow: 0 0 0 1px rgba(77,163,255,.1), 0 4px 32px rgba(77,163,255,.1);
+  position: relative;
+  overflow: hidden;
+}
+.pillar--core::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+}
+
+.pillar-top {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin-bottom: 1rem;
+}
+.pillar-icon {
+  width: 36px; height: 36px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 9px;
+  background: rgba(77,163,255,.1);
+  border: 1px solid rgba(77,163,255,.2);
+  color: var(--primary);
+  flex-shrink: 0;
+}
+.pillar-badge {
+  font-size: .65rem; font-weight: 700; letter-spacing: .07em; text-transform: uppercase;
+  padding: .2rem .55rem; border-radius: 999px;
+  background: rgba(77,163,255,.15); border: 1px solid rgba(77,163,255,.3);
+  color: var(--primary);
+}
+.pillar-badge--neutral {
+  background: rgba(255,255,255,.05); border-color: var(--border);
+  color: var(--muted);
+}
+.pillar h3 { margin: 0 0 .5rem; font-size: 1.15rem; }
+.pillar-desc { font-size: .9rem; color: var(--muted); margin: 0 0 1rem; line-height: 1.55; }
+.pillar-list { margin: 0 0 1.5rem 1.1rem; padding: 0; }
+.pillar-list li { font-size: .85rem; color: var(--muted); margin: .35rem 0; list-style: disc; }
+.pillar-link {
+  display: inline-block; margin-top: auto;
+  font-size: .85rem; font-weight: 600; color: var(--primary);
+}
+.pillar-link:hover { text-decoration: underline; }
