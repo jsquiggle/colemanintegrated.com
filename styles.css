@@ -182,16 +182,42 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
 .metric-div { width:1px; height:2rem; background:var(--border); }
 @media(max-width:640px){ .metric-div{display:none} .metrics-row{gap:1rem} }
 
-/* --- Platform bar --- */
+/* --- Platform bar / Marquee --- */
 .platform-bar {
-  background:var(--surface); border-top:1px solid var(--border); border-bottom:1px solid var(--border);
-  padding:1rem 0;
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: .75rem 0 0;
+  overflow: hidden;
 }
-.platform-label { font-size:.75rem; font-weight:700; text-transform:uppercase; letter-spacing:.08em; color:var(--muted); margin:0 0 .6rem; }
-.platform-chips { display:flex; flex-wrap:wrap; gap:.5rem; }
+.platform-label {
+  font-size: .72rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: .1em; color: var(--muted); margin: 0 0 .6rem;
+}
+.marquee-track {
+  overflow: hidden;
+  width: 100%;
+  /* fade edges */
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+  padding: .5rem 0 .75rem;
+}
+.marquee-inner {
+  display: flex;
+  gap: .65rem;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}
+.marquee-inner:hover { animation-play-state: paused; }
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
 .platform-chip {
-  font-size:.8rem; font-weight:500; padding:.3rem .7rem; border-radius:999px;
-  background:rgba(77,163,255,.08); border:1px solid rgba(77,163,255,.2); color:var(--primary);
+  font-size: .78rem; font-weight: 500; white-space: nowrap;
+  padding: .28rem .75rem; border-radius: 999px;
+  background: rgba(77,163,255,.07); border: 1px solid rgba(77,163,255,.18);
+  color: var(--primary); flex-shrink: 0;
 }
 
 /* --- How it works / Steps --- */
