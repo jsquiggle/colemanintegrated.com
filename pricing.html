@@ -4,6 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Pricing — Coleman Integrated Solutions</title>
+  <meta name="description" content="Managed network compliance retainer plans — Essentials, Professional, and Enterprise. Device-ceiling pricing with one-time onboarding. Less than one compliance hire."/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://colemanintegrated.com/pricing.html"/>
+  <meta property="og:title" content="Pricing — Coleman Integrated Solutions"/>
+  <meta property="og:description" content="Predictable monthly pricing. Audit-ready outcomes. Less than one compliance hire — with more coverage."/>
+  <meta property="og:image" content="https://colemanintegrated.com/assets/og-card.png"/>
+  <meta name="twitter:card" content="summary_large_image"/>
   <link rel="stylesheet" href="styles.css">
   <script defer src="scripts.js"></script>
 </head>
@@ -161,6 +168,44 @@
               <li>Remediation scripts included</li>
               <li>Scales with your fleet, not your headcount</li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ROI Calculator -->
+    <section class="section" id="roi-calc">
+      <div class="container narrow">
+        <p class="hero-eyebrow">ROI Calculator</p>
+        <h2>See your numbers</h2>
+        <p class="muted" style="margin-bottom:2rem">Adjust your device count to see estimated annual cost and savings versus hiring in-house.</p>
+
+        <div class="roi-card">
+          <div class="roi-input-row">
+            <label class="roi-label" for="deviceSlider">Managed devices: <strong id="deviceCount">100</strong></label>
+            <input type="range" id="deviceSlider" class="roi-slider" min="10" max="400" step="10" value="100">
+            <div class="roi-range-labels"><span>10</span><span>400+</span></div>
+          </div>
+
+          <div class="roi-results" id="roiResults">
+            <div class="roi-result-card roi-result-card--plan">
+              <p class="roi-result-label">Recommended plan</p>
+              <p class="roi-result-val" id="roiPlan">Professional</p>
+            </div>
+            <div class="roi-result-card">
+              <p class="roi-result-label">Annual retainer cost</p>
+              <p class="roi-result-val" id="roiCost">$33,600<span>/yr</span></p>
+            </div>
+            <div class="roi-result-card roi-result-card--savings">
+              <p class="roi-result-label">vs. in-house hire</p>
+              <p class="roi-result-val" id="roiSavings">$71,400 saved</p>
+            </div>
+          </div>
+
+          <p class="roi-note" id="roiNote">Compared to a mid-level compliance engineer at $105k/yr (salary midpoint, excluding benefits and tooling). Onboarding fee not included.</p>
+
+          <div class="roi-cta-row">
+            <a class="btn" href="contact.html" id="roiCtaLink">Get started with Professional →</a>
           </div>
         </div>
       </div>
@@ -426,6 +471,51 @@
         el.textContent = '$' + (isAnnual ? el.dataset.annual : el.dataset.monthly);
       });
     });
+
+    // ROI Calculator
+    const slider = document.getElementById('deviceSlider');
+    const countEl = document.getElementById('deviceCount');
+    const planEl = document.getElementById('roiPlan');
+    const costEl = document.getElementById('roiCost');
+    const savingsEl = document.getElementById('roiSavings');
+    const noteEl = document.getElementById('roiNote');
+    const ctaEl = document.getElementById('roiCtaLink');
+    const FTE_COST = 105000;
+
+    function updateROI() {
+      const devices = parseInt(slider.value);
+      countEl.textContent = devices >= 400 ? '400+' : devices;
+
+      let plan, annualCost, planSlug;
+      if (devices <= 50) {
+        plan = 'Essentials'; annualCost = 1400 * 12; planSlug = 'essentials';
+      } else if (devices <= 250) {
+        plan = 'Professional'; annualCost = 2800 * 12; planSlug = 'professional';
+      } else {
+        plan = 'Enterprise'; annualCost = null; planSlug = 'enterprise';
+      }
+
+      planEl.textContent = plan;
+
+      if (annualCost !== null) {
+        const savings = FTE_COST - annualCost;
+        costEl.innerHTML = '$' + annualCost.toLocaleString() + '<span>/yr</span>';
+        savingsEl.textContent = savings > 0 ? '$' + savings.toLocaleString() + ' saved' : 'Custom scoping';
+        savingsEl.className = 'roi-result-val' + (savings > 0 ? ' roi-savings--positive' : '');
+        noteEl.textContent = 'Compared to a mid-level compliance engineer at $105k/yr (salary midpoint, excluding benefits and tooling). Onboarding fee not included.';
+      } else {
+        costEl.innerHTML = 'Custom<span> pricing</span>';
+        savingsEl.textContent = 'Contact for estimate';
+        savingsEl.className = 'roi-result-val';
+        noteEl.textContent = 'Enterprise environments are scoped individually. Contact us to get a tailored cost and ROI estimate for your fleet.';
+      }
+
+      ctaEl.textContent = 'Get started with ' + plan + ' →';
+      ctaEl.href = 'contact.html?plan=' + planSlug;
+    }
+
+    slider.addEventListener('input', updateROI);
+    updateROI();
   </script>
 
 </body>

@@ -980,3 +980,98 @@ h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 .4rem; 
 .faq-a {
   margin: 0; padding: 0 0 1rem; font-size: .9rem; color: var(--muted); line-height: 1.7;
 }
+
+/* =====================================================
+   TESTIMONIALS
+   ===================================================== */
+
+.testimonials-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2rem;
+}
+@media (max-width: 900px) { .testimonials-grid { grid-template-columns: 1fr; } }
+
+.testimonial {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 1rem;
+  padding: 1.5rem; margin: 0; display: flex; flex-direction: column; gap: 1.25rem;
+  position: relative;
+}
+.testimonial::before {
+  content: '\201C';
+  position: absolute; top: 1rem; left: 1.25rem;
+  font-size: 3.5rem; line-height: 1; color: var(--primary); opacity: .18;
+  font-family: Georgia, serif; pointer-events: none;
+}
+.testimonial-quote {
+  margin: 0; font-size: .9rem; color: var(--text); line-height: 1.7;
+  padding-top: 1rem;
+}
+.testimonial-footer {
+  display: flex; flex-direction: column; gap: .15rem; margin-top: auto;
+  padding-top: 1rem; border-top: 1px solid var(--border);
+}
+.testimonial-name {
+  font-size: .82rem; font-weight: 700; color: var(--text);
+}
+.testimonial-org {
+  font-size: .78rem; color: var(--muted);
+}
+
+/* =====================================================
+   ROI CALCULATOR
+   ===================================================== */
+
+.roi-card {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 1rem;
+  padding: 2rem;
+}
+.roi-input-row { margin-bottom: 2rem; }
+.roi-label {
+  display: block; font-size: .9rem; color: var(--muted); margin-bottom: .85rem;
+}
+.roi-label strong { color: var(--text); font-size: 1.1rem; }
+.roi-slider {
+  width: 100%; -webkit-appearance: none; appearance: none;
+  height: 6px; border-radius: 999px;
+  background: linear-gradient(90deg, var(--primary) var(--pct, 22%), var(--border) var(--pct, 22%));
+  outline: none; cursor: pointer;
+}
+.roi-slider::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none;
+  width: 20px; height: 20px; border-radius: 50%;
+  background: var(--primary); border: 2px solid var(--bg);
+  box-shadow: 0 0 0 2px var(--primary);
+  cursor: pointer; transition: box-shadow .15s;
+}
+.roi-slider::-moz-range-thumb {
+  width: 18px; height: 18px; border-radius: 50%;
+  background: var(--primary); border: 2px solid var(--bg);
+  cursor: pointer;
+}
+.roi-range-labels {
+  display: flex; justify-content: space-between;
+  font-size: .75rem; color: var(--muted); margin-top: .4rem;
+}
+.roi-results {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 1.25rem;
+}
+@media (max-width: 700px) { .roi-results { grid-template-columns: 1fr; } }
+.roi-result-card {
+  background: var(--bg); border: 1px solid var(--border); border-radius: .75rem;
+  padding: 1rem 1.1rem;
+}
+.roi-result-card--plan { border-color: rgba(77,163,255,.25); background: rgba(77,163,255,.05); }
+.roi-result-card--savings { border-color: rgba(34,197,94,.25); background: rgba(34,197,94,.04); }
+.roi-result-label {
+  font-size: .72rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--muted); margin: 0 0 .4rem;
+}
+.roi-result-val {
+  font-size: 1.5rem; font-weight: 800; color: var(--text); margin: 0;
+}
+.roi-result-val span { font-size: .9rem; font-weight: 400; color: var(--muted); }
+.roi-savings--positive { color: #22c55e; }
+.roi-note {
+  font-size: .8rem; color: var(--muted); margin: 0 0 1.5rem; line-height: 1.6;
+}
+.roi-cta-row { display: flex; }
+.roi-cta-row .btn { font-size: .9rem; }
