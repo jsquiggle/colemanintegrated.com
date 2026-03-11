@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-03-10T23:47:10Z",
+  "updated": "2026-03-11T01:05:19Z",
   "items": [
+    {
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "pubDate": "Wed, 11 Mar 2026 00:32:51 +0000"
+    },
     {
       "title": "How AI Assistants are Moving the Security Goalposts",
       "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
@@ -46,11 +51,6 @@
       "title": "Patch Tuesday, January 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
       "pubDate": "Wed, 14 Jan 2026 00:47:38 +0000"
-    },
-    {
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "pubDate": "Thu, 08 Jan 2026 23:23:43 +0000"
     }
   ]
 }
