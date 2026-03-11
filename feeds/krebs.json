@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-03-11T15:37:35Z",
+  "updated": "2026-03-11T16:39:23Z",
   "items": [
+    {
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "pubDate": "Wed, 11 Mar 2026 16:20:13 +0000"
+    },
     {
       "title": "Microsoft Patch Tuesday, March 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
@@ -46,11 +51,6 @@
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "pubDate": "Tue, 20 Jan 2026 18:19:13 +0000"
-    },
-    {
-      "title": "Patch Tuesday, January 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
-      "pubDate": "Wed, 14 Jan 2026 00:47:38 +0000"
     }
   ]
 }
