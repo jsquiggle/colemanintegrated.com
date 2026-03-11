@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-11T16:39:23Z",
+  "updated": "2026-03-11T17:40:41Z",
   "items": [
+    {
+      "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
+      "pubDate": "Wed, 11 Mar 2026 13:21:22 -0400"
+    },
+    {
+      "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
+      "pubDate": "Wed, 11 Mar 2026 13:09:42 -0400"
+    },
     {
       "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
       "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
@@ -51,16 +61,6 @@
       "title": "New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network",
       "link": "https://www.bleepingcomputer.com/news/security/new-kadnap-botnet-hijacks-asus-routers-to-fuel-cybercrime-proxy-network/",
       "pubDate": "Tue, 10 Mar 2026 11:01:57 -0400"
-    },
-    {
-      "title": "The New Turing Test: How Threats Use Geometry to Prove 'Humanness'",
-      "link": "https://www.bleepingcomputer.com/news/security/the-new-turing-test-how-threats-use-geometry-to-prove-humanness/",
-      "pubDate": "Tue, 10 Mar 2026 10:02:12 -0400"
-    },
-    {
-      "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
-      "pubDate": "Tue, 10 Mar 2026 07:36:13 -0400"
     }
   ]
 }
