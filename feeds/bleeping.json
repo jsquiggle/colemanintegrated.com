@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-11T12:35:12Z",
+  "updated": "2026-03-11T13:57:59Z",
   "items": [
+    {
+      "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
+      "pubDate": "Wed, 11 Mar 2026 09:29:29 -0400"
+    },
     {
       "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments",
       "link": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
@@ -56,11 +61,6 @@
       "title": "CISA: Recently patched Ivanti EPM flaw now actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/",
       "pubDate": "Tue, 10 Mar 2026 07:36:13 -0400"
-    },
-    {
-      "title": "Microsoft to enable Windows hotpatch security updates by default",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-hotpatch-security-updates-by-default-in-may/",
-      "pubDate": "Tue, 10 Mar 2026 06:35:33 -0400"
     }
   ]
 }
