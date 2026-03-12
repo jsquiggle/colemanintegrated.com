@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-12T15:45:51Z",
+  "updated": "2026-03-12T16:48:51Z",
   "items": [
+    {
+      "title": "US disrupts SocksEscort proxy network powered by Linux malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
+      "pubDate": "Thu, 12 Mar 2026 12:19:56 -0400"
+    },
     {
       "title": "Google paid $17.1 million for vulnerability reports in 2025",
       "link": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
@@ -56,11 +61,6 @@
       "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
       "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
       "pubDate": "Wed, 11 Mar 2026 09:29:29 -0400"
-    },
-    {
-      "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
-      "pubDate": "Tue, 10 Mar 2026 18:57:54 -0400"
     }
   ]
 }
