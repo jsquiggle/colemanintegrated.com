@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-12T16:48:51Z",
+  "updated": "2026-03-12T17:41:11Z",
   "items": [
+    {
+      "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
+      "pubDate": "Thu, 12 Mar 2026 12:59:20 -0400"
+    },
     {
       "title": "US disrupts SocksEscort proxy network powered by Linux malware",
       "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
@@ -56,11 +61,6 @@
       "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
       "link": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
       "pubDate": "Wed, 11 Mar 2026 13:09:42 -0400"
-    },
-    {
-      "title": "Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-adds-new-whatsapp-facebook-and-messenger-anti-scam-tools/",
-      "pubDate": "Wed, 11 Mar 2026 09:29:29 -0400"
     }
   ]
 }
