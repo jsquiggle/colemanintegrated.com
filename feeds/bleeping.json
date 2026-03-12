@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-12T19:34:58Z",
+  "updated": "2026-03-12T20:23:14Z",
   "items": [
+    {
+      "title": "AI-generated Slopoly malware used in Interlock ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/",
+      "pubDate": "Thu, 12 Mar 2026 16:01:27 -0400"
+    },
     {
       "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
@@ -56,11 +61,6 @@
       "title": "Medtech giant Stryker offline after Iran-linked wiper malware attack",
       "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-offline-after-iran-linked-wiper-malware-attack/",
       "pubDate": "Wed, 11 Mar 2026 13:21:22 -0400"
-    },
-    {
-      "title": "New PhantomRaven NPM attack wave steals dev data via 88 packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phantomraven-npm-attack-wave-steals-dev-data-via-88-packages/",
-      "pubDate": "Wed, 11 Mar 2026 13:09:42 -0400"
     }
   ]
 }
