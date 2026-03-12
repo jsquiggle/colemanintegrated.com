@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-12T14:41:25Z",
+  "updated": "2026-03-12T15:45:51Z",
   "items": [
+    {
+      "title": "Google paid $17.1 million for vulnerability reports in 2025",
+      "link": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
+      "pubDate": "Thu, 12 Mar 2026 11:22:35 -0400"
+    },
     {
       "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
       "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
@@ -56,11 +61,6 @@
       "title": "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments",
       "link": "https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/",
       "pubDate": "Tue, 10 Mar 2026 18:57:54 -0400"
-    },
-    {
-      "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
-      "pubDate": "Tue, 10 Mar 2026 17:27:59 -0400"
     }
   ]
 }
