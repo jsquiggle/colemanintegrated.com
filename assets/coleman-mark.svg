@@ -1,19 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 56" fill="none">
-  <defs>
-    <linearGradient id="ci-g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#4da3ff"/>
-      <stop offset="100%" stop-color="#8b5cf6"/>
-    </linearGradient>
-  </defs>
-  <!-- Connector lines (behind nodes) -->
-  <line x1="8" y1="12" x2="40" y2="12" stroke="url(#ci-g)" stroke-width="1.8" opacity="0.55"/>
-  <line x1="8"  y1="12" x2="24" y2="44" stroke="url(#ci-g)" stroke-width="1.8" opacity="0.55"/>
-  <line x1="40" y1="12" x2="24" y2="44" stroke="url(#ci-g)" stroke-width="1.8" opacity="0.55"/>
-  <!-- Top-left node -->
-  <circle cx="8"  cy="12" r="5"   fill="url(#ci-g)"/>
-  <!-- Top-right node -->
-  <circle cx="40" cy="12" r="5"   fill="url(#ci-g)"/>
-  <!-- Bottom focal node: glow + fill -->
-  <circle cx="24" cy="44" r="12"  fill="#8b5cf6" opacity="0.14"/>
-  <circle cx="24" cy="44" r="7"   fill="url(#ci-g)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 64" fill="none">
+  <!-- Outer C bracket: top bar + left bar + bottom bar -->
+  <path d="M0,0 H44 V13 H13 V51 H44 V64 H0 Z" fill="#ffffff"/>
+  <!-- Inner accent rectangle (lighter blue fill inside the C cavity) -->
+  <rect x="18" y="27" width="24" height="23" fill="#4da3ff"/>
 </svg>
