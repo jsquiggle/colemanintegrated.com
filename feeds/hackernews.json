@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-12T05:10:51Z",
+  "updated": "2026-03-12T06:08:38Z",
   "items": [
+    {
+      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+      "pubDate": "Thu, 12 Mar 2026 10:48:00 +0530"
+    },
     {
       "title": "Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes",
       "link": "https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html",
@@ -56,11 +61,6 @@
       "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
       "link": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
       "pubDate": "Tue, 10 Mar 2026 21:30:00 +0530"
-    },
-    {
-      "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
-      "link": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
-      "pubDate": "Tue, 10 Mar 2026 18:50:00 +0530"
     }
   ]
 }
