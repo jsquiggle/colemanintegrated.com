@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-12T10:29:00Z",
+  "updated": "2026-03-12T11:05:55Z",
   "items": [
+    {
+      "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
+      "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+      "pubDate": "Thu, 12 Mar 2026 15:28:00 +0530"
+    },
     {
       "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
       "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
@@ -55,11 +60,6 @@
     {
       "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
       "link": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
-      "pubDate": "Tue, 10 Mar 2026 21:51:00 +0530"
-    },
-    {
-      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-      "link": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
       "pubDate": "Tue, 10 Mar 2026 21:51:00 +0530"
     }
   ]
