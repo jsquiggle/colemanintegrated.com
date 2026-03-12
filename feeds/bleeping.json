@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-12T21:29:47Z",
+  "updated": "2026-03-12T21:55:25Z",
   "items": [
+    {
+      "title": "Canadian retail giant Loblaw notifies customers of data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
+      "pubDate": "Thu, 12 Mar 2026 17:32:21 -0400"
+    },
     {
       "title": "England Hockey investigating ransomware data breach",
       "link": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
@@ -56,11 +61,6 @@
       "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
       "pubDate": "Wed, 11 Mar 2026 15:38:14 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch n8n RCE flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
-      "pubDate": "Wed, 11 Mar 2026 14:21:15 -0400"
     }
   ]
 }
