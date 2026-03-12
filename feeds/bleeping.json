@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-12T13:55:28Z",
+  "updated": "2026-03-12T14:41:25Z",
   "items": [
+    {
+      "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
+      "pubDate": "Thu, 12 Mar 2026 10:40:14 -0400"
+    },
+    {
+      "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
+      "link": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
+      "pubDate": "Thu, 12 Mar 2026 10:05:15 -0400"
+    },
     {
       "title": "Apple patches older iPhones and iPads against Coruna exploits",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/",
@@ -51,16 +61,6 @@
       "title": "New BeatBanker Android malware poses as Starlink app to hijack devices",
       "link": "https://www.bleepingcomputer.com/news/security/new-beatbanker-android-malware-poses-as-starlink-app-to-hijack-devices/",
       "pubDate": "Tue, 10 Mar 2026 17:27:59 -0400"
-    },
-    {
-      "title": "New 'Zombie ZIP' technique lets malware slip past security tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-zombie-zip-technique-lets-malware-slip-past-security-tools/",
-      "pubDate": "Tue, 10 Mar 2026 16:05:39 -0400"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5078885 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-      "pubDate": "Tue, 10 Mar 2026 14:23:35 -0400"
     }
   ]
 }
