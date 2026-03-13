@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-13T20:22:20Z",
+  "updated": "2026-03-13T20:58:06Z",
   "items": [
+    {
+      "title": "FBI seeks victims of Steam games used to spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
+      "pubDate": "Fri, 13 Mar 2026 16:52:31 -0400"
+    },
     {
       "title": "Poland's nuclear research centre targeted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Veeam warns of critical flaws exposing backup servers to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/",
       "pubDate": "Thu, 12 Mar 2026 12:59:20 -0400"
-    },
-    {
-      "title": "US disrupts SocksEscort proxy network powered by Linux malware",
-      "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
-      "pubDate": "Thu, 12 Mar 2026 12:19:56 -0400"
     }
   ]
 }
