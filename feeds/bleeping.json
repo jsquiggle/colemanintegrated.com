@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-13T14:35:13Z",
+  "updated": "2026-03-13T15:33:25Z",
   "items": [
+    {
+      "title": "From VMware to what\u2019s next: Protecting data during hypervisor migration",
+      "link": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
+      "pubDate": "Fri, 13 Mar 2026 10:15:25 -0400"
+    },
     {
       "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
@@ -56,11 +61,6 @@
       "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
       "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
       "pubDate": "Thu, 12 Mar 2026 10:40:14 -0400"
-    },
-    {
-      "title": "Going the Extra Mile: Travel Rewards Turn into Underground Currency.",
-      "link": "https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/",
-      "pubDate": "Thu, 12 Mar 2026 10:05:15 -0400"
     }
   ]
 }

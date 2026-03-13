@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-13T14:35:13Z",
+  "updated": "2026-03-13T15:33:25Z",
   "items": [
+    {
+      "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
+      "link": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
+      "pubDate": "Fri, 13 Mar 2026 19:08:00 +0530"
+    },
     {
       "title": "Investigating a New Click-Fix Variant",
       "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
@@ -56,11 +61,6 @@
       "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
       "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
       "pubDate": "Thu, 12 Mar 2026 15:28:00 +0530"
-    },
-    {
-      "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
-      "pubDate": "Thu, 12 Mar 2026 13:26:00 +0530"
     }
   ]
 }
