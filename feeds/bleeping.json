@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-13T17:04:32Z",
+  "updated": "2026-03-13T17:56:05Z",
   "items": [
+    {
+      "title": "Poland's nuclear research centre targeted by cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
+      "pubDate": "Fri, 13 Mar 2026 13:11:37 -0400"
+    },
     {
       "title": "Microsoft investigates classic Outlook sync and connection issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
@@ -18,7 +23,7 @@
       "pubDate": "Fri, 13 Mar 2026 09:28:33 -0400"
     },
     {
-      "title": "Fake enterprise VPN downloads used to steal company credentials",
+      "title": "Fake enterprise VPN sites used to steal company credentials",
       "link": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
       "pubDate": "Fri, 13 Mar 2026 09:23:28 -0400"
     },
@@ -56,11 +61,6 @@
       "title": "US disrupts SocksEscort proxy network powered by Linux malware",
       "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/",
       "pubDate": "Thu, 12 Mar 2026 12:19:56 -0400"
-    },
-    {
-      "title": "Google paid $17.1 million for vulnerability reports in 2025",
-      "link": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
-      "pubDate": "Thu, 12 Mar 2026 11:22:35 -0400"
     }
   ]
 }
