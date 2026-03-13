@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-13T06:06:51Z",
+  "updated": "2026-03-13T07:14:51Z",
   "items": [
+    {
+      "title": "Google fixes two new Chrome zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
+      "pubDate": "Fri, 13 Mar 2026 02:56:58 -0400"
+    },
     {
       "title": "Canadian retail giant Loblaw notifies customers of data breach",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
@@ -56,11 +61,6 @@
       "title": "WhatsApp introduces parent-managed accounts for pre-teens",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/",
       "pubDate": "Wed, 11 Mar 2026 16:06:39 -0400"
-    },
-    {
-      "title": "SQLi flaw in Elementor Ally plugin impacts 250k+ WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/sqli-flaw-in-elementor-ally-plugin-impacts-250k-plus-wordpress-sites/",
-      "pubDate": "Wed, 11 Mar 2026 15:38:14 -0400"
     }
   ]
 }
