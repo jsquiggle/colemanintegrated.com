@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-13T17:56:05Z",
+  "updated": "2026-03-13T18:30:42Z",
   "items": [
+    {
+      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+      "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+      "pubDate": "Fri, 13 Mar 2026 23:03:00 +0530"
+    },
+    {
+      "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
+      "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
+      "pubDate": "Fri, 13 Mar 2026 22:39:00 +0530"
+    },
     {
       "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
       "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
@@ -51,16 +61,6 @@
       "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
       "link": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
       "pubDate": "Thu, 12 Mar 2026 19:00:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack & More",
-      "link": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-      "pubDate": "Thu, 12 Mar 2026 18:44:00 +0530"
-    },
-    {
-      "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
-      "link": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
-      "pubDate": "Thu, 12 Mar 2026 17:00:00 +0530"
     }
   ]
 }
