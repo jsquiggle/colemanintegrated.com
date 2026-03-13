@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-13T16:27:27Z",
+  "updated": "2026-03-13T17:04:32Z",
   "items": [
+    {
+      "title": "Microsoft investigates classic Outlook sync and connection issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
+      "pubDate": "Fri, 13 Mar 2026 12:53:02 -0400"
+    },
     {
       "title": "From VMware to what\u2019s next: Protecting data during hypervisor migration",
       "link": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
@@ -56,11 +61,6 @@
       "title": "Google paid $17.1 million for vulnerability reports in 2025",
       "link": "https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/",
       "pubDate": "Thu, 12 Mar 2026 11:22:35 -0400"
-    },
-    {
-      "title": "Telus Digital confirms breach after hacker claims 1 petabyte data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/",
-      "pubDate": "Thu, 12 Mar 2026 10:40:14 -0400"
     }
   ]
 }
