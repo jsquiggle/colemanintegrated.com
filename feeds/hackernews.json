@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-13T05:07:52Z",
+  "updated": "2026-03-13T06:06:51Z",
   "items": [
+    {
+      "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+      "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+      "pubDate": "Fri, 13 Mar 2026 09:45:00 +0530"
+    },
     {
       "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
       "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
@@ -56,11 +61,6 @@
       "title": "Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown",
       "link": "https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html",
       "pubDate": "Wed, 11 Mar 2026 18:45:00 +0530"
-    },
-    {
-      "title": "Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices",
-      "link": "https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html",
-      "pubDate": "Wed, 11 Mar 2026 17:56:00 +0530"
     }
   ]
 }
