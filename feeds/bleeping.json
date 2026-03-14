@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-14T14:29:36Z",
+  "updated": "2026-03-14T14:53:42Z",
   "items": [
+    {
+      "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
+      "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
+      "pubDate": "Sat, 14 Mar 2026 10:36:42 -0400"
+    },
     {
       "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
@@ -56,11 +61,6 @@
       "title": "England Hockey investigating ransomware data breach",
       "link": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
       "pubDate": "Thu, 12 Mar 2026 16:37:16 -0400"
-    },
-    {
-      "title": "AI-generated Slopoly malware used in Interlock ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/",
-      "pubDate": "Thu, 12 Mar 2026 16:01:27 -0400"
     }
   ]
 }
