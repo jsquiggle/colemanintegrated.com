@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-14T21:46:34Z",
+  "updated": "2026-03-14T22:15:16Z",
   "items": [
+    {
+      "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/",
+      "pubDate": "Sat, 14 Mar 2026 17:48:14 -0400"
+    },
     {
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
@@ -56,11 +61,6 @@
       "title": "Canadian retail giant Loblaw notifies customers of data breach",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
       "pubDate": "Thu, 12 Mar 2026 17:32:21 -0400"
-    },
-    {
-      "title": "England Hockey investigating ransomware data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
-      "pubDate": "Thu, 12 Mar 2026 16:37:16 -0400"
     }
   ]
 }
