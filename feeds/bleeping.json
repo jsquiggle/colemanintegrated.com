@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-15T22:51:17Z",
+  "updated": "2026-03-15T23:18:52Z",
   "items": [
+    {
+      "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
+      "pubDate": "Sun, 15 Mar 2026 19:13:28 -0400"
+    },
     {
       "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
       "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
@@ -56,11 +61,6 @@
       "title": "Starbucks discloses data breach affecting hundreds of employees",
       "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
       "pubDate": "Fri, 13 Mar 2026 04:16:55 -0400"
-    },
-    {
-      "title": "Google fixes two new Chrome zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/",
-      "pubDate": "Fri, 13 Mar 2026 02:56:58 -0400"
     }
   ]
 }
