@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-16T18:46:50Z",
+  "updated": "2026-03-16T19:46:28Z",
   "items": [
+    {
+      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
+      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
+      "pubDate": "Mon, 16 Mar 2026 15:17:20 -0400"
+    },
     {
       "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "FBI seeks victims of Steam games used to spread malware",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
       "pubDate": "Fri, 13 Mar 2026 16:52:31 -0400"
-    },
-    {
-      "title": "Poland's nuclear research centre targeted by cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
-      "pubDate": "Fri, 13 Mar 2026 13:11:37 -0400"
     }
   ]
 }
