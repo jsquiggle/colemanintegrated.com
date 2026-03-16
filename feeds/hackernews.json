@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-16T06:01:29Z",
+  "updated": "2026-03-16T07:51:37Z",
   "items": [
+    {
+      "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+      "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+      "pubDate": "Mon, 16 Mar 2026 11:13:00 +0530"
+    },
     {
       "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
       "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
@@ -56,11 +61,6 @@
       "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
       "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
       "pubDate": "Fri, 13 Mar 2026 09:45:00 +0530"
-    },
-    {
-      "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
-      "link": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-      "pubDate": "Thu, 12 Mar 2026 23:01:00 +0530"
     }
   ]
 }
