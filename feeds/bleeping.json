@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-16T12:44:55Z",
+  "updated": "2026-03-16T14:14:04Z",
   "items": [
+    {
+      "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
+      "pubDate": "Mon, 16 Mar 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Microsoft pulls Samsung app blocking Windows C: drive from Store",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/",
+      "pubDate": "Mon, 16 Mar 2026 09:14:32 -0400"
+    },
     {
       "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
@@ -51,16 +61,6 @@
       "title": "Police sinkholes 45,000 IP addresses in cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-sinkholes-45-000-ip-addresses-in-cybercrime-crackdown/",
       "pubDate": "Fri, 13 Mar 2026 09:28:33 -0400"
-    },
-    {
-      "title": "Fake enterprise VPN sites used to steal company credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-enterprise-vpn-downloads-used-to-steal-company-credentials/",
-      "pubDate": "Fri, 13 Mar 2026 09:23:28 -0400"
-    },
-    {
-      "title": "Starbucks discloses data breach affecting hundreds of employees",
-      "link": "https://www.bleepingcomputer.com/news/security/starbucks-discloses-data-breach-affecting-hundreds-of-employees/",
-      "pubDate": "Fri, 13 Mar 2026 04:16:55 -0400"
     }
   ]
 }
