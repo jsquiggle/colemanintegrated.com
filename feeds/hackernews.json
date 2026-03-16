@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-16T14:14:04Z",
+  "updated": "2026-03-16T15:36:20Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
+      "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
+      "pubDate": "Mon, 16 Mar 2026 19:47:00 +0530"
+    },
     {
       "title": "Why Security Validation Is Becoming Agentic",
       "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
@@ -56,11 +61,6 @@
       "title": "Investigating a New Click-Fix Variant",
       "link": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
       "pubDate": "Fri, 13 Mar 2026 18:58:00 +0530"
-    },
-    {
-      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-      "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
-      "pubDate": "Fri, 13 Mar 2026 14:47:00 +0530"
     }
   ]
 }
