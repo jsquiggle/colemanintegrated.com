@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-16T17:52:54Z",
+  "updated": "2026-03-16T18:46:50Z",
   "items": [
+    {
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400"
+    },
     {
       "title": "UK\u2019s Companies House confirms security flaw exposed business data",
       "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
@@ -56,11 +61,6 @@
       "title": "Poland's nuclear research centre targeted by cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/",
       "pubDate": "Fri, 13 Mar 2026 13:11:37 -0400"
-    },
-    {
-      "title": "Microsoft investigates classic Outlook sync and connection issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
-      "pubDate": "Fri, 13 Mar 2026 12:53:02 -0400"
     }
   ]
 }
