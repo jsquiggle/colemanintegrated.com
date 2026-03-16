@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-16T16:52:20Z",
+  "updated": "2026-03-16T17:52:54Z",
   "items": [
+    {
+      "title": "UK\u2019s Companies House confirms security flaw exposed business data",
+      "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
+      "pubDate": "Mon, 16 Mar 2026 13:07:25 -0400"
+    },
     {
       "title": "Microsoft Exchange Online outage blocks access to mailboxes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
@@ -56,11 +61,6 @@
       "title": "Microsoft investigates classic Outlook sync and connection issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-classic-outlook-sync-and-connection-issues/",
       "pubDate": "Fri, 13 Mar 2026 12:53:02 -0400"
-    },
-    {
-      "title": "From VMware to what\u2019s next: Protecting data during hypervisor migration",
-      "link": "https://www.bleepingcomputer.com/news/security/from-vmware-to-whats-next-protecting-data-during-hypervisor-migration/",
-      "pubDate": "Fri, 13 Mar 2026 10:15:25 -0400"
     }
   ]
 }
