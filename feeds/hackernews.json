@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-17T10:39:30Z",
+  "updated": "2026-03-17T11:36:17Z",
   "items": [
+    {
+      "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+      "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+      "pubDate": "Tue, 17 Mar 2026 17:00:00 +0530"
+    },
     {
       "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
       "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
@@ -56,11 +61,6 @@
       "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
       "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
       "pubDate": "Fri, 13 Mar 2026 23:03:00 +0530"
-    },
-    {
-      "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-      "link": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-      "pubDate": "Fri, 13 Mar 2026 22:39:00 +0530"
     }
   ]
 }

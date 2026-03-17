@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-17T10:39:30Z",
+  "updated": "2026-03-17T11:36:17Z",
   "items": [
+    {
+      "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
+      "pubDate": "Tue, 17 Mar 2026 07:07:05 -0400"
+    },
     {
       "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
@@ -56,11 +61,6 @@
       "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
       "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/",
       "pubDate": "Sat, 14 Mar 2026 10:36:42 -0400"
-    },
-    {
-      "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
-      "pubDate": "Fri, 13 Mar 2026 18:11:57 -0400"
     }
   ]
 }
