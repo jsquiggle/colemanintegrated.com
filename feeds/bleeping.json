@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-17T12:43:50Z",
+  "updated": "2026-03-17T14:12:35Z",
   "items": [
+    {
+      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
+      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
+      "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400"
+    },
+    {
+      "title": "New font-rendering trick hides malicious commands from AI tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
+      "pubDate": "Tue, 17 Mar 2026 09:59:12 -0400"
+    },
+    {
+      "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
+      "pubDate": "Tue, 17 Mar 2026 09:54:37 -0400"
+    },
     {
       "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
       "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
@@ -46,21 +61,6 @@
       "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
       "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
       "pubDate": "Mon, 16 Mar 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft pulls Samsung app blocking Windows C: drive from Store",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-samsung-app-blocking-windows-c-drive-from-store/",
-      "pubDate": "Mon, 16 Mar 2026 09:14:32 -0400"
-    },
-    {
-      "title": "OpenAI says ChatGPT ads are not rolling out globally for now",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
-      "pubDate": "Sun, 15 Mar 2026 19:13:28 -0400"
-    },
-    {
-      "title": "Betterleaks, a new open-source secrets scanner to replace Gitleaks",
-      "link": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
-      "pubDate": "Sun, 15 Mar 2026 10:17:23 -0400"
     }
   ]
 }
