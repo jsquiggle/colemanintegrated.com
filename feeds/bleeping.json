@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-17T17:53:04Z",
+  "updated": "2026-03-17T18:46:06Z",
   "items": [
+    {
+      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
+      "pubDate": "Tue, 17 Mar 2026 14:41:59 -0400"
+    },
     {
       "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
       "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Exchange Online outage blocks access to mailboxes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
       "pubDate": "Mon, 16 Mar 2026 12:05:02 -0400"
-    },
-    {
-      "title": "Shadow AI is everywhere. Here\u2019s how to find and secure it.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-is-everywhere-heres-how-to-find-and-secure-it/",
-      "pubDate": "Mon, 16 Mar 2026 10:01:11 -0400"
     }
   ]
 }
