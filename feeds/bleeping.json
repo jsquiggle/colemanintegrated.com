@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-17T09:43:40Z",
+  "updated": "2026-03-17T10:39:30Z",
   "items": [
+    {
+      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
+      "pubDate": "Tue, 17 Mar 2026 06:37:19 -0400"
+    },
     {
       "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
       "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
       "pubDate": "Fri, 13 Mar 2026 18:11:57 -0400"
-    },
-    {
-      "title": "FBI seeks victims of Steam games used to spread malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
-      "pubDate": "Fri, 13 Mar 2026 16:52:31 -0400"
     }
   ]
 }
