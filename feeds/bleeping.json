@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-17T21:03:33Z",
+  "updated": "2026-03-17T21:59:00Z",
   "items": [
+    {
+      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
+      "pubDate": "Tue, 17 Mar 2026 17:42:54 -0400"
+    },
     {
       "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
@@ -56,11 +61,6 @@
       "title": "UK\u2019s Companies House confirms security flaw exposed business data",
       "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
       "pubDate": "Mon, 16 Mar 2026 13:07:25 -0400"
-    },
-    {
-      "title": "Microsoft Exchange Online outage blocks access to mailboxes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes/",
-      "pubDate": "Mon, 16 Mar 2026 12:05:02 -0400"
     }
   ]
 }
