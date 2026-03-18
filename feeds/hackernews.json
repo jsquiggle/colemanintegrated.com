@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-18T16:49:36Z",
+  "updated": "2026-03-18T17:52:07Z",
   "items": [
+    {
+      "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
+      "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
+      "pubDate": "Wed, 18 Mar 2026 22:56:00 +0530"
+    },
     {
       "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
       "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
@@ -56,11 +61,6 @@
       "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
       "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
       "pubDate": "Tue, 17 Mar 2026 15:23:00 +0530"
-    },
-    {
-      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-      "link": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
-      "pubDate": "Tue, 17 Mar 2026 10:53:00 +0530"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-18T16:49:36Z",
+  "updated": "2026-03-18T17:52:07Z",
   "items": [
+    {
+      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
+      "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
+      "pubDate": "Wed, 18 Mar 2026 12:53:42 -0400"
+    },
     {
       "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
       "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
       "pubDate": "Tue, 17 Mar 2026 08:09:35 -0400"
-    },
-    {
-      "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-      "pubDate": "Tue, 17 Mar 2026 08:03:38 -0400"
     }
   ]
 }
