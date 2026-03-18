@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-17T23:51:39Z",
+  "updated": "2026-03-18T01:14:27Z",
   "items": [
+    {
+      "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
+      "pubDate": "Tue, 17 Mar 2026 21:06:31 -0400"
+    },
     {
       "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
       "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
@@ -56,11 +61,6 @@
       "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
       "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400"
-    },
-    {
-      "title": "UK\u2019s Companies House confirms security flaw exposed business data",
-      "link": "https://www.bleepingcomputer.com/news/security/uks-companies-house-confirms-security-flaw-exposed-business-data/",
-      "pubDate": "Mon, 16 Mar 2026 13:07:25 -0400"
     }
   ]
 }
