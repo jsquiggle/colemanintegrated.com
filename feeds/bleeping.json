@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-18T17:52:07Z",
+  "updated": "2026-03-18T18:44:36Z",
   "items": [
+    {
+      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
+      "pubDate": "Wed, 18 Mar 2026 14:10:35 -0400"
+    },
     {
       "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
       "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
@@ -56,11 +61,6 @@
       "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
       "pubDate": "Tue, 17 Mar 2026 09:54:37 -0400"
-    },
-    {
-      "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-      "pubDate": "Tue, 17 Mar 2026 08:09:35 -0400"
     }
   ]
 }
