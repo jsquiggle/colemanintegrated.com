@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-18T22:53:45Z",
+  "updated": "2026-03-18T23:22:07Z",
   "items": [
+    {
+      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
+      "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
+      "pubDate": "Wed, 18 Mar 2026 18:56:50 -0400"
+    },
     {
       "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
       "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
       "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400"
-    },
-    {
-      "title": "New font-rendering trick hides malicious commands from AI tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
-      "pubDate": "Tue, 17 Mar 2026 09:59:12 -0400"
     }
   ]
 }
