@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-18T10:40:24Z",
+  "updated": "2026-03-18T11:37:07Z",
   "items": [
+    {
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "link": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "pubDate": "Wed, 18 Mar 2026 16:00:00 +0530"
+    },
     {
       "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
       "link": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
@@ -56,11 +61,6 @@
       "title": "Why Security Validation Is Becoming Agentic",
       "link": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
       "pubDate": "Mon, 16 Mar 2026 17:28:00 +0530"
-    },
-    {
-      "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
-      "link": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
-      "pubDate": "Mon, 16 Mar 2026 17:11:00 +0530"
     }
   ]
 }
