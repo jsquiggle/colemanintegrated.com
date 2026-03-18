@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-18T12:43:49Z",
+  "updated": "2026-03-18T14:14:50Z",
   "items": [
+    {
+      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
+      "pubDate": "Wed, 18 Mar 2026 10:05:15 -0400"
+    },
+    {
+      "title": "New \u201cDarksword\u201d iOS exploit used in infostealer attack on iPhones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
+      "pubDate": "Wed, 18 Mar 2026 10:02:08 -0400"
+    },
+    {
+      "title": "Nordstrom's email system abused to send crypto scams to customers",
+      "link": "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/",
+      "pubDate": "Wed, 18 Mar 2026 09:55:49 -0400"
+    },
     {
       "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
       "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
@@ -46,21 +61,6 @@
       "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
       "pubDate": "Tue, 17 Mar 2026 07:07:05 -0400"
-    },
-    {
-      "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
-      "pubDate": "Tue, 17 Mar 2026 06:37:19 -0400"
-    },
-    {
-      "title": "Stryker attack wiped tens of thousands of devices, no malware needed",
-      "link": "https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/",
-      "pubDate": "Mon, 16 Mar 2026 15:17:20 -0400"
-    },
-    {
-      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-      "pubDate": "Mon, 16 Mar 2026 14:00:22 -0400"
     }
   ]
 }
