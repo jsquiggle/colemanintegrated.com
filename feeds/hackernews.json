@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-18T05:25:39Z",
+  "updated": "2026-03-18T06:37:29Z",
   "items": [
+    {
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "pubDate": "Wed, 18 Mar 2026 10:36:00 +0530"
+    },
     {
       "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
       "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
@@ -56,11 +61,6 @@
       "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
       "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
       "pubDate": "Mon, 16 Mar 2026 11:13:00 +0530"
-    },
-    {
-      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-      "pubDate": "Sat, 14 Mar 2026 21:47:00 +0530"
     }
   ]
 }
