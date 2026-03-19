@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-19T14:01:46Z",
+  "updated": "2026-03-19T15:09:39Z",
   "items": [
+    {
+      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
+      "pubDate": "Thu, 19 Mar 2026 10:55:50 -0400"
+    },
     {
       "title": "7 Ways to Prevent Privilege Escalation via Password Resets",
       "link": "https://www.bleepingcomputer.com/news/security/7-ways-to-prevent-privilege-escalation-via-password-resets/",
@@ -56,11 +61,6 @@
       "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
       "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
       "pubDate": "Wed, 18 Mar 2026 10:05:15 -0400"
-    },
-    {
-      "title": "New DarkSword iOS exploit used in infostealer attack on iPhones",
-      "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
-      "pubDate": "Wed, 18 Mar 2026 10:02:08 -0400"
     }
   ]
 }
