@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-19T20:31:25Z",
+  "updated": "2026-03-19T21:25:20Z",
   "items": [
+    {
+      "title": "Navia discloses data breach impacting 2.7 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
+      "pubDate": "Thu, 19 Mar 2026 16:43:54 -0400"
+    },
     {
       "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
       "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
       "pubDate": "Wed, 18 Mar 2026 15:57:13 -0400"
-    },
-    {
-      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
-      "pubDate": "Wed, 18 Mar 2026 14:10:35 -0400"
     }
   ]
 }
