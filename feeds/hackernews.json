@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-19T09:05:51Z",
+  "updated": "2026-03-19T10:04:18Z",
   "items": [
+    {
+      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+      "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+      "pubDate": "Thu, 19 Mar 2026 14:44:00 +0530"
+    },
     {
       "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
       "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
@@ -56,11 +61,6 @@
       "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
       "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
       "pubDate": "Tue, 17 Mar 2026 20:04:00 +0530"
-    },
-    {
-      "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
-      "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
-      "pubDate": "Tue, 17 Mar 2026 17:00:00 +0530"
     }
   ]
 }
