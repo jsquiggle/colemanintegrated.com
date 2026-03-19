@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-19T19:57:19Z",
+  "updated": "2026-03-19T20:31:25Z",
   "items": [
+    {
+      "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
+      "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
+      "pubDate": "Thu, 19 Mar 2026 16:01:03 -0400"
+    },
     {
       "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
       "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
       "pubDate": "Wed, 18 Mar 2026 14:10:35 -0400"
-    },
-    {
-      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-      "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
-      "pubDate": "Wed, 18 Mar 2026 12:53:42 -0400"
     }
   ]
 }
