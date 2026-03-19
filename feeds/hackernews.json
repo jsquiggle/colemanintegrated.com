@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-19T06:14:55Z",
+  "updated": "2026-03-19T07:29:48Z",
   "items": [
+    {
+      "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+      "pubDate": "Thu, 19 Mar 2026 11:35:00 +0530"
+    },
     {
       "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
       "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
@@ -56,11 +61,6 @@
       "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
       "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
       "pubDate": "Tue, 17 Mar 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
-      "link": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
-      "pubDate": "Tue, 17 Mar 2026 15:23:00 +0530"
     }
   ]
 }
