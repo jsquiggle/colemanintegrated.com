@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-19T11:05:26Z",
+  "updated": "2026-03-19T11:54:44Z",
   "items": [
+    {
+      "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
+      "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
+      "pubDate": "Thu, 19 Mar 2026 16:28:00 +0530"
+    },
     {
       "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
       "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
@@ -56,11 +61,6 @@
       "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
       "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
       "pubDate": "Tue, 17 Mar 2026 22:09:00 +0530"
-    },
-    {
-      "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
-      "link": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
-      "pubDate": "Tue, 17 Mar 2026 20:04:00 +0530"
     }
   ]
 }
