@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-19T10:04:18Z",
+  "updated": "2026-03-19T11:05:26Z",
   "items": [
+    {
+      "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
+      "pubDate": "Thu, 19 Mar 2026 07:02:27 -0400"
+    },
+    {
+      "title": "New \u2018Perseus\u2019 Android malware checks user notes for secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
+      "pubDate": "Thu, 19 Mar 2026 06:13:23 -0400"
+    },
+    {
+      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
+      "pubDate": "Thu, 19 Mar 2026 06:06:38 -0400"
+    },
     {
       "title": "Aura confirms data breach exposing 900,000 marketing contacts",
       "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
@@ -46,21 +61,6 @@
       "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
       "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/",
       "pubDate": "Tue, 17 Mar 2026 21:06:31 -0400"
-    },
-    {
-      "title": "GlassWorm malware hits 400+ code repos on GitHub, npm, VSCode, OpenVSX",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-hits-400-plus-code-repos-on-github-npm-vscode-openvsx/",
-      "pubDate": "Tue, 17 Mar 2026 17:42:54 -0400"
-    },
-    {
-      "title": "Europe sanctions Chinese and Iranian firms for cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/europe-sanctions-chinese-and-iranian-firms-for-cyberattacks/",
-      "pubDate": "Tue, 17 Mar 2026 14:41:59 -0400"
-    },
-    {
-      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-      "pubDate": "Tue, 17 Mar 2026 10:02:12 -0400"
     }
   ]
 }
