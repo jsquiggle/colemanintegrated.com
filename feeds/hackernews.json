@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-19T12:37:40Z",
+  "updated": "2026-03-19T14:01:46Z",
   "items": [
+    {
+      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+      "link": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+      "pubDate": "Thu, 19 Mar 2026 18:13:00 +0530"
+    },
     {
       "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
       "link": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
@@ -56,11 +61,6 @@
       "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
       "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
       "pubDate": "Wed, 18 Mar 2026 12:01:00 +0530"
-    },
-    {
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "link": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "pubDate": "Tue, 17 Mar 2026 22:09:00 +0530"
     }
   ]
 }
