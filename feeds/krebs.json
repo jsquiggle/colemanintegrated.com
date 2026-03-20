@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-03-19T23:49:55Z",
+  "updated": "2026-03-20T01:09:38Z",
   "items": [
+    {
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "pubDate": "Fri, 20 Mar 2026 00:49:19 +0000"
+    },
     {
       "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
       "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -46,11 +51,6 @@
       "title": "Who Operates the Badbox 2.0 Botnet?",
       "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
       "pubDate": "Mon, 26 Jan 2026 16:11:38 +0000"
-    },
-    {
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "pubDate": "Tue, 20 Jan 2026 18:19:13 +0000"
     }
   ]
 }
