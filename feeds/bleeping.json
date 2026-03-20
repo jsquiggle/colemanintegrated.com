@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-20T07:59:49Z",
+  "updated": "2026-03-20T08:44:15Z",
   "items": [
+    {
+      "title": "International joint action disrupts world\u2019s largest DDoS botnets",
+      "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/",
+      "pubDate": "Fri, 20 Mar 2026 04:05:12 -0400"
+    },
     {
       "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
       "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
@@ -56,11 +61,6 @@
       "title": "New \u2018Perseus\u2019 Android malware checks user notes for secrets",
       "link": "https://www.bleepingcomputer.com/news/security/new-perseus-android-malware-checks-user-notes-for-secrets/",
       "pubDate": "Thu, 19 Mar 2026 06:13:23 -0400"
-    },
-    {
-      "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
-      "pubDate": "Thu, 19 Mar 2026 06:06:38 -0400"
     }
   ]
 }
