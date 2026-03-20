@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-20T17:59:29Z",
+  "updated": "2026-03-20T18:52:46Z",
   "items": [
+    {
+      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "pubDate": "Fri, 20 Mar 2026 14:48:47 -0400"
+    },
     {
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
       "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
@@ -56,11 +61,6 @@
       "title": "FBI seizes Handala data leak site after Stryker cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
       "pubDate": "Thu, 19 Mar 2026 12:14:13 -0400"
-    },
-    {
-      "title": "Russian hackers exploit Zimbra flaw in Ukrainian govt attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-apt28-military-hackers-exploit-zimbra-flaw-in-ukrainian-govt-attacks/",
-      "pubDate": "Thu, 19 Mar 2026 10:55:50 -0400"
     }
   ]
 }
