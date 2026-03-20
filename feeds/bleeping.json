@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-20T20:20:34Z",
+  "updated": "2026-03-20T20:54:17Z",
   "items": [
+    {
+      "title": "FBI links Signal phishing attacks to Russian intelligence services",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+      "pubDate": "Fri, 20 Mar 2026 16:45:52 -0400"
+    },
     {
       "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
@@ -56,11 +61,6 @@
       "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
       "pubDate": "Thu, 19 Mar 2026 13:08:24 -0400"
-    },
-    {
-      "title": "FBI seizes Handala data leak site after Stryker cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-handala-data-leak-site-after-stryker-cyberattack/",
-      "pubDate": "Thu, 19 Mar 2026 12:14:13 -0400"
     }
   ]
 }
