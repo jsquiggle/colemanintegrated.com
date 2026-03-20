@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-20T06:09:44Z",
+  "updated": "2026-03-20T07:27:08Z",
   "items": [
+    {
+      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
+      "pubDate": "Fri, 20 Mar 2026 02:57:46 -0400"
+    },
     {
       "title": "Navia discloses data breach impacting 2.7 million people",
       "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
@@ -56,11 +61,6 @@
       "title": "Aura confirms data breach exposing 900,000 marketing contacts",
       "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
       "pubDate": "Wed, 18 Mar 2026 18:56:50 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch Zimbra XSS flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
-      "pubDate": "Wed, 18 Mar 2026 15:57:13 -0400"
     }
   ]
 }
