@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-20T13:53:25Z",
+  "updated": "2026-03-20T14:36:05Z",
   "items": [
+    {
+      "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
+      "pubDate": "Fri, 20 Mar 2026 10:01:11 -0400"
+    },
     {
       "title": "Musician admits to $10M streaming royalty fraud using AI bots",
       "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
@@ -56,11 +61,6 @@
       "title": "Max severity Ubiquiti UniFi flaw may allow account takeover",
       "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-unifi-flaw-that-may-enable-account-takeover/",
       "pubDate": "Thu, 19 Mar 2026 09:00:22 -0400"
-    },
-    {
-      "title": "CISA urges US orgs to secure Microsoft Intune systems after Stryker breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/",
-      "pubDate": "Thu, 19 Mar 2026 07:02:27 -0400"
     }
   ]
 }
