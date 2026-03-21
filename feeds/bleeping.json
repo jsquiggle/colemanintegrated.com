@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-21T17:17:05Z",
+  "updated": "2026-03-21T17:46:53Z",
   "items": [
+    {
+      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "pubDate": "Sat, 21 Mar 2026 13:30:41 -0400"
+    },
     {
       "title": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android",
       "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
@@ -56,11 +61,6 @@
       "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
       "link": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
       "pubDate": "Fri, 20 Mar 2026 02:57:46 -0400"
-    },
-    {
-      "title": "Navia discloses data breach impacting 2.7 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
-      "pubDate": "Thu, 19 Mar 2026 16:43:54 -0400"
     }
   ]
 }
