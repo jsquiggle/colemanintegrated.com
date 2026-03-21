@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-21T13:55:34Z",
+  "updated": "2026-03-21T14:18:02Z",
   "items": [
+    {
+      "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
+      "pubDate": "Sat, 21 Mar 2026 10:09:19 -0400"
+    },
     {
       "title": "FBI links Signal phishing attacks to Russian intelligence services",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
@@ -56,11 +61,6 @@
       "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
       "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
       "pubDate": "Thu, 19 Mar 2026 16:01:03 -0400"
-    },
-    {
-      "title": "Bitrefill blames North Korean Lazarus group for cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/bitrefill-blames-north-korean-lazarus-group-for-cyberattack/",
-      "pubDate": "Thu, 19 Mar 2026 13:08:24 -0400"
     }
   ]
 }
