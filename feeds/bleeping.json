@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-21T14:18:02Z",
+  "updated": "2026-03-21T14:49:35Z",
   "items": [
+    {
+      "title": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
+      "pubDate": "Sat, 21 Mar 2026 10:18:23 -0400"
+    },
     {
       "title": "Microsoft Azure Monitor alerts abused in callback phishing campaigns",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
@@ -56,11 +61,6 @@
       "title": "Navia discloses data breach impacting 2.7 million people",
       "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
       "pubDate": "Thu, 19 Mar 2026 16:43:54 -0400"
-    },
-    {
-      "title": "New \u2018PolyShell\u2019 flaw allows unauthenticated RCE on Magento e-stores",
-      "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
-      "pubDate": "Thu, 19 Mar 2026 16:01:03 -0400"
     }
   ]
 }
