@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-22T14:24:42Z",
+  "updated": "2026-03-22T14:50:32Z",
   "items": [
+    {
+      "title": "VoidStealer malware steals Chrome master key via debugger trick",
+      "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
+      "pubDate": "Sun, 22 Mar 2026 10:32:46 -0400"
+    },
     {
       "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
       "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
       "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
       "pubDate": "Fri, 20 Mar 2026 03:33:32 -0400"
-    },
-    {
-      "title": "Ex-data analyst stole company data in $2.5M extortion scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/",
-      "pubDate": "Fri, 20 Mar 2026 02:57:46 -0400"
     }
   ]
 }
