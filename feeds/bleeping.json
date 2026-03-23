@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-23T18:38:48Z",
+  "updated": "2026-03-23T19:40:03Z",
   "items": [
+    {
+      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
+      "link": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
+      "pubDate": "Mon, 23 Mar 2026 15:21:04 -0400"
+    },
     {
       "title": "Trivy supply-chain attack spreads to Docker, GitHub repos",
       "link": "https://www.bleepingcomputer.com/news/security/trivy-supply-chain-attack-spreads-to-docker-github-repos/",
@@ -56,11 +61,6 @@
       "title": "FBI links Signal phishing attacks to Russian intelligence services",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
       "pubDate": "Fri, 20 Mar 2026 16:45:52 -0400"
-    },
-    {
-      "title": "Oracle pushes emergency fix for critical Identity Manager RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
-      "pubDate": "Fri, 20 Mar 2026 14:48:47 -0400"
     }
   ]
 }
