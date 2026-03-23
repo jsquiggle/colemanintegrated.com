@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-23T14:07:16Z",
+  "updated": "2026-03-23T15:32:15Z",
   "items": [
+    {
+      "title": "Varonis Atlas: Securing AI and the Data That Powers It",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/",
+      "pubDate": "Mon, 23 Mar 2026 10:02:12 -0400"
+    },
     {
       "title": "Microsoft Exchange Online service change causes email access issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/",
@@ -56,11 +61,6 @@
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
       "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/",
       "pubDate": "Fri, 20 Mar 2026 13:19:02 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch max-severity Cisco flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-cisco-flaw-by-sunday/",
-      "pubDate": "Fri, 20 Mar 2026 11:09:12 -0400"
     }
   ]
 }
