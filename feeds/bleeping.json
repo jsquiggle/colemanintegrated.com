@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-23T19:40:03Z",
+  "updated": "2026-03-23T20:28:08Z",
   "items": [
+    {
+      "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
+      "pubDate": "Mon, 23 Mar 2026 16:09:10 -0400"
+    },
     {
       "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
       "link": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Azure Monitor alerts abused for callback phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/",
       "pubDate": "Sat, 21 Mar 2026 10:09:19 -0400"
-    },
-    {
-      "title": "FBI links Signal phishing attacks to Russian intelligence services",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
-      "pubDate": "Fri, 20 Mar 2026 16:45:52 -0400"
     }
   ]
 }
