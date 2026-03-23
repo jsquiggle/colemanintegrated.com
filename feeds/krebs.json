@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-03-23T15:32:15Z",
+  "updated": "2026-03-23T16:44:47Z",
   "items": [
+    {
+      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
+      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "pubDate": "Mon, 23 Mar 2026 15:43:04 +0000"
+    },
     {
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
@@ -46,11 +51,6 @@
       "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
       "link": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
       "pubDate": "Mon, 02 Feb 2026 16:15:16 +0000"
-    },
-    {
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "link": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "pubDate": "Mon, 26 Jan 2026 16:11:38 +0000"
     }
   ]
 }
