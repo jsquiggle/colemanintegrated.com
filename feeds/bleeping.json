@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-23T21:53:08Z",
+  "updated": "2026-03-23T22:20:10Z",
   "items": [
+    {
+      "title": "Mazda discloses security breach exposing employee and partner data",
+      "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
+      "pubDate": "Mon, 23 Mar 2026 18:12:52 -0400"
+    },
     {
       "title": "Tycoon2FA phishing platform returns after recent police disruption",
       "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
@@ -56,11 +61,6 @@
       "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
       "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
       "pubDate": "Sat, 21 Mar 2026 13:30:41 -0400"
-    },
-    {
-      "title": "Google adds \u2018Advanced Flow\u2019 for safe APK sideloading on Android",
-      "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/",
-      "pubDate": "Sat, 21 Mar 2026 10:18:23 -0400"
     }
   ]
 }
