@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-23T06:57:21Z",
+  "updated": "2026-03-23T07:59:11Z",
   "items": [
+    {
+      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+      "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+      "pubDate": "Mon, 23 Mar 2026 11:45:00 +0530"
+    },
     {
       "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
       "link": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
@@ -56,11 +61,6 @@
       "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
       "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
       "pubDate": "Fri, 20 Mar 2026 10:46:00 +0530"
-    },
-    {
-      "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
-      "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
-      "pubDate": "Fri, 20 Mar 2026 00:46:00 +0530"
     }
   ]
 }
