@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-23T08:57:31Z",
+  "updated": "2026-03-23T09:58:01Z",
   "items": [
+    {
+      "title": "FBI warns of Handala hackers using Telegram in malware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
+      "pubDate": "Mon, 23 Mar 2026 05:45:55 -0400"
+    },
     {
       "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
@@ -56,11 +61,6 @@
       "title": "How CISOs Can Survive the Era of Geopolitical Cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/how-cisos-can-survive-the-era-of-geopolitical-cyberattacks/",
       "pubDate": "Fri, 20 Mar 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/",
-      "pubDate": "Fri, 20 Mar 2026 05:33:33 -0400"
     }
   ]
 }
