@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-24T06:35:59Z",
+  "updated": "2026-03-24T07:46:59Z",
   "items": [
+    {
+      "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+      "link": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+      "pubDate": "Tue, 24 Mar 2026 12:19:00 +0530"
+    },
+    {
+      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+      "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+      "pubDate": "Tue, 24 Mar 2026 11:29:00 +0530"
+    },
     {
       "title": "North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware",
       "link": "https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html",
@@ -51,16 +61,6 @@
       "title": "CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026",
       "link": "https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html",
       "pubDate": "Sat, 21 Mar 2026 13:55:00 +0530"
-    },
-    {
-      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
-      "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
-      "pubDate": "Fri, 20 Mar 2026 23:17:00 +0530"
-    },
-    {
-      "title": "Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
-      "pubDate": "Fri, 20 Mar 2026 20:45:00 +0530"
     }
   ]
 }
