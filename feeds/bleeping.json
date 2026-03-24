@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-24T11:37:23Z",
+  "updated": "2026-03-24T12:44:27Z",
   "items": [
+    {
+      "title": "Dutch Ministry of Finance discloses breach affecting employees",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
+      "pubDate": "Tue, 24 Mar 2026 08:03:08 -0400"
+    },
     {
       "title": "OpenAI rolls out ChatGPT Library to store your personal files",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
@@ -56,11 +61,6 @@
       "title": "New KB5085516 emergency update fixes Microsoft account sign-in",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
       "pubDate": "Mon, 23 Mar 2026 04:04:30 -0400"
-    },
-    {
-      "title": "VoidStealer malware steals Chrome master key via debugger trick",
-      "link": "https://www.bleepingcomputer.com/news/security/voidstealer-malware-steals-chrome-master-key-via-debugger-trick/",
-      "pubDate": "Sun, 22 Mar 2026 10:32:46 -0400"
     }
   ]
 }
