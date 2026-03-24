@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-24T20:30:57Z",
+  "updated": "2026-03-24T21:27:59Z",
   "items": [
+    {
+      "title": "FCC bans new routers made outside the USA over security risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
+      "pubDate": "Tue, 24 Mar 2026 16:41:30 -0400"
+    },
     {
       "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
       "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
@@ -56,11 +61,6 @@
       "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
       "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
       "pubDate": "Mon, 23 Mar 2026 16:09:10 -0400"
-    },
-    {
-      "title": "Crunchyroll probes breach after hacker claims to steal 6.8M users' data",
-      "link": "https://www.bleepingcomputer.com/news/security/crunchyroll-probes-breach-after-hacker-claims-to-steal-68m-users-data/",
-      "pubDate": "Mon, 23 Mar 2026 15:21:04 -0400"
     }
   ]
 }
