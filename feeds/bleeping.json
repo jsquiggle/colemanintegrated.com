@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-24T21:59:20Z",
+  "updated": "2026-03-24T22:33:01Z",
   "items": [
+    {
+      "title": "Popular LiteLLM PyPI package compromised in TeamPCP supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
+      "pubDate": "Tue, 24 Mar 2026 18:29:01 -0400"
+    },
     {
       "title": "FCC bans new routers made outside the USA over security risks",
       "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
@@ -56,11 +61,6 @@
       "title": "Tycoon2FA phishing platform returns after recent police disruption",
       "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-platform-returns-after-recent-police-disruption/",
       "pubDate": "Mon, 23 Mar 2026 17:52:58 -0400"
-    },
-    {
-      "title": "TeamPCP deploys Iran-targeted wiper in Kubernetes attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/teampcp-deploys-iran-targeted-wiper-in-kubernetes-attacks/",
-      "pubDate": "Mon, 23 Mar 2026 16:09:10 -0400"
     }
   ]
 }
