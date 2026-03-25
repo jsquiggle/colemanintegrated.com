@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T21:01:27Z",
+  "updated": "2026-03-25T21:58:00Z",
   "items": [
+    {
+      "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
+      "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
+      "pubDate": "Wed, 25 Mar 2026 17:40:21 -0400"
+    },
     {
       "title": "Bubble AI app builder abused to steal Microsoft account credentials",
       "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
@@ -56,11 +61,6 @@
       "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
       "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
       "pubDate": "Tue, 24 Mar 2026 13:23:01 -0400"
-    },
-    {
-      "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
-      "pubDate": "Tue, 24 Mar 2026 11:12:13 -0400"
     }
   ]
 }
