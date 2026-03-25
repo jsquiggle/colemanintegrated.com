@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T17:49:17Z",
+  "updated": "2026-03-25T18:41:41Z",
   "items": [
+    {
+      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
+      "pubDate": "Wed, 25 Mar 2026 14:32:37 -0400"
+    },
     {
       "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
@@ -56,11 +61,6 @@
       "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
       "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
       "pubDate": "Tue, 24 Mar 2026 10:02:12 -0400"
-    },
-    {
-      "title": "HackerOne discloses employee data breach after Navia hack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
-      "pubDate": "Tue, 24 Mar 2026 10:01:02 -0400"
     }
   ]
 }

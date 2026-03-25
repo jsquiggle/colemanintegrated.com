@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-25T17:49:17Z",
+  "updated": "2026-03-25T18:41:41Z",
   "items": [
+    {
+      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
+      "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
+      "pubDate": "Wed, 25 Mar 2026 23:05:00 +0530"
+    },
     {
       "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
       "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
@@ -56,11 +61,6 @@
       "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
       "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
       "pubDate": "Tue, 24 Mar 2026 17:30:00 +0530"
-    },
-    {
-      "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
-      "link": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
-      "pubDate": "Tue, 24 Mar 2026 16:08:00 +0530"
     }
   ]
 }
