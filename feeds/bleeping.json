@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T10:38:03Z",
+  "updated": "2026-03-25T11:33:57Z",
   "items": [
+    {
+      "title": "TP-Link warns users to patch critical router auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
+      "pubDate": "Wed, 25 Mar 2026 07:11:00 -0400"
+    },
     {
       "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Dutch Ministry of Finance discloses breach affecting employees",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
       "pubDate": "Tue, 24 Mar 2026 08:03:08 -0400"
-    },
-    {
-      "title": "OpenAI rolls out ChatGPT Library to store your personal files",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
-      "pubDate": "Mon, 23 Mar 2026 19:47:14 -0400"
     }
   ]
 }
