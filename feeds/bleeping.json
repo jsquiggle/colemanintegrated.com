@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T12:41:36Z",
+  "updated": "2026-03-25T14:10:14Z",
   "items": [
+    {
+      "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
+      "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
+      "pubDate": "Wed, 25 Mar 2026 10:02:12 -0400"
+    },
     {
       "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode",
       "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
@@ -56,11 +61,6 @@
       "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
       "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
       "pubDate": "Tue, 24 Mar 2026 09:48:38 -0400"
-    },
-    {
-      "title": "Yanluowang ransomware access broker gets 81 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-      "pubDate": "Tue, 24 Mar 2026 09:06:03 -0400"
     }
   ]
 }
