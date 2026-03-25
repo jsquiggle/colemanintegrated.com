@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T08:37:32Z",
+  "updated": "2026-03-25T09:42:09Z",
   "items": [
+    {
+      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
+      "pubDate": "Wed, 25 Mar 2026 04:47:29 -0400"
+    },
     {
       "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
       "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
@@ -56,11 +61,6 @@
       "title": "OpenAI rolls out ChatGPT Library to store your personal files",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/",
       "pubDate": "Mon, 23 Mar 2026 19:47:14 -0400"
-    },
-    {
-      "title": "Mazda discloses security breach exposing employee and partner data",
-      "link": "https://www.bleepingcomputer.com/news/security/mazda-discloses-security-breach-exposing-employee-and-partner-data/",
-      "pubDate": "Mon, 23 Mar 2026 18:12:52 -0400"
     }
   ]
 }
