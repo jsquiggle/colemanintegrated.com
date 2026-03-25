@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T22:33:02Z",
+  "updated": "2026-03-25T23:24:00Z",
   "items": [
+    {
+      "title": "GitHub adds AI-powered bug detection to expand security coverage",
+      "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
+      "pubDate": "Wed, 25 Mar 2026 19:23:39 -0400"
+    },
     {
       "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
       "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
@@ -56,11 +61,6 @@
       "title": "FCC bans new routers made outside the USA over security risks",
       "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
       "pubDate": "Tue, 24 Mar 2026 16:41:30 -0400"
-    },
-    {
-      "title": "Firefox now has a free built-in VPN with 50GB monthly data limit",
-      "link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
-      "pubDate": "Tue, 24 Mar 2026 13:23:01 -0400"
     }
   ]
 }
