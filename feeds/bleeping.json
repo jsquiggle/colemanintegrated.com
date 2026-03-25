@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-25T19:38:29Z",
+  "updated": "2026-03-25T20:28:22Z",
   "items": [
+    {
+      "title": "Bubble AI app builder abused to steal Microsoft account credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
+      "pubDate": "Wed, 25 Mar 2026 15:48:36 -0400"
+    },
     {
       "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
       "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes bug causing Classic Outlook sync issues with Gmail",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/",
       "pubDate": "Tue, 24 Mar 2026 11:12:13 -0400"
-    },
-    {
-      "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
-      "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
-      "pubDate": "Tue, 24 Mar 2026 10:02:12 -0400"
     }
   ]
 }
