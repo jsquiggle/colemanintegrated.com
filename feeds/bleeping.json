@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-26T18:51:20Z",
+  "updated": "2026-03-26T19:49:09Z",
   "items": [
+    {
+      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
+      "pubDate": "Thu, 26 Mar 2026 15:17:43 -0400"
+    },
     {
       "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
       "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
@@ -56,11 +61,6 @@
       "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
       "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
       "pubDate": "Wed, 25 Mar 2026 14:32:37 -0400"
-    },
-    {
-      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-      "pubDate": "Wed, 25 Mar 2026 11:52:10 -0400"
     }
   ]
 }
