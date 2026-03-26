@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-26T17:51:47Z",
+  "updated": "2026-03-26T18:51:20Z",
   "items": [
+    {
+      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+      "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+      "pubDate": "Thu, 26 Mar 2026 23:10:00 +0530"
+    },
     {
       "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
       "link": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
@@ -23,7 +28,7 @@
       "pubDate": "Thu, 26 Mar 2026 17:15:00 +0530"
     },
     {
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
       "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
       "pubDate": "Thu, 26 Mar 2026 16:37:00 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
       "link": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
       "pubDate": "Wed, 25 Mar 2026 17:04:00 +0530"
-    },
-    {
-      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-      "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
-      "pubDate": "Wed, 25 Mar 2026 12:41:00 +0530"
     }
   ]
 }
