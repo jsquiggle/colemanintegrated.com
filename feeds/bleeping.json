@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-26T20:26:23Z",
+  "updated": "2026-03-26T20:55:53Z",
   "items": [
+    {
+      "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
+      "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
+      "pubDate": "Thu, 26 Mar 2026 16:37:25 -0400"
+    },
     {
       "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
@@ -56,11 +61,6 @@
       "title": "Bubble AI app builder abused to steal Microsoft account credentials",
       "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
       "pubDate": "Wed, 25 Mar 2026 15:48:36 -0400"
-    },
-    {
-      "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-      "pubDate": "Wed, 25 Mar 2026 14:32:37 -0400"
     }
   ]
 }
