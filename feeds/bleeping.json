@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-26T12:49:58Z",
+  "updated": "2026-03-26T14:19:28Z",
   "items": [
+    {
+      "title": "TikTok for Business accounts targeted in new phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
+      "pubDate": "Thu, 26 Mar 2026 10:09:17 -0400"
+    },
+    {
+      "title": "WhatsApp rolls out more AI features, iOS multi-account support",
+      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
+      "pubDate": "Thu, 26 Mar 2026 10:06:27 -0400"
+    },
+    {
+      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
+      "pubDate": "Thu, 26 Mar 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Coruna iOS exploit framework linked to Triangulation attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
+      "pubDate": "Thu, 26 Mar 2026 09:10:14 -0400"
+    },
+    {
+      "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
+      "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
+      "pubDate": "Thu, 26 Mar 2026 08:50:17 -0400"
+    },
     {
       "title": "Suspected RedLine infostealer malware admin extradited to US",
       "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
@@ -36,31 +61,6 @@
       "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
       "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/",
       "pubDate": "Wed, 25 Mar 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Kali Linux 2026.1 released with 8 new tools, new BackTrack mode",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/",
-      "pubDate": "Wed, 25 Mar 2026 08:31:26 -0400"
-    },
-    {
-      "title": "TP-Link warns users to patch critical router auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/",
-      "pubDate": "Wed, 25 Mar 2026 07:11:00 -0400"
-    },
-    {
-      "title": "Manager of botnet used in ransomware attacks gets 2 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/",
-      "pubDate": "Wed, 25 Mar 2026 04:47:29 -0400"
-    },
-    {
-      "title": "PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug",
-      "link": "https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/",
-      "pubDate": "Tue, 24 Mar 2026 19:04:36 -0400"
-    },
-    {
-      "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
-      "pubDate": "Tue, 24 Mar 2026 18:29:01 -0400"
     }
   ]
 }
