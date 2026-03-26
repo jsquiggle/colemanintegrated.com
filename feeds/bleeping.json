@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-26T11:41:12Z",
+  "updated": "2026-03-26T12:49:58Z",
   "items": [
+    {
+      "title": "Suspected RedLine infostealer malware admin extradited to US",
+      "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
+      "pubDate": "Thu, 26 Mar 2026 07:51:59 -0400"
+    },
     {
       "title": "GitHub adds AI-powered bug detection to expand security coverage",
       "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
@@ -56,11 +61,6 @@
       "title": "Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens",
       "link": "https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/",
       "pubDate": "Tue, 24 Mar 2026 18:29:01 -0400"
-    },
-    {
-      "title": "FCC bans new routers made outside the USA over security risks",
-      "link": "https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/",
-      "pubDate": "Tue, 24 Mar 2026 16:41:30 -0400"
     }
   ]
 }
