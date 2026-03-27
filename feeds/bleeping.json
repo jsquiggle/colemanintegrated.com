@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-27T10:37:15Z",
+  "updated": "2026-03-27T11:34:22Z",
   "items": [
+    {
+      "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
+      "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
+      "pubDate": "Fri, 27 Mar 2026 06:40:17 -0400"
+    },
     {
       "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
@@ -56,11 +61,6 @@
       "title": "Suspected RedLine infostealer malware admin extradited to US",
       "link": "https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/",
       "pubDate": "Thu, 26 Mar 2026 07:51:59 -0400"
-    },
-    {
-      "title": "GitHub adds AI-powered bug detection to expand security coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
-      "pubDate": "Wed, 25 Mar 2026 19:23:39 -0400"
     }
   ]
 }
