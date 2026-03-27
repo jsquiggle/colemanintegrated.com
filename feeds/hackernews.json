@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-27T18:07:47Z",
+  "updated": "2026-03-27T19:13:33Z",
   "items": [
+    {
+      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
+      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
+      "pubDate": "Fri, 27 Mar 2026 22:52:00 +0530"
+    },
     {
       "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
       "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits & 20 More Stories",
       "link": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
       "pubDate": "Thu, 26 Mar 2026 17:15:00 +0530"
-    },
-    {
-      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
-      "link": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
-      "pubDate": "Thu, 26 Mar 2026 16:37:00 +0530"
     }
   ]
 }
