@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-27T08:39:08Z",
+  "updated": "2026-03-27T09:43:33Z",
   "items": [
+    {
+      "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
+      "pubDate": "Fri, 27 Mar 2026 05:20:59 -0400"
+    },
     {
       "title": "Dutch Police discloses security breach after phishing attack",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
@@ -56,11 +61,6 @@
       "title": "GitHub adds AI-powered bug detection to expand security coverage",
       "link": "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/",
       "pubDate": "Wed, 25 Mar 2026 19:23:39 -0400"
-    },
-    {
-      "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
-      "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
-      "pubDate": "Wed, 25 Mar 2026 17:40:21 -0400"
     }
   ]
 }
