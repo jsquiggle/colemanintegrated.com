@@ -1,15 +1,20 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-27T16:10:24Z",
+  "updated": "2026-03-27T17:14:12Z",
   "items": [
+    {
+      "title": "Fake VS Code alerts on GitHub spread malware to developers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
+      "pubDate": "Fri, 27 Mar 2026 12:51:52 -0400"
+    },
     {
       "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
       "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
       "pubDate": "Fri, 27 Mar 2026 10:02:12 -0400"
     },
     {
-      "title": "European Commission investigating breach after Amazon cloud hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
+      "title": "European Commission investigating breach after Amazon cloud account hack",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
       "pubDate": "Fri, 27 Mar 2026 08:22:19 -0400"
     },
     {
@@ -56,11 +61,6 @@
       "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
       "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
       "pubDate": "Thu, 26 Mar 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Coruna iOS exploit framework linked to Triangulation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
-      "pubDate": "Thu, 26 Mar 2026 09:10:14 -0400"
     }
   ]
 }
