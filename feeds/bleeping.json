@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-27T21:01:25Z",
+  "updated": "2026-03-27T21:54:42Z",
   "items": [
+    {
+      "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
+      "pubDate": "Fri, 27 Mar 2026 17:13:26 -0400"
+    },
     {
       "title": "Fake VS Code alerts on GitHub spread malware to developers",
       "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
@@ -56,11 +61,6 @@
       "title": "WhatsApp rolls out more AI features, iOS multi-account support",
       "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
       "pubDate": "Thu, 26 Mar 2026 10:06:27 -0400"
-    },
-    {
-      "title": "Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/",
-      "pubDate": "Thu, 26 Mar 2026 10:00:10 -0400"
     }
   ]
 }
