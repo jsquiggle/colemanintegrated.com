@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-27T12:38:39Z",
+  "updated": "2026-03-27T14:03:30Z",
   "items": [
+    {
+      "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
+      "pubDate": "Fri, 27 Mar 2026 10:02:12 -0400"
+    },
     {
       "title": "European Commission investigating breach after Amazon cloud hack",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-hack/",
@@ -56,11 +61,6 @@
       "title": "Coruna iOS exploit framework linked to Triangulation attacks",
       "link": "https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/",
       "pubDate": "Thu, 26 Mar 2026 09:10:14 -0400"
-    },
-    {
-      "title": "Russia arrests suspected owner of LeakBase cybercrime forum",
-      "link": "https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/",
-      "pubDate": "Thu, 26 Mar 2026 08:50:17 -0400"
     }
   ]
 }
