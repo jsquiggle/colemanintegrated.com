@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-28T14:22:36Z",
+  "updated": "2026-03-28T14:54:58Z",
   "items": [
+    {
+      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
+      "pubDate": "Sat, 28 Mar 2026 10:35:10 -0400"
+    },
     {
       "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
@@ -56,11 +61,6 @@
       "title": "TikTok for Business accounts targeted in new phishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
       "pubDate": "Thu, 26 Mar 2026 10:09:17 -0400"
-    },
-    {
-      "title": "WhatsApp rolls out more AI features, iOS multi-account support",
-      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/",
-      "pubDate": "Thu, 26 Mar 2026 10:06:27 -0400"
     }
   ]
 }
