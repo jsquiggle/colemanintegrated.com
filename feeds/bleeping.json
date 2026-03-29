@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-29T20:54:04Z",
+  "updated": "2026-03-29T21:23:53Z",
   "items": [
+    {
+      "title": "FBI confirms hack of Director Patel's personal email inbox",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
+      "pubDate": "Sun, 29 Mar 2026 17:09:50 -0400"
+    },
     {
       "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
@@ -56,11 +61,6 @@
       "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
       "pubDate": "Thu, 26 Mar 2026 15:17:43 -0400"
-    },
-    {
-      "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
-      "pubDate": "Thu, 26 Mar 2026 11:42:43 -0400"
     }
   ]
 }
