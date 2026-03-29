@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-29T14:24:54Z",
+  "updated": "2026-03-29T14:57:01Z",
   "items": [
+    {
+      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
+      "pubDate": "Sun, 29 Mar 2026 10:38:25 -0400"
+    },
     {
       "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
       "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
@@ -56,11 +61,6 @@
       "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
       "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/",
       "pubDate": "Thu, 26 Mar 2026 11:42:43 -0400"
-    },
-    {
-      "title": "TikTok for Business accounts targeted in new phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/",
-      "pubDate": "Thu, 26 Mar 2026 10:09:17 -0400"
     }
   ]
 }
