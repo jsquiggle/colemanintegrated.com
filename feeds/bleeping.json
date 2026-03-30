@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-30T20:34:07Z",
+  "updated": "2026-03-30T21:32:41Z",
   "items": [
+    {
+      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
+      "pubDate": "Mon, 30 Mar 2026 16:49:22 -0400"
+    },
     {
       "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
       "pubDate": "Fri, 27 Mar 2026 17:13:26 -0400"
-    },
-    {
-      "title": "Fake VS Code alerts on GitHub spread malware to developers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
-      "pubDate": "Fri, 27 Mar 2026 12:51:52 -0400"
     }
   ]
 }
