@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-30T12:52:47Z",
+  "updated": "2026-03-30T14:21:03Z",
   "items": [
+    {
+      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
+      "pubDate": "Mon, 30 Mar 2026 10:01:11 -0400"
+    },
     {
       "title": "Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
@@ -56,11 +61,6 @@
       "title": "European Commission investigating breach after Amazon cloud account hack",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
       "pubDate": "Fri, 27 Mar 2026 08:22:19 -0400"
-    },
-    {
-      "title": "Anti-piracy coalition takes down AnimePlay app with 5 million users",
-      "link": "https://www.bleepingcomputer.com/news/security/anti-piracy-coalition-takes-down-animeplay-app-with-5-million-users/",
-      "pubDate": "Fri, 27 Mar 2026 06:40:17 -0400"
     }
   ]
 }
