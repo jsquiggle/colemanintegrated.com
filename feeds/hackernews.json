@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-30T09:52:05Z",
+  "updated": "2026-03-30T10:53:21Z",
   "items": [
+    {
+      "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
+      "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
+      "pubDate": "Mon, 30 Mar 2026 15:28:00 +0530"
+    },
     {
       "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
       "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html",
@@ -56,11 +61,6 @@
       "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
       "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
       "pubDate": "Fri, 27 Mar 2026 15:34:00 +0530"
-    },
-    {
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "link": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "pubDate": "Fri, 27 Mar 2026 13:37:00 +0530"
     }
   ]
 }
