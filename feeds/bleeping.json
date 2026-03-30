@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-30T06:13:10Z",
+  "updated": "2026-03-30T08:06:03Z",
   "items": [
+    {
+      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
+      "pubDate": "Mon, 30 Mar 2026 03:48:17 -0400"
+    },
+    {
+      "title": "European Commission confirms data breach after Europa.eu hack",
+      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
+      "pubDate": "Mon, 30 Mar 2026 02:42:58 -0400"
+    },
     {
       "title": "FBI confirms hack of Director Patel's personal email inbox",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
@@ -51,16 +61,6 @@
       "title": "Dutch Police discloses security breach after phishing attack",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
       "pubDate": "Fri, 27 Mar 2026 04:20:11 -0400"
-    },
-    {
-      "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-      "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-      "pubDate": "Thu, 26 Mar 2026 16:37:25 -0400"
-    },
-    {
-      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-      "pubDate": "Thu, 26 Mar 2026 15:17:43 -0400"
     }
   ]
 }
