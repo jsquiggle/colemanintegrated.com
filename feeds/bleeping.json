@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-30T14:21:03Z",
+  "updated": "2026-03-30T15:47:54Z",
   "items": [
+    {
+      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
+      "pubDate": "Mon, 30 Mar 2026 10:32:34 -0400"
+    },
     {
       "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
@@ -56,11 +61,6 @@
       "title": "Agentic GRC: Teams Get the Tech. The Mindset Shift Is What's Missing.",
       "link": "https://www.bleepingcomputer.com/news/security/agentic-grc-teams-get-the-tech-the-mindset-shift-is-whats-missing/",
       "pubDate": "Fri, 27 Mar 2026 10:02:12 -0400"
-    },
-    {
-      "title": "European Commission investigating breach after Amazon cloud account hack",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
-      "pubDate": "Fri, 27 Mar 2026 08:22:19 -0400"
     }
   ]
 }
