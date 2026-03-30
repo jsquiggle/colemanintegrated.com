@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-30T08:06:03Z",
+  "updated": "2026-03-30T09:52:05Z",
   "items": [
+    {
+      "title": "Microsoft pulls KB5079391 Windows update over install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
+      "pubDate": "Mon, 30 Mar 2026 05:38:45 -0400"
+    },
     {
       "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5079391 update rolls out Smart App Control improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079391-update-rolls-out-smart-app-control-improvements/",
       "pubDate": "Fri, 27 Mar 2026 05:20:59 -0400"
-    },
-    {
-      "title": "Dutch Police discloses security breach after phishing attack",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/",
-      "pubDate": "Fri, 27 Mar 2026 04:20:11 -0400"
     }
   ]
 }
