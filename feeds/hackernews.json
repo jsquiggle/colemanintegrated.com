@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-03-30T16:44:55Z",
+  "updated": "2026-03-30T17:43:33Z",
   "items": [
+    {
+      "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
+      "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+      "pubDate": "Mon, 30 Mar 2026 21:17:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
       "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
@@ -56,11 +61,6 @@
       "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
       "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
       "pubDate": "Fri, 27 Mar 2026 22:23:00 +0530"
-    },
-    {
-      "title": "Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks",
-      "link": "https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html",
-      "pubDate": "Fri, 27 Mar 2026 19:27:00 +0530"
     }
   ]
 }
