@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-30T21:32:41Z",
+  "updated": "2026-03-30T22:24:12Z",
   "items": [
+    {
+      "title": "Healthcare tech firm CareCloud says hackers stole patient data",
+      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
+      "pubDate": "Mon, 30 Mar 2026 17:44:31 -0400"
+    },
     {
       "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
       "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
@@ -56,11 +61,6 @@
       "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
       "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
       "pubDate": "Sat, 28 Mar 2026 10:35:10 -0400"
-    },
-    {
-      "title": "Backdoored Telnyx PyPI package pushes malware hidden in WAV audio",
-      "link": "https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/",
-      "pubDate": "Fri, 27 Mar 2026 17:13:26 -0400"
     }
   ]
 }
