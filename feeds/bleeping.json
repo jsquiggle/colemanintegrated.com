@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T22:55:01Z",
+  "updated": "2026-03-31T23:24:46Z",
   "items": [
+    {
+      "title": "Google now allows you to change your @gmail.com address",
+      "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
+      "pubDate": "Tue, 31 Mar 2026 19:13:56 -0400"
+    },
     {
       "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
       "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
@@ -56,11 +61,6 @@
       "title": "Healthcare tech firm CareCloud says hackers stole patient data",
       "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
       "pubDate": "Mon, 30 Mar 2026 17:44:31 -0400"
-    },
-    {
-      "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
-      "pubDate": "Mon, 30 Mar 2026 16:49:22 -0400"
     }
   ]
 }
