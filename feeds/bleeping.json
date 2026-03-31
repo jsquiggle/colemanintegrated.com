@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T21:28:29Z",
+  "updated": "2026-03-31T22:01:54Z",
   "items": [
+    {
+      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
+      "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400"
+    },
     {
       "title": "Cisco source code stolen in Trivy-linked dev environment breach",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
@@ -56,11 +61,6 @@
       "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
       "pubDate": "Mon, 30 Mar 2026 10:32:34 -0400"
-    },
-    {
-      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-      "pubDate": "Mon, 30 Mar 2026 10:01:11 -0400"
     }
   ]
 }
