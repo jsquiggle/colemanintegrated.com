@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T17:46:56Z",
+  "updated": "2026-03-31T18:45:27Z",
   "items": [
+    {
+      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
+      "pubDate": "Tue, 31 Mar 2026 13:53:04 -0400"
+    },
     {
       "title": "How to Categorize AI Agents and Prioritize Risk",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
@@ -56,11 +61,6 @@
       "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
       "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
       "pubDate": "Mon, 30 Mar 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-      "pubDate": "Mon, 30 Mar 2026 06:59:38 -0400"
     }
   ]
 }
