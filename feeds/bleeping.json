@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T07:14:40Z",
+  "updated": "2026-03-31T08:35:35Z",
   "items": [
+    {
+      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
+      "pubDate": "Tue, 31 Mar 2026 03:52:15 -0400"
+    },
     {
       "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
@@ -56,11 +61,6 @@
       "title": "FBI confirms hack of Director Patel's personal email inbox",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
       "pubDate": "Sun, 29 Mar 2026 17:09:50 -0400"
-    },
-    {
-      "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
-      "pubDate": "Sun, 29 Mar 2026 10:38:25 -0400"
     }
   ]
 }
