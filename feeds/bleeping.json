@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T12:51:46Z",
+  "updated": "2026-03-31T14:21:59Z",
   "items": [
+    {
+      "title": "How to Categorize AI Agents and Prioritize Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
+      "pubDate": "Tue, 31 Mar 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Hackers compromise Axios npm package to drop cross-platform malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
+      "pubDate": "Tue, 31 Mar 2026 09:53:43 -0400"
+    },
     {
       "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
@@ -51,16 +61,6 @@
       "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
       "pubDate": "Mon, 30 Mar 2026 06:59:38 -0400"
-    },
-    {
-      "title": "Microsoft pulls KB5079391 Windows update over install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-      "pubDate": "Mon, 30 Mar 2026 05:38:45 -0400"
-    },
-    {
-      "title": "Critical Fortinet Forticlient EMS flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/",
-      "pubDate": "Mon, 30 Mar 2026 03:48:17 -0400"
     }
   ]
 }
