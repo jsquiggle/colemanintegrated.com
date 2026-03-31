@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T05:59:01Z",
+  "updated": "2026-03-31T07:14:40Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
+      "pubDate": "Tue, 31 Mar 2026 03:05:25 -0400"
+    },
     {
       "title": "Healthcare tech firm CareCloud says hackers stole patient data",
       "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
@@ -56,11 +61,6 @@
       "title": "File read flaw in Smart Slider plugin impacts 500K WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/file-read-flaw-in-smart-slider-plugin-impacts-500k-wordpress-sites/",
       "pubDate": "Sun, 29 Mar 2026 10:38:25 -0400"
-    },
-    {
-      "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-      "pubDate": "Sat, 28 Mar 2026 10:35:10 -0400"
     }
   ]
 }
