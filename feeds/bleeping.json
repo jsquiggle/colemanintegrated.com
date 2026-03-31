@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T22:01:54Z",
+  "updated": "2026-03-31T22:55:01Z",
   "items": [
+    {
+      "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
+      "pubDate": "Tue, 31 Mar 2026 18:42:07 -0400"
+    },
+    {
+      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
+      "pubDate": "Tue, 31 Mar 2026 18:28:02 -0400"
+    },
     {
       "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
       "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
@@ -51,16 +61,6 @@
       "title": "New RoadK1ll WebSocket implant used to pivot on breached networks",
       "link": "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/",
       "pubDate": "Mon, 30 Mar 2026 16:49:22 -0400"
-    },
-    {
-      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-      "pubDate": "Mon, 30 Mar 2026 14:28:37 -0400"
-    },
-    {
-      "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-      "pubDate": "Mon, 30 Mar 2026 10:32:34 -0400"
     }
   ]
 }
