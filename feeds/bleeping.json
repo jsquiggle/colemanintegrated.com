@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T08:35:35Z",
+  "updated": "2026-03-31T09:54:01Z",
   "items": [
+    {
+      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
+      "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400"
+    },
     {
       "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
@@ -56,11 +61,6 @@
       "title": "European Commission confirms data breach after Europa.eu hack",
       "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/",
       "pubDate": "Mon, 30 Mar 2026 02:42:58 -0400"
-    },
-    {
-      "title": "FBI confirms hack of Director Patel's personal email inbox",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-      "pubDate": "Sun, 29 Mar 2026 17:09:50 -0400"
     }
   ]
 }
