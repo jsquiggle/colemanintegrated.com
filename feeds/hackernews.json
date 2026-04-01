@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-01T10:31:55Z",
+  "updated": "2026-04-01T11:42:34Z",
   "items": [
+    {
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
+      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+      "pubDate": "Wed, 01 Apr 2026 16:28:00 +0530"
+    },
     {
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
       "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
       "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
       "pubDate": "Mon, 30 Mar 2026 19:26:00 +0530"
-    },
-    {
-      "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-      "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-      "pubDate": "Mon, 30 Mar 2026 18:30:00 +0530"
     }
   ]
 }

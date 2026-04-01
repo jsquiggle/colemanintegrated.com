@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-01T10:31:55Z",
+  "updated": "2026-04-01T11:42:34Z",
   "items": [
+    {
+      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
+      "pubDate": "Wed, 01 Apr 2026 07:39:10 -0400"
+    },
     {
       "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
@@ -56,11 +61,6 @@
       "title": "Hackers compromise Axios npm package to drop cross-platform malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
       "pubDate": "Tue, 31 Mar 2026 09:53:43 -0400"
-    },
-    {
-      "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-      "pubDate": "Tue, 31 Mar 2026 08:04:15 -0400"
     }
   ]
 }
