@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-03-31T23:54:55Z",
+  "updated": "2026-04-01T01:26:09Z",
   "items": [
+    {
+      "title": "Claude Code source code accidentally leaked in NPM package",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
+      "pubDate": "Tue, 31 Mar 2026 20:32:25 -0400"
+    },
     {
       "title": "Google now allows you to change your @gmail.com address",
       "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
       "pubDate": "Tue, 31 Mar 2026 03:05:25 -0400"
-    },
-    {
-      "title": "Healthcare tech firm CareCloud says hackers stole patient data",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/",
-      "pubDate": "Mon, 30 Mar 2026 17:44:31 -0400"
     }
   ]
 }
