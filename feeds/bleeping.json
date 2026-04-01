@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-01T06:09:14Z",
+  "updated": "2026-04-01T07:58:09Z",
   "items": [
+    {
+      "title": "Google Drive ransomware detection now on by default for paying users",
+      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
+      "pubDate": "Wed, 01 Apr 2026 02:35:34 -0400"
+    },
     {
       "title": "New Windows 11 emergency update fixes preview update install issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
@@ -56,11 +61,6 @@
       "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
       "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400"
-    },
-    {
-      "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-      "pubDate": "Tue, 31 Mar 2026 03:52:15 -0400"
     }
   ]
 }
