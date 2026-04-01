@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-01T18:44:32Z",
+  "updated": "2026-04-01T19:50:56Z",
   "items": [
+    {
+      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
+      "pubDate": "Wed, 01 Apr 2026 15:42:25 -0400"
+    },
     {
       "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
       "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
@@ -56,11 +61,6 @@
       "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
       "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
       "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400"
-    },
-    {
-      "title": "Cisco source code stolen in Trivy-linked dev environment breach",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-      "pubDate": "Tue, 31 Mar 2026 13:53:04 -0400"
     }
   ]
 }
