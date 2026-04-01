@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-01T04:26:08Z",
+  "updated": "2026-04-01T06:09:14Z",
   "items": [
+    {
+      "title": "New Windows 11 emergency update fixes preview update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
+      "pubDate": "Wed, 01 Apr 2026 01:33:43 -0400"
+    },
     {
       "title": "Claude Code source code accidentally leaked in NPM package",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
@@ -56,11 +61,6 @@
       "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
       "pubDate": "Tue, 31 Mar 2026 03:52:15 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Citrix flaw by Thursday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-citrix-flaw-by-thursday/",
-      "pubDate": "Tue, 31 Mar 2026 03:05:25 -0400"
     }
   ]
 }
