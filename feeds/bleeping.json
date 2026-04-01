@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-01T09:01:35Z",
+  "updated": "2026-04-01T10:31:55Z",
   "items": [
+    {
+      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+      "pubDate": "Wed, 01 Apr 2026 06:25:36 -0400"
+    },
     {
       "title": "Google Drive ransomware detection now on by default for paying users",
       "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
       "pubDate": "Tue, 31 Mar 2026 08:04:15 -0400"
-    },
-    {
-      "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
-      "pubDate": "Tue, 31 Mar 2026 05:15:45 -0400"
     }
   ]
 }
