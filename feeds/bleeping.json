@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-01T21:32:29Z",
+  "updated": "2026-04-01T22:26:32Z",
   "items": [
+    {
+      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
+      "pubDate": "Wed, 01 Apr 2026 17:50:49 -0400"
+    },
+    {
+      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
+      "pubDate": "Wed, 01 Apr 2026 17:35:47 -0400"
+    },
     {
       "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
@@ -51,16 +61,6 @@
       "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
       "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
       "pubDate": "Tue, 31 Mar 2026 18:42:07 -0400"
-    },
-    {
-      "title": "GIGABYTE Control Center vulnerable to arbitrary file write flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/",
-      "pubDate": "Tue, 31 Mar 2026 18:28:02 -0400"
-    },
-    {
-      "title": "Claude AI finds Vim, Emacs RCE bugs that trigger on file open",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/",
-      "pubDate": "Tue, 31 Mar 2026 17:45:14 -0400"
     }
   ]
 }
