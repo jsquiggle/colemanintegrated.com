@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-02T18:41:01Z",
+  "updated": "2026-04-02T19:41:22Z",
   "items": [
+    {
+      "title": "Drift loses $280 million as hackers seize Security Council powers",
+      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
+      "pubDate": "Thu, 02 Apr 2026 15:03:39 -0400"
+    },
     {
       "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
       "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
@@ -56,11 +61,6 @@
       "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
       "pubDate": "Wed, 01 Apr 2026 15:42:25 -0400"
-    },
-    {
-      "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
-      "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-      "pubDate": "Wed, 01 Apr 2026 14:07:21 -0400"
     }
   ]
 }
