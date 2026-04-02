@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-02T12:46:18Z",
+  "updated": "2026-04-02T14:15:30Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "pubDate": "Thu, 02 Apr 2026 18:15:00 +0530"
+    },
     {
       "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
       "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
@@ -56,11 +61,6 @@
       "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
       "link": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
       "pubDate": "Wed, 01 Apr 2026 13:14:00 +0530"
-    },
-    {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-      "pubDate": "Wed, 01 Apr 2026 11:42:00 +0530"
     }
   ]
 }

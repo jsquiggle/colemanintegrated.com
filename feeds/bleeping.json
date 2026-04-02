@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-02T12:46:18Z",
+  "updated": "2026-04-02T14:15:30Z",
   "items": [
+    {
+      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
+      "pubDate": "Thu, 02 Apr 2026 10:01:11 -0400"
+    },
+    {
+      "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
+      "pubDate": "Thu, 02 Apr 2026 09:33:11 -0400"
+    },
+    {
+      "title": "Medtech giant Stryker fully operational after data-wiping attack",
+      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
+      "pubDate": "Thu, 02 Apr 2026 09:28:39 -0400"
+    },
     {
       "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
@@ -46,21 +61,6 @@
       "title": "Routine Access Is Powering Modern Intrusions, a New Threat Report Finds",
       "link": "https://www.bleepingcomputer.com/news/security/routine-access-is-powering-modern-intrusions-a-new-threat-report-finds/",
       "pubDate": "Wed, 01 Apr 2026 10:05:15 -0400"
-    },
-    {
-      "title": "FBI warns against using Chinese mobile apps due to privacy risks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/",
-      "pubDate": "Wed, 01 Apr 2026 07:39:10 -0400"
-    },
-    {
-      "title": "Google fixes fourth Chrome zero-day exploited in attacks in 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
-      "pubDate": "Wed, 01 Apr 2026 06:25:36 -0400"
-    },
-    {
-      "title": "Google Drive ransomware detection now on by default for paying users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-      "pubDate": "Wed, 01 Apr 2026 02:35:34 -0400"
     }
   ]
 }
