@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-02T20:24:41Z",
+  "updated": "2026-04-02T20:59:07Z",
   "items": [
+    {
+      "title": "Claude Code leak used to push infostealer malware on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
+      "pubDate": "Thu, 02 Apr 2026 16:30:55 -0400"
+    },
     {
       "title": "Drift loses $280 million as hackers seize Security Council powers",
       "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
       "pubDate": "Wed, 01 Apr 2026 17:35:47 -0400"
-    },
-    {
-      "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-      "pubDate": "Wed, 01 Apr 2026 15:42:25 -0400"
     }
   ]
 }
