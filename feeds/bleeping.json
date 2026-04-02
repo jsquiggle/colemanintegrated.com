@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-02T10:41:46Z",
+  "updated": "2026-04-02T11:37:35Z",
   "items": [
+    {
+      "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
+      "pubDate": "Thu, 02 Apr 2026 07:01:14 -0400"
+    },
     {
       "title": "Microsoft links Classic Outlook issue to email delivery problems",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
@@ -56,11 +61,6 @@
       "title": "Google Drive ransomware detection now on by default for paying users",
       "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
       "pubDate": "Wed, 01 Apr 2026 02:35:34 -0400"
-    },
-    {
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-      "pubDate": "Wed, 01 Apr 2026 01:33:43 -0400"
     }
   ]
 }
