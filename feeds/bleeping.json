@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-03T05:54:24Z",
+  "updated": "2026-04-03T06:56:33Z",
   "items": [
+    {
+      "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
+      "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
+      "pubDate": "Fri, 03 Apr 2026 02:33:34 -0400"
+    },
     {
       "title": "Claude Code leak used to push infostealer malware on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
@@ -56,11 +61,6 @@
       "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
       "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
       "pubDate": "Wed, 01 Apr 2026 17:50:49 -0400"
-    },
-    {
-      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
-      "pubDate": "Wed, 01 Apr 2026 17:35:47 -0400"
     }
   ]
 }
