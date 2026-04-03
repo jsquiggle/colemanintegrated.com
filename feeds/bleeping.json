@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-03T17:02:51Z",
+  "updated": "2026-04-03T17:56:27Z",
   "items": [
+    {
+      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
+      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
+      "pubDate": "Fri, 03 Apr 2026 13:41:11 -0400"
+    },
     {
       "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
@@ -56,11 +61,6 @@
       "title": "New Progress ShareFile flaws can be chained in pre-auth RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/",
       "pubDate": "Thu, 02 Apr 2026 09:33:11 -0400"
-    },
-    {
-      "title": "Medtech giant Stryker fully operational after data-wiping attack",
-      "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
-      "pubDate": "Thu, 02 Apr 2026 09:28:39 -0400"
     }
   ]
 }
