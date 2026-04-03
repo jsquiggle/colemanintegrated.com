@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-03T13:40:17Z",
+  "updated": "2026-04-03T14:35:32Z",
   "items": [
+    {
+      "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
+      "pubDate": "Fri, 03 Apr 2026 10:05:15 -0400"
+    },
     {
       "title": "Microsoft still working to fix Exchange Online mailbox access issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
@@ -56,11 +61,6 @@
       "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
       "pubDate": "Thu, 02 Apr 2026 07:01:14 -0400"
-    },
-    {
-      "title": "Microsoft links Classic Outlook issue to email delivery problems",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
-      "pubDate": "Thu, 02 Apr 2026 05:12:12 -0400"
     }
   ]
 }
