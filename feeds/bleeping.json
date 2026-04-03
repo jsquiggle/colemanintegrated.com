@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-03T06:56:33Z",
+  "updated": "2026-04-03T07:58:12Z",
   "items": [
+    {
+      "title": "Microsoft now force upgrades unmanaged Windows 11 24H2 PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/",
+      "pubDate": "Fri, 03 Apr 2026 03:55:40 -0400"
+    },
     {
       "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
       "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
@@ -56,11 +61,6 @@
       "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
       "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
       "pubDate": "Wed, 01 Apr 2026 19:17:09 -0400"
-    },
-    {
-      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-      "pubDate": "Wed, 01 Apr 2026 17:50:49 -0400"
     }
   ]
 }
