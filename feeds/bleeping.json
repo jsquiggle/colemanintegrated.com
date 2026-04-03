@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-03T10:33:23Z",
+  "updated": "2026-04-03T11:29:55Z",
   "items": [
+    {
+      "title": "Microsoft still working to fix Exchange Online mailbox access issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/",
+      "pubDate": "Fri, 03 Apr 2026 07:25:20 -0400"
+    },
     {
       "title": "Man admits to locking thousands of Windows devices in extortion plot",
       "link": "https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/",
@@ -56,11 +61,6 @@
       "title": "Microsoft links Classic Outlook issue to email delivery problems",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/",
       "pubDate": "Thu, 02 Apr 2026 05:12:12 -0400"
-    },
-    {
-      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/",
-      "pubDate": "Thu, 02 Apr 2026 04:25:50 -0400"
     }
   ]
 }
