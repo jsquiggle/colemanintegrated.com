@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-03T16:27:58Z",
+  "updated": "2026-04-03T17:02:51Z",
   "items": [
+    {
+      "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
+      "pubDate": "Fri, 03 Apr 2026 12:36:44 -0400"
+    },
     {
       "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
       "link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Medtech giant Stryker fully operational after data-wiping attack",
       "link": "https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/",
       "pubDate": "Thu, 02 Apr 2026 09:28:39 -0400"
-    },
-    {
-      "title": "Critical Cisco IMC auth bypass gives attackers Admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/",
-      "pubDate": "Thu, 02 Apr 2026 07:01:14 -0400"
     }
   ]
 }
