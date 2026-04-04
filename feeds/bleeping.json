@@ -1,10 +1,15 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-04T13:44:33Z",
+  "updated": "2026-04-04T14:25:12Z",
   "items": [
     {
-      "title": "LinkedIn secretely scans for 6,000+ Chrome extensions, collects data",
-      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/",
+      "title": "Device code phishing attacks surge 37x as new kits spread online",
+      "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
+      "pubDate": "Sat, 04 Apr 2026 10:17:38 -0400"
+    },
+    {
+      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
+      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
       "pubDate": "Fri, 03 Apr 2026 16:40:22 -0400"
     },
     {
@@ -56,11 +61,6 @@
       "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
       "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
       "pubDate": "Thu, 02 Apr 2026 11:21:02 -0400"
-    },
-    {
-      "title": "Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/",
-      "pubDate": "Thu, 02 Apr 2026 10:01:11 -0400"
     }
   ]
 }
