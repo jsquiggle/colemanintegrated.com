@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-04T20:18:02Z",
+  "updated": "2026-04-04T20:53:47Z",
   "items": [
+    {
+      "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
+      "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
+      "pubDate": "Sat, 04 Apr 2026 16:30:42 -0400"
+    },
     {
       "title": "Device code phishing attacks surge 37x as new kits spread online",
       "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
@@ -56,11 +61,6 @@
       "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
       "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
       "pubDate": "Thu, 02 Apr 2026 15:03:39 -0400"
-    },
-    {
-      "title": "Residential proxies evaded IP reputation checks in 78% of 4B sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/",
-      "pubDate": "Thu, 02 Apr 2026 11:21:02 -0400"
     }
   ]
 }
