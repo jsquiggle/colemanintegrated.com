@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-05T04:13:20Z",
+  "updated": "2026-04-05T05:57:00Z",
   "items": [
+    {
+      "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
+      "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
+      "pubDate": "Sun, 05 Apr 2026 10:37:00 +0530"
+    },
+    {
+      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+      "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
+      "pubDate": "Sun, 05 Apr 2026 10:02:00 +0530"
+    },
     {
       "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
       "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
@@ -51,16 +61,6 @@
       "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
       "link": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
       "pubDate": "Thu, 02 Apr 2026 17:12:00 +0530"
-    },
-    {
-      "title": "The State of Trusted Open Source Report",
-      "link": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-      "pubDate": "Thu, 02 Apr 2026 17:00:00 +0530"
-    },
-    {
-      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
-      "link": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
-      "pubDate": "Thu, 02 Apr 2026 15:21:00 +0530"
     }
   ]
 }
