@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-05T18:28:16Z",
+  "updated": "2026-04-05T19:09:16Z",
   "items": [
+    {
+      "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
+      "pubDate": "Sun, 05 Apr 2026 14:45:17 -0400"
+    },
     {
       "title": "Hackers exploit React2Shell in automated credential theft campaign",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
@@ -56,11 +61,6 @@
       "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
       "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
       "pubDate": "Fri, 03 Apr 2026 02:33:34 -0400"
-    },
-    {
-      "title": "Claude Code leak used to push infostealer malware on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
-      "pubDate": "Thu, 02 Apr 2026 16:30:55 -0400"
     }
   ]
 }
