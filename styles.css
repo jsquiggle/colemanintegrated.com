@@ -376,12 +376,22 @@ a{color:var(--primary);text-decoration:none} a:hover{text-decoration:underline}
 .section--alt { background: var(--surface); }
 .pillars {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
   margin-top: 2rem;
   align-items: start;
 }
-@media (max-width: 900px) { .pillars { grid-template-columns: 1fr; } }
+.pillar--core {
+  grid-column: 1 / -1;
+}
+.pillar--core .pillar-list {
+  columns: 2;
+  column-gap: 2rem;
+}
+@media (max-width: 900px) {
+  .pillars { grid-template-columns: 1fr; }
+  .pillar--core .pillar-list { columns: 1; }
+}
 
 .pillar {
   background: var(--bg);
