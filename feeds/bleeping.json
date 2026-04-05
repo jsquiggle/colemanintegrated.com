@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-05T14:26:34Z",
+  "updated": "2026-04-05T14:59:15Z",
   "items": [
+    {
+      "title": "Hackers exploit React2Shell in automated credential theft campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
+      "pubDate": "Sun, 05 Apr 2026 10:17:23 -0400"
+    },
     {
       "title": "Axios npm hack used fake Teams error fix to hijack maintainer account",
       "link": "https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/",
@@ -56,11 +61,6 @@
       "title": "Claude Code leak used to push infostealer malware on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
       "pubDate": "Thu, 02 Apr 2026 16:30:55 -0400"
-    },
-    {
-      "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-      "pubDate": "Thu, 02 Apr 2026 15:03:39 -0400"
     }
   ]
 }
