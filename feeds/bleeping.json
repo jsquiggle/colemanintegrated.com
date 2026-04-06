@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-06T18:08:46Z",
+  "updated": "2026-04-06T19:33:27Z",
   "items": [
+    {
+      "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
+      "pubDate": "Mon, 06 Apr 2026 15:19:27 -0400"
+    },
+    {
+      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
+      "pubDate": "Mon, 06 Apr 2026 15:19:24 -0400"
+    },
     {
       "title": "Microsoft removes Support and Recovery Assistant from Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
@@ -51,16 +61,6 @@
       "title": "Device code phishing attacks surge 37x as new kits spread online",
       "link": "https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/",
       "pubDate": "Sat, 04 Apr 2026 10:17:38 -0400"
-    },
-    {
-      "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-      "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-      "pubDate": "Fri, 03 Apr 2026 16:40:22 -0400"
-    },
-    {
-      "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
-      "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
-      "pubDate": "Fri, 03 Apr 2026 13:41:11 -0400"
     }
   ]
 }

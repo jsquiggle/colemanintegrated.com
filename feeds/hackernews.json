@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-06T18:08:46Z",
+  "updated": "2026-04-06T19:33:27Z",
   "items": [
+    {
+      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
+      "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
+      "pubDate": "Tue, 07 Apr 2026 00:07:00 +0530"
+    },
     {
       "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
       "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
       "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
       "pubDate": "Fri, 03 Apr 2026 21:02:00 +0530"
-    },
-    {
-      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
-      "pubDate": "Fri, 03 Apr 2026 16:34:00 +0530"
     }
   ]
 }
