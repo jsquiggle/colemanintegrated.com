@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-06T17:10:30Z",
+  "updated": "2026-04-06T18:08:46Z",
   "items": [
+    {
+      "title": "Microsoft removes Support and Recovery Assistant from Windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
+      "pubDate": "Mon, 06 Apr 2026 13:45:57 -0400"
+    },
     {
       "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
@@ -56,11 +61,6 @@
       "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
       "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
       "pubDate": "Fri, 03 Apr 2026 13:41:11 -0400"
-    },
-    {
-      "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
-      "pubDate": "Fri, 03 Apr 2026 12:36:44 -0400"
     }
   ]
 }
