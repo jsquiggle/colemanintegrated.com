@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-06T11:39:59Z",
+  "updated": "2026-04-06T12:45:11Z",
   "items": [
+    {
+      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+      "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+      "pubDate": "Mon, 06 Apr 2026 17:15:00 +0530"
+    },
     {
       "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
       "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
@@ -56,11 +61,6 @@
       "title": "Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK",
       "link": "https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html",
       "pubDate": "Fri, 03 Apr 2026 14:05:00 +0530"
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
-      "pubDate": "Fri, 03 Apr 2026 01:00:00 +0530"
     }
   ]
 }
