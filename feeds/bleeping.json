@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-07T20:35:00Z",
+  "updated": "2026-04-07T21:34:00Z",
   "items": [
+    {
+      "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
+      "pubDate": "Tue, 07 Apr 2026 16:41:52 -0400"
+    },
     {
       "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
       "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
@@ -56,11 +61,6 @@
       "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
       "pubDate": "Mon, 06 Apr 2026 12:56:01 -0400"
-    },
-    {
-      "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-      "link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-      "pubDate": "Mon, 06 Apr 2026 12:35:03 -0400"
     }
   ]
 }
