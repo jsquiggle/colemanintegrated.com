@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-07T17:48:18Z",
+  "updated": "2026-04-07T18:45:56Z",
   "items": [
+    {
+      "title": "US warns of Iranian hackers targeting critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
+      "pubDate": "Tue, 07 Apr 2026 14:02:26 -0400"
+    },
     {
       "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
       "pubDate": "Mon, 06 Apr 2026 12:02:14 -0400"
-    },
-    {
-      "title": "Why Simple Breach Monitoring is No Longer Enough",
-      "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
-      "pubDate": "Mon, 06 Apr 2026 10:02:12 -0400"
     }
   ]
 }
