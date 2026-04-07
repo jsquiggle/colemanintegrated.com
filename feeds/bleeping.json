@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-07T18:45:56Z",
+  "updated": "2026-04-07T19:49:58Z",
   "items": [
+    {
+      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
+      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
+      "pubDate": "Tue, 07 Apr 2026 15:39:18 -0400"
+    },
     {
       "title": "US warns of Iranian hackers targeting critical infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
@@ -56,11 +61,6 @@
       "title": "Drift $280M crypto theft linked to 6-month in-person operation",
       "link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
       "pubDate": "Mon, 06 Apr 2026 12:35:03 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-      "pubDate": "Mon, 06 Apr 2026 12:02:14 -0400"
     }
   ]
 }
