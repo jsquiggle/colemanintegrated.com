@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-07T16:44:53Z",
+  "updated": "2026-04-07T17:48:18Z",
   "items": [
+    {
+      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
+      "pubDate": "Tue, 07 Apr 2026 22:18:00 +0530"
+    },
+    {
+      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
+      "pubDate": "Tue, 07 Apr 2026 21:59:00 +0530"
+    },
     {
       "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
       "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
@@ -11,11 +21,6 @@
       "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
       "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
       "pubDate": "Tue, 07 Apr 2026 18:16:00 +0530"
-    },
-    {
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "pubDate": "Tue, 07 Apr 2026 17:47:00 +0530"
     },
     {
       "title": "The Hidden Cost of Recurring Credential Incidents",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
       "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
       "pubDate": "Mon, 06 Apr 2026 18:16:00 +0530"
-    },
-    {
-      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-      "link": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-      "pubDate": "Mon, 06 Apr 2026 17:15:00 +0530"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-07T16:44:53Z",
+  "updated": "2026-04-07T17:48:18Z",
   "items": [
+    {
+      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
+      "pubDate": "Tue, 07 Apr 2026 13:02:05 -0400"
+    },
     {
       "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
       "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
@@ -56,11 +61,6 @@
       "title": "Why Simple Breach Monitoring is No Longer Enough",
       "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
       "pubDate": "Mon, 06 Apr 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Traffic violation scams switch to QR codes in new phishing texts",
-      "link": "https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/",
-      "pubDate": "Sun, 05 Apr 2026 15:44:10 -0400"
     }
   ]
 }
