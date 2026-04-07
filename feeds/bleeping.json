@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-07T12:55:52Z",
+  "updated": "2026-04-07T14:26:19Z",
   "items": [
+    {
+      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
+      "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
+      "pubDate": "Tue, 07 Apr 2026 10:01:11 -0400"
+    },
     {
       "title": "German authorities identify REvil and GandCrab ransomware bosses",
       "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
@@ -56,11 +61,6 @@
       "title": "New FortiClient EMS flaw exploited in attacks, emergency patch released",
       "link": "https://www.bleepingcomputer.com/news/security/new-fortinet-forticlient-ems-flaw-cve-2026-35616-exploited-in-attacks/",
       "pubDate": "Sun, 05 Apr 2026 14:45:17 -0400"
-    },
-    {
-      "title": "Hackers exploit React2Shell in automated credential theft campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-react2shell-in-automated-credential-theft-campaign/",
-      "pubDate": "Sun, 05 Apr 2026 10:17:23 -0400"
     }
   ]
 }

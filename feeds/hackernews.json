@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-07T12:55:52Z",
+  "updated": "2026-04-07T14:26:19Z",
   "items": [
+    {
+      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
+      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
+      "pubDate": "Tue, 07 Apr 2026 18:16:00 +0530"
+    },
     {
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
@@ -56,11 +61,6 @@
       "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
       "link": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
       "pubDate": "Mon, 06 Apr 2026 15:37:00 +0530"
-    },
-    {
-      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-      "pubDate": "Mon, 06 Apr 2026 12:29:00 +0530"
     }
   ]
 }
