@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-08T14:28:27Z",
+  "updated": "2026-04-08T15:55:47Z",
   "items": [
+    {
+      "title": "APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies",
+      "link": "https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html",
+      "pubDate": "Wed, 08 Apr 2026 19:20:00 +0530"
+    },
     {
       "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
       "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
       "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
       "pubDate": "Tue, 07 Apr 2026 12:05:00 +0530"
-    },
-    {
-      "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
-      "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
-      "pubDate": "Tue, 07 Apr 2026 11:26:00 +0530"
     }
   ]
 }
