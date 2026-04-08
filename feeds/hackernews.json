@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-08T11:44:55Z",
+  "updated": "2026-04-08T12:55:52Z",
   "items": [
+    {
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html",
+      "pubDate": "Wed, 08 Apr 2026 17:00:00 +0530"
+    },
     {
       "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
       "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
@@ -56,11 +61,6 @@
       "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
       "link": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
       "pubDate": "Tue, 07 Apr 2026 11:26:00 +0530"
-    },
-    {
-      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-      "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-      "pubDate": "Tue, 07 Apr 2026 00:07:00 +0530"
     }
   ]
 }
