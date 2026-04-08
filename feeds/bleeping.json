@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-08T16:50:58Z",
+  "updated": "2026-04-08T17:57:49Z",
   "items": [
+    {
+      "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
+      "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
+      "pubDate": "Wed, 08 Apr 2026 13:26:40 -0400"
+    },
     {
       "title": "Is a $30,000 GPU Good at Password Cracking?",
       "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
@@ -56,11 +61,6 @@
       "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
       "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
       "pubDate": "Mon, 06 Apr 2026 17:44:15 -0400"
-    },
-    {
-      "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
-      "pubDate": "Mon, 06 Apr 2026 15:19:27 -0400"
     }
   ]
 }
