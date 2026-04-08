@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-08T17:57:49Z",
+  "updated": "2026-04-08T19:09:59Z",
   "items": [
+    {
+      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
+      "pubDate": "Wed, 08 Apr 2026 14:55:43 -0400"
+    },
+    {
+      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
+      "pubDate": "Wed, 08 Apr 2026 14:15:27 -0400"
+    },
     {
       "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
       "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
@@ -51,16 +61,6 @@
       "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
       "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
       "pubDate": "Tue, 07 Apr 2026 10:01:11 -0400"
-    },
-    {
-      "title": "German authorities identify REvil and GandCrab ransomware bosses",
-      "link": "https://www.bleepingcomputer.com/news/security/german-authorities-identify-revil-and-gangcrab-ransomware-bosses/",
-      "pubDate": "Mon, 06 Apr 2026 19:54:04 -0400"
-    },
-    {
-      "title": "New GPUBreach attack enables system takeover via GPU rowhammer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gpubreach-attack-enables-system-takeover-via-gpu-rowhammer/",
-      "pubDate": "Mon, 06 Apr 2026 17:44:15 -0400"
     }
   ]
 }

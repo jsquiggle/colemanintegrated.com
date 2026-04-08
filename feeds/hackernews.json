@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-08T17:57:49Z",
+  "updated": "2026-04-08T19:09:59Z",
   "items": [
+    {
+      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
+      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "pubDate": "Wed, 08 Apr 2026 23:21:00 +0530"
+    },
     {
       "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
       "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
@@ -56,11 +61,6 @@
       "title": "The Hidden Cost of Recurring Credential Incidents",
       "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
       "pubDate": "Tue, 07 Apr 2026 17:00:00 +0530"
-    },
-    {
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "pubDate": "Tue, 07 Apr 2026 14:08:00 +0530"
     }
   ]
 }
