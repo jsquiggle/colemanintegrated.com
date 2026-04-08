@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-08T21:06:12Z",
+  "updated": "2026-04-08T22:03:23Z",
   "items": [
+    {
+      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
+      "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
+      "pubDate": "Wed, 08 Apr 2026 17:46:27 -0400"
+    },
     {
       "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
@@ -56,11 +61,6 @@
       "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
       "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
       "pubDate": "Tue, 07 Apr 2026 11:51:22 -0400"
-    },
-    {
-      "title": "Why Your Automated Pentesting Tool Just Hit a Wall",
-      "link": "https://www.bleepingcomputer.com/news/security/why-your-automated-pentesting-tool-just-hit-a-wall/",
-      "pubDate": "Tue, 07 Apr 2026 10:01:11 -0400"
     }
   ]
 }
