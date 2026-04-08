@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-08T04:58:23Z",
+  "updated": "2026-04-08T06:19:44Z",
   "items": [
+    {
+      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+      "pubDate": "Wed, 08 Apr 2026 09:53:00 +0530"
+    },
     {
       "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
       "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
@@ -56,11 +61,6 @@
       "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
       "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
       "pubDate": "Mon, 06 Apr 2026 18:30:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
-      "pubDate": "Mon, 06 Apr 2026 18:16:00 +0530"
     }
   ]
 }
