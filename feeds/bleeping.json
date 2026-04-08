@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-08T06:19:44Z",
+  "updated": "2026-04-08T07:56:27Z",
   "items": [
+    {
+      "title": "Microsoft rolls out fix for broken Windows Start Menu search",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
+      "pubDate": "Wed, 08 Apr 2026 03:00:55 -0400"
+    },
     {
       "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
       "pubDate": "Mon, 06 Apr 2026 15:19:24 -0400"
-    },
-    {
-      "title": "Microsoft removes Support and Recovery Assistant from Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-      "pubDate": "Mon, 06 Apr 2026 13:45:57 -0400"
     }
   ]
 }
