@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-08T22:03:23Z",
+  "updated": "2026-04-08T23:04:43Z",
   "items": [
+    {
+      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
+      "pubDate": "Wed, 08 Apr 2026 18:34:26 -0400"
+    },
     {
       "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
       "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
@@ -56,11 +61,6 @@
       "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
       "pubDate": "Tue, 07 Apr 2026 13:02:05 -0400"
-    },
-    {
-      "title": "Authorities disrupt router DNS hijacks used to steal Microsoft 365 logins",
-      "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-dns-hijacks-used-to-steal-microsoft-365-logins/",
-      "pubDate": "Tue, 07 Apr 2026 11:51:22 -0400"
     }
   ]
 }
