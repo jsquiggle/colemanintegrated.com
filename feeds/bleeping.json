@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-08T12:55:52Z",
+  "updated": "2026-04-08T14:28:27Z",
   "items": [
+    {
+      "title": "Is a $30,000 GPU Good at Password Cracking?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
+      "pubDate": "Wed, 08 Apr 2026 10:00:10 -0400"
+    },
     {
       "title": "Microsoft rolls out fix for broken Windows Start Menu search",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
@@ -56,11 +61,6 @@
       "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit",
       "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
       "pubDate": "Mon, 06 Apr 2026 15:19:27 -0400"
-    },
-    {
-      "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-      "pubDate": "Mon, 06 Apr 2026 15:19:24 -0400"
     }
   ]
 }
