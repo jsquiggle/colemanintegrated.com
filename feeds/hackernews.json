@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-08T07:56:27Z",
+  "updated": "2026-04-08T08:53:24Z",
   "items": [
+    {
+      "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
+      "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
+      "pubDate": "Wed, 08 Apr 2026 13:17:00 +0530"
+    },
     {
       "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
       "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
@@ -56,11 +61,6 @@
       "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
       "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
       "pubDate": "Mon, 06 Apr 2026 21:54:00 +0530"
-    },
-    {
-      "title": "Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps",
-      "link": "https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html",
-      "pubDate": "Mon, 06 Apr 2026 18:30:00 +0530"
     }
   ]
 }
