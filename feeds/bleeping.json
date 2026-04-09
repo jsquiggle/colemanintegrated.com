@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T06:01:07Z",
+  "updated": "2026-04-09T07:58:12Z",
   "items": [
+    {
+      "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
+      "pubDate": "Thu, 09 Apr 2026 03:44:55 -0400"
+    },
+    {
+      "title": "Microsoft suspends dev accounts for high-profile open source projects",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "pubDate": "Thu, 09 Apr 2026 02:46:26 -0400"
+    },
     {
       "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
@@ -51,16 +61,6 @@
       "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
       "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
       "pubDate": "Tue, 07 Apr 2026 15:39:18 -0400"
-    },
-    {
-      "title": "US warns of Iranian hackers targeting critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-targeting-critical-infrastructure/",
-      "pubDate": "Tue, 07 Apr 2026 14:02:26 -0400"
-    },
-    {
-      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/",
-      "pubDate": "Tue, 07 Apr 2026 13:02:05 -0400"
     }
   ]
 }
