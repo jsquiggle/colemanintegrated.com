@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-09T10:37:40Z",
+  "updated": "2026-04-09T11:44:14Z",
   "items": [
+    {
+      "title": "The Hidden Security Risks of Shadow AI in Enterprises",
+      "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
+      "pubDate": "Thu, 09 Apr 2026 17:01:00 +0530"
+    },
+    {
+      "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
+      "link": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
+      "pubDate": "Thu, 09 Apr 2026 16:45:00 +0530"
+    },
+    {
+      "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
+      "link": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
+      "pubDate": "Thu, 09 Apr 2026 16:10:00 +0530"
+    },
     {
       "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
       "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
@@ -46,21 +61,6 @@
       "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
       "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
       "pubDate": "Tue, 07 Apr 2026 21:59:00 +0530"
-    },
-    {
-      "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-      "link": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
-      "pubDate": "Tue, 07 Apr 2026 20:45:00 +0530"
-    },
-    {
-      "title": "Over 1,000 Exposed ComfyUI Instances Targeted in Cryptomining Botnet Campaign",
-      "link": "https://thehackernews.com/2026/04/over-1000-exposed-comfyui-instances.html",
-      "pubDate": "Tue, 07 Apr 2026 18:16:00 +0530"
-    },
-    {
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "link": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "pubDate": "Tue, 07 Apr 2026 17:00:00 +0530"
     }
   ]
 }
