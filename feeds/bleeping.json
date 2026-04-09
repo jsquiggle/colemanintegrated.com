@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T12:58:21Z",
+  "updated": "2026-04-09T14:52:22Z",
   "items": [
+    {
+      "title": "When attackers already have the keys, MFA is just another door to open",
+      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
+      "pubDate": "Thu, 09 Apr 2026 10:02:12 -0400"
+    },
     {
       "title": "Webinar: From noise to signal - What threat actors are targeting next",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
@@ -56,11 +61,6 @@
       "title": "Is a $30,000 GPU Good at Password Cracking?",
       "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
       "pubDate": "Wed, 08 Apr 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft rolls out fix for broken Windows Start Menu search",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
-      "pubDate": "Wed, 08 Apr 2026 03:00:55 -0400"
     }
   ]
 }

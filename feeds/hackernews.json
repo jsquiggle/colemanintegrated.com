@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-09T12:58:21Z",
+  "updated": "2026-04-09T14:52:22Z",
   "items": [
+    {
+      "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
+      "pubDate": "Thu, 09 Apr 2026 18:27:00 +0530"
+    },
     {
       "title": "The Hidden Security Risks of Shadow AI in Enterprises",
       "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
@@ -56,11 +61,6 @@
       "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
       "link": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
       "pubDate": "Tue, 07 Apr 2026 22:18:00 +0530"
-    },
-    {
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "pubDate": "Tue, 07 Apr 2026 21:59:00 +0530"
     }
   ]
 }
