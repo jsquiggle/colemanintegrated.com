@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-09T18:48:24Z",
+  "updated": "2026-04-09T19:57:27Z",
   "items": [
+    {
+      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+      "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
+      "pubDate": "Thu, 09 Apr 2026 22:56:00 +0530"
+    },
     {
       "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
       "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
@@ -56,11 +61,6 @@
       "title": "N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust",
       "link": "https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html",
       "pubDate": "Wed, 08 Apr 2026 13:17:00 +0530"
-    },
-    {
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "pubDate": "Wed, 08 Apr 2026 09:53:00 +0530"
     }
   ]
 }

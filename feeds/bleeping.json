@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T18:48:24Z",
+  "updated": "2026-04-09T19:57:27Z",
   "items": [
+    {
+      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
+      "pubDate": "Thu, 09 Apr 2026 15:46:44 -0400"
+    },
     {
       "title": "Google Chrome adds infostealer protection against session cookie theft",
       "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
@@ -56,11 +61,6 @@
       "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
       "pubDate": "Wed, 08 Apr 2026 14:55:43 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/",
-      "pubDate": "Wed, 08 Apr 2026 14:15:27 -0400"
     }
   ]
 }
