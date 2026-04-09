@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T20:43:24Z",
+  "updated": "2026-04-09T21:37:34Z",
   "items": [
+    {
+      "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
+      "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
+      "pubDate": "Thu, 09 Apr 2026 17:37:04 -0400"
+    },
     {
       "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
@@ -56,11 +61,6 @@
       "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
       "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
       "pubDate": "Wed, 08 Apr 2026 17:46:27 -0400"
-    },
-    {
-      "title": "New macOS stealer campaign uses Script Editor in ClickFix attack",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/",
-      "pubDate": "Wed, 08 Apr 2026 14:55:43 -0400"
     }
   ]
 }
