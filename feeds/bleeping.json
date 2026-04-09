@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T11:44:14Z",
+  "updated": "2026-04-09T12:58:21Z",
   "items": [
+    {
+      "title": "Webinar: From noise to signal - What threat actors are targeting next",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
+      "pubDate": "Thu, 09 Apr 2026 08:20:28 -0400"
+    },
     {
       "title": "Eurail says December data breach impacts 300,000 individuals",
       "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
@@ -56,11 +61,6 @@
       "title": "Microsoft rolls out fix for broken Windows Start Menu search",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/",
       "pubDate": "Wed, 08 Apr 2026 03:00:55 -0400"
-    },
-    {
-      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-      "pubDate": "Tue, 07 Apr 2026 18:03:01 -0400"
     }
   ]
 }
