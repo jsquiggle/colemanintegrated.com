@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T16:11:27Z",
+  "updated": "2026-04-09T17:34:32Z",
   "items": [
+    {
+      "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
+      "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
+      "pubDate": "Thu, 09 Apr 2026 12:15:26 -0400"
+    },
     {
       "title": "When attackers already have the keys, MFA is just another door to open",
       "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
@@ -56,11 +61,6 @@
       "title": "13-year-old bug in ActiveMQ lets hackers remotely execute commands",
       "link": "https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/",
       "pubDate": "Wed, 08 Apr 2026 13:26:40 -0400"
-    },
-    {
-      "title": "Is a $30,000 GPU Good at Password Cracking?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/",
-      "pubDate": "Wed, 08 Apr 2026 10:00:10 -0400"
     }
   ]
 }
