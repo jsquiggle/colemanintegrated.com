@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T09:04:53Z",
+  "updated": "2026-04-09T10:37:40Z",
   "items": [
+    {
+      "title": "Eurail says December data breach impacts 300,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
+      "pubDate": "Thu, 09 Apr 2026 06:31:54 -0400"
+    },
+    {
+      "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
+      "pubDate": "Thu, 09 Apr 2026 05:22:35 -0400"
+    },
     {
       "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
@@ -51,16 +61,6 @@
       "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
       "pubDate": "Tue, 07 Apr 2026 18:03:01 -0400"
-    },
-    {
-      "title": "FBI: Americans lost a record $21 billion to cybercrime last year",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/",
-      "pubDate": "Tue, 07 Apr 2026 16:41:52 -0400"
-    },
-    {
-      "title": "Snowflake customers hit in data theft attacks after SaaS integrator breach",
-      "link": "https://www.bleepingcomputer.com/news/security/snowflake-customers-hit-in-data-theft-attacks-after-saas-integrator-breach/",
-      "pubDate": "Tue, 07 Apr 2026 15:39:18 -0400"
     }
   ]
 }
