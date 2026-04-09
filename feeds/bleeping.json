@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-09T21:37:34Z",
+  "updated": "2026-04-09T22:30:52Z",
   "items": [
+    {
+      "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities",
+      "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
+      "pubDate": "Thu, 09 Apr 2026 18:04:31 -0400"
+    },
     {
       "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
       "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
@@ -56,11 +61,6 @@
       "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
       "pubDate": "Wed, 08 Apr 2026 18:34:26 -0400"
-    },
-    {
-      "title": "Google: New UNC6783 hackers steal corporate Zendesk support tickets",
-      "link": "https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/",
-      "pubDate": "Wed, 08 Apr 2026 17:46:27 -0400"
     }
   ]
 }
