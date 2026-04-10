@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-10T11:41:26Z",
+  "updated": "2026-04-10T12:43:50Z",
   "items": [
+    {
+      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
+      "pubDate": "Fri, 10 Apr 2026 07:56:14 -0400"
+    },
     {
       "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
       "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
@@ -56,11 +61,6 @@
       "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
       "pubDate": "Thu, 09 Apr 2026 03:44:55 -0400"
-    },
-    {
-      "title": "Microsoft suspends dev accounts for high-profile open source projects",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
-      "pubDate": "Thu, 09 Apr 2026 02:46:26 -0400"
     }
   ]
 }
