@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-10T09:59:42Z",
+  "updated": "2026-04-10T10:56:27Z",
   "items": [
+    {
+      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
+      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
+      "pubDate": "Fri, 10 Apr 2026 06:44:08 -0400"
+    },
     {
       "title": "New \u2018LucidRook\u2019 malware used in targeted attacks on NGOs, universities",
       "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
@@ -56,11 +61,6 @@
       "title": "Microsoft suspends dev accounts for high-profile open source projects",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
       "pubDate": "Thu, 09 Apr 2026 02:46:26 -0400"
-    },
-    {
-      "title": "Hackers use pixel-large SVG trick to hide credit card stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-pixel-large-svg-trick-to-hide-credit-card-stealer/",
-      "pubDate": "Wed, 08 Apr 2026 18:34:26 -0400"
     }
   ]
 }
