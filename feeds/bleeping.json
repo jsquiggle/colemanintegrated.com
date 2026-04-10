@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-10T12:43:50Z",
+  "updated": "2026-04-10T14:10:06Z",
   "items": [
+    {
+      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
+      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
+      "pubDate": "Fri, 10 Apr 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "pubDate": "Fri, 10 Apr 2026 09:12:42 -0400"
+    },
     {
       "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
@@ -51,16 +61,6 @@
       "title": "Eurail says December data breach impacts 300,000 individuals",
       "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
       "pubDate": "Thu, 09 Apr 2026 06:31:54 -0400"
-    },
-    {
-      "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/",
-      "pubDate": "Thu, 09 Apr 2026 05:22:35 -0400"
-    },
-    {
-      "title": "Hackers steal $3.6 million from crypto ATM giant Bitcoin Depot",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-atm-giant-bitcoin-depot-says-hackers-stole-36-million-from-its-wallets/",
-      "pubDate": "Thu, 09 Apr 2026 03:44:55 -0400"
     }
   ]
 }
