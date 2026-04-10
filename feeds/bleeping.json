@@ -1,14 +1,19 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-10T15:11:13Z",
+  "updated": "2026-04-10T16:11:13Z",
   "items": [
+    {
+      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
+      "pubDate": "Fri, 10 Apr 2026 11:52:45 -0400"
+    },
     {
       "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
       "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
       "pubDate": "Fri, 10 Apr 2026 10:01:11 -0400"
     },
     {
-      "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
+      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
       "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
       "pubDate": "Fri, 10 Apr 2026 09:12:42 -0400"
     },
@@ -56,11 +61,6 @@
       "title": "Webinar: From noise to signal - What threat actors are targeting next",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-from-noise-to-signal-what-threat-actors-are-targeting-next/",
       "pubDate": "Thu, 09 Apr 2026 08:20:28 -0400"
-    },
-    {
-      "title": "Eurail says December data breach impacts 300,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/",
-      "pubDate": "Thu, 09 Apr 2026 06:31:54 -0400"
     }
   ]
 }
