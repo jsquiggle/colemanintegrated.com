@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-11T06:35:24Z",
+  "updated": "2026-04-11T07:42:37Z",
   "items": [
+    {
+      "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+      "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+      "pubDate": "Sat, 11 Apr 2026 11:32:00 +0530"
+    },
     {
       "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
       "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
@@ -56,11 +61,6 @@
       "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
       "link": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
       "pubDate": "Thu, 09 Apr 2026 16:10:00 +0530"
-    },
-    {
-      "title": "New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy",
-      "link": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
-      "pubDate": "Wed, 08 Apr 2026 23:21:00 +0530"
     }
   ]
 }
