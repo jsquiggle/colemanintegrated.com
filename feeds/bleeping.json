@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-11T13:47:09Z",
+  "updated": "2026-04-11T14:27:46Z",
   "items": [
+    {
+      "title": "Over 20,000 crypto fraud victims identified in international crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/",
+      "pubDate": "Sat, 11 Apr 2026 10:20:40 -0400"
+    },
     {
       "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
@@ -56,11 +61,6 @@
       "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
       "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
       "pubDate": "Thu, 09 Apr 2026 12:15:26 -0400"
-    },
-    {
-      "title": "When attackers already have the keys, MFA is just another door to open",
-      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/",
-      "pubDate": "Thu, 09 Apr 2026 10:02:12 -0400"
     }
   ]
 }
