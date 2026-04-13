@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-13T09:16:06Z",
+  "updated": "2026-04-13T10:58:35Z",
   "items": [
+    {
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "pubDate": "Mon, 13 Apr 2026 14:45:00 +0530"
+    },
     {
       "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
       "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
@@ -56,11 +61,6 @@
       "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
       "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
       "pubDate": "Thu, 09 Apr 2026 21:53:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
-      "pubDate": "Thu, 09 Apr 2026 18:27:00 +0530"
     }
   ]
 }
