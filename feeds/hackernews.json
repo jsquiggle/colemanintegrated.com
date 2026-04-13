@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-13T18:59:56Z",
+  "updated": "2026-04-13T20:07:04Z",
   "items": [
+    {
+      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+      "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html",
+      "pubDate": "Mon, 13 Apr 2026 22:45:00 +0530"
+    },
     {
       "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
       "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
@@ -56,11 +61,6 @@
       "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
       "link": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
       "pubDate": "Fri, 10 Apr 2026 13:28:00 +0530"
-    },
-    {
-      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
-      "pubDate": "Fri, 10 Apr 2026 13:07:00 +0530"
     }
   ]
 }

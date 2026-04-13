@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-13T18:59:56Z",
+  "updated": "2026-04-13T20:07:04Z",
   "items": [
+    {
+      "title": "Critical flaw in wolfSSL library enables forged certificate use",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
+      "pubDate": "Mon, 13 Apr 2026 15:56:03 -0400"
+    },
     {
       "title": "FBI takedown of W3LL phishing service leads to developer arrest",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
@@ -56,11 +61,6 @@
       "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
       "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
       "pubDate": "Fri, 10 Apr 2026 09:12:42 -0400"
-    },
-    {
-      "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-      "pubDate": "Fri, 10 Apr 2026 07:56:14 -0400"
     }
   ]
 }
