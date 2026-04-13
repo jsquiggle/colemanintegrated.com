@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-13T12:01:31Z",
+  "updated": "2026-04-13T14:12:06Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
+      "pubDate": "Mon, 13 Apr 2026 18:31:00 +0530"
+    },
+    {
+      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+      "link": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+      "pubDate": "Mon, 13 Apr 2026 17:11:00 +0530"
+    },
     {
       "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
       "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
@@ -51,16 +61,6 @@
       "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
       "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
       "pubDate": "Fri, 10 Apr 2026 11:58:00 +0530"
-    },
-    {
-      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-      "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-      "pubDate": "Thu, 09 Apr 2026 22:56:00 +0530"
-    },
-    {
-      "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-      "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-      "pubDate": "Thu, 09 Apr 2026 21:53:00 +0530"
     }
   ]
 }

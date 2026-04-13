@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-13T12:01:31Z",
+  "updated": "2026-04-13T14:12:06Z",
   "items": [
+    {
+      "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side",
+      "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
+      "pubDate": "Mon, 13 Apr 2026 10:05:15 -0400"
+    },
     {
       "title": "Critical Marimo pre-auth RCE flaw now under active exploitation",
       "link": "https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/",
@@ -56,11 +61,6 @@
       "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
       "pubDate": "Thu, 09 Apr 2026 15:46:44 -0400"
-    },
-    {
-      "title": "Google Chrome adds infostealer protection against session cookie theft",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-infostealer-protection-against-session-cookie-theft/",
-      "pubDate": "Thu, 09 Apr 2026 14:33:29 -0400"
     }
   ]
 }
