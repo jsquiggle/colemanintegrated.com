@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-13T07:07:55Z",
+  "updated": "2026-04-13T09:16:06Z",
   "items": [
+    {
+      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+      "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+      "pubDate": "Mon, 13 Apr 2026 12:20:00 +0530"
+    },
     {
       "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
       "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: Hybrid P2P Botnet, 13-Year-Old Apache RCE and 18 More Stories",
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-hybrid-p2p-botnet.html",
       "pubDate": "Thu, 09 Apr 2026 18:27:00 +0530"
-    },
-    {
-      "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-      "link": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-      "pubDate": "Thu, 09 Apr 2026 17:01:00 +0530"
     }
   ]
 }
