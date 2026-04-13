@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-13T20:07:04Z",
+  "updated": "2026-04-13T21:11:24Z",
   "items": [
+    {
+      "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+      "pubDate": "Mon, 13 Apr 2026 16:08:10 -0400"
+    },
     {
       "title": "Critical flaw in wolfSSL library enables forged certificate use",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
@@ -56,11 +61,6 @@
       "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
       "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
       "pubDate": "Fri, 10 Apr 2026 10:01:11 -0400"
-    },
-    {
-      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-      "pubDate": "Fri, 10 Apr 2026 09:12:42 -0400"
     }
   ]
 }
