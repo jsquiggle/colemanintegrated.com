@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-13T21:11:24Z",
+  "updated": "2026-04-13T22:05:57Z",
   "items": [
+    {
+      "title": "European Gym giant Basic-Fit data breach affects 1 million members",
+      "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
+      "pubDate": "Mon, 13 Apr 2026 17:50:01 -0400"
+    },
     {
       "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
@@ -56,11 +61,6 @@
       "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
       "pubDate": "Fri, 10 Apr 2026 11:52:45 -0400"
-    },
-    {
-      "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-      "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-      "pubDate": "Fri, 10 Apr 2026 10:01:11 -0400"
     }
   ]
 }
