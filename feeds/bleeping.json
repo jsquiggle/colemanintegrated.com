@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-13T17:50:25Z",
+  "updated": "2026-04-13T18:59:56Z",
   "items": [
+    {
+      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
+      "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400"
+    },
     {
       "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
       "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
       "pubDate": "Fri, 10 Apr 2026 07:56:14 -0400"
-    },
-    {
-      "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
-      "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
-      "pubDate": "Fri, 10 Apr 2026 06:44:08 -0400"
     }
   ]
 }
