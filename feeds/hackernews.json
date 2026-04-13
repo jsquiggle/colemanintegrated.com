@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-13T14:12:06Z",
+  "updated": "2026-04-13T15:51:56Z",
   "items": [
+    {
+      "title": "FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts",
+      "link": "https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html",
+      "pubDate": "Mon, 13 Apr 2026 20:16:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Fiber Optic Spying, Windows Rootkit, AI Vulnerability Hunting and More",
       "link": "https://thehackernews.com/2026/04/weekly-recap-fiber-optic-spying-windows.html",
@@ -56,11 +61,6 @@
       "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
       "pubDate": "Fri, 10 Apr 2026 13:07:00 +0530"
-    },
-    {
-      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
-      "link": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
-      "pubDate": "Fri, 10 Apr 2026 11:58:00 +0530"
     }
   ]
 }

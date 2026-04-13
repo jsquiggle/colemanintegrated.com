@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-13T14:12:06Z",
+  "updated": "2026-04-13T15:51:56Z",
   "items": [
+    {
+      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/",
+      "pubDate": "Mon, 13 Apr 2026 11:37:05 -0400"
+    },
     {
       "title": "The silent \u201cStorm\u201d: New infostealer hijacks sessions, decrypts server-side",
       "link": "https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/",
@@ -56,11 +61,6 @@
       "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
       "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
       "pubDate": "Thu, 09 Apr 2026 17:37:04 -0400"
-    },
-    {
-      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-      "pubDate": "Thu, 09 Apr 2026 15:46:44 -0400"
     }
   ]
 }
