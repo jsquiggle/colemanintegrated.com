@@ -1,11 +1,16 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-14T14:50:39Z",
+  "updated": "2026-04-14T16:00:24Z",
   "items": [
     {
       "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
       "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-      "pubDate": "Tue, 14 Apr 2026 19:25:00 +0530"
+      "pubDate": "Tue, 14 Apr 2026 20:26:00 +0530"
+    },
+    {
+      "title": "AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud",
+      "link": "https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html",
+      "pubDate": "Tue, 14 Apr 2026 20:00:00 +0530"
     },
     {
       "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
@@ -56,11 +61,6 @@
       "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
       "link": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
       "pubDate": "Mon, 13 Apr 2026 14:45:00 +0530"
-    },
-    {
-      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-      "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
-      "pubDate": "Mon, 13 Apr 2026 12:20:00 +0530"
     }
   ]
 }
