@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-14T20:02:45Z",
+  "updated": "2026-04-14T21:10:58Z",
   "items": [
+    {
+      "title": "Over 100 Chrome extensions in Web Store target users accounts and data",
+      "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
+      "pubDate": "Tue, 14 Apr 2026 16:33:00 -0400"
+    },
     {
       "title": "Microsoft releases Windows 10 KB5082200 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
@@ -56,11 +61,6 @@
       "title": "FBI takedown of W3LL phishing service leads to developer arrest",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
       "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400"
-    },
-    {
-      "title": "OpenAI rotates macOS certs after Axios attack hit code-signing workflow",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-rotates-macos-certs-after-axios-attack-hit-code-signing-workflow/",
-      "pubDate": "Mon, 13 Apr 2026 13:39:10 -0400"
     }
   ]
 }
