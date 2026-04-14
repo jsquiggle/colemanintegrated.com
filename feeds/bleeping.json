@@ -1,9 +1,14 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-14T21:10:58Z",
+  "updated": "2026-04-14T22:07:57Z",
   "items": [
     {
-      "title": "Over 100 Chrome extensions in Web Store target users accounts and data",
+      "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
+      "pubDate": "Tue, 14 Apr 2026 17:58:31 -0400"
+    },
+    {
+      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
       "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
       "pubDate": "Tue, 14 Apr 2026 16:33:00 -0400"
     },
@@ -56,11 +61,6 @@
       "title": "Critical flaw in wolfSSL library enables forged certificate use",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-wolfssl-library-enables-forged-certificate-use/",
       "pubDate": "Mon, 13 Apr 2026 15:56:03 -0400"
-    },
-    {
-      "title": "FBI takedown of W3LL phishing service leads to developer arrest",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-takedown-of-w3ll-phishing-service-leads-to-developer-arrest/",
-      "pubDate": "Mon, 13 Apr 2026 14:55:50 -0400"
     }
   ]
 }
