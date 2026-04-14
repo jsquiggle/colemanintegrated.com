@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-14T10:13:28Z",
+  "updated": "2026-04-14T11:33:45Z",
   "items": [
+    {
+      "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+      "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+      "pubDate": "Tue, 14 Apr 2026 15:50:00 +0530"
+    },
     {
       "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
       "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
@@ -56,11 +61,6 @@
       "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
       "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
       "pubDate": "Sun, 12 Apr 2026 11:24:00 +0530"
-    },
-    {
-      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
-      "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
-      "pubDate": "Sun, 12 Apr 2026 09:55:00 +0530"
     }
   ]
 }
