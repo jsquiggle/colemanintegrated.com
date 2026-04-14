@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-14T12:59:44Z",
+  "updated": "2026-04-14T14:50:39Z",
   "items": [
+    {
+      "title": "5 Ways Zero Trust Maximizes Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
+      "pubDate": "Tue, 14 Apr 2026 10:02:12 -0400"
+    },
     {
       "title": "European Gym giant Basic-Fit data breach affects 1 million members",
       "link": "https://www.bleepingcomputer.com/news/security/european-gym-giant-basic-fit-data-breach-affects-1-million-members/",
@@ -56,11 +61,6 @@
       "title": "ChatGPT rolls out new $100 Pro subscription to challenge Claude",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/",
       "pubDate": "Fri, 10 Apr 2026 22:08:16 -0400"
-    },
-    {
-      "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-      "pubDate": "Fri, 10 Apr 2026 11:52:45 -0400"
     }
   ]
 }
