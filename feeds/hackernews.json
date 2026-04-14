@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-14T07:16:31Z",
+  "updated": "2026-04-14T08:58:05Z",
   "items": [
+    {
+      "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+      "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
+      "pubDate": "Tue, 14 Apr 2026 14:05:00 +0530"
+    },
     {
       "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
       "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
@@ -56,11 +61,6 @@
       "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
       "link": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
       "pubDate": "Sat, 11 Apr 2026 11:32:00 +0530"
-    },
-    {
-      "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-      "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
-      "pubDate": "Fri, 10 Apr 2026 18:53:00 +0530"
     }
   ]
 }
