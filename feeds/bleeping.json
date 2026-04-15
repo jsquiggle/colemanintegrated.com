@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-15T17:01:00Z",
+  "updated": "2026-04-15T18:37:59Z",
   "items": [
+    {
+      "title": "Signed software abused to deploy antivirus-killing scripts",
+      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
+      "pubDate": "Wed, 15 Apr 2026 13:59:30 -0400"
+    },
     {
       "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
       "pubDate": "Tue, 14 Apr 2026 13:46:31 -0400"
-    },
-    {
-      "title": "Microsoft April 2026 Patch Tuesday fixes 167 flaws, 2 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-      "pubDate": "Tue, 14 Apr 2026 13:41:13 -0400"
     }
   ]
 }
