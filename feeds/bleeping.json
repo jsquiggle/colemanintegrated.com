@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-15T12:58:36Z",
+  "updated": "2026-04-15T14:43:26Z",
   "items": [
+    {
+      "title": "Rolling Networks: Securing the Transportation Sector",
+      "link": "https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/",
+      "pubDate": "Wed, 15 Apr 2026 10:00:10 -0400"
+    },
     {
       "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
@@ -56,11 +61,6 @@
       "title": "Microsoft rolls out fast-track to reinstate Windows hardware dev accounts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fast-track-to-reinstate-windows-hardware-dev-accounts/",
       "pubDate": "Tue, 14 Apr 2026 11:53:50 -0400"
-    },
-    {
-      "title": "5 Ways Zero Trust Maximizes Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/",
-      "pubDate": "Tue, 14 Apr 2026 10:02:12 -0400"
     }
   ]
 }
