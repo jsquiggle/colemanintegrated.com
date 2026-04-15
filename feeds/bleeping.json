@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-15T22:32:11Z",
+  "updated": "2026-04-15T23:32:55Z",
   "items": [
+    {
+      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
+      "pubDate": "Wed, 15 Apr 2026 18:35:09 -0400"
+    },
     {
       "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
       "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
@@ -56,11 +61,6 @@
       "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
       "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
       "pubDate": "Tue, 14 Apr 2026 16:33:00 -0400"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5082200 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
-      "pubDate": "Tue, 14 Apr 2026 14:09:39 -0400"
     }
   ]
 }
