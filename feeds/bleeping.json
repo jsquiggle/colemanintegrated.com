@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-15T19:57:01Z",
+  "updated": "2026-04-15T20:41:25Z",
   "items": [
+    {
+      "title": "WordPress plugin suite hacked to push malware to thousands of sites",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
+      "pubDate": "Wed, 15 Apr 2026 16:33:50 -0400"
+    },
     {
       "title": "Signed software abused to deploy antivirus-killing scripts",
       "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
@@ -56,11 +61,6 @@
       "title": "McGraw-Hill confirms data breach following extortion threat",
       "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/",
       "pubDate": "Tue, 14 Apr 2026 14:07:07 -0400"
-    },
-    {
-      "title": "Windows 11 cumulative updates KB5083769 & KB5082052 released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-      "pubDate": "Tue, 14 Apr 2026 13:46:31 -0400"
     }
   ]
 }
