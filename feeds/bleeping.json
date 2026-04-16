@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T16:51:58Z",
+  "updated": "2026-04-16T18:02:07Z",
   "items": [
+    {
+      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
+      "pubDate": "Thu, 16 Apr 2026 12:58:06 -0400"
+    },
     {
       "title": "Google expands Gemini AI use to fight malicious ads on its platform",
       "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
@@ -56,11 +61,6 @@
       "title": "Signed software abused to deploy antivirus-killing scripts",
       "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
       "pubDate": "Wed, 15 Apr 2026 13:59:30 -0400"
-    },
-    {
-      "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
-      "pubDate": "Wed, 15 Apr 2026 12:20:21 -0400"
     }
   ]
 }
