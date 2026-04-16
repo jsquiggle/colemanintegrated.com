@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T21:34:21Z",
+  "updated": "2026-04-16T22:29:52Z",
   "items": [
+    {
+      "title": "ZionSiphon malware designed to sabotage water treatment systems",
+      "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
+      "pubDate": "Thu, 16 Apr 2026 18:04:53 -0400"
+    },
     {
       "title": "New Microsoft Defender \u201cRedSun\u201d zero-day PoC grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
@@ -56,11 +61,6 @@
       "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
       "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
       "pubDate": "Wed, 15 Apr 2026 17:57:17 -0400"
-    },
-    {
-      "title": "WordPress plugin suite hacked to push malware to thousands of sites",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
-      "pubDate": "Wed, 15 Apr 2026 16:33:50 -0400"
     }
   ]
 }
