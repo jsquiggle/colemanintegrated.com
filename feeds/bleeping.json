@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T11:51:42Z",
+  "updated": "2026-04-16T13:03:40Z",
   "items": [
+    {
+      "title": "Cisco says critical Webex Services flaw requires customer action",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
+      "pubDate": "Thu, 16 Apr 2026 08:01:42 -0400"
+    },
     {
       "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: April updates trigger BitLocker key prompts on some servers",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/",
       "pubDate": "Wed, 15 Apr 2026 07:41:35 -0400"
-    },
-    {
-      "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
-      "pubDate": "Wed, 15 Apr 2026 06:24:53 -0400"
     }
   ]
 }

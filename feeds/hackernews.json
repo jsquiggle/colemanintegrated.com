@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-16T11:51:42Z",
+  "updated": "2026-04-16T13:03:40Z",
   "items": [
+    {
+      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+      "pubDate": "Thu, 16 Apr 2026 17:25:00 +0530"
+    },
     {
       "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
       "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
@@ -56,11 +61,6 @@
       "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
       "link": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
       "pubDate": "Tue, 14 Apr 2026 21:27:00 +0530"
-    },
-    {
-      "title": "Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security",
-      "link": "https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html",
-      "pubDate": "Tue, 14 Apr 2026 20:26:00 +0530"
     }
   ]
 }
