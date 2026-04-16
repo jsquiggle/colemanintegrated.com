@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T09:53:07Z",
+  "updated": "2026-04-16T10:54:03Z",
   "items": [
+    {
+      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
+      "pubDate": "Thu, 16 Apr 2026 06:35:09 -0400"
+    },
     {
       "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
       "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes bug behind Windows Server 2025 automatic upgrades",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/",
       "pubDate": "Wed, 15 Apr 2026 06:24:53 -0400"
-    },
-    {
-      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/",
-      "pubDate": "Tue, 14 Apr 2026 18:23:33 -0400"
     }
   ]
 }
