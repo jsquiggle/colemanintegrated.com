@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T22:29:52Z",
+  "updated": "2026-04-16T23:09:50Z",
   "items": [
+    {
+      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
+      "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
+      "pubDate": "Thu, 16 Apr 2026 18:26:34 -0400"
+    },
     {
       "title": "ZionSiphon malware designed to sabotage water treatment systems",
       "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
@@ -56,11 +61,6 @@
       "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
       "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
       "pubDate": "Wed, 15 Apr 2026 18:35:09 -0400"
-    },
-    {
-      "title": "New AgingFly malware used in attacks on Ukraine govt, hospitals",
-      "link": "https://www.bleepingcomputer.com/news/security/new-agingfly-malware-used-in-attacks-on-ukraine-govt-hospitals/",
-      "pubDate": "Wed, 15 Apr 2026 17:57:17 -0400"
     }
   ]
 }
