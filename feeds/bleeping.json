@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T06:27:27Z",
+  "updated": "2026-04-16T08:11:34Z",
   "items": [
+    {
+      "title": "Microsoft: April Windows Server 2025 update may fail to install",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
+      "pubDate": "Thu, 16 Apr 2026 03:37:44 -0400"
+    },
     {
       "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
       "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
@@ -56,11 +61,6 @@
       "title": "Crypto-exchange Kraken extorted by hackers after insider breach",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/",
       "pubDate": "Tue, 14 Apr 2026 17:58:31 -0400"
-    },
-    {
-      "title": "Over 100 Chrome Web Store extensions steal user accounts, data",
-      "link": "https://www.bleepingcomputer.com/news/security/over-100-chrome-extensions-in-web-store-target-users-accounts-and-data/",
-      "pubDate": "Tue, 14 Apr 2026 16:33:00 -0400"
     }
   ]
 }
