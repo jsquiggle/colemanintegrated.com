@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T19:40:57Z",
+  "updated": "2026-04-16T20:38:06Z",
   "items": [
+    {
+      "title": "New Microsoft Defender \u201cRedSun\u201d zero-day PoC grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
+      "pubDate": "Thu, 16 Apr 2026 16:19:31 -0400"
+    },
     {
       "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
@@ -56,11 +61,6 @@
       "title": "WordPress plugin suite hacked to push malware to thousands of sites",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/",
       "pubDate": "Wed, 15 Apr 2026 16:33:50 -0400"
-    },
-    {
-      "title": "Signed software abused to deploy antivirus-killing scripts",
-      "link": "https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/",
-      "pubDate": "Wed, 15 Apr 2026 13:59:30 -0400"
     }
   ]
 }
