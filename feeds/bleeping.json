@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-16T15:09:08Z",
+  "updated": "2026-04-16T16:51:58Z",
   "items": [
+    {
+      "title": "Google expands Gemini AI use to fight malicious ads on its platform",
+      "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
+      "pubDate": "Thu, 16 Apr 2026 11:24:14 -0400"
+    },
     {
       "title": "New ATHR vishing platform uses AI voice agents for automated attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/",
       "pubDate": "Wed, 15 Apr 2026 12:20:21 -0400"
-    },
-    {
-      "title": "CISA flags Windows Task Host vulnerability as exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/",
-      "pubDate": "Wed, 15 Apr 2026 10:51:05 -0400"
     }
   ]
 }
