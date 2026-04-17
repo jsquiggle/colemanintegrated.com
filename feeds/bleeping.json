@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-17T18:42:16Z",
+  "updated": "2026-04-17T19:51:01Z",
   "items": [
+    {
+      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
+      "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
+      "pubDate": "Fri, 17 Apr 2026 15:10:19 -0400"
+    },
     {
       "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
       "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/",
       "pubDate": "Thu, 16 Apr 2026 12:58:06 -0400"
-    },
-    {
-      "title": "Google expands Gemini AI use to fight malicious ads on its platform",
-      "link": "https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/",
-      "pubDate": "Thu, 16 Apr 2026 11:24:14 -0400"
     }
   ]
 }
