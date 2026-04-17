@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-17T09:01:07Z",
+  "updated": "2026-04-17T10:36:20Z",
   "items": [
+    {
+      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+      "pubDate": "Fri, 17 Apr 2026 05:30:15 -0400"
+    },
     {
       "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
@@ -56,11 +61,6 @@
       "title": "Cisco says critical Webex Services flaw requires customer action",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
       "pubDate": "Thu, 16 Apr 2026 08:01:42 -0400"
-    },
-    {
-      "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
-      "pubDate": "Thu, 16 Apr 2026 06:35:09 -0400"
     }
   ]
 }
