@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-17T05:58:02Z",
+  "updated": "2026-04-17T07:28:33Z",
   "items": [
+    {
+      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
+      "pubDate": "Fri, 17 Apr 2026 03:10:32 -0400"
+    },
+    {
+      "title": "Recently leaked Windows zero-days now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
+      "pubDate": "Fri, 17 Apr 2026 02:14:52 -0400"
+    },
     {
       "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
       "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
@@ -51,16 +61,6 @@
       "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
       "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
       "pubDate": "Thu, 16 Apr 2026 04:32:13 -0400"
-    },
-    {
-      "title": "Microsoft: April Windows Server 2025 update may fail to install",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-2025-update-may-fail-to-install/",
-      "pubDate": "Thu, 16 Apr 2026 03:37:44 -0400"
-    },
-    {
-      "title": "Critical Nginx UI auth bypass flaw now actively exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-ui-auth-bypass-flaw-now-actively-exploited-in-the-wild/",
-      "pubDate": "Wed, 15 Apr 2026 18:35:09 -0400"
     }
   ]
 }

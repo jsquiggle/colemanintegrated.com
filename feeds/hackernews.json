@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-17T05:58:02Z",
+  "updated": "2026-04-17T07:28:33Z",
   "items": [
+    {
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "pubDate": "Fri, 17 Apr 2026 11:16:00 +0530"
+    },
     {
       "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
       "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
@@ -56,11 +61,6 @@
       "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
       "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
       "pubDate": "Wed, 15 Apr 2026 18:07:00 +0530"
-    },
-    {
-      "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
-      "link": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
-      "pubDate": "Wed, 15 Apr 2026 17:00:00 +0530"
     }
   ]
 }
