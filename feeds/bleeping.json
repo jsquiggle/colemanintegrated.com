@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-17T11:41:37Z",
+  "updated": "2026-04-17T12:54:33Z",
   "items": [
+    {
+      "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
+      "pubDate": "Fri, 17 Apr 2026 08:20:28 -0400"
+    },
     {
       "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Most \"AI SOCs\" Are Just Faster Triage. That's Not Enough.",
       "link": "https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/",
       "pubDate": "Thu, 16 Apr 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Cisco says critical Webex Services flaw requires customer action",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/",
-      "pubDate": "Thu, 16 Apr 2026 08:01:42 -0400"
     }
   ]
 }

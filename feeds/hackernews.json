@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-17T11:41:37Z",
+  "updated": "2026-04-17T12:54:33Z",
   "items": [
+    {
+      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
+      "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
+      "pubDate": "Fri, 17 Apr 2026 16:17:00 +0530"
+    },
     {
       "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
       "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
@@ -56,11 +61,6 @@
       "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
       "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
       "pubDate": "Wed, 15 Apr 2026 18:26:00 +0530"
-    },
-    {
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "link": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "pubDate": "Wed, 15 Apr 2026 18:07:00 +0530"
     }
   ]
 }
