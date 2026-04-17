@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-17T07:28:33Z",
+  "updated": "2026-04-17T09:01:07Z",
   "items": [
+    {
+      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
+      "pubDate": "Fri, 17 Apr 2026 03:59:47 -0400"
+    },
     {
       "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
@@ -56,11 +61,6 @@
       "title": "Data breach at edtech giant McGraw Hill affects 13.5 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/",
       "pubDate": "Thu, 16 Apr 2026 06:35:09 -0400"
-    },
-    {
-      "title": "US nationals behind DPRK IT worker 'laptop farm' sent to prison",
-      "link": "https://www.bleepingcomputer.com/news/security/us-nationals-behind-north-korean-it-worker-laptop-farm-sent-to-prison/",
-      "pubDate": "Thu, 16 Apr 2026 04:32:13 -0400"
     }
   ]
 }
