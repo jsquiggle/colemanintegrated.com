@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-18T13:54:47Z",
+  "updated": "2026-04-18T14:34:01Z",
   "items": [
+    {
+      "title": "Microsoft Teams right-click paste broken by Edge update bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
+      "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400"
+    },
     {
       "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
       "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
@@ -56,11 +61,6 @@
       "title": "ZionSiphon malware designed to sabotage water treatment systems",
       "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
       "pubDate": "Thu, 16 Apr 2026 18:04:53 -0400"
-    },
-    {
-      "title": "New Microsoft Defender \u201cRedSun\u201d zero-day PoC grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/",
-      "pubDate": "Thu, 16 Apr 2026 16:19:31 -0400"
     }
   ]
 }
