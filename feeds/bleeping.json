@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-18T14:34:01Z",
+  "updated": "2026-04-18T15:28:38Z",
   "items": [
+    {
+      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
+      "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400"
+    },
     {
       "title": "Microsoft Teams right-click paste broken by Edge update bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
@@ -56,11 +61,6 @@
       "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
       "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
       "pubDate": "Thu, 16 Apr 2026 18:26:34 -0400"
-    },
-    {
-      "title": "ZionSiphon malware designed to sabotage water treatment systems",
-      "link": "https://www.bleepingcomputer.com/news/security/zionsiphon-malware-designed-to-sabotage-water-treatment-systems/",
-      "pubDate": "Thu, 16 Apr 2026 18:04:53 -0400"
     }
   ]
 }
