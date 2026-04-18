@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-18T06:13:51Z",
+  "updated": "2026-04-18T07:38:32Z",
   "items": [
+    {
+      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
+      "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
+      "pubDate": "Sat, 18 Apr 2026 11:31:00 +0530"
+    },
     {
       "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
       "link": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
@@ -56,11 +61,6 @@
       "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
       "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
       "pubDate": "Thu, 16 Apr 2026 11:50:00 +0530"
-    },
-    {
-      "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
-      "link": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
-      "pubDate": "Wed, 15 Apr 2026 22:39:00 +0530"
     }
   ]
 }
