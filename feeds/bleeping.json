@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-19T17:01:47Z",
+  "updated": "2026-04-19T17:57:50Z",
   "items": [
+    {
+      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "pubDate": "Sun, 19 Apr 2026 13:32:45 -0400"
+    },
     {
       "title": "Apple account change alerts abused to send phishing emails",
       "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
       "pubDate": "Fri, 17 Apr 2026 03:59:47 -0400"
-    },
-    {
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
-      "pubDate": "Fri, 17 Apr 2026 03:10:32 -0400"
     }
   ]
 }
