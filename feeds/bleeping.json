@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-19T13:52:35Z",
+  "updated": "2026-04-19T14:33:15Z",
   "items": [
+    {
+      "title": "NIST to stop rating non-priority flaws due to volume increase",
+      "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
+      "pubDate": "Sun, 19 Apr 2026 10:17:43 -0400"
+    },
     {
       "title": "Critical flaw in Protobuf library enables JavaScript code execution",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
@@ -56,11 +61,6 @@
       "title": "Recently leaked Windows zero-days now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
       "pubDate": "Fri, 17 Apr 2026 02:14:52 -0400"
-    },
-    {
-      "title": "Operation PowerOFF identifies 75k DDoS users, takes down 53 domains",
-      "link": "https://www.bleepingcomputer.com/news/security/operation-poweroff-identifies-75k-ddos-users-takes-down-53-domains/",
-      "pubDate": "Thu, 16 Apr 2026 18:26:34 -0400"
     }
   ]
 }
