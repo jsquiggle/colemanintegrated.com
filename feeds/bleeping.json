@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-19T16:00:45Z",
+  "updated": "2026-04-19T17:01:47Z",
   "items": [
+    {
+      "title": "Apple account change alerts abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-account-change-alerts-abused-to-send-phishing-emails/",
+      "pubDate": "Sun, 19 Apr 2026 12:03:01 -0400"
+    },
     {
       "title": "NIST to stop rating non-priority flaws due to volume increase",
       "link": "https://www.bleepingcomputer.com/news/security/nist-to-stop-rating-non-priority-flaws-due-to-volume-increase/",
@@ -56,11 +61,6 @@
       "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/",
       "pubDate": "Fri, 17 Apr 2026 03:10:32 -0400"
-    },
-    {
-      "title": "Recently leaked Windows zero-days now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-leaked-windows-zero-days-now-exploited-in-attacks/",
-      "pubDate": "Fri, 17 Apr 2026 02:14:52 -0400"
     }
   ]
 }
