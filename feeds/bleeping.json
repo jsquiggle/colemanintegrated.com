@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-20T12:43:39Z",
+  "updated": "2026-04-20T14:26:45Z",
   "items": [
+    {
+      "title": "The backup myth that is putting businesses at risk",
+      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
+      "pubDate": "Mon, 20 Apr 2026 10:01:11 -0400"
+    },
+    {
+      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
+      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
+      "pubDate": "Mon, 20 Apr 2026 09:33:42 -0400"
+    },
     {
       "title": "Microsoft tests Windows Explorer speed, performance improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
@@ -51,16 +61,6 @@
       "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
       "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
       "pubDate": "Fri, 17 Apr 2026 15:10:19 -0400"
-    },
-    {
-      "title": "Grinex exchange blames \"Western intelligence\" for $13.7M crypto hack",
-      "link": "https://www.bleepingcomputer.com/news/security/grinex-exchange-blames-western-intelligence-for-137m-crypto-hack/",
-      "pubDate": "Fri, 17 Apr 2026 11:08:53 -0400"
-    },
-    {
-      "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
-      "pubDate": "Fri, 17 Apr 2026 10:01:11 -0400"
     }
   ]
 }
