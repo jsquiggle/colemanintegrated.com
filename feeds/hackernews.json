@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-20T02:31:07Z",
+  "updated": "2026-04-20T05:31:14Z",
   "items": [
+    {
+      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+      "pubDate": "Mon, 20 Apr 2026 09:05:00 +0530"
+    },
     {
       "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
       "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
@@ -56,11 +61,6 @@
       "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
       "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
       "pubDate": "Thu, 16 Apr 2026 16:57:00 +0530"
-    },
-    {
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "pubDate": "Thu, 16 Apr 2026 15:50:00 +0530"
     }
   ]
 }
