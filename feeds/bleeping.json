@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-20T11:10:37Z",
+  "updated": "2026-04-20T12:43:39Z",
   "items": [
+    {
+      "title": "Microsoft tests Windows Explorer speed, performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
+      "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400"
+    },
     {
       "title": "Microsoft pulls service update causing Teams launch failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
@@ -56,11 +61,6 @@
       "title": "Inside an Underground Guide: How Threat Actors Vet Stolen Credit Card Shops",
       "link": "https://www.bleepingcomputer.com/news/security/inside-an-underground-guide-how-threat-actors-vet-stolen-credit-card-shops/",
       "pubDate": "Fri, 17 Apr 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
-      "pubDate": "Fri, 17 Apr 2026 08:20:28 -0400"
     }
   ]
 }
