@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-20T19:53:31Z",
+  "updated": "2026-04-20T20:35:48Z",
   "items": [
+    {
+      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
+      "pubDate": "Mon, 20 Apr 2026 16:02:37 -0400"
+    },
     {
       "title": "Seiko USA website defaced as hacker claims customer data theft",
       "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
@@ -56,11 +61,6 @@
       "title": "Critical flaw in Protobuf library enables JavaScript code execution",
       "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
       "pubDate": "Sat, 18 Apr 2026 11:09:44 -0400"
-    },
-    {
-      "title": "Microsoft Teams right-click paste broken by Edge update bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-      "pubDate": "Sat, 18 Apr 2026 10:11:21 -0400"
     }
   ]
 }
