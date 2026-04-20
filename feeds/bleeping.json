@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-20T07:49:30Z",
+  "updated": "2026-04-20T09:47:33Z",
   "items": [
+    {
+      "title": "Microsoft pulls service update causing Teams launch failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
+      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400"
+    },
+    {
+      "title": "Microsoft releases emergency updates to fix Windows Server issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
+      "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400"
+    },
     {
       "title": "Vercel confirms breach as hackers claim to be selling stolen data",
       "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
@@ -51,16 +61,6 @@
       "title": "Webinar: From phishing to fallout \u2014 Why MSPs must rethink both security and recovery",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/",
       "pubDate": "Fri, 17 Apr 2026 08:20:28 -0400"
-    },
-    {
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "pubDate": "Fri, 17 Apr 2026 05:30:15 -0400"
-    },
-    {
-      "title": "Microsoft: Some Windows servers enter reboot loops after April patches",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-reboot-loops-affecting-some-domain-controllers/",
-      "pubDate": "Fri, 17 Apr 2026 03:59:47 -0400"
     }
   ]
 }
