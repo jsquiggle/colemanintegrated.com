@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-21T11:59:17Z",
+  "updated": "2026-04-21T13:42:23Z",
   "items": [
+    {
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "pubDate": "Tue, 21 Apr 2026 08:30:50 -0400"
+    },
     {
       "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
       "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
@@ -56,11 +61,6 @@
       "title": "Microsoft tests Windows Explorer speed, performance improvements",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
       "pubDate": "Mon, 20 Apr 2026 08:04:02 -0400"
-    },
-    {
-      "title": "Microsoft pulls service update causing Teams launch failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "pubDate": "Mon, 20 Apr 2026 05:40:20 -0400"
     }
   ]
 }

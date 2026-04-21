@@ -1,16 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-21T11:59:17Z",
+  "updated": "2026-04-21T13:42:23Z",
   "items": [
     {
-      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
-      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
-      "pubDate": "Tue, 21 Apr 2026 17:00:00 +0530"
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "pubDate": "Tue, 21 Apr 2026 18:30:00 +0530"
     },
     {
       "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
       "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-      "pubDate": "Tue, 21 Apr 2026 16:10:00 +0530"
+      "pubDate": "Tue, 21 Apr 2026 18:15:00 +0530"
+    },
+    {
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "pubDate": "Tue, 21 Apr 2026 17:00:00 +0530"
     },
     {
       "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
@@ -56,11 +61,6 @@
       "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
       "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
       "pubDate": "Sat, 18 Apr 2026 13:37:00 +0530"
-    },
-    {
-      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-      "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-      "pubDate": "Sat, 18 Apr 2026 13:29:00 +0530"
     }
   ]
 }
