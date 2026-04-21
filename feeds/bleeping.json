@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-21T09:55:55Z",
+  "updated": "2026-04-21T10:59:11Z",
   "items": [
+    {
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "pubDate": "Tue, 21 Apr 2026 06:12:21 -0400"
+    },
     {
       "title": "NGate Android malware uses HandyPay NFC app to steal card data",
       "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
@@ -56,11 +61,6 @@
       "title": "Microsoft releases emergency updates to fix Windows Server issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-windows-server-issues/",
       "pubDate": "Mon, 20 Apr 2026 04:30:56 -0400"
-    },
-    {
-      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "pubDate": "Sun, 19 Apr 2026 13:32:45 -0400"
     }
   ]
 }
