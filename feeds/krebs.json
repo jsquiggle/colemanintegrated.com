@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-04-21T13:42:23Z",
+  "updated": "2026-04-21T15:03:29Z",
   "items": [
+    {
+      "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
+      "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "pubDate": "Tue, 21 Apr 2026 14:53:59 +0000"
+    },
     {
       "title": "Patch Tuesday, April 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -46,11 +51,6 @@
       "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
       "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "pubDate": "Sat, 28 Feb 2026 12:01:57 +0000"
-    },
-    {
-      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
-      "link": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "pubDate": "Fri, 20 Feb 2026 20:00:30 +0000"
     }
   ]
 }
