@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-22T11:51:29Z",
+  "updated": "2026-04-22T12:59:35Z",
   "items": [
+    {
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "pubDate": "Wed, 22 Apr 2026 08:57:42 -0400"
+    },
+    {
+      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
+      "pubDate": "Wed, 22 Apr 2026 08:24:38 -0400"
+    },
     {
       "title": "Microsoft traces Universal Print issues to Graph API code change",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
@@ -51,16 +61,6 @@
       "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
       "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
       "pubDate": "Tue, 21 Apr 2026 07:17:51 -0400"
-    },
-    {
-      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-      "pubDate": "Tue, 21 Apr 2026 06:12:21 -0400"
-    },
-    {
-      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
-      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-      "pubDate": "Tue, 21 Apr 2026 05:00:00 -0400"
     }
   ]
 }
