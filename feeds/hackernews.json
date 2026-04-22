@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-22T10:44:29Z",
+  "updated": "2026-04-22T11:51:29Z",
   "items": [
+    {
+      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
+      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
+      "pubDate": "Wed, 22 Apr 2026 16:25:00 +0530"
+    },
+    {
+      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
+      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
+      "pubDate": "Wed, 22 Apr 2026 16:11:36 +0530"
+    },
     {
       "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
       "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
@@ -51,16 +61,6 @@
       "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
       "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
       "pubDate": "Tue, 21 Apr 2026 15:52:00 +0530"
-    },
-    {
-      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
-      "pubDate": "Tue, 21 Apr 2026 11:53:00 +0530"
-    },
-    {
-      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-      "pubDate": "Mon, 20 Apr 2026 22:44:00 +0530"
     }
   ]
 }
