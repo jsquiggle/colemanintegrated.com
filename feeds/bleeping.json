@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-22T09:01:10Z",
+  "updated": "2026-04-22T10:44:29Z",
   "items": [
+    {
+      "title": "Microsoft traces Universal Print issues to Graph API code change",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
+      "pubDate": "Wed, 22 Apr 2026 06:15:09 -0400"
+    },
+    {
+      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
+      "pubDate": "Wed, 22 Apr 2026 06:00:00 -0400"
+    },
     {
       "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
@@ -51,16 +61,6 @@
       "title": "NGate Android malware uses HandyPay NFC app to steal card data",
       "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
       "pubDate": "Tue, 21 Apr 2026 05:00:00 -0400"
-    },
-    {
-      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-      "pubDate": "Mon, 20 Apr 2026 18:23:52 -0400"
-    },
-    {
-      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
-      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-      "pubDate": "Mon, 20 Apr 2026 17:52:54 -0400"
     }
   ]
 }
