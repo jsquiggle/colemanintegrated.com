@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-22T20:55:34Z",
+  "updated": "2026-04-22T21:41:52Z",
   "items": [
+    {
+      "title": "Apple fixes iOS bug that retained deleted notification data",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "pubDate": "Wed, 22 Apr 2026 16:58:58 -0400"
+    },
     {
       "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
       "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
@@ -56,11 +61,6 @@
       "title": "French govt agency confirms breach as hacker offers to sell data",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
       "pubDate": "Tue, 21 Apr 2026 17:46:04 -0400"
-    },
-    {
-      "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
-      "pubDate": "Tue, 21 Apr 2026 14:38:40 -0400"
     }
   ]
 }
