@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-22T18:38:26Z",
+  "updated": "2026-04-22T19:59:15Z",
   "items": [
+    {
+      "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
+      "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
+      "pubDate": "Wed, 22 Apr 2026 14:52:29 -0400"
+    },
     {
       "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
       "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
@@ -56,11 +61,6 @@
       "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
       "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
       "pubDate": "Tue, 21 Apr 2026 10:02:12 -0400"
-    },
-    {
-      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
-      "pubDate": "Tue, 21 Apr 2026 09:49:10 -0400"
     }
   ]
 }
