@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-22T05:09:58Z",
+  "updated": "2026-04-22T07:09:19Z",
   "items": [
+    {
+      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+      "pubDate": "Wed, 22 Apr 2026 02:53:02 -0400"
+    },
     {
       "title": "French govt agency confirms breach as hacker offers to sell data",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
@@ -56,11 +61,6 @@
       "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
       "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
       "pubDate": "Mon, 20 Apr 2026 16:02:37 -0400"
-    },
-    {
-      "title": "Seiko USA website defaced as hacker claims customer data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-      "pubDate": "Mon, 20 Apr 2026 14:22:31 -0400"
     }
   ]
 }
