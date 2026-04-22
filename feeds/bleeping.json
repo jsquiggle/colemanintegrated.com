@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-22T12:59:35Z",
+  "updated": "2026-04-22T14:46:20Z",
   "items": [
+    {
+      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
+      "pubDate": "Wed, 22 Apr 2026 10:01:11 -0400"
+    },
     {
       "title": "New npm supply-chain attack self-spreads to steal auth tokens",
       "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
@@ -56,11 +61,6 @@
       "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
       "pubDate": "Tue, 21 Apr 2026 08:30:50 -0400"
-    },
-    {
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
-      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "pubDate": "Tue, 21 Apr 2026 07:17:51 -0400"
     }
   ]
 }
