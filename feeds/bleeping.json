@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-23T18:02:05Z",
+  "updated": "2026-04-23T19:46:39Z",
   "items": [
+    {
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "pubDate": "Thu, 23 Apr 2026 15:21:01 -0400"
+    },
+    {
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "pubDate": "Thu, 23 Apr 2026 14:59:39 -0400"
+    },
     {
       "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
       "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
@@ -51,16 +61,6 @@
       "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
       "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
       "pubDate": "Wed, 22 Apr 2026 14:52:29 -0400"
-    },
-    {
-      "title": "Spain dismantles major $4.7M manga piracy platform, arrests four",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/",
-      "pubDate": "Wed, 22 Apr 2026 11:06:34 -0400"
-    },
-    {
-      "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
-      "pubDate": "Wed, 22 Apr 2026 10:01:11 -0400"
     }
   ]
 }
