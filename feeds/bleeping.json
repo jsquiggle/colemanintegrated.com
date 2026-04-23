@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-23T10:03:51Z",
+  "updated": "2026-04-23T11:36:01Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "pubDate": "Thu, 23 Apr 2026 07:05:57 -0400"
+    },
     {
       "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
@@ -56,11 +61,6 @@
       "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
       "pubDate": "Wed, 22 Apr 2026 02:53:02 -0400"
-    },
-    {
-      "title": "French govt agency confirms breach as hacker offers to sell data",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "pubDate": "Tue, 21 Apr 2026 17:46:04 -0400"
     }
   ]
 }

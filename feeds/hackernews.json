@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-23T10:03:51Z",
+  "updated": "2026-04-23T11:36:01Z",
   "items": [
     {
       "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
@@ -13,7 +13,7 @@
       "pubDate": "Thu, 23 Apr 2026 14:10:00 +0530"
     },
     {
-      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
       "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
       "pubDate": "Thu, 23 Apr 2026 13:36:00 +0530"
     },
