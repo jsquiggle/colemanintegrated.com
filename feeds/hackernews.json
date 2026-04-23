@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-23T08:27:59Z",
+  "updated": "2026-04-23T10:03:51Z",
   "items": [
+    {
+      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+      "pubDate": "Thu, 23 Apr 2026 14:34:00 +0530"
+    },
+    {
+      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+      "pubDate": "Thu, 23 Apr 2026 14:10:00 +0530"
+    },
+    {
+      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+      "pubDate": "Thu, 23 Apr 2026 13:36:00 +0530"
+    },
     {
       "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
       "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
@@ -46,21 +61,6 @@
       "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
       "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
       "pubDate": "Tue, 21 Apr 2026 23:48:00 +0530"
-    },
-    {
-      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-      "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
-      "pubDate": "Tue, 21 Apr 2026 21:16:00 +0530"
-    },
-    {
-      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-      "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
-      "pubDate": "Tue, 21 Apr 2026 20:01:00 +0530"
-    },
-    {
-      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
-      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
-      "pubDate": "Tue, 21 Apr 2026 18:30:00 +0530"
     }
   ]
 }
