@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-24T19:43:02Z",
+  "updated": "2026-04-24T20:35:30Z",
   "items": [
+    {
+      "title": "Firestarter malware survives Cisco firewall updates, security patches",
+      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+      "pubDate": "Fri, 24 Apr 2026 16:34:08 -0400"
+    },
+    {
+      "title": "Windows Update gets new controls to reduce forced restarts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+      "pubDate": "Fri, 24 Apr 2026 16:08:26 -0400"
+    },
     {
       "title": "New BlackFile extortion group linked to surge of vishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
@@ -51,16 +61,6 @@
       "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
       "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
       "pubDate": "Thu, 23 Apr 2026 12:05:12 -0400"
-    },
-    {
-      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
-      "pubDate": "Thu, 23 Apr 2026 10:16:21 -0400"
-    },
-    {
-      "title": "Regular Password Resets Aren\u2019t as Safe as You Think",
-      "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-      "pubDate": "Thu, 23 Apr 2026 10:10:20 -0400"
     }
   ]
 }
