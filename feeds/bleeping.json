@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-24T22:31:20Z",
+  "updated": "2026-04-24T23:30:57Z",
   "items": [
+    {
+      "title": "ADT confirms data breach after ShinyHunters leak threat",
+      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+      "pubDate": "Fri, 24 Apr 2026 18:53:14 -0400"
+    },
     {
       "title": "Firestarter malware survives Cisco firewall updates, security patches",
       "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
@@ -56,11 +61,6 @@
       "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
       "pubDate": "Thu, 23 Apr 2026 14:59:39 -0400"
-    },
-    {
-      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-      "pubDate": "Thu, 23 Apr 2026 12:05:12 -0400"
     }
   ]
 }
