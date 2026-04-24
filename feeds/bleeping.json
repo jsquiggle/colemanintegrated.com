@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-24T16:52:07Z",
+  "updated": "2026-04-24T17:42:30Z",
   "items": [
+    {
+      "title": "New \u2018Pack2TheRoot\u2019 flaw gives hackers root Linux access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+      "pubDate": "Fri, 24 Apr 2026 13:28:46 -0400"
+    },
     {
       "title": "DORA and operational resilience: Credential management as a financial risk control",
       "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
@@ -56,11 +61,6 @@
       "title": "UK warns of Chinese hackers using proxy networks to evade detection",
       "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
       "pubDate": "Thu, 23 Apr 2026 08:28:39 -0400"
-    },
-    {
-      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
-      "pubDate": "Thu, 23 Apr 2026 08:06:18 -0400"
     }
   ]
 }
