@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-24T14:43:34Z",
+  "updated": "2026-04-24T15:57:50Z",
   "items": [
+    {
+      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+      "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
+      "pubDate": "Fri, 24 Apr 2026 19:43:00 +0530"
+    },
     {
       "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
       "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
@@ -56,11 +61,6 @@
       "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
       "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
       "pubDate": "Thu, 23 Apr 2026 14:10:00 +0530"
-    },
-    {
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "pubDate": "Thu, 23 Apr 2026 13:36:00 +0530"
     }
   ]
 }
