@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-24T12:57:44Z",
+  "updated": "2026-04-24T14:43:34Z",
   "items": [
+    {
+      "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
+      "pubDate": "Fri, 24 Apr 2026 09:35:33 -0400"
+    },
     {
       "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
       "pubDate": "Thu, 23 Apr 2026 07:05:57 -0400"
-    },
-    {
-      "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-      "pubDate": "Wed, 22 Apr 2026 16:58:58 -0400"
     }
   ]
 }
