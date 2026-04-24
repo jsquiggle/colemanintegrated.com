@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-24T11:37:48Z",
+  "updated": "2026-04-24T12:57:44Z",
   "items": [
+    {
+      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
+      "pubDate": "Fri, 24 Apr 2026 07:38:00 -0400"
+    },
     {
       "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
@@ -56,11 +61,6 @@
       "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
       "pubDate": "Wed, 22 Apr 2026 16:58:58 -0400"
-    },
-    {
-      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-      "pubDate": "Wed, 22 Apr 2026 16:04:46 -0400"
     }
   ]
 }
