@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-25T14:38:05Z",
+  "updated": "2026-04-25T15:31:34Z",
   "items": [
+    {
+      "title": "Threat actor uses Microsoft Teams to deploy new \u201cSnow\u201d malware",
+      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
+      "pubDate": "Sat, 25 Apr 2026 11:07:44 -0400"
+    },
     {
       "title": "ADT confirms data breach after ShinyHunters leak threat",
       "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
@@ -56,11 +61,6 @@
       "title": "Bitwarden CLI npm package compromised to steal developer credentials",
       "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
       "pubDate": "Thu, 23 Apr 2026 15:21:01 -0400"
-    },
-    {
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "pubDate": "Thu, 23 Apr 2026 14:59:39 -0400"
     }
   ]
 }
