@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-25T06:01:53Z",
+  "updated": "2026-04-25T07:49:47Z",
   "items": [
+    {
+      "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
+      "pubDate": "Sat, 25 Apr 2026 10:38:00 +0530"
+    },
     {
       "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
       "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
@@ -56,11 +61,6 @@
       "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
       "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
       "pubDate": "Thu, 23 Apr 2026 17:00:00 +0530"
-    },
-    {
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "pubDate": "Thu, 23 Apr 2026 14:34:00 +0530"
     }
   ]
 }
