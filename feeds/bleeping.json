@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-25T16:29:54Z",
+  "updated": "2026-04-25T17:09:47Z",
   "items": [
+    {
+      "title": "Microsoft rolls out revamped Windows Insider Program",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "pubDate": "Sat, 25 Apr 2026 13:07:13 -0400"
+    },
     {
       "title": "Threat actor uses Microsoft Teams to deploy new \u201cSnow\u201d malware",
       "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
       "pubDate": "Thu, 23 Apr 2026 17:33:45 -0400"
-    },
-    {
-      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-      "pubDate": "Thu, 23 Apr 2026 15:21:01 -0400"
     }
   ]
 }
