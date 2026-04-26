@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-26T13:58:08Z",
+  "updated": "2026-04-26T14:40:27Z",
   "items": [
+    {
+      "title": "American utility firm Itron discloses breach of internal IT network",
+      "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "pubDate": "Sun, 26 Apr 2026 10:22:34 -0400"
+    },
     {
       "title": "Microsoft rolls out revamped Windows Insider Program",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
@@ -56,11 +61,6 @@
       "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
       "pubDate": "Fri, 24 Apr 2026 07:38:00 -0400"
-    },
-    {
-      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-      "pubDate": "Thu, 23 Apr 2026 17:33:45 -0400"
     }
   ]
 }
