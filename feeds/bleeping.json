@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-27T15:04:50Z",
+  "updated": "2026-04-27T16:59:54Z",
   "items": [
+    {
+      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
+      "pubDate": "Mon, 27 Apr 2026 12:27:53 -0400"
+    },
+    {
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "pubDate": "Mon, 27 Apr 2026 11:17:37 -0400"
+    },
     {
       "title": "Home security giant ADT data breach affects 5.5 million people",
       "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
@@ -51,16 +61,6 @@
       "title": "ADT confirms data breach after ShinyHunters leak threat",
       "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
       "pubDate": "Fri, 24 Apr 2026 18:53:14 -0400"
-    },
-    {
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "pubDate": "Fri, 24 Apr 2026 16:34:08 -0400"
-    },
-    {
-      "title": "Windows Update gets new controls to reduce forced restarts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-      "pubDate": "Fri, 24 Apr 2026 16:08:26 -0400"
     }
   ]
 }
