@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-27T11:20:49Z",
+  "updated": "2026-04-27T12:57:44Z",
   "items": [
+    {
+      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+      "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+      "pubDate": "Mon, 27 Apr 2026 17:28:00 +0530"
+    },
+    {
+      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+      "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+      "pubDate": "Mon, 27 Apr 2026 17:24:00 +0530"
+    },
+    {
+      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+      "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+      "pubDate": "Mon, 27 Apr 2026 16:53:00 +0530"
+    },
     {
       "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
       "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
@@ -46,21 +61,6 @@
       "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
       "pubDate": "Fri, 24 Apr 2026 12:54:00 +0530"
-    },
-    {
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "pubDate": "Thu, 23 Apr 2026 23:46:00 +0530"
-    },
-    {
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-      "pubDate": "Thu, 23 Apr 2026 19:12:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-      "pubDate": "Thu, 23 Apr 2026 18:47:00 +0530"
     }
   ]
 }
