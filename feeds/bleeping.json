@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-27T12:57:44Z",
+  "updated": "2026-04-27T15:04:50Z",
   "items": [
+    {
+      "title": "Home security giant ADT data breach affects 5.5 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "pubDate": "Mon, 27 Apr 2026 10:43:11 -0400"
+    },
+    {
+      "title": "Webinar: Spotting cyberattacks before they begin",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
+      "pubDate": "Mon, 27 Apr 2026 10:25:35 -0400"
+    },
+    {
+      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+      "pubDate": "Mon, 27 Apr 2026 09:50:42 -0400"
+    },
+    {
+      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
+      "pubDate": "Mon, 27 Apr 2026 09:01:38 -0400"
+    },
+    {
+      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
+      "link": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
+      "pubDate": "Mon, 27 Apr 2026 09:00:09 -0400"
+    },
     {
       "title": "Microsoft says Outlook.com outage is causing sign\u2011in failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
@@ -36,31 +61,6 @@
       "title": "Windows Update gets new controls to reduce forced restarts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
       "pubDate": "Fri, 24 Apr 2026 16:08:26 -0400"
-    },
-    {
-      "title": "New BlackFile extortion group linked to surge of vishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-      "pubDate": "Fri, 24 Apr 2026 14:26:27 -0400"
-    },
-    {
-      "title": "Microsoft to roll out Entra passkeys on Windows in late April",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
-      "pubDate": "Fri, 24 Apr 2026 14:13:55 -0400"
-    },
-    {
-      "title": "New \u2018Pack2TheRoot\u2019 flaw gives hackers root Linux access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-      "pubDate": "Fri, 24 Apr 2026 13:28:46 -0400"
-    },
-    {
-      "title": "DORA and operational resilience: Credential management as a financial risk control",
-      "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-      "pubDate": "Fri, 24 Apr 2026 10:10:20 -0400"
-    },
-    {
-      "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
-      "pubDate": "Fri, 24 Apr 2026 09:35:33 -0400"
     }
   ]
 }
