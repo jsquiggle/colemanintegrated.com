@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-27T19:52:07Z",
+  "updated": "2026-04-27T20:51:12Z",
   "items": [
+    {
+      "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
+      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
+      "pubDate": "Mon, 27 Apr 2026 16:00:31 -0400"
+    },
+    {
+      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
+      "pubDate": "Mon, 27 Apr 2026 15:56:03 -0400"
+    },
     {
       "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
@@ -51,16 +61,6 @@
       "title": "Microsoft rolls out revamped Windows Insider Program",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
       "pubDate": "Sat, 25 Apr 2026 13:07:13 -0400"
-    },
-    {
-      "title": "Threat actor uses Microsoft Teams to deploy new \u201cSnow\u201d malware",
-      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "pubDate": "Sat, 25 Apr 2026 11:07:44 -0400"
-    },
-    {
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "pubDate": "Fri, 24 Apr 2026 18:53:14 -0400"
     }
   ]
 }
