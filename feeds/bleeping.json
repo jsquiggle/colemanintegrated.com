@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-27T22:38:57Z",
+  "updated": "2026-04-27T23:41:52Z",
   "items": [
+    {
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "pubDate": "Mon, 27 Apr 2026 19:11:01 -0400"
+    },
     {
       "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
       "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
@@ -56,11 +61,6 @@
       "title": "Microsoft says Outlook.com outage is causing sign\u2011in failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
       "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400"
-    },
-    {
-      "title": "American utility firm Itron discloses breach of internal IT network",
-      "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "pubDate": "Sun, 26 Apr 2026 10:22:34 -0400"
     }
   ]
 }
