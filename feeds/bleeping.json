@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-28T12:08:08Z",
+  "updated": "2026-04-28T14:59:53Z",
   "items": [
+    {
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+      "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "pubDate": "Tue, 28 Apr 2026 10:50:40 -0400"
+    },
+    {
+      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
+      "pubDate": "Tue, 28 Apr 2026 09:18:36 -0400"
+    },
+    {
+      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
+      "pubDate": "Tue, 28 Apr 2026 08:50:58 -0400"
+    },
     {
       "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
@@ -46,21 +61,6 @@
       "title": "Home security giant ADT data breach affects 5.5 million people",
       "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
       "pubDate": "Mon, 27 Apr 2026 10:43:11 -0400"
-    },
-    {
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "pubDate": "Mon, 27 Apr 2026 10:25:35 -0400"
-    },
-    {
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "pubDate": "Mon, 27 Apr 2026 09:50:42 -0400"
-    },
-    {
-      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
-      "pubDate": "Mon, 27 Apr 2026 09:01:38 -0400"
     }
   ]
 }
