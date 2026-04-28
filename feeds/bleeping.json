@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-28T21:05:44Z",
+  "updated": "2026-04-28T22:29:07Z",
   "items": [
+    {
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "pubDate": "Tue, 28 Apr 2026 17:25:57 -0400"
+    },
+    {
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "pubDate": "Tue, 28 Apr 2026 17:07:23 -0400"
+    },
     {
       "title": "Video service Vimeo confirms Anodot breach exposed user data",
       "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
@@ -51,16 +61,6 @@
       "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
       "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
       "pubDate": "Mon, 27 Apr 2026 16:00:31 -0400"
-    },
-    {
-      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
-      "pubDate": "Mon, 27 Apr 2026 15:56:03 -0400"
-    },
-    {
-      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
-      "pubDate": "Mon, 27 Apr 2026 12:27:53 -0400"
     }
   ]
 }
