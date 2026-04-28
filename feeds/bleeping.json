@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-28T14:59:53Z",
+  "updated": "2026-04-28T16:52:06Z",
   "items": [
+    {
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "pubDate": "Tue, 28 Apr 2026 11:39:52 -0400"
+    },
     {
       "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
       "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
@@ -56,11 +61,6 @@
       "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
       "pubDate": "Mon, 27 Apr 2026 11:17:37 -0400"
-    },
-    {
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "pubDate": "Mon, 27 Apr 2026 10:43:11 -0400"
     }
   ]
 }
