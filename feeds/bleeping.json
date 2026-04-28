@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-28T07:42:33Z",
+  "updated": "2026-04-28T10:04:43Z",
   "items": [
+    {
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "pubDate": "Tue, 28 Apr 2026 05:51:26 -0400"
+    },
+    {
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "pubDate": "Tue, 28 Apr 2026 04:37:12 -0400"
+    },
     {
       "title": "Robinhood account creation flaw abused to send phishing emails",
       "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
@@ -51,16 +61,6 @@
       "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
       "pubDate": "Mon, 27 Apr 2026 09:01:38 -0400"
-    },
-    {
-      "title": "Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know",
-      "link": "https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/",
-      "pubDate": "Mon, 27 Apr 2026 09:00:09 -0400"
-    },
-    {
-      "title": "Microsoft says Outlook.com outage is causing sign\u2011in failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/",
-      "pubDate": "Mon, 27 Apr 2026 08:03:46 -0400"
     }
   ]
 }
