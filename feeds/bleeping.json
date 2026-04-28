@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-28T18:11:44Z",
+  "updated": "2026-04-28T19:58:51Z",
   "items": [
+    {
+      "title": "Video service Vimeo confirms Anodot breach exposed user data",
+      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "pubDate": "Tue, 28 Apr 2026 15:04:22 -0400"
+    },
     {
       "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
       "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
@@ -56,11 +61,6 @@
       "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
       "pubDate": "Mon, 27 Apr 2026 12:27:53 -0400"
-    },
-    {
-      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
-      "pubDate": "Mon, 27 Apr 2026 11:17:37 -0400"
     }
   ]
 }
