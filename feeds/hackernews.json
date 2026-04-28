@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-28T16:52:06Z",
+  "updated": "2026-04-28T18:11:44Z",
   "items": [
+    {
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "pubDate": "Tue, 28 Apr 2026 23:09:00 +0530"
+    },
     {
       "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
       "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
@@ -56,11 +61,6 @@
       "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
       "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
       "pubDate": "Mon, 27 Apr 2026 17:24:00 +0530"
-    },
-    {
-      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-      "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "pubDate": "Mon, 27 Apr 2026 16:53:00 +0530"
     }
   ]
 }
