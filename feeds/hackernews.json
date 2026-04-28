@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-28T05:21:31Z",
+  "updated": "2026-04-28T07:42:33Z",
   "items": [
+    {
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "pubDate": "Tue, 28 Apr 2026 12:07:00 +0530"
+    },
+    {
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "pubDate": "Tue, 28 Apr 2026 11:20:00 +0530"
+    },
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
       "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
@@ -51,16 +61,6 @@
       "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
       "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
       "pubDate": "Fri, 24 Apr 2026 19:43:00 +0530"
-    },
-    {
-      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
-      "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
-      "pubDate": "Fri, 24 Apr 2026 17:19:00 +0530"
-    },
-    {
-      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
-      "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
-      "pubDate": "Fri, 24 Apr 2026 17:18:00 +0530"
     }
   ]
 }
