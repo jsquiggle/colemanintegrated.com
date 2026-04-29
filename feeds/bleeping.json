@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-29T21:36:30Z",
+  "updated": "2026-04-29T22:44:27Z",
   "items": [
+    {
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "pubDate": "Wed, 29 Apr 2026 18:43:44 -0400"
+    },
+    {
+      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+      "pubDate": "Wed, 29 Apr 2026 18:13:15 -0400"
+    },
     {
       "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
@@ -51,16 +61,6 @@
       "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
       "pubDate": "Tue, 28 Apr 2026 17:07:23 -0400"
-    },
-    {
-      "title": "Video service Vimeo confirms Anodot breach exposed user data",
-      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-      "pubDate": "Tue, 28 Apr 2026 15:04:22 -0400"
-    },
-    {
-      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-      "pubDate": "Tue, 28 Apr 2026 11:39:52 -0400"
     }
   ]
 }
