@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-29T15:30:50Z",
+  "updated": "2026-04-29T17:15:51Z",
   "items": [
+    {
+      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "pubDate": "Wed, 29 Apr 2026 11:51:44 -0400"
+    },
     {
       "title": "European police dismantles \u20ac50 million crypto investment fraud ring",
       "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
       "pubDate": "Tue, 28 Apr 2026 09:18:36 -0400"
-    },
-    {
-      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-      "pubDate": "Tue, 28 Apr 2026 08:50:58 -0400"
     }
   ]
 }
