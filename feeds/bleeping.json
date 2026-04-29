@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-29T13:01:21Z",
+  "updated": "2026-04-29T15:30:50Z",
   "items": [
+    {
+      "title": "European police dismantles \u20ac50 million crypto investment fraud ring",
+      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
+      "pubDate": "Wed, 29 Apr 2026 10:27:36 -0400"
+    },
+    {
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "pubDate": "Wed, 29 Apr 2026 09:05:14 -0400"
+    },
     {
       "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
       "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
@@ -51,16 +61,6 @@
       "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
       "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
       "pubDate": "Tue, 28 Apr 2026 08:50:58 -0400"
-    },
-    {
-      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-      "pubDate": "Tue, 28 Apr 2026 05:51:26 -0400"
-    },
-    {
-      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
-      "pubDate": "Tue, 28 Apr 2026 04:37:12 -0400"
     }
   ]
 }
