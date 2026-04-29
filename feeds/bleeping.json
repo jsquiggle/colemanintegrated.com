@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-29T06:41:30Z",
+  "updated": "2026-04-29T09:04:24Z",
   "items": [
+    {
+      "title": "Microsoft says backend change broke Teams Free chat and calls",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+      "pubDate": "Wed, 29 Apr 2026 04:38:07 -0400"
+    },
     {
       "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
       "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
@@ -56,11 +61,6 @@
       "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
       "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
       "pubDate": "Mon, 27 Apr 2026 17:41:01 -0400"
-    },
-    {
-      "title": "Canada arrests three for operating \u201cSMS blaster\u201d device in Toronto",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-      "pubDate": "Mon, 27 Apr 2026 16:00:31 -0400"
     }
   ]
 }
