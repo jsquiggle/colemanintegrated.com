@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-29T09:04:24Z",
+  "updated": "2026-04-29T11:11:43Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "pubDate": "Wed, 29 Apr 2026 06:29:31 -0400"
+    },
     {
       "title": "Microsoft says backend change broke Teams Free chat and calls",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
@@ -56,11 +61,6 @@
       "title": "Robinhood account creation flaw abused to send phishing emails",
       "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
       "pubDate": "Mon, 27 Apr 2026 19:11:01 -0400"
-    },
-    {
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "pubDate": "Mon, 27 Apr 2026 17:41:01 -0400"
     }
   ]
 }
