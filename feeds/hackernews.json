@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-29T04:07:09Z",
+  "updated": "2026-04-29T06:41:30Z",
   "items": [
+    {
+      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+      "pubDate": "Wed, 29 Apr 2026 11:04:00 +0530"
+    },
     {
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
       "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
       "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
       "pubDate": "Mon, 27 Apr 2026 19:00:00 +0530"
-    },
-    {
-      "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
-      "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
-      "pubDate": "Mon, 27 Apr 2026 17:28:00 +0530"
     }
   ]
 }
