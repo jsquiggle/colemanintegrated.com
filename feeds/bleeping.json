@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-30T11:24:13Z",
+  "updated": "2026-04-30T13:00:40Z",
   "items": [
+    {
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "pubDate": "Thu, 30 Apr 2026 07:40:31 -0400"
+    },
     {
       "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
@@ -56,11 +61,6 @@
       "title": "Microsoft says backend change broke Teams Free chat and calls",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
       "pubDate": "Wed, 29 Apr 2026 04:38:07 -0400"
-    },
-    {
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "pubDate": "Tue, 28 Apr 2026 17:25:57 -0400"
     }
   ]
 }

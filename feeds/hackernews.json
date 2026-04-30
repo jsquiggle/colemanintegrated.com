@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-30T11:24:13Z",
+  "updated": "2026-04-30T13:00:40Z",
   "items": [
+    {
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "pubDate": "Thu, 30 Apr 2026 18:06:00 +0530"
+    },
+    {
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "pubDate": "Thu, 30 Apr 2026 17:00:00 +0530"
+    },
     {
       "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
       "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
@@ -51,16 +61,6 @@
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
       "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
       "pubDate": "Tue, 28 Apr 2026 23:49:00 +0530"
-    },
-    {
-      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-      "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-      "pubDate": "Tue, 28 Apr 2026 23:09:00 +0530"
-    },
-    {
-      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-      "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
-      "pubDate": "Tue, 28 Apr 2026 19:31:00 +0530"
     }
   ]
 }
