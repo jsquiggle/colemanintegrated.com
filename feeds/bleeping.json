@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-30T13:00:40Z",
+  "updated": "2026-04-30T15:25:08Z",
   "items": [
+    {
+      "title": "April KB5083769 Windows 11 update causes backup software failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "pubDate": "Thu, 30 Apr 2026 11:23:03 -0400"
+    },
+    {
+      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+      "pubDate": "Thu, 30 Apr 2026 10:02:12 -0400"
+    },
+    {
+      "title": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+      "pubDate": "Thu, 30 Apr 2026 09:54:47 -0400"
+    },
     {
       "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
@@ -46,21 +61,6 @@
       "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
       "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
       "pubDate": "Wed, 29 Apr 2026 09:05:14 -0400"
-    },
-    {
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "pubDate": "Wed, 29 Apr 2026 08:41:17 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "pubDate": "Wed, 29 Apr 2026 06:29:31 -0400"
-    },
-    {
-      "title": "Microsoft says backend change broke Teams Free chat and calls",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-      "pubDate": "Wed, 29 Apr 2026 04:38:07 -0400"
     }
   ]
 }

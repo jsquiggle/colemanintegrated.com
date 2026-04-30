@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-04-30T13:00:40Z",
+  "updated": "2026-04-30T15:25:08Z",
   "items": [
+    {
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "pubDate": "Thu, 30 Apr 2026 14:04:26 +0000"
+    },
     {
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -46,11 +51,6 @@
       "title": "How AI Assistants are Moving the Security Goalposts",
       "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
       "pubDate": "Sun, 08 Mar 2026 23:35:42 +0000"
-    },
-    {
-      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
-      "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "pubDate": "Sat, 28 Feb 2026 12:01:57 +0000"
     }
   ]
 }
