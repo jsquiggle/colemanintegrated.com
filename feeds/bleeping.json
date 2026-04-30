@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-30T18:03:17Z",
+  "updated": "2026-04-30T19:53:46Z",
   "items": [
+    {
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "pubDate": "Thu, 30 Apr 2026 14:58:50 -0400"
+    },
     {
       "title": "Romanian leader of online swatting ring gets 4 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
@@ -56,11 +61,6 @@
       "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
       "pubDate": "Wed, 29 Apr 2026 14:32:15 -0400"
-    },
-    {
-      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
-      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-      "pubDate": "Wed, 29 Apr 2026 11:51:44 -0400"
     }
   ]
 }
