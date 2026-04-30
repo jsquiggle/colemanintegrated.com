@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-04-30T05:22:51Z",
+  "updated": "2026-04-30T07:40:18Z",
   "items": [
+    {
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "pubDate": "Thu, 30 Apr 2026 12:37:00 +0530"
+    },
     {
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
@@ -56,11 +61,6 @@
       "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
       "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
       "pubDate": "Tue, 28 Apr 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
-      "pubDate": "Tue, 28 Apr 2026 16:48:00 +0530"
     }
   ]
 }
