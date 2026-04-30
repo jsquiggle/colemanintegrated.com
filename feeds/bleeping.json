@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-30T15:25:08Z",
+  "updated": "2026-04-30T16:52:58Z",
   "items": [
+    {
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "pubDate": "Thu, 30 Apr 2026 12:32:18 -0400"
+    },
     {
       "title": "April KB5083769 Windows 11 update causes backup software failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
@@ -56,11 +61,6 @@
       "title": "European police dismantles \u20ac50 million crypto investment fraud ring",
       "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
       "pubDate": "Wed, 29 Apr 2026 10:27:36 -0400"
-    },
-    {
-      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
-      "pubDate": "Wed, 29 Apr 2026 09:05:14 -0400"
     }
   ]
 }
