@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-04-30T09:57:04Z",
+  "updated": "2026-04-30T11:24:13Z",
   "items": [
+    {
+      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+      "pubDate": "Thu, 30 Apr 2026 07:21:02 -0400"
+    },
     {
       "title": "Official SAP npm packages compromised to steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
@@ -56,11 +61,6 @@
       "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
       "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
       "pubDate": "Tue, 28 Apr 2026 17:25:57 -0400"
-    },
-    {
-      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-      "pubDate": "Tue, 28 Apr 2026 17:07:23 -0400"
     }
   ]
 }
