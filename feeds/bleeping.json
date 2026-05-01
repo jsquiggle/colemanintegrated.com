@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-01T12:10:26Z",
+  "updated": "2026-05-01T13:57:39Z",
   "items": [
+    {
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "pubDate": "Fri, 01 May 2026 08:46:48 -0400"
+    },
     {
       "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
@@ -56,11 +61,6 @@
       "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
       "pubDate": "Thu, 30 Apr 2026 07:21:02 -0400"
-    },
-    {
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "pubDate": "Wed, 29 Apr 2026 18:43:44 -0400"
     }
   ]
 }
