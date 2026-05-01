@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-01T17:48:58Z",
+  "updated": "2026-05-01T18:55:49Z",
   "items": [
+    {
+      "title": "15-year-old detained over French govt agency data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "pubDate": "Fri, 01 May 2026 13:52:06 -0400"
+    },
     {
       "title": "Story retracted",
       "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
@@ -56,11 +61,6 @@
       "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
       "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
       "pubDate": "Thu, 30 Apr 2026 10:02:12 -0400"
-    },
-    {
-      "title": "New Linux \u2018Copy Fail\u2019 flaw gives hackers root on major distros",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "pubDate": "Thu, 30 Apr 2026 09:54:47 -0400"
     }
   ]
 }
