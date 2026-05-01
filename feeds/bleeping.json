@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-01T13:57:39Z",
+  "updated": "2026-05-01T14:51:05Z",
   "items": [
+    {
+      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+      "pubDate": "Fri, 01 May 2026 10:02:12 -0400"
+    },
     {
       "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
@@ -56,11 +61,6 @@
       "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
       "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
       "pubDate": "Thu, 30 Apr 2026 07:40:31 -0400"
-    },
-    {
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "pubDate": "Thu, 30 Apr 2026 07:21:02 -0400"
     }
   ]
 }
