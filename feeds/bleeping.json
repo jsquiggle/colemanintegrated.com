@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-01T05:39:25Z",
+  "updated": "2026-05-01T08:00:19Z",
   "items": [
+    {
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "pubDate": "Fri, 01 May 2026 03:47:11 -0400"
+    },
     {
       "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
       "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
       "pubDate": "Wed, 29 Apr 2026 16:50:35 -0400"
-    },
-    {
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-      "pubDate": "Wed, 29 Apr 2026 14:32:15 -0400"
     }
   ]
 }
