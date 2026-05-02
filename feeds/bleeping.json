@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-02T21:30:09Z",
+  "updated": "2026-05-02T22:06:27Z",
   "items": [
+    {
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "pubDate": "Sat, 02 May 2026 17:54:00 -0400"
+    },
     {
       "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
@@ -56,11 +61,6 @@
       "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
       "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
       "pubDate": "Thu, 30 Apr 2026 14:58:50 -0400"
-    },
-    {
-      "title": "Romanian leader of online swatting ring gets 4 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
-      "pubDate": "Thu, 30 Apr 2026 13:45:12 -0400"
     }
   ]
 }
