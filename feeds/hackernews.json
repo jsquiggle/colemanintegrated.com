@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-02T04:51:18Z",
+  "updated": "2026-05-02T06:56:08Z",
   "items": [
+    {
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "pubDate": "Sat, 02 May 2026 12:11:00 +0530"
+    },
     {
       "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
       "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
@@ -56,11 +61,6 @@
       "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
       "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
       "pubDate": "Thu, 30 Apr 2026 14:54:00 +0530"
-    },
-    {
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "pubDate": "Thu, 30 Apr 2026 12:37:00 +0530"
     }
   ]
 }
