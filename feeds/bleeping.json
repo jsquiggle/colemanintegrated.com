@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-02T14:04:20Z",
+  "updated": "2026-05-02T15:08:41Z",
   "items": [
+    {
+      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
+      "pubDate": "Sat, 02 May 2026 10:32:25 -0400"
+    },
     {
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
@@ -56,11 +61,6 @@
       "title": "Romanian leader of online swatting ring gets 4 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
       "pubDate": "Thu, 30 Apr 2026 13:45:12 -0400"
-    },
-    {
-      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-      "pubDate": "Thu, 30 Apr 2026 12:32:18 -0400"
     }
   ]
 }
