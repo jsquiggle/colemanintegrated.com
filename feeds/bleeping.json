@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-03T14:05:16Z",
+  "updated": "2026-05-03T15:09:18Z",
   "items": [
+    {
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "pubDate": "Sun, 03 May 2026 10:11:21 -0400"
+    },
     {
       "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
@@ -56,11 +61,6 @@
       "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
       "pubDate": "Fri, 01 May 2026 03:47:11 -0400"
-    },
-    {
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "pubDate": "Thu, 30 Apr 2026 14:58:50 -0400"
     }
   ]
 }
