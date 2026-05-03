@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-03T18:07:56Z",
+  "updated": "2026-05-03T19:31:31Z",
   "items": [
+    {
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "pubDate": "Sun, 03 May 2026 14:11:25 -0400"
+    },
     {
       "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
       "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5083631 update released with 34 changes and fixes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/",
       "pubDate": "Fri, 01 May 2026 06:00:53 -0400"
-    },
-    {
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "pubDate": "Fri, 01 May 2026 03:47:11 -0400"
     }
   ]
 }
