@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-04T15:28:33Z",
+  "updated": "2026-05-04T17:09:38Z",
   "items": [
+    {
+      "title": "Trellix discloses data breach after source code repository hack",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "pubDate": "Mon, 04 May 2026 12:25:07 -0400"
+    },
     {
       "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
       "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
@@ -56,11 +61,6 @@
       "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
       "pubDate": "Fri, 01 May 2026 20:18:05 -0400"
-    },
-    {
-      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
-      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
-      "pubDate": "Fri, 01 May 2026 19:43:35 -0400"
     }
   ]
 }

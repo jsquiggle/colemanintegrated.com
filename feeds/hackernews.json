@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-04T15:28:33Z",
+  "updated": "2026-05-04T17:09:38Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+      "pubDate": "Mon, 04 May 2026 19:53:00 +0530"
+    },
     {
       "title": "2026: The Year of AI-Assisted Attacks",
       "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
@@ -56,11 +61,6 @@
       "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
       "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
       "pubDate": "Fri, 01 May 2026 15:26:00 +0530"
-    },
-    {
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "pubDate": "Fri, 01 May 2026 15:13:00 +0530"
     }
   ]
 }
