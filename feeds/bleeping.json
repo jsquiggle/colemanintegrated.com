@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-04T13:20:08Z",
+  "updated": "2026-05-04T15:28:33Z",
   "items": [
+    {
+      "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
+      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+      "pubDate": "Mon, 04 May 2026 09:42:51 -0400"
+    },
     {
       "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
       "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
@@ -56,11 +61,6 @@
       "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
       "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
       "pubDate": "Fri, 01 May 2026 19:43:35 -0400"
-    },
-    {
-      "title": "15-year-old detained over French govt agency data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
-      "pubDate": "Fri, 01 May 2026 13:52:06 -0400"
     }
   ]
 }
