@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-04T09:36:21Z",
+  "updated": "2026-05-04T11:41:34Z",
   "items": [
+    {
+      "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
+      "pubDate": "Mon, 04 May 2026 07:28:15 -0400"
+    },
+    {
+      "title": "Microsoft confirms April Windows updates cause backup failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
+      "pubDate": "Mon, 04 May 2026 06:40:11 -0400"
+    },
     {
       "title": "Instructure confirms data breach, ShinyHunters claims attack",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
@@ -51,16 +61,6 @@
       "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
       "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
       "pubDate": "Fri, 01 May 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "pubDate": "Fri, 01 May 2026 08:46:48 -0400"
-    },
-    {
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "pubDate": "Fri, 01 May 2026 07:10:07 -0400"
     }
   ]
 }
