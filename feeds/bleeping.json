@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-04T19:00:37Z",
+  "updated": "2026-05-04T20:44:06Z",
   "items": [
+    {
+      "title": "Amazon SES increasingly abused in phishing to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "pubDate": "Mon, 04 May 2026 16:03:28 -0400"
+    },
     {
       "title": "Backdoored PyTorch Lightning package drops credential stealer",
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
@@ -56,11 +61,6 @@
       "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
       "pubDate": "Sat, 02 May 2026 17:54:00 -0400"
-    },
-    {
-      "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
-      "pubDate": "Sat, 02 May 2026 10:32:25 -0400"
     }
   ]
 }
