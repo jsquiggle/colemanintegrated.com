@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-04T11:41:34Z",
+  "updated": "2026-05-04T13:20:08Z",
   "items": [
+    {
+      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
+      "pubDate": "Mon, 04 May 2026 08:18:57 -0400"
+    },
+    {
+      "title": "Webinar: Why MSPs must rethink security and backup strategies",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
+      "pubDate": "Mon, 04 May 2026 08:16:24 -0400"
+    },
     {
       "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
@@ -51,16 +61,6 @@
       "title": "15-year-old detained over French govt agency data breach",
       "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
       "pubDate": "Fri, 01 May 2026 13:52:06 -0400"
-    },
-    {
-      "title": "Story retracted",
-      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "pubDate": "Fri, 01 May 2026 12:26:28 -0400"
-    },
-    {
-      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-      "pubDate": "Fri, 01 May 2026 10:02:12 -0400"
     }
   ]
 }
