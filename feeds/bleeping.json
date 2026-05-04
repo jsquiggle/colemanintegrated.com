@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-04T17:09:38Z",
+  "updated": "2026-05-04T19:00:37Z",
   "items": [
+    {
+      "title": "Backdoored PyTorch Lightning package drops credential stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+      "pubDate": "Mon, 04 May 2026 13:15:27 -0400"
+    },
     {
       "title": "Trellix discloses data breach after source code repository hack",
       "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
@@ -56,11 +61,6 @@
       "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
       "pubDate": "Sat, 02 May 2026 10:32:25 -0400"
-    },
-    {
-      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
-      "pubDate": "Fri, 01 May 2026 20:18:05 -0400"
     }
   ]
 }
