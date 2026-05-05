@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T21:52:38Z",
+  "updated": "2026-05-05T22:45:03Z",
   "items": [
+    {
+      "title": "New stealthy Quasar Linux malware targets software developers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "pubDate": "Tue, 05 May 2026 18:01:39 -0400"
+    },
     {
       "title": "Instructure hacker claims data theft from 8,800 schools, universities",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
@@ -56,11 +61,6 @@
       "title": "Weaver E-cology critical bug exploited in attacks since March",
       "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
       "pubDate": "Mon, 04 May 2026 18:12:57 -0400"
-    },
-    {
-      "title": "Researchers report Amazon SES abused in phishing to evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-      "pubDate": "Mon, 04 May 2026 16:03:28 -0400"
     }
   ]
 }
