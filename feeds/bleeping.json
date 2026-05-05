@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T16:59:44Z",
+  "updated": "2026-05-05T18:11:13Z",
   "items": [
+    {
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "pubDate": "Tue, 05 May 2026 13:34:09 -0400"
+    },
     {
       "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
@@ -56,11 +61,6 @@
       "title": "Trellix discloses data breach after source code repository hack",
       "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
       "pubDate": "Mon, 04 May 2026 12:25:07 -0400"
-    },
-    {
-      "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
-      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
-      "pubDate": "Mon, 04 May 2026 09:42:51 -0400"
     }
   ]
 }
