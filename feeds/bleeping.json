@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T10:57:21Z",
+  "updated": "2026-05-05T11:56:52Z",
   "items": [
+    {
+      "title": "Google now offers up to $1.5 million for some Android exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
+      "pubDate": "Tue, 05 May 2026 07:24:48 -0400"
+    },
     {
       "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
@@ -56,11 +61,6 @@
       "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
       "pubDate": "Mon, 04 May 2026 07:28:15 -0400"
-    },
-    {
-      "title": "Microsoft confirms April Windows updates cause backup failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
-      "pubDate": "Mon, 04 May 2026 06:40:11 -0400"
     }
   ]
 }
