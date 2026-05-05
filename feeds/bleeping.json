@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T11:56:52Z",
+  "updated": "2026-05-05T16:59:44Z",
   "items": [
+    {
+      "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "pubDate": "Tue, 05 May 2026 10:39:53 -0400"
+    },
+    {
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "pubDate": "Tue, 05 May 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "pubDate": "Tue, 05 May 2026 09:03:46 -0400"
+    },
     {
       "title": "Google now offers up to $1.5 million for some Android exploits",
       "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
@@ -46,21 +61,6 @@
       "title": "They don\u2019t hack, they borrow: How fraudsters target credit unions",
       "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
       "pubDate": "Mon, 04 May 2026 09:42:51 -0400"
-    },
-    {
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "pubDate": "Mon, 04 May 2026 08:18:57 -0400"
-    },
-    {
-      "title": "Webinar: Why MSPs must rethink security and backup strategies",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "pubDate": "Mon, 04 May 2026 08:16:24 -0400"
-    },
-    {
-      "title": "CISA says \u2018Copy Fail\u2019 flaw now exploited to root Linux systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "pubDate": "Mon, 04 May 2026 07:28:15 -0400"
     }
   ]
 }
