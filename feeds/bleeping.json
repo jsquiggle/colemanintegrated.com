@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T07:11:02Z",
+  "updated": "2026-05-05T09:25:13Z",
   "items": [
+    {
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "pubDate": "Tue, 05 May 2026 05:04:13 -0400"
+    },
     {
       "title": "Weaver E-cology critical bug exploited in attacks since March",
       "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
       "pubDate": "Sun, 03 May 2026 14:11:25 -0400"
-    },
-    {
-      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-      "pubDate": "Sun, 03 May 2026 10:11:21 -0400"
     }
   ]
 }
