@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-05T09:25:13Z",
+  "updated": "2026-05-05T10:57:21Z",
   "items": [
+    {
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "pubDate": "Tue, 05 May 2026 14:37:00 +0530"
+    },
     {
       "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
       "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
@@ -56,11 +61,6 @@
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
       "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
       "pubDate": "Sat, 02 May 2026 12:11:00 +0530"
-    },
-    {
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "pubDate": "Fri, 01 May 2026 23:39:00 +0530"
     }
   ]
 }

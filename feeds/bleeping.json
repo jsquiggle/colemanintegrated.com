@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T09:25:13Z",
+  "updated": "2026-05-05T10:57:21Z",
   "items": [
+    {
+      "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "pubDate": "Tue, 05 May 2026 06:13:17 -0400"
+    },
+    {
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "pubDate": "Tue, 05 May 2026 06:03:52 -0400"
+    },
     {
       "title": "ScarCruft hackers push BirdCall Android malware via game platform",
       "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
@@ -51,16 +61,6 @@
       "title": "Microsoft confirms April Windows updates cause backup failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/",
       "pubDate": "Mon, 04 May 2026 06:40:11 -0400"
-    },
-    {
-      "title": "Instructure confirms data breach, ShinyHunters claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "pubDate": "Sun, 03 May 2026 18:16:27 -0400"
-    },
-    {
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "pubDate": "Sun, 03 May 2026 14:11:25 -0400"
     }
   ]
 }
