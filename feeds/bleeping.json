@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-05T20:53:55Z",
+  "updated": "2026-05-05T21:52:38Z",
   "items": [
+    {
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "pubDate": "Tue, 05 May 2026 17:20:23 -0400"
+    },
     {
       "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
       "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
@@ -53,14 +58,9 @@
       "pubDate": "Mon, 04 May 2026 18:12:57 -0400"
     },
     {
-      "title": "Amazon SES increasingly abused in phishing to evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "title": "Researchers report Amazon SES abused in phishing to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
       "pubDate": "Mon, 04 May 2026 16:03:28 -0400"
-    },
-    {
-      "title": "Backdoored PyTorch Lightning package drops credential stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "pubDate": "Mon, 04 May 2026 13:15:27 -0400"
     }
   ]
 }
