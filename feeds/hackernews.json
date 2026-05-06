@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-06T20:06:37Z",
+  "updated": "2026-05-06T21:35:49Z",
   "items": [
+    {
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "pubDate": "Thu, 07 May 2026 01:51:00 +0530"
+    },
     {
       "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
       "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
@@ -56,11 +61,6 @@
       "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
       "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
       "pubDate": "Tue, 05 May 2026 17:26:00 +0530"
-    },
-    {
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "pubDate": "Tue, 05 May 2026 16:00:00 +0530"
     }
   ]
 }
