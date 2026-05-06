@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-06T18:11:41Z",
+  "updated": "2026-05-06T20:06:37Z",
   "items": [
+    {
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "pubDate": "Wed, 06 May 2026 14:38:38 -0400"
+    },
     {
       "title": "New Cisco DoS flaw requires manual reboot to revive devices",
       "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
@@ -56,11 +61,6 @@
       "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
       "pubDate": "Tue, 05 May 2026 10:39:53 -0400"
-    },
-    {
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "pubDate": "Tue, 05 May 2026 10:00:10 -0400"
     }
   ]
 }
