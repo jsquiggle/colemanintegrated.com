@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-06T21:35:49Z",
+  "updated": "2026-05-06T22:38:44Z",
   "items": [
+    {
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "pubDate": "Wed, 06 May 2026 17:36:06 -0400"
+    },
     {
       "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
       "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
@@ -56,11 +61,6 @@
       "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
       "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
       "pubDate": "Tue, 05 May 2026 13:34:09 -0400"
-    },
-    {
-      "title": "FTC to ban data broker Kochava from selling Americans\u2019 location data",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-      "pubDate": "Tue, 05 May 2026 10:39:53 -0400"
     }
   ]
 }
