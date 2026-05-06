@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-06T05:19:37Z",
+  "updated": "2026-05-06T07:45:16Z",
   "items": [
+    {
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "pubDate": "Wed, 06 May 2026 11:44:00 +0530"
+    },
     {
       "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
       "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
@@ -56,11 +61,6 @@
       "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
       "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
       "pubDate": "Mon, 04 May 2026 22:04:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "pubDate": "Mon, 04 May 2026 19:53:00 +0530"
     }
   ]
 }
