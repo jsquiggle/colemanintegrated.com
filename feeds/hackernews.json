@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-06T12:13:08Z",
+  "updated": "2026-05-06T15:06:30Z",
   "items": [
+    {
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
+      "pubDate": "Wed, 06 May 2026 18:30:00 +0530"
+    },
+    {
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
+      "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "pubDate": "Wed, 06 May 2026 17:33:00 +0530"
+    },
+    {
+      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
+      "pubDate": "Wed, 06 May 2026 16:27:00 +0530"
+    },
     {
       "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
       "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
@@ -46,21 +61,6 @@
       "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
       "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
       "pubDate": "Tue, 05 May 2026 16:00:00 +0530"
-    },
-    {
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "pubDate": "Tue, 05 May 2026 14:37:00 +0530"
-    },
-    {
-      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-      "pubDate": "Tue, 05 May 2026 13:07:00 +0530"
-    },
-    {
-      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-      "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-      "pubDate": "Tue, 05 May 2026 12:05:00 +0530"
     }
   ]
 }

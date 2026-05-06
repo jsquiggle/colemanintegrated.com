@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-06T12:13:08Z",
+  "updated": "2026-05-06T15:06:30Z",
   "items": [
+    {
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "pubDate": "Wed, 06 May 2026 10:04:14 -0400"
+    },
+    {
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "pubDate": "Wed, 06 May 2026 09:02:52 -0400"
+    },
+    {
+      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+      "pubDate": "Wed, 06 May 2026 08:56:32 -0400"
+    },
     {
       "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
@@ -46,21 +61,6 @@
       "title": "Google now offers up to $1.5 million for some Android exploits",
       "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
       "pubDate": "Tue, 05 May 2026 07:24:48 -0400"
-    },
-    {
-      "title": "Karakurt extortion gang \u2018cold case\u2019 negotiator gets 8.5 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "pubDate": "Tue, 05 May 2026 06:13:17 -0400"
-    },
-    {
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "pubDate": "Tue, 05 May 2026 06:03:52 -0400"
-    },
-    {
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "pubDate": "Tue, 05 May 2026 05:04:13 -0400"
     }
   ]
 }
