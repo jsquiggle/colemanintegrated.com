@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-06T07:45:16Z",
+  "updated": "2026-05-06T10:07:05Z",
   "items": [
+    {
+      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+      "pubDate": "Wed, 06 May 2026 05:18:16 -0400"
+    },
     {
       "title": "New stealthy Quasar Linux malware targets software developers",
       "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
@@ -56,11 +61,6 @@
       "title": "ScarCruft hackers push BirdCall Android malware via game platform",
       "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
       "pubDate": "Tue, 05 May 2026 05:04:13 -0400"
-    },
-    {
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "pubDate": "Mon, 04 May 2026 18:12:57 -0400"
     }
   ]
 }
