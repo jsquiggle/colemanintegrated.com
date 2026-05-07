@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-07T15:08:31Z",
+  "updated": "2026-05-07T17:12:45Z",
   "items": [
+    {
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "pubDate": "Thu, 07 May 2026 11:20:51 -0400"
+    },
     {
       "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
       "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
@@ -56,11 +61,6 @@
       "title": "Why ransomware attacks succeed even when backups exist",
       "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
       "pubDate": "Wed, 06 May 2026 10:04:14 -0400"
-    },
-    {
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "pubDate": "Wed, 06 May 2026 09:02:52 -0400"
     }
   ]
 }
