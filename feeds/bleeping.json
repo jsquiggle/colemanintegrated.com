@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-07T10:37:29Z",
+  "updated": "2026-05-07T12:23:47Z",
   "items": [
+    {
+      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
+      "pubDate": "Thu, 07 May 2026 08:11:53 -0400"
+    },
+    {
+      "title": "Webinar: Why modern attacks require both security and recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
+      "pubDate": "Thu, 07 May 2026 08:00:08 -0400"
+    },
+    {
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "pubDate": "Thu, 07 May 2026 06:57:59 -0400"
+    },
     {
       "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
@@ -46,21 +61,6 @@
       "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
       "pubDate": "Wed, 06 May 2026 05:18:16 -0400"
-    },
-    {
-      "title": "New stealthy Quasar Linux malware targets software developers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "pubDate": "Tue, 05 May 2026 18:01:39 -0400"
-    },
-    {
-      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-      "pubDate": "Tue, 05 May 2026 17:20:23 -0400"
-    },
-    {
-      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-      "pubDate": "Tue, 05 May 2026 15:21:18 -0400"
     }
   ]
 }
