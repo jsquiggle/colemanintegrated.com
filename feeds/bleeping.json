@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-07T12:23:47Z",
+  "updated": "2026-05-07T15:08:31Z",
   "items": [
+    {
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "pubDate": "Thu, 07 May 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Americans sentenced for running 'laptop farms' for North Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
+      "pubDate": "Thu, 07 May 2026 09:45:48 -0400"
+    },
     {
       "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
@@ -51,16 +61,6 @@
       "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
       "pubDate": "Wed, 06 May 2026 09:02:52 -0400"
-    },
-    {
-      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-      "pubDate": "Wed, 06 May 2026 08:56:32 -0400"
-    },
-    {
-      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-      "pubDate": "Wed, 06 May 2026 05:18:16 -0400"
     }
   ]
 }
