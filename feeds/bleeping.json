@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-07T17:12:45Z",
+  "updated": "2026-05-07T19:09:56Z",
   "items": [
+    {
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "pubDate": "Thu, 07 May 2026 14:35:50 -0400"
+    },
+    {
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "pubDate": "Thu, 07 May 2026 14:00:59 -0400"
+    },
     {
       "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
@@ -51,16 +61,6 @@
       "title": "New Cisco DoS flaw requires manual reboot to revive devices",
       "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
       "pubDate": "Wed, 06 May 2026 14:06:21 -0400"
-    },
-    {
-      "title": "DAEMON Tools devs confirm breach, release malware-free version",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-      "pubDate": "Wed, 06 May 2026 12:43:30 -0400"
-    },
-    {
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "pubDate": "Wed, 06 May 2026 10:04:14 -0400"
     }
   ]
 }
