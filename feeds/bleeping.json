@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-07T21:44:34Z",
+  "updated": "2026-05-07T22:51:04Z",
   "items": [
+    {
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "pubDate": "Thu, 07 May 2026 18:36:54 -0400"
+    },
+    {
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "pubDate": "Thu, 07 May 2026 18:06:52 -0400"
+    },
     {
       "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
       "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
@@ -51,16 +61,6 @@
       "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
       "pubDate": "Wed, 06 May 2026 17:36:06 -0400"
-    },
-    {
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "pubDate": "Wed, 06 May 2026 14:38:38 -0400"
-    },
-    {
-      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-      "pubDate": "Wed, 06 May 2026 14:06:21 -0400"
     }
   ]
 }
