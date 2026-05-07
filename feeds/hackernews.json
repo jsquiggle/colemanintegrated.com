@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-07T08:01:09Z",
+  "updated": "2026-05-07T10:37:29Z",
   "items": [
+    {
+      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
+      "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
+      "pubDate": "Thu, 07 May 2026 14:50:00 +0530"
+    },
     {
       "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
       "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
       "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
       "pubDate": "Tue, 05 May 2026 19:49:00 +0530"
-    },
-    {
-      "title": "The Back Door Attackers Know About \u2014 and Most Security Teams Still Haven\u2019t Closed",
-      "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-      "pubDate": "Tue, 05 May 2026 17:28:00 +0530"
     }
   ]
 }

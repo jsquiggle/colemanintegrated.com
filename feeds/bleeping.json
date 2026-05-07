@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-07T08:01:09Z",
+  "updated": "2026-05-07T10:37:29Z",
   "items": [
+    {
+      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+      "pubDate": "Thu, 07 May 2026 06:02:35 -0400"
+    },
     {
       "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
@@ -56,11 +61,6 @@
       "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
       "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
       "pubDate": "Tue, 05 May 2026 15:21:18 -0400"
-    },
-    {
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "pubDate": "Tue, 05 May 2026 13:34:09 -0400"
     }
   ]
 }
