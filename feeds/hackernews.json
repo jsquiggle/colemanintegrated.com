@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-08T15:58:17Z",
+  "updated": "2026-05-08T17:13:50Z",
   "items": [
+    {
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "pubDate": "Fri, 08 May 2026 20:38:00 +0530"
+    },
     {
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
       "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
@@ -56,11 +61,6 @@
       "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
       "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
       "pubDate": "Thu, 07 May 2026 14:50:00 +0530"
-    },
-    {
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "pubDate": "Thu, 07 May 2026 09:45:00 +0530"
     }
   ]
 }

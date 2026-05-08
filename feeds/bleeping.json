@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-08T15:58:17Z",
+  "updated": "2026-05-08T17:13:50Z",
   "items": [
+    {
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "pubDate": "Fri, 08 May 2026 12:18:31 -0400"
+    },
     {
       "title": "Why More Analysts Won\u2019t Solve Your SOC\u2019s Alert Problem",
       "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
@@ -56,11 +61,6 @@
       "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
       "pubDate": "Thu, 07 May 2026 11:20:51 -0400"
-    },
-    {
-      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
-      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
-      "pubDate": "Thu, 07 May 2026 10:01:11 -0400"
     }
   ]
 }
