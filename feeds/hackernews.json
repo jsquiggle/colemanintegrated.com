@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-08T17:13:50Z",
+  "updated": "2026-05-08T18:49:28Z",
   "items": [
+    {
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "pubDate": "Fri, 08 May 2026 23:42:00 +0530"
+    },
     {
       "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
       "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
@@ -56,11 +61,6 @@
       "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
       "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
       "pubDate": "Thu, 07 May 2026 16:24:00 +0530"
-    },
-    {
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "pubDate": "Thu, 07 May 2026 14:50:00 +0530"
     }
   ]
 }
