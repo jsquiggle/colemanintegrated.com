@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-08T09:59:32Z",
+  "updated": "2026-05-08T11:16:48Z",
   "items": [
+    {
+      "title": "Zara data breach exposed personal information of 197,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
+      "pubDate": "Fri, 08 May 2026 06:42:22 -0400"
+    },
     {
       "title": "Former govt contractor convicted for wiping dozens of federal databases",
       "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
@@ -56,11 +61,6 @@
       "title": "Webinar: Why modern attacks require both security and recovery",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
       "pubDate": "Thu, 07 May 2026 08:00:08 -0400"
-    },
-    {
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "pubDate": "Thu, 07 May 2026 06:57:59 -0400"
     }
   ]
 }
