@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-08T08:05:50Z",
+  "updated": "2026-05-08T09:59:32Z",
   "items": [
+    {
+      "title": "Former govt contractor convicted for wiping dozens of federal databases",
+      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+      "pubDate": "Fri, 08 May 2026 04:45:04 -0400"
+    },
     {
       "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
@@ -56,11 +61,6 @@
       "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
       "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
       "pubDate": "Thu, 07 May 2026 06:57:59 -0400"
-    },
-    {
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "pubDate": "Thu, 07 May 2026 06:02:35 -0400"
     }
   ]
 }
