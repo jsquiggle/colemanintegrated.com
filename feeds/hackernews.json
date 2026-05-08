@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-08T14:30:07Z",
+  "updated": "2026-05-08T15:58:17Z",
   "items": [
+    {
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "pubDate": "Fri, 08 May 2026 19:31:00 +0530"
+    },
     {
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
       "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
@@ -31,11 +36,6 @@
       "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
       "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
       "pubDate": "Thu, 07 May 2026 23:15:00 +0530"
-    },
-    {
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "pubDate": "Thu, 07 May 2026 19:20:00 +0530"
     },
     {
       "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
