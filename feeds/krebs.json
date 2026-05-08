@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-05-08T01:59:57Z",
+  "updated": "2026-05-08T04:54:12Z",
   "items": [
+    {
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "pubDate": "Fri, 08 May 2026 02:58:46 +0000"
+    },
     {
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -46,11 +51,6 @@
       "title": "Microsoft Patch Tuesday, March 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
       "pubDate": "Wed, 11 Mar 2026 00:32:51 +0000"
-    },
-    {
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "pubDate": "Sun, 08 Mar 2026 23:35:42 +0000"
     }
   ]
 }
