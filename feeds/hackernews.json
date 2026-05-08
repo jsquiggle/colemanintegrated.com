@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-08T06:27:33Z",
+  "updated": "2026-05-08T08:05:50Z",
   "items": [
+    {
+      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
+      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+      "pubDate": "Fri, 08 May 2026 10:42:00 +0530"
+    },
     {
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
@@ -56,11 +61,6 @@
       "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
       "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
       "pubDate": "Wed, 06 May 2026 17:33:00 +0530"
-    },
-    {
-      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-      "pubDate": "Wed, 06 May 2026 16:27:00 +0530"
     }
   ]
 }
