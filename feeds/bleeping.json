@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-09T14:12:52Z",
+  "updated": "2026-05-09T15:27:41Z",
   "items": [
+    {
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "pubDate": "Sat, 09 May 2026 10:26:03 -0400"
+    },
     {
       "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
       "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
@@ -56,11 +61,6 @@
       "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
       "pubDate": "Thu, 07 May 2026 14:00:59 -0400"
-    },
-    {
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "pubDate": "Thu, 07 May 2026 11:20:51 -0400"
     }
   ]
 }
