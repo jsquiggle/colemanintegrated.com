@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-10T17:28:00Z",
+  "updated": "2026-05-10T18:12:37Z",
   "items": [
+    {
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "pubDate": "Sun, 10 May 2026 13:52:15 -0400"
+    },
     {
       "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
       "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
@@ -56,11 +61,6 @@
       "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
       "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
       "pubDate": "Thu, 07 May 2026 18:36:54 -0400"
-    },
-    {
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "pubDate": "Thu, 07 May 2026 18:06:52 -0400"
     }
   ]
 }
