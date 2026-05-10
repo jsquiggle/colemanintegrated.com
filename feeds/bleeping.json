@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-10T14:15:46Z",
+  "updated": "2026-05-10T15:28:47Z",
   "items": [
+    {
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "pubDate": "Sun, 10 May 2026 10:16:47 -0400"
+    },
     {
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
@@ -56,11 +61,6 @@
       "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
       "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
       "pubDate": "Thu, 07 May 2026 18:06:52 -0400"
-    },
-    {
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "pubDate": "Thu, 07 May 2026 14:35:50 -0400"
     }
   ]
 }
