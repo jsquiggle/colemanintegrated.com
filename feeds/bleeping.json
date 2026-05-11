@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-11T10:03:24Z",
+  "updated": "2026-05-11T13:20:46Z",
   "items": [
+    {
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "pubDate": "Mon, 11 May 2026 09:02:30 -0400"
+    },
+    {
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "pubDate": "Mon, 11 May 2026 08:30:00 -0400"
+    },
     {
       "title": "TrickMo Android banker adopts TON blockchain for covert comms",
       "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
@@ -51,16 +61,6 @@
       "title": "Zara data breach exposed personal information of 197,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
       "pubDate": "Fri, 08 May 2026 06:42:22 -0400"
-    },
-    {
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "pubDate": "Fri, 08 May 2026 04:45:04 -0400"
-    },
-    {
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "pubDate": "Fri, 08 May 2026 03:45:24 -0400"
     }
   ]
 }
