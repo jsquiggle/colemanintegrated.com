@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-11T06:10:20Z",
+  "updated": "2026-05-11T10:03:24Z",
   "items": [
+    {
+      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
+      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
+      "pubDate": "Mon, 11 May 2026 05:03:02 -0400"
+    },
     {
       "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
@@ -56,11 +61,6 @@
       "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
       "pubDate": "Fri, 08 May 2026 03:45:24 -0400"
-    },
-    {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "pubDate": "Thu, 07 May 2026 18:36:54 -0400"
     }
   ]
 }
