@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-12T08:23:58Z",
+  "updated": "2026-05-12T10:44:27Z",
   "items": [
+    {
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "pubDate": "Tue, 12 May 2026 05:23:56 -0400"
+    },
     {
       "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
       "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
@@ -56,11 +61,6 @@
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
       "pubDate": "Sat, 09 May 2026 15:27:58 -0400"
-    },
-    {
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "pubDate": "Sat, 09 May 2026 10:26:03 -0400"
     }
   ]
 }
