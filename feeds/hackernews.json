@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-12T05:38:24Z",
+  "updated": "2026-05-12T08:23:58Z",
   "items": [
+    {
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "pubDate": "Tue, 12 May 2026 13:07:00 +0530"
+    },
+    {
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "pubDate": "Tue, 12 May 2026 12:25:00 +0530"
+    },
+    {
+      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
+      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
+      "pubDate": "Tue, 12 May 2026 10:48:00 +0530"
+    },
     {
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
       "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
@@ -46,21 +61,6 @@
       "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
       "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
       "pubDate": "Fri, 08 May 2026 23:42:00 +0530"
-    },
-    {
-      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-      "pubDate": "Fri, 08 May 2026 20:38:00 +0530"
-    },
-    {
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "pubDate": "Fri, 08 May 2026 19:31:00 +0530"
-    },
-    {
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "pubDate": "Fri, 08 May 2026 16:30:00 +0530"
     }
   ]
 }
