@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-12T15:39:15Z",
+  "updated": "2026-05-12T17:51:50Z",
   "items": [
+    {
+      "title": "\u0160koda warns of customer data breach after online shop hack",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "pubDate": "Tue, 12 May 2026 13:07:01 -0400"
+    },
+    {
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "pubDate": "Tue, 12 May 2026 13:00:00 -0400"
+    },
     {
       "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
       "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
@@ -51,16 +61,6 @@
       "title": "Webinar this week: Prevention alone is not enough against modern attacks",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
       "pubDate": "Mon, 11 May 2026 08:30:00 -0400"
-    },
-    {
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "pubDate": "Mon, 11 May 2026 05:03:02 -0400"
-    },
-    {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "pubDate": "Sun, 10 May 2026 13:52:15 -0400"
     }
   ]
 }
