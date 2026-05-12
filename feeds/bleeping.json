@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-12T10:44:27Z",
+  "updated": "2026-05-12T12:59:36Z",
   "items": [
+    {
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "pubDate": "Tue, 12 May 2026 07:29:36 -0400"
+    },
+    {
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "pubDate": "Tue, 12 May 2026 07:04:55 -0400"
+    },
     {
       "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
@@ -51,16 +61,6 @@
       "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
       "pubDate": "Sun, 10 May 2026 13:52:15 -0400"
-    },
-    {
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "pubDate": "Sun, 10 May 2026 10:16:47 -0400"
-    },
-    {
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "pubDate": "Sat, 09 May 2026 15:27:58 -0400"
     }
   ]
 }

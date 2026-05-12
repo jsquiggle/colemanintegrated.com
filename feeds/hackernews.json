@@ -1,11 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-12T10:44:27Z",
+  "updated": "2026-05-12T12:59:36Z",
   "items": [
+    {
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "pubDate": "Tue, 12 May 2026 17:28:00 +0530"
+    },
     {
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
       "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "pubDate": "Tue, 12 May 2026 14:20:00 +0530"
+      "pubDate": "Tue, 12 May 2026 17:16:00 +0530"
+    },
+    {
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "pubDate": "Tue, 12 May 2026 16:00:00 +0530"
     },
     {
       "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
@@ -51,16 +61,6 @@
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
       "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
       "pubDate": "Mon, 11 May 2026 12:35:00 +0530"
-    },
-    {
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "pubDate": "Sun, 10 May 2026 18:11:00 +0530"
-    },
-    {
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
-      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "pubDate": "Sat, 09 May 2026 12:46:00 +0530"
     }
   ]
 }
