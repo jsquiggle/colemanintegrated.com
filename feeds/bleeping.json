@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-12T19:26:46Z",
+  "updated": "2026-05-12T20:57:23Z",
   "items": [
+    {
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "pubDate": "Tue, 12 May 2026 16:17:19 -0400"
+    },
+    {
+      "title": "Webinar: Fixing the gaps in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "pubDate": "Tue, 12 May 2026 15:46:04 -0400"
+    },
+    {
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "pubDate": "Tue, 12 May 2026 15:40:31 -0400"
+    },
     {
       "title": "Microsoft releases Windows 10 KB5087544 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
@@ -46,21 +61,6 @@
       "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
       "pubDate": "Tue, 12 May 2026 05:23:56 -0400"
-    },
-    {
-      "title": "GM agrees to $12.75M California settlement over sale of drivers\u2019 data",
-      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "pubDate": "Mon, 11 May 2026 18:40:34 -0400"
-    },
-    {
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "pubDate": "Mon, 11 May 2026 18:03:06 -0400"
-    },
-    {
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "pubDate": "Mon, 11 May 2026 18:02:00 -0400"
     }
   ]
 }
