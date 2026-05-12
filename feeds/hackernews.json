@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-12T12:59:36Z",
+  "updated": "2026-05-12T15:39:15Z",
   "items": [
+    {
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "pubDate": "Tue, 12 May 2026 18:20:00 +0530"
+    },
     {
       "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
       "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
@@ -56,11 +61,6 @@
       "title": "Your Purple Team Isn't Purple \u2014 It's Just Red and Blue in the Same Room",
       "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
       "pubDate": "Mon, 11 May 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "pubDate": "Mon, 11 May 2026 12:35:00 +0530"
     }
   ]
 }
