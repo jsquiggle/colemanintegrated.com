@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-05-12T20:57:23Z",
+  "updated": "2026-05-12T22:07:39Z",
   "items": [
+    {
+      "title": "Patch Tuesday, May 2026 Edition",
+      "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "pubDate": "Tue, 12 May 2026 21:46:45 +0000"
+    },
     {
       "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
       "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -46,11 +51,6 @@
       "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
       "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
       "pubDate": "Wed, 11 Mar 2026 16:20:13 +0000"
-    },
-    {
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "pubDate": "Wed, 11 Mar 2026 00:32:51 +0000"
     }
   ]
 }
