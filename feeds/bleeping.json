@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-13T21:49:32Z",
+  "updated": "2026-05-13T22:55:56Z",
   "items": [
+    {
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "pubDate": "Wed, 13 May 2026 18:23:31 -0400"
+    },
+    {
+      "title": "Iranian hackers targeted major South Korean electronics maker",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+      "pubDate": "Wed, 13 May 2026 17:59:33 -0400"
+    },
     {
       "title": "New critical Exim mailer flaw allows remote code execution",
       "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
@@ -51,16 +61,6 @@
       "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
       "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
       "pubDate": "Tue, 12 May 2026 16:17:19 -0400"
-    },
-    {
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "pubDate": "Tue, 12 May 2026 15:46:04 -0400"
-    },
-    {
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "pubDate": "Tue, 12 May 2026 15:40:31 -0400"
     }
   ]
 }
