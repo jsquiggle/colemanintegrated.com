@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-13T20:14:59Z",
+  "updated": "2026-05-13T21:49:32Z",
   "items": [
+    {
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "pubDate": "Wed, 13 May 2026 16:23:50 -0400"
+    },
     {
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
@@ -56,11 +61,6 @@
       "title": "Signal adds security warnings for social engineering, phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
       "pubDate": "Tue, 12 May 2026 15:40:31 -0400"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "pubDate": "Tue, 12 May 2026 14:58:34 -0400"
     }
   ]
 }
