@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-13T13:33:28Z",
+  "updated": "2026-05-13T16:12:51Z",
   "items": [
+    {
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "pubDate": "Wed, 13 May 2026 11:45:56 -0400"
+    },
+    {
+      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+      "pubDate": "Wed, 13 May 2026 11:42:46 -0400"
+    },
+    {
+      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+      "pubDate": "Wed, 13 May 2026 10:36:09 -0400"
+    },
     {
       "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
@@ -46,21 +61,6 @@
       "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
       "pubDate": "Tue, 12 May 2026 14:23:09 -0400"
-    },
-    {
-      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-      "pubDate": "Tue, 12 May 2026 14:09:12 -0400"
-    },
-    {
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "pubDate": "Tue, 12 May 2026 14:08:06 -0400"
-    },
-    {
-      "title": "\u0160koda warns of customer data breach after online shop hack",
-      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "pubDate": "Tue, 12 May 2026 13:07:01 -0400"
     }
   ]
 }
