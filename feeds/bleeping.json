@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-13T11:24:26Z",
+  "updated": "2026-05-13T13:33:28Z",
   "items": [
+    {
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "pubDate": "Wed, 13 May 2026 08:49:54 -0400"
+    },
+    {
+      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+      "pubDate": "Wed, 13 May 2026 08:30:38 -0400"
+    },
+    {
+      "title": "Microsoft says some users can't install Office on Windows 365 devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
+      "pubDate": "Wed, 13 May 2026 07:53:54 -0400"
+    },
     {
       "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
@@ -46,21 +61,6 @@
       "title": "\u0160koda warns of customer data breach after online shop hack",
       "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
       "pubDate": "Tue, 12 May 2026 13:07:01 -0400"
-    },
-    {
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "pubDate": "Tue, 12 May 2026 13:00:00 -0400"
-    },
-    {
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "pubDate": "Tue, 12 May 2026 07:29:36 -0400"
-    },
-    {
-      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-      "pubDate": "Tue, 12 May 2026 07:04:55 -0400"
     }
   ]
 }

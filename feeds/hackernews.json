@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-13T11:24:26Z",
+  "updated": "2026-05-13T13:33:28Z",
   "items": [
+    {
+      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+      "pubDate": "Wed, 13 May 2026 17:22:43 +0530"
+    },
+    {
+      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+      "pubDate": "Wed, 13 May 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+      "pubDate": "Wed, 13 May 2026 16:06:10 +0530"
+    },
     {
       "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
       "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
@@ -46,21 +61,6 @@
       "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
       "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
       "pubDate": "Tue, 12 May 2026 13:07:00 +0530"
-    },
-    {
-      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-      "pubDate": "Tue, 12 May 2026 12:25:00 +0530"
-    },
-    {
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "pubDate": "Tue, 12 May 2026 10:48:00 +0530"
-    },
-    {
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "pubDate": "Tue, 12 May 2026 00:00:00 +0530"
     }
   ]
 }
