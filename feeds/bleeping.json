@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T20:49:54Z",
+  "updated": "2026-05-14T21:59:49Z",
   "items": [
+    {
+      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "pubDate": "Thu, 14 May 2026 17:07:17 -0400"
+    },
     {
       "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
@@ -56,11 +61,6 @@
       "title": "Iranian hackers targeted major South Korean electronics maker",
       "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
       "pubDate": "Wed, 13 May 2026 17:59:33 -0400"
-    },
-    {
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "pubDate": "Wed, 13 May 2026 16:23:50 -0400"
     }
   ]
 }
