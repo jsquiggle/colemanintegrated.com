@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T11:07:49Z",
+  "updated": "2026-05-14T13:11:04Z",
   "items": [
+    {
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "pubDate": "Thu, 14 May 2026 08:12:40 -0400"
+    },
     {
       "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
       "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
@@ -56,11 +61,6 @@
       "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
       "pubDate": "Wed, 13 May 2026 08:49:54 -0400"
-    },
-    {
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "pubDate": "Wed, 13 May 2026 08:30:38 -0400"
     }
   ]
 }
