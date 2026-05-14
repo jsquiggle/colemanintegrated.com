@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T15:38:11Z",
+  "updated": "2026-05-14T17:29:37Z",
   "items": [
+    {
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "pubDate": "Thu, 14 May 2026 11:43:41 -0400"
+    },
     {
       "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
       "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
       "pubDate": "Wed, 13 May 2026 11:42:46 -0400"
-    },
-    {
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "pubDate": "Wed, 13 May 2026 10:36:09 -0400"
     }
   ]
 }
