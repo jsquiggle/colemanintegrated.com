@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-14T13:11:04Z",
+  "updated": "2026-05-14T15:38:11Z",
   "items": [
+    {
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "pubDate": "Thu, 14 May 2026 19:30:37 +0530"
+    },
     {
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
@@ -56,11 +61,6 @@
       "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
       "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
       "pubDate": "Wed, 13 May 2026 13:38:54 +0530"
-    },
-    {
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "pubDate": "Wed, 13 May 2026 12:25:42 +0530"
     }
   ]
 }

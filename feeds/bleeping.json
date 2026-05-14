@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T13:11:04Z",
+  "updated": "2026-05-14T15:38:11Z",
   "items": [
+    {
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "pubDate": "Thu, 14 May 2026 11:21:32 -0400"
+    },
     {
       "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
       "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
       "pubDate": "Wed, 13 May 2026 10:36:09 -0400"
-    },
-    {
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "pubDate": "Wed, 13 May 2026 08:49:54 -0400"
     }
   ]
 }
