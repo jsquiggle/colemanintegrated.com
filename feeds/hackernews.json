@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-14T17:29:37Z",
+  "updated": "2026-05-14T19:17:41Z",
   "items": [
+    {
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "pubDate": "Thu, 14 May 2026 23:15:20 +0530"
+    },
+    {
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "pubDate": "Thu, 14 May 2026 22:52:43 +0530"
+    },
     {
       "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
       "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
@@ -51,16 +61,6 @@
       "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
       "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
       "pubDate": "Wed, 13 May 2026 17:22:43 +0530"
-    },
-    {
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "pubDate": "Wed, 13 May 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "pubDate": "Wed, 13 May 2026 16:06:10 +0530"
     }
   ]
 }
