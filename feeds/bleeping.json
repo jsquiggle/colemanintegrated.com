@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T21:59:49Z",
+  "updated": "2026-05-14T22:57:36Z",
   "items": [
+    {
+      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "pubDate": "Thu, 14 May 2026 18:50:36 -0400"
+    },
     {
       "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
@@ -56,11 +61,6 @@
       "title": "West Pharmaceutical says hackers stole data, encrypted systems",
       "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
       "pubDate": "Wed, 13 May 2026 18:23:31 -0400"
-    },
-    {
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "pubDate": "Wed, 13 May 2026 17:59:33 -0400"
     }
   ]
 }
