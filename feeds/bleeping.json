@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-14T08:38:02Z",
+  "updated": "2026-05-14T11:07:49Z",
   "items": [
+    {
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "pubDate": "Thu, 14 May 2026 06:03:39 -0400"
+    },
+    {
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "pubDate": "Thu, 14 May 2026 04:55:46 -0400"
+    },
     {
       "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
@@ -51,16 +61,6 @@
       "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
       "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
       "pubDate": "Wed, 13 May 2026 08:30:38 -0400"
-    },
-    {
-      "title": "Microsoft says some users can't install Office on Windows 365 devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-      "pubDate": "Wed, 13 May 2026 07:53:54 -0400"
-    },
-    {
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "pubDate": "Tue, 12 May 2026 19:09:55 -0400"
     }
   ]
 }
