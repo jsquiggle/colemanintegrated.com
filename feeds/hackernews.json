@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-15T02:05:18Z",
+  "updated": "2026-05-15T06:06:54Z",
   "items": [
+    {
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "pubDate": "Fri, 15 May 2026 10:58:03 +0530"
+    },
     {
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
       "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
@@ -56,11 +61,6 @@
       "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
       "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
       "pubDate": "Wed, 13 May 2026 18:30:00 +0530"
-    },
-    {
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "pubDate": "Wed, 13 May 2026 17:22:43 +0530"
     }
   ]
 }
