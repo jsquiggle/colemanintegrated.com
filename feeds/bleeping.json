@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-15T09:26:19Z",
+  "updated": "2026-05-15T11:32:11Z",
   "items": [
+    {
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "pubDate": "Fri, 15 May 2026 05:40:42 -0400"
+    },
     {
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
@@ -56,11 +61,6 @@
       "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
       "pubDate": "Thu, 14 May 2026 03:34:19 -0400"
-    },
-    {
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "pubDate": "Wed, 13 May 2026 18:23:31 -0400"
     }
   ]
 }
