@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-15T11:32:11Z",
+  "updated": "2026-05-15T13:26:58Z",
   "items": [
+    {
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "pubDate": "Fri, 15 May 2026 08:29:48 -0400"
+    },
     {
       "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "US charges suspected Dream Market admin arrested in Germany",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
       "pubDate": "Thu, 14 May 2026 04:55:46 -0400"
-    },
-    {
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "pubDate": "Thu, 14 May 2026 03:34:19 -0400"
     }
   ]
 }
