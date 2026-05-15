@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-15T19:00:24Z",
+  "updated": "2026-05-15T20:37:39Z",
   "items": [
+    {
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "pubDate": "Fri, 15 May 2026 15:30:33 -0400"
+    },
     {
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
       "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
@@ -56,11 +61,6 @@
       "title": "OpenAI confirms security breach in TanStack supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
       "pubDate": "Thu, 14 May 2026 15:07:24 -0400"
-    },
-    {
-      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-      "pubDate": "Thu, 14 May 2026 14:53:50 -0400"
     }
   ]
 }
