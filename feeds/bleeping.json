@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-15T15:34:57Z",
+  "updated": "2026-05-15T17:20:53Z",
   "items": [
+    {
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "pubDate": "Fri, 15 May 2026 13:10:42 -0400"
+    },
+    {
+      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+      "pubDate": "Fri, 15 May 2026 11:56:56 -0400"
+    },
     {
       "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
@@ -51,16 +61,6 @@
       "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
       "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
       "pubDate": "Thu, 14 May 2026 11:43:41 -0400"
-    },
-    {
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "pubDate": "Thu, 14 May 2026 11:21:32 -0400"
-    },
-    {
-      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-      "pubDate": "Thu, 14 May 2026 08:12:40 -0400"
     }
   ]
 }
