@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-16T20:37:20Z",
+  "updated": "2026-05-16T21:38:50Z",
   "items": [
+    {
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "pubDate": "Sat, 16 May 2026 16:55:44 -0400"
+    },
     {
       "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
       "pubDate": "Thu, 14 May 2026 17:07:17 -0400"
-    },
-    {
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "pubDate": "Thu, 14 May 2026 16:09:56 -0400"
     }
   ]
 }
