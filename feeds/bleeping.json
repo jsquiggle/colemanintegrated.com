@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-17T14:21:00Z",
+  "updated": "2026-05-17T15:33:30Z",
   "items": [
+    {
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "pubDate": "Sun, 17 May 2026 10:43:10 -0400"
+    },
     {
       "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
@@ -56,11 +61,6 @@
       "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
       "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
       "pubDate": "Thu, 14 May 2026 18:50:36 -0400"
-    },
-    {
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "pubDate": "Thu, 14 May 2026 17:07:17 -0400"
     }
   ]
 }
