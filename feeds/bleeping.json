@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-17T21:43:56Z",
+  "updated": "2026-05-17T22:42:12Z",
   "items": [
+    {
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "pubDate": "Sun, 17 May 2026 18:30:08 -0400"
+    },
     {
       "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
       "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
@@ -56,11 +61,6 @@
       "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
       "pubDate": "Fri, 15 May 2026 05:40:42 -0400"
-    },
-    {
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "pubDate": "Thu, 14 May 2026 18:50:36 -0400"
     }
   ]
 }
