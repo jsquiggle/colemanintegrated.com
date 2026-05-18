@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-05-18T20:50:46Z",
+  "updated": "2026-05-18T21:57:25Z",
   "items": [
+    {
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "pubDate": "Mon, 18 May 2026 20:48:21 +0000"
+    },
     {
       "title": "Patch Tuesday, May 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -46,11 +51,6 @@
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
       "pubDate": "Fri, 20 Mar 2026 00:49:19 +0000"
-    },
-    {
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "pubDate": "Wed, 11 Mar 2026 16:20:13 +0000"
     }
   ]
 }
