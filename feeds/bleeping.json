@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-18T21:57:25Z",
+  "updated": "2026-05-18T22:56:14Z",
   "items": [
+    {
+      "title": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "pubDate": "Mon, 18 May 2026 18:15:30 -0400"
+    },
     {
       "title": "SHub macOS infostealer variant spoofs Apple security updates",
       "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
@@ -56,11 +61,6 @@
       "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
       "pubDate": "Sat, 16 May 2026 16:55:44 -0400"
-    },
-    {
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "pubDate": "Sat, 16 May 2026 10:15:37 -0400"
     }
   ]
 }
