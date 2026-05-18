@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-18T02:11:32Z",
+  "updated": "2026-05-18T06:35:18Z",
   "items": [
+    {
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "pubDate": "Mon, 18 May 2026 01:33:20 -0400"
+    },
     {
       "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
@@ -56,11 +61,6 @@
       "title": "Microsoft to automatically roll back faulty Windows drivers",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
       "pubDate": "Fri, 15 May 2026 08:29:48 -0400"
-    },
-    {
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "pubDate": "Fri, 15 May 2026 05:40:42 -0400"
     }
   ]
 }
