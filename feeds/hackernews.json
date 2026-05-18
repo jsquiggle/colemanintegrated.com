@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-18T14:25:25Z",
+  "updated": "2026-05-18T17:14:28Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+      "pubDate": "Mon, 18 May 2026 19:20:17 +0530"
+    },
     {
       "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
       "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
@@ -56,11 +61,6 @@
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
       "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
       "pubDate": "Fri, 15 May 2026 19:05:04 +0530"
-    },
-    {
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "pubDate": "Fri, 15 May 2026 16:30:00 +0530"
     }
   ]
 }
