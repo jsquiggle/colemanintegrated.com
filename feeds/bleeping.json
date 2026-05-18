@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-18T06:35:18Z",
+  "updated": "2026-05-18T10:56:16Z",
   "items": [
+    {
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "pubDate": "Mon, 18 May 2026 04:33:14 -0400"
+    },
+    {
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "pubDate": "Mon, 18 May 2026 03:18:33 -0400"
+    },
     {
       "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
@@ -51,16 +61,6 @@
       "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
       "pubDate": "Fri, 15 May 2026 10:49:39 -0400"
-    },
-    {
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "pubDate": "Fri, 15 May 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Microsoft to automatically roll back faulty Windows drivers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
-      "pubDate": "Fri, 15 May 2026 08:29:48 -0400"
     }
   ]
 }

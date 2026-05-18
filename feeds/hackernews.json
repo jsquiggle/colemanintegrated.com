@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-18T06:35:18Z",
+  "updated": "2026-05-18T10:56:16Z",
   "items": [
+    {
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "pubDate": "Mon, 18 May 2026 14:27:34 +0530"
+    },
+    {
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "pubDate": "Mon, 18 May 2026 14:27:26 +0530"
+    },
+    {
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "pubDate": "Mon, 18 May 2026 12:16:37 +0530"
+    },
     {
       "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
       "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
@@ -46,21 +61,6 @@
       "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
       "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
       "pubDate": "Fri, 15 May 2026 10:58:03 +0530"
-    },
-    {
-      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-      "pubDate": "Thu, 14 May 2026 23:15:20 +0530"
-    },
-    {
-      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-      "pubDate": "Thu, 14 May 2026 22:52:43 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-      "pubDate": "Thu, 14 May 2026 21:37:46 +0530"
     }
   ]
 }
