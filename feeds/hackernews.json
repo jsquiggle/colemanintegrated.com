@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-18T17:14:28Z",
+  "updated": "2026-05-18T19:10:23Z",
   "items": [
+    {
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "pubDate": "Mon, 18 May 2026 22:51:18 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
       "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
@@ -56,11 +61,6 @@
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
       "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
       "pubDate": "Fri, 15 May 2026 22:40:25 +0530"
-    },
-    {
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "pubDate": "Fri, 15 May 2026 19:05:04 +0530"
     }
   ]
 }
