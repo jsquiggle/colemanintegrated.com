@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-19T10:30:43Z",
+  "updated": "2026-05-19T13:48:58Z",
   "items": [
+    {
+      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+      "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+      "pubDate": "Tue, 19 May 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+      "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+      "pubDate": "Tue, 19 May 2026 16:14:45 +0530"
+    },
     {
       "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
       "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
@@ -51,16 +61,6 @@
       "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
       "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
       "pubDate": "Mon, 18 May 2026 14:27:34 +0530"
-    },
-    {
-      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-      "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-      "pubDate": "Mon, 18 May 2026 14:27:26 +0530"
-    },
-    {
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "pubDate": "Mon, 18 May 2026 12:16:37 +0530"
     }
   ]
 }
