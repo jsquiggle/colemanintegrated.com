@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-19T13:48:58Z",
+  "updated": "2026-05-19T16:43:50Z",
   "items": [
+    {
+      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
+      "pubDate": "Tue, 19 May 2026 12:22:30 -0400"
+    },
+    {
+      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
+      "pubDate": "Tue, 19 May 2026 12:10:47 -0400"
+    },
+    {
+      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
+      "pubDate": "Tue, 19 May 2026 10:30:22 -0400"
+    },
+    {
+      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
+      "pubDate": "Tue, 19 May 2026 10:16:41 -0400"
+    },
+    {
+      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
+      "pubDate": "Tue, 19 May 2026 10:00:10 -0400"
+    },
     {
       "title": "Webinar: The hidden bottlenecks in network incident response",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
@@ -36,31 +61,6 @@
       "title": "Grafana says stolen GitHub token let hackers steal codebase",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
       "pubDate": "Mon, 18 May 2026 09:46:26 -0400"
-    },
-    {
-      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
-      "pubDate": "Mon, 18 May 2026 07:14:28 -0400"
-    },
-    {
-      "title": "Microsoft confirms Windows 11 security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-      "pubDate": "Mon, 18 May 2026 04:33:14 -0400"
-    },
-    {
-      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-      "pubDate": "Mon, 18 May 2026 03:18:33 -0400"
-    },
-    {
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "pubDate": "Mon, 18 May 2026 01:33:20 -0400"
-    },
-    {
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "pubDate": "Sun, 17 May 2026 18:30:08 -0400"
     }
   ]
 }
