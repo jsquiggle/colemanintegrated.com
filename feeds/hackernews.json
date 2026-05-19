@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-19T02:56:04Z",
+  "updated": "2026-05-19T06:41:37Z",
   "items": [
+    {
+      "title": "GitHub Actions Supply Chain Attack Redirects Tags to Steal CI/CD Credentials",
+      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+      "pubDate": "Tue, 19 May 2026 10:58:06 +0530"
+    },
+    {
+      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+      "pubDate": "Tue, 19 May 2026 10:24:17 +0530"
+    },
     {
       "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
       "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
@@ -51,16 +61,6 @@
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
       "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
       "pubDate": "Sun, 17 May 2026 12:43:33 +0530"
-    },
-    {
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "pubDate": "Sat, 16 May 2026 20:50:48 +0530"
-    },
-    {
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "pubDate": "Fri, 15 May 2026 22:40:25 +0530"
     }
   ]
 }
