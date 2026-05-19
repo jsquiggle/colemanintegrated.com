@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-19T21:51:36Z",
+  "updated": "2026-05-19T22:56:03Z",
   "items": [
+    {
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "pubDate": "Tue, 19 May 2026 18:25:49 -0400"
+    },
     {
       "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
       "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
@@ -56,11 +61,6 @@
       "title": "Microsoft confirms patching issues in restricted Windows networks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
       "pubDate": "Tue, 19 May 2026 07:22:15 -0400"
-    },
-    {
-      "title": "INTERPOL \u2018Operation Ramz\u2019 seizes 53 malware, phishing servers",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "pubDate": "Mon, 18 May 2026 18:15:30 -0400"
     }
   ]
 }
