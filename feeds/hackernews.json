@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-20T12:40:02Z",
+  "updated": "2026-05-20T16:21:10Z",
   "items": [
+    {
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "pubDate": "Wed, 20 May 2026 20:06:44 +0530"
+    },
+    {
+      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+      "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+      "pubDate": "Wed, 20 May 2026 18:21:43 +0530"
+    },
+    {
+      "title": "Agent AI is Coming. Are You Ready?",
+      "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
+      "pubDate": "Wed, 20 May 2026 17:28:00 +0530"
+    },
     {
       "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
       "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
@@ -46,21 +61,6 @@
       "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
       "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
       "pubDate": "Tue, 19 May 2026 14:53:15 +0530"
-    },
-    {
-      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "pubDate": "Tue, 19 May 2026 13:19:23 +0530"
-    },
-    {
-      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-      "pubDate": "Tue, 19 May 2026 10:58:06 +0530"
-    },
-    {
-      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-      "pubDate": "Tue, 19 May 2026 10:24:17 +0530"
     }
   ]
 }
