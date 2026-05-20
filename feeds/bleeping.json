@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-20T06:30:16Z",
+  "updated": "2026-05-20T10:17:15Z",
   "items": [
+    {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "pubDate": "Wed, 20 May 2026 04:14:08 -0400"
+    },
+    {
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "pubDate": "Wed, 20 May 2026 03:31:15 -0400"
+    },
     {
       "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
       "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
@@ -51,16 +61,6 @@
       "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
       "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
       "pubDate": "Tue, 19 May 2026 10:16:41 -0400"
-    },
-    {
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "pubDate": "Tue, 19 May 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Webinar: The hidden bottlenecks in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-      "pubDate": "Tue, 19 May 2026 08:14:22 -0400"
     }
   ]
 }
