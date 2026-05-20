@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-20T20:56:01Z",
+  "updated": "2026-05-20T22:19:24Z",
   "items": [
+    {
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "pubDate": "Wed, 20 May 2026 17:36:24 -0400"
+    },
+    {
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "pubDate": "Wed, 20 May 2026 17:19:17 -0400"
+    },
     {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
@@ -51,16 +61,6 @@
       "title": "Discord rolls out end-to-end encryption on voice, video calls",
       "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
       "pubDate": "Tue, 19 May 2026 16:37:45 -0400"
-    },
-    {
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "pubDate": "Tue, 19 May 2026 15:45:39 -0400"
-    },
-    {
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "pubDate": "Tue, 19 May 2026 15:35:32 -0400"
     }
   ]
 }
