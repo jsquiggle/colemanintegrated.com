@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-20T02:14:40Z",
+  "updated": "2026-05-20T06:30:16Z",
   "items": [
+    {
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "pubDate": "Wed, 20 May 2026 10:42:06 +0530"
+    },
+    {
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "pubDate": "Wed, 20 May 2026 09:31:15 +0530"
+    },
     {
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
       "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
@@ -51,16 +61,6 @@
       "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
       "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
       "pubDate": "Mon, 18 May 2026 19:20:17 +0530"
-    },
-    {
-      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-      "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
-      "pubDate": "Mon, 18 May 2026 18:30:00 +0530"
-    },
-    {
-      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
-      "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
-      "pubDate": "Mon, 18 May 2026 16:53:41 +0530"
     }
   ]
 }
