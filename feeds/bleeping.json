@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-20T10:17:15Z",
+  "updated": "2026-05-20T12:40:02Z",
   "items": [
+    {
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "pubDate": "Wed, 20 May 2026 06:52:31 -0400"
+    },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
@@ -56,11 +61,6 @@
       "title": "New Shai-Hulud malware wave compromises 600 npm packages",
       "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
       "pubDate": "Tue, 19 May 2026 10:30:22 -0400"
-    },
-    {
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "pubDate": "Tue, 19 May 2026 10:16:41 -0400"
     }
   ]
 }
