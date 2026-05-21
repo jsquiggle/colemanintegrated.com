@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-21T13:43:26Z",
+  "updated": "2026-05-21T16:33:24Z",
   "items": [
+    {
+      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+      "pubDate": "Thu, 21 May 2026 11:11:08 -0400"
+    },
+    {
+      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
+      "pubDate": "Thu, 21 May 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Chinese hackers target telcos with new Linux, Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
+      "pubDate": "Thu, 21 May 2026 10:00:00 -0400"
+    },
+    {
+      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
+      "pubDate": "Thu, 21 May 2026 09:58:33 -0400"
+    },
     {
       "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
@@ -41,26 +61,6 @@
       "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
       "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
       "pubDate": "Wed, 20 May 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "pubDate": "Wed, 20 May 2026 08:52:29 -0400"
-    },
-    {
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "pubDate": "Wed, 20 May 2026 06:52:31 -0400"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "pubDate": "Wed, 20 May 2026 04:14:08 -0400"
-    },
-    {
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "pubDate": "Wed, 20 May 2026 03:31:15 -0400"
     }
   ]
 }
