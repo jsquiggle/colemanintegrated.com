@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-05-21T20:29:11Z",
+  "updated": "2026-05-21T21:56:24Z",
   "items": [
+    {
+      "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
+      "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "pubDate": "Thu, 21 May 2026 21:50:25 +0000"
+    },
     {
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -46,11 +51,6 @@
       "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
       "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
       "pubDate": "Mon, 23 Mar 2026 15:43:04 +0000"
-    },
-    {
-      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-      "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
-      "pubDate": "Fri, 20 Mar 2026 00:49:19 +0000"
     }
   ]
 }
