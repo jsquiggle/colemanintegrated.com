@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-22T13:22:03Z",
+  "updated": "2026-05-22T15:59:20Z",
   "items": [
+    {
+      "title": "Former US execs plead guilty to aiding tech support scammers",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+      "pubDate": "Fri, 22 May 2026 11:32:18 -0400"
+    },
+    {
+      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
+      "pubDate": "Fri, 22 May 2026 09:39:19 -0400"
+    },
     {
       "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
       "pubDate": "Thu, 21 May 2026 09:09:51 -0400"
-    },
-    {
-      "title": "Flipper One project needs community help to build open Linux platform",
-      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
-      "pubDate": "Thu, 21 May 2026 07:00:00 -0400"
-    },
-    {
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "pubDate": "Thu, 21 May 2026 03:49:48 -0400"
     }
   ]
 }
