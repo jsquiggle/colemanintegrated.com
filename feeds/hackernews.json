@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-22T17:51:44Z",
+  "updated": "2026-05-22T19:21:31Z",
   "items": [
+    {
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "pubDate": "Fri, 22 May 2026 23:05:02 +0530"
+    },
     {
       "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
       "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
@@ -56,11 +61,6 @@
       "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
       "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
       "pubDate": "Thu, 21 May 2026 13:05:53 +0530"
-    },
-    {
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "pubDate": "Thu, 21 May 2026 09:57:01 +0530"
     }
   ]
 }
