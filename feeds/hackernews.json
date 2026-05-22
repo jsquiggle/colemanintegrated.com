@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-22T15:59:20Z",
+  "updated": "2026-05-22T17:51:44Z",
   "items": [
+    {
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "pubDate": "Fri, 22 May 2026 21:50:32 +0530"
+    },
     {
       "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
       "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
@@ -56,11 +61,6 @@
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
       "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
       "pubDate": "Thu, 21 May 2026 09:57:01 +0530"
-    },
-    {
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "pubDate": "Thu, 21 May 2026 09:14:11 +0530"
     }
   ]
 }

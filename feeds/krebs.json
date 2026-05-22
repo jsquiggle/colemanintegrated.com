@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-05-22T15:59:20Z",
+  "updated": "2026-05-22T17:51:44Z",
   "items": [
+    {
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "pubDate": "Fri, 22 May 2026 16:34:24 +0000"
+    },
     {
       "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
       "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
@@ -46,11 +51,6 @@
       "title": "Germany Doxes \u201cUNKN,\u201d Head of RU Ransomware Gangs REvil, GandCrab",
       "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "pubDate": "Mon, 06 Apr 2026 02:07:17 +0000"
-    },
-    {
-      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
-      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
-      "pubDate": "Mon, 23 Mar 2026 15:43:04 +0000"
     }
   ]
 }

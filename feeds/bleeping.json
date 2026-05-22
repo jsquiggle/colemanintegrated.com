@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-22T15:59:20Z",
+  "updated": "2026-05-22T17:51:44Z",
   "items": [
+    {
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "pubDate": "Fri, 22 May 2026 13:24:52 -0400"
+    },
     {
       "title": "Former US execs plead guilty to aiding tech support scammers",
       "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
@@ -56,11 +61,6 @@
       "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
       "pubDate": "Thu, 21 May 2026 09:58:33 -0400"
-    },
-    {
-      "title": "Police seize \u201cFirst VPN\u201d service used in ransomware, data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/",
-      "pubDate": "Thu, 21 May 2026 09:09:51 -0400"
     }
   ]
 }
