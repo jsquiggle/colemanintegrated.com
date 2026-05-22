@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-22T10:40:34Z",
+  "updated": "2026-05-22T13:22:03Z",
   "items": [
+    {
+      "title": "Drupal: Critical SQL injection flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/",
+      "pubDate": "Fri, 22 May 2026 09:14:40 -0400"
+    },
+    {
+      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
+      "pubDate": "Fri, 22 May 2026 09:09:18 -0400"
+    },
+    {
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "pubDate": "Fri, 22 May 2026 08:00:42 -0400"
+    },
     {
       "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
       "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
@@ -46,21 +61,6 @@
       "title": "Microsoft warns of new Defender zero-days exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
       "pubDate": "Thu, 21 May 2026 03:49:48 -0400"
-    },
-    {
-      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
-      "pubDate": "Thu, 21 May 2026 02:54:01 -0400"
-    },
-    {
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "pubDate": "Wed, 20 May 2026 17:36:24 -0400"
-    },
-    {
-      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
-      "pubDate": "Wed, 20 May 2026 17:19:17 -0400"
     }
   ]
 }
