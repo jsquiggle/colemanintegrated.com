@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-23T14:27:04Z",
+  "updated": "2026-05-23T15:38:02Z",
   "items": [
+    {
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "pubDate": "Sat, 23 May 2026 10:23:44 -0400"
+    },
     {
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
@@ -56,11 +61,6 @@
       "title": "Chinese hackers target telcos with new Linux, Windows malware",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
       "pubDate": "Thu, 21 May 2026 10:00:00 -0400"
-    },
-    {
-      "title": "Max severity Cisco Secure Workload flaw gives Site Admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/",
-      "pubDate": "Thu, 21 May 2026 09:58:33 -0400"
     }
   ]
 }
