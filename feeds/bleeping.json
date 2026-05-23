@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-23T20:00:34Z",
+  "updated": "2026-05-23T21:11:21Z",
   "items": [
+    {
+      "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
+      "pubDate": "Sat, 23 May 2026 16:48:23 -0400"
+    },
     {
       "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
       "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
@@ -56,11 +61,6 @@
       "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
       "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
       "pubDate": "Thu, 21 May 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Chinese hackers target telcos with new Linux, Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/",
-      "pubDate": "Thu, 21 May 2026 10:00:00 -0400"
     }
   ]
 }
