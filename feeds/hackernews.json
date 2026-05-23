@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-23T16:49:06Z",
+  "updated": "2026-05-23T17:53:10Z",
   "items": [
+    {
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "pubDate": "Sat, 23 May 2026 22:05:10 +0530"
+    },
+    {
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "pubDate": "Sat, 23 May 2026 21:37:51 +0530"
+    },
     {
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
@@ -51,16 +61,6 @@
       "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
       "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
       "pubDate": "Fri, 22 May 2026 11:17:33 +0530"
-    },
-    {
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "pubDate": "Fri, 22 May 2026 11:06:18 +0530"
-    },
-    {
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "pubDate": "Thu, 21 May 2026 19:47:09 +0530"
     }
   ]
 }
