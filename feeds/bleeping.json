@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-24T12:58:02Z",
+  "updated": "2026-05-24T14:22:40Z",
   "items": [
+    {
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "pubDate": "Sun, 24 May 2026 10:12:32 -0400"
+    },
     {
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
@@ -56,11 +61,6 @@
       "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
       "pubDate": "Thu, 21 May 2026 11:11:08 -0400"
-    },
-    {
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "pubDate": "Thu, 21 May 2026 10:00:10 -0400"
     }
   ]
 }
