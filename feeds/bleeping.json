@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-25T11:03:06Z",
+  "updated": "2026-05-25T14:18:39Z",
   "items": [
+    {
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "pubDate": "Mon, 25 May 2026 08:45:54 -0400"
+    },
     {
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
       "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
@@ -56,11 +61,6 @@
       "title": "Google accidentally exposed details of unfixed Chromium flaw",
       "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
       "pubDate": "Thu, 21 May 2026 14:13:50 -0400"
-    },
-    {
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "pubDate": "Thu, 21 May 2026 11:11:08 -0400"
     }
   ]
 }
