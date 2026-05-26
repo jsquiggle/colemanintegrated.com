@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-26T13:45:32Z",
+  "updated": "2026-05-26T17:18:43Z",
   "items": [
+    {
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "pubDate": "Tue, 26 May 2026 21:18:41 +0530"
+    },
     {
       "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
       "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
@@ -56,11 +61,6 @@
       "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
       "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
       "pubDate": "Mon, 25 May 2026 11:29:13 +0530"
-    },
-    {
-      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-      "pubDate": "Sat, 23 May 2026 22:05:10 +0530"
     }
   ]
 }

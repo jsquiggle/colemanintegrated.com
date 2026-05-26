@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-26T13:45:32Z",
+  "updated": "2026-05-26T17:18:43Z",
   "items": [
+    {
+      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
+      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
+      "pubDate": "Tue, 26 May 2026 10:01:11 -0400"
+    },
     {
       "title": "Microsoft Defender can now automatically isolate hacked endpoints",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
@@ -56,11 +61,6 @@
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
       "pubDate": "Fri, 22 May 2026 13:24:52 -0400"
-    },
-    {
-      "title": "Former US execs plead guilty to aiding tech support scammers",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
-      "pubDate": "Fri, 22 May 2026 11:32:18 -0400"
     }
   ]
 }
