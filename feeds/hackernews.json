@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-26T06:29:11Z",
+  "updated": "2026-05-26T10:32:53Z",
   "items": [
+    {
+      "title": "CERT-In Mandates 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "pubDate": "Tue, 26 May 2026 14:43:02 +0530"
+    },
+    {
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "pubDate": "Tue, 26 May 2026 12:43:05 +0530"
+    },
     {
       "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
       "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
@@ -51,16 +61,6 @@
       "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
       "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
       "pubDate": "Sat, 23 May 2026 15:21:13 +0530"
-    },
-    {
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "pubDate": "Sat, 23 May 2026 13:05:13 +0530"
-    },
-    {
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "pubDate": "Sat, 23 May 2026 12:53:48 +0530"
     }
   ]
 }
