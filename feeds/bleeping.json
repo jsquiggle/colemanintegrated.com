@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-26T19:30:55Z",
+  "updated": "2026-05-26T21:26:57Z",
   "items": [
+    {
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "pubDate": "Tue, 26 May 2026 16:07:31 -0400"
+    },
+    {
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "pubDate": "Tue, 26 May 2026 15:46:01 -0400"
+    },
     {
       "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
       "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
@@ -51,16 +61,6 @@
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
       "pubDate": "Sat, 23 May 2026 16:48:23 -0400"
-    },
-    {
-      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-      "pubDate": "Sat, 23 May 2026 10:23:44 -0400"
-    },
-    {
-      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
-      "pubDate": "Fri, 22 May 2026 13:24:52 -0400"
     }
   ]
 }
