@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-27T10:45:07Z",
+  "updated": "2026-05-27T14:17:13Z",
   "items": [
+    {
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+      "pubDate": "Wed, 27 May 2026 18:58:48 +0530"
+    },
+    {
+      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+      "pubDate": "Wed, 27 May 2026 17:18:37 +0530"
+    },
+    {
+      "title": "3 SOC Steps that Shut Down Incident Risks Early",
+      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+      "pubDate": "Wed, 27 May 2026 17:15:00 +0530"
+    },
+    {
+      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+      "pubDate": "Wed, 27 May 2026 15:36:32 +0530"
+    },
     {
       "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
       "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
@@ -41,26 +61,6 @@
       "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
       "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
       "pubDate": "Tue, 26 May 2026 10:49:38 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "pubDate": "Mon, 25 May 2026 19:43:27 +0530"
-    },
-    {
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "pubDate": "Mon, 25 May 2026 17:32:46 +0530"
-    },
-    {
-      "title": "The Alert Firehose Finally Meets Its Match",
-      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-      "pubDate": "Mon, 25 May 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-      "pubDate": "Mon, 25 May 2026 15:02:54 +0530"
     }
   ]
 }

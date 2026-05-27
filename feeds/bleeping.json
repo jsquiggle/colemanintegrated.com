@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-27T10:45:07Z",
+  "updated": "2026-05-27T14:17:13Z",
   "items": [
+    {
+      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
+      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+      "pubDate": "Wed, 27 May 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
+      "pubDate": "Wed, 27 May 2026 09:28:42 -0400"
+    },
+    {
+      "title": "FBI warns of in-person data theft attacks from extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+      "pubDate": "Wed, 27 May 2026 07:51:12 -0400"
+    },
     {
       "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
@@ -46,21 +61,6 @@
       "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
       "pubDate": "Tue, 26 May 2026 04:46:45 -0400"
-    },
-    {
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "pubDate": "Tue, 26 May 2026 03:41:25 -0400"
-    },
-    {
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "pubDate": "Tue, 26 May 2026 03:01:12 -0400"
-    },
-    {
-      "title": "Anthropic\u2019s restricted Claude Mythos model may be coming to Claude Code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "pubDate": "Mon, 25 May 2026 13:07:33 -0400"
     }
   ]
 }
