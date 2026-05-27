@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-27T19:57:53Z",
+  "updated": "2026-05-27T21:51:18Z",
   "items": [
+    {
+      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "pubDate": "Wed, 27 May 2026 17:31:25 -0400"
+    },
     {
       "title": "Can you enforce strong Active Directory password rules without frustrating users?",
       "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
@@ -56,11 +61,6 @@
       "title": "Webinar: Too many tools are slowing network incident response",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
       "pubDate": "Tue, 26 May 2026 08:16:24 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "pubDate": "Tue, 26 May 2026 04:46:45 -0400"
     }
   ]
 }
