@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-27T06:53:03Z",
+  "updated": "2026-05-27T10:45:07Z",
   "items": [
+    {
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+      "pubDate": "Wed, 27 May 2026 13:15:52 +0530"
+    },
     {
       "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
       "link": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
@@ -56,11 +61,6 @@
       "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
       "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
       "pubDate": "Mon, 25 May 2026 15:02:54 +0530"
-    },
-    {
-      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-      "pubDate": "Mon, 25 May 2026 11:29:13 +0530"
     }
   ]
 }
