@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-28T05:39:44Z",
+  "updated": "2026-05-28T09:42:49Z",
   "items": [
+    {
+      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
+      "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
+      "pubDate": "Thu, 28 May 2026 05:25:59 -0400"
+    },
     {
       "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
       "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Defender can now automatically isolate hacked endpoints",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
       "pubDate": "Tue, 26 May 2026 08:19:43 -0400"
-    },
-    {
-      "title": "Webinar: Too many tools are slowing network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "pubDate": "Tue, 26 May 2026 08:16:24 -0400"
     }
   ]
 }
