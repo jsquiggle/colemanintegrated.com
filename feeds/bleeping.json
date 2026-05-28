@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-28T16:54:34Z",
+  "updated": "2026-05-28T19:32:21Z",
   "items": [
+    {
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "pubDate": "Thu, 28 May 2026 15:08:10 -0400"
+    },
+    {
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "pubDate": "Thu, 28 May 2026 13:25:43 -0400"
+    },
     {
       "title": "New Gogs zero-day flaw lets hackers get remote code execution",
       "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
@@ -51,16 +61,6 @@
       "title": "FBI warns of in-person data theft attacks from extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
       "pubDate": "Wed, 27 May 2026 07:51:12 -0400"
-    },
-    {
-      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "pubDate": "Wed, 27 May 2026 06:06:17 -0400"
-    },
-    {
-      "title": "Dutch police arrests suspect linked to Ajax football club hack",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-      "pubDate": "Wed, 27 May 2026 05:09:03 -0400"
     }
   ]
 }
