@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-28T21:48:53Z",
+  "updated": "2026-05-28T23:06:34Z",
   "items": [
+    {
+      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "pubDate": "Thu, 28 May 2026 18:24:49 -0400"
+    },
     {
       "title": "BTMOB Android malware service generates custom phishing payloads",
       "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
@@ -56,11 +61,6 @@
       "title": "Can you enforce strong Active Directory password rules without frustrating users?",
       "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
       "pubDate": "Wed, 27 May 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "pubDate": "Wed, 27 May 2026 09:28:42 -0400"
     }
   ]
 }
