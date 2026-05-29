@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-29T05:49:20Z",
+  "updated": "2026-05-29T09:32:54Z",
   "items": [
+    {
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "pubDate": "Fri, 29 May 2026 04:29:40 -0400"
+    },
     {
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
@@ -56,11 +61,6 @@
       "title": "Sextortionist sentenced to 33 years for targeting 145 children",
       "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
       "pubDate": "Thu, 28 May 2026 05:25:59 -0400"
-    },
-    {
-      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
-      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
-      "pubDate": "Wed, 27 May 2026 17:31:25 -0400"
     }
   ]
 }
