@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-29T09:32:54Z",
+  "updated": "2026-05-29T12:39:31Z",
   "items": [
+    {
+      "title": "Google Chrome adds session cookie theft protection for all users",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "pubDate": "Fri, 29 May 2026 08:08:08 -0400"
+    },
+    {
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "pubDate": "Fri, 29 May 2026 07:07:07 -0400"
+    },
+    {
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "pubDate": "Fri, 29 May 2026 06:11:44 -0400"
+    },
     {
       "title": "Charter Communications data breach affects 4.9 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
@@ -46,21 +61,6 @@
       "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
       "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
       "pubDate": "Thu, 28 May 2026 08:43:29 -0400"
-    },
-    {
-      "title": "Webinar: Why network incidents take too long to resolve",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-      "pubDate": "Thu, 28 May 2026 08:20:28 -0400"
-    },
-    {
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "pubDate": "Thu, 28 May 2026 06:49:27 -0400"
-    },
-    {
-      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
-      "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
-      "pubDate": "Thu, 28 May 2026 05:25:59 -0400"
     }
   ]
 }
