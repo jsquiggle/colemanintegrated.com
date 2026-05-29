@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-29T12:39:31Z",
+  "updated": "2026-05-29T16:33:57Z",
   "items": [
+    {
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "pubDate": "Fri, 29 May 2026 20:09:56 +0530"
+    },
     {
       "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
@@ -56,11 +61,6 @@
       "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
       "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
       "pubDate": "Wed, 27 May 2026 21:40:21 +0530"
-    },
-    {
-      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-      "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-      "pubDate": "Wed, 27 May 2026 21:14:29 +0530"
     }
   ]
 }
