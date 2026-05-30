@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-30T17:55:51Z",
+  "updated": "2026-05-30T19:00:17Z",
   "items": [
+    {
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "pubDate": "Sat, 30 May 2026 14:02:51 -0400"
+    },
     {
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
       "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
@@ -56,11 +61,6 @@
       "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
       "pubDate": "Thu, 28 May 2026 18:24:49 -0400"
-    },
-    {
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "pubDate": "Thu, 28 May 2026 17:10:11 -0400"
     }
   ]
 }
