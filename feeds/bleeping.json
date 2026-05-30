@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-30T12:43:53Z",
+  "updated": "2026-05-30T14:22:56Z",
   "items": [
+    {
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "pubDate": "Sat, 30 May 2026 10:16:08 -0400"
+    },
     {
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
@@ -56,11 +61,6 @@
       "title": "BTMOB Android malware service generates custom phishing payloads",
       "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
       "pubDate": "Thu, 28 May 2026 17:10:11 -0400"
-    },
-    {
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "pubDate": "Thu, 28 May 2026 15:08:10 -0400"
     }
   ]
 }
