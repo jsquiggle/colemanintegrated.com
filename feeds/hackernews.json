@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-30T04:31:03Z",
+  "updated": "2026-05-30T07:34:33Z",
   "items": [
+    {
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "pubDate": "Sat, 30 May 2026 12:11:26 +0530"
+    },
     {
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
       "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
@@ -13,7 +18,7 @@
       "pubDate": "Fri, 29 May 2026 20:09:56 +0530"
     },
     {
-      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "pubDate": "Fri, 29 May 2026 17:01:59 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
       "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
       "pubDate": "Thu, 28 May 2026 17:00:00 +0530"
-    },
-    {
-      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-      "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-      "pubDate": "Thu, 28 May 2026 13:24:48 +0530"
     }
   ]
 }
