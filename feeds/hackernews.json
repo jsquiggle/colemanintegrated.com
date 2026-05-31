@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-05-31T11:25:41Z",
+  "updated": "2026-05-31T12:54:28Z",
   "items": [
+    {
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "pubDate": "Sun, 31 May 2026 17:52:12 +0530"
+    },
     {
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
       "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
       "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
       "pubDate": "Thu, 28 May 2026 19:03:16 +0530"
-    },
-    {
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "pubDate": "Thu, 28 May 2026 17:00:00 +0530"
     }
   ]
 }
