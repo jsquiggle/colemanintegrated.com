@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-05-31T12:54:28Z",
+  "updated": "2026-05-31T14:24:55Z",
   "items": [
+    {
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "pubDate": "Sun, 31 May 2026 10:06:42 -0400"
+    },
     {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
       "pubDate": "Thu, 28 May 2026 20:21:03 -0400"
-    },
-    {
-      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-      "pubDate": "Thu, 28 May 2026 18:24:49 -0400"
     }
   ]
 }
