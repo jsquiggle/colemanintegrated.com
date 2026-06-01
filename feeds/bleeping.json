@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-01T14:30:22Z",
+  "updated": "2026-06-01T19:50:39Z",
   "items": [
+    {
+      "title": "Dashlane password manager users locked out by brute force attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
+      "pubDate": "Mon, 01 Jun 2026 14:17:13 -0400"
+    },
+    {
+      "title": "WordPress malware campaign hides payloads in Steam profiles",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
+      "pubDate": "Mon, 01 Jun 2026 13:04:16 -0400"
+    },
+    {
+      "title": "Microsoft investigates Office Apps, Teams file access issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
+      "pubDate": "Mon, 01 Jun 2026 10:36:46 -0400"
+    },
     {
       "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
       "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
@@ -46,21 +61,6 @@
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "pubDate": "Fri, 29 May 2026 14:21:36 -0400"
-    },
-    {
-      "title": "California AG sues 23andMe over 2023 breach exposing health data",
-      "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
-      "pubDate": "Fri, 29 May 2026 14:08:47 -0400"
-    },
-    {
-      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
-      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
-      "pubDate": "Fri, 29 May 2026 10:32:02 -0400"
-    },
-    {
-      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
-      "pubDate": "Fri, 29 May 2026 10:26:36 -0400"
     }
   ]
 }
