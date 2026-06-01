@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-01T08:23:19Z",
+  "updated": "2026-06-01T14:30:22Z",
   "items": [
+    {
+      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
+      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
+      "pubDate": "Mon, 01 Jun 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
+      "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400"
+    },
+    {
+      "title": "Webinar tomorrow: From alert to resolution in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
+      "pubDate": "Mon, 01 Jun 2026 08:01:09 -0400"
+    },
+    {
+      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
+      "pubDate": "Mon, 01 Jun 2026 07:40:16 -0400"
+    },
+    {
+      "title": "Microsoft fixes KB5089549 Windows security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
+      "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400"
+    },
     {
       "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
@@ -36,31 +61,6 @@
       "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
       "pubDate": "Fri, 29 May 2026 10:26:36 -0400"
-    },
-    {
-      "title": "Google Chrome adds session cookie theft protection for all users",
-      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
-      "pubDate": "Fri, 29 May 2026 08:08:08 -0400"
-    },
-    {
-      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-      "pubDate": "Fri, 29 May 2026 07:07:07 -0400"
-    },
-    {
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "pubDate": "Fri, 29 May 2026 06:11:44 -0400"
-    },
-    {
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "pubDate": "Fri, 29 May 2026 04:29:40 -0400"
-    },
-    {
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "pubDate": "Thu, 28 May 2026 20:21:03 -0400"
     }
   ]
 }
