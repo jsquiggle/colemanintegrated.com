@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-02T15:56:55Z",
+  "updated": "2026-06-02T19:37:22Z",
   "items": [
+    {
+      "title": "Microsoft Exchange Online outage causes email delays, failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+      "pubDate": "Tue, 02 Jun 2026 13:02:40 -0400"
+    },
     {
       "title": "Instagram users locked out after Meta AI abused to steal accounts",
       "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
@@ -56,11 +61,6 @@
       "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
       "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
       "pubDate": "Mon, 01 Jun 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400"
     }
   ]
 }

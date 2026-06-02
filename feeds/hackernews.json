@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-02T15:56:55Z",
+  "updated": "2026-06-02T19:37:22Z",
   "items": [
+    {
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "pubDate": "Tue, 02 Jun 2026 23:51:49 +0530"
+    },
+    {
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "pubDate": "Tue, 02 Jun 2026 23:44:42 +0530"
+    },
     {
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
       "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
@@ -51,16 +61,6 @@
       "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
       "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
       "pubDate": "Mon, 01 Jun 2026 14:15:29 +0530"
-    },
-    {
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "pubDate": "Sun, 31 May 2026 17:52:12 +0530"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "pubDate": "Sat, 30 May 2026 12:11:26 +0530"
     }
   ]
 }
