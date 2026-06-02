@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-02T02:35:52Z",
+  "updated": "2026-06-02T07:15:18Z",
   "items": [
+    {
+      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+      "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+      "pubDate": "Tue, 02 Jun 2026 09:25:25 +0530"
+    },
     {
       "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
       "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
@@ -56,11 +61,6 @@
       "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "pubDate": "Fri, 29 May 2026 17:01:59 +0530"
-    },
-    {
-      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
-      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
-      "pubDate": "Fri, 29 May 2026 16:00:00 +0530"
     }
   ]
 }
