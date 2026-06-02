@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-02T11:47:00Z",
+  "updated": "2026-06-02T15:56:55Z",
   "items": [
+    {
+      "title": "Instagram users locked out after Meta AI abused to steal accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "pubDate": "Tue, 02 Jun 2026 11:47:33 -0400"
+    },
+    {
+      "title": "Why the browser is now the front line for AI security",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "pubDate": "Tue, 02 Jun 2026 10:30:40 -0400"
+    },
+    {
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "pubDate": "Tue, 02 Jun 2026 08:40:33 -0400"
+    },
     {
       "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
@@ -46,21 +61,6 @@
       "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
       "pubDate": "Mon, 01 Jun 2026 08:30:27 -0400"
-    },
-    {
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "pubDate": "Mon, 01 Jun 2026 08:01:09 -0400"
-    },
-    {
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "pubDate": "Mon, 01 Jun 2026 07:40:16 -0400"
-    },
-    {
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400"
     }
   ]
 }
