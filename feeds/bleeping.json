@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-02T07:15:18Z",
+  "updated": "2026-06-02T11:47:00Z",
   "items": [
+    {
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "pubDate": "Tue, 02 Jun 2026 07:10:15 -0400"
+    },
     {
       "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes KB5089549 Windows security update install issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
       "pubDate": "Mon, 01 Jun 2026 06:59:43 -0400"
-    },
-    {
-      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
-      "pubDate": "Sun, 31 May 2026 10:06:42 -0400"
     }
   ]
 }
