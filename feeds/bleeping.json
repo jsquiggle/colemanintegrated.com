@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-02T19:37:22Z",
+  "updated": "2026-06-02T22:15:26Z",
   "items": [
+    {
+      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+      "pubDate": "Tue, 02 Jun 2026 18:12:57 -0400"
+    },
+    {
+      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "pubDate": "Tue, 02 Jun 2026 17:54:49 -0400"
+    },
+    {
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "pubDate": "Tue, 02 Jun 2026 16:01:20 -0400"
+    },
     {
       "title": "Microsoft Exchange Online outage causes email delays, failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
@@ -46,21 +61,6 @@
       "title": "Dashlane password manager users locked out by brute force attacks",
       "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
       "pubDate": "Mon, 01 Jun 2026 14:17:13 -0400"
-    },
-    {
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "pubDate": "Mon, 01 Jun 2026 13:04:16 -0400"
-    },
-    {
-      "title": "Microsoft investigates Office Apps, Teams file access issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "pubDate": "Mon, 01 Jun 2026 10:36:46 -0400"
-    },
-    {
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "pubDate": "Mon, 01 Jun 2026 10:00:10 -0400"
     }
   ]
 }
