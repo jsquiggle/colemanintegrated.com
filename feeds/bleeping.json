@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-03T19:02:52Z",
+  "updated": "2026-06-03T22:07:37Z",
   "items": [
+    {
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "pubDate": "Wed, 03 Jun 2026 17:45:27 -0400"
+    },
+    {
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "pubDate": "Wed, 03 Jun 2026 16:31:22 -0400"
+    },
+    {
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "pubDate": "Wed, 03 Jun 2026 16:21:56 -0400"
+    },
+    {
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "pubDate": "Wed, 03 Jun 2026 15:08:19 -0400"
+    },
     {
       "title": "CISA warns of active attacks exploiting Android, Linux bugs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
@@ -41,26 +61,6 @@
       "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
       "pubDate": "Tue, 02 Jun 2026 18:44:50 -0400"
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "pubDate": "Tue, 02 Jun 2026 18:12:57 -0400"
-    },
-    {
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "pubDate": "Tue, 02 Jun 2026 17:54:49 -0400"
-    },
-    {
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "pubDate": "Tue, 02 Jun 2026 16:01:20 -0400"
-    },
-    {
-      "title": "Microsoft Exchange Online outage causes email delays, failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
-      "pubDate": "Tue, 02 Jun 2026 13:02:40 -0400"
     }
   ]
 }
