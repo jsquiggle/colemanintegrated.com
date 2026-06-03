@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-03T10:14:42Z",
+  "updated": "2026-06-03T15:10:09Z",
   "items": [
+    {
+      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
+      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
+      "pubDate": "Wed, 03 Jun 2026 10:02:12 -0400"
+    },
+    {
+      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
+      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
+      "pubDate": "Wed, 03 Jun 2026 07:35:47 -0400"
+    },
+    {
+      "title": "Police dismantles 9 crime groups in illegal streaming crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
+      "pubDate": "Wed, 03 Jun 2026 06:12:24 -0400"
+    },
     {
       "title": "Google adds Android protection against AI deepfake scam calls",
       "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
@@ -46,21 +61,6 @@
       "title": "Instagram users locked out after Meta AI abused to steal accounts",
       "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
       "pubDate": "Tue, 02 Jun 2026 11:47:33 -0400"
-    },
-    {
-      "title": "Why the browser is now the front line for AI security",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "pubDate": "Tue, 02 Jun 2026 10:30:40 -0400"
-    },
-    {
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "pubDate": "Tue, 02 Jun 2026 08:40:33 -0400"
-    },
-    {
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "pubDate": "Tue, 02 Jun 2026 07:10:15 -0400"
     }
   ]
 }
