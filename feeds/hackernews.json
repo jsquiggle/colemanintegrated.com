@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-03T05:22:01Z",
+  "updated": "2026-06-03T10:14:42Z",
   "items": [
+    {
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "pubDate": "Wed, 03 Jun 2026 14:03:35 +0530"
+    },
+    {
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "pubDate": "Wed, 03 Jun 2026 11:46:54 +0530"
+    },
     {
       "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
       "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
@@ -51,16 +61,6 @@
       "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
       "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
       "pubDate": "Mon, 01 Jun 2026 17:24:24 +0530"
-    },
-    {
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "pubDate": "Mon, 01 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "pubDate": "Mon, 01 Jun 2026 15:01:15 +0530"
     }
   ]
 }

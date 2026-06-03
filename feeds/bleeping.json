@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-03T05:22:01Z",
+  "updated": "2026-06-03T10:14:42Z",
   "items": [
+    {
+      "title": "Google adds Android protection against AI deepfake scam calls",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
+      "pubDate": "Wed, 03 Jun 2026 05:02:11 -0400"
+    },
+    {
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "pubDate": "Wed, 03 Jun 2026 02:50:30 -0400"
+    },
     {
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
@@ -51,16 +61,6 @@
       "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
       "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
       "pubDate": "Tue, 02 Jun 2026 07:10:15 -0400"
-    },
-    {
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "pubDate": "Mon, 01 Jun 2026 18:14:19 -0400"
-    },
-    {
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "pubDate": "Mon, 01 Jun 2026 17:38:29 -0400"
     }
   ]
 }
