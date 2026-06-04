@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-04T05:16:53Z",
+  "updated": "2026-06-04T09:07:04Z",
   "items": [
+    {
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "pubDate": "Thu, 04 Jun 2026 12:49:33 +0530"
+    },
+    {
+      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
+      "pubDate": "Thu, 04 Jun 2026 11:36:25 +0530"
+    },
     {
       "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
       "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
@@ -51,16 +61,6 @@
       "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
       "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
       "pubDate": "Wed, 03 Jun 2026 11:46:54 +0530"
-    },
-    {
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "pubDate": "Wed, 03 Jun 2026 00:16:00 +0530"
-    },
-    {
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "pubDate": "Tue, 02 Jun 2026 23:51:49 +0530"
     }
   ]
 }
