@@ -1,11 +1,26 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-04T09:07:04Z",
+  "updated": "2026-06-04T12:24:21Z",
   "items": [
     {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "pubDate": "Thu, 04 Jun 2026 12:49:33 +0530"
+      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
+      "pubDate": "Thu, 04 Jun 2026 17:52:25 +0530"
+    },
+    {
+      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
+      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
+      "pubDate": "Thu, 04 Jun 2026 16:49:53 +0530"
+    },
+    {
+      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+      "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+      "pubDate": "Thu, 04 Jun 2026 15:21:28 +0530"
+    },
+    {
+      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
+      "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
+      "pubDate": "Thu, 04 Jun 2026 15:03:57 +0530"
     },
     {
       "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
@@ -16,6 +31,21 @@
       "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
       "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
       "pubDate": "Thu, 04 Jun 2026 00:41:15 +0530"
+    },
+    {
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "pubDate": "Wed, 03 Jun 2026 23:28:00 +0530"
+    },
+    {
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "pubDate": "Wed, 03 Jun 2026 22:10:00 +0530"
+    },
+    {
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "pubDate": "Wed, 03 Jun 2026 22:00:00 +0530"
     },
     {
       "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
@@ -31,36 +61,6 @@
       "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
       "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
       "pubDate": "Wed, 03 Jun 2026 20:26:35 +0530"
-    },
-    {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "pubDate": "Wed, 03 Jun 2026 19:17:09 +0530"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "pubDate": "Wed, 03 Jun 2026 18:28:22 +0530"
-    },
-    {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "link": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
-      "pubDate": "Wed, 03 Jun 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
-      "pubDate": "Wed, 03 Jun 2026 15:48:52 +0530"
-    },
-    {
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-      "pubDate": "Wed, 03 Jun 2026 14:03:35 +0530"
-    },
-    {
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "pubDate": "Wed, 03 Jun 2026 11:46:54 +0530"
     }
   ]
 }

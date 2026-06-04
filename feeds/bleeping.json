@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-04T09:07:04Z",
+  "updated": "2026-06-04T12:24:21Z",
   "items": [
+    {
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "pubDate": "Thu, 04 Jun 2026 07:09:50 -0400"
+    },
     {
       "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft's Coreutils project brings Linux commands to Windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
       "pubDate": "Tue, 02 Jun 2026 18:52:40 -0400"
-    },
-    {
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "pubDate": "Tue, 02 Jun 2026 18:44:50 -0400"
     }
   ]
 }
