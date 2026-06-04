@@ -1,11 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-04T15:52:47Z",
+  "updated": "2026-06-04T18:07:27Z",
   "items": [
+    {
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "pubDate": "Thu, 04 Jun 2026 22:25:51 +0530"
+    },
     {
       "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
       "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
       "pubDate": "Thu, 04 Jun 2026 20:45:26 +0530"
+    },
+    {
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "pubDate": "Thu, 04 Jun 2026 20:40:00 +0530"
     },
     {
       "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
@@ -13,7 +23,7 @@
       "pubDate": "Thu, 04 Jun 2026 19:30:49 +0530"
     },
     {
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "pubDate": "Thu, 04 Jun 2026 17:52:25 +0530"
     },
@@ -51,16 +61,6 @@
       "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
       "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
       "pubDate": "Wed, 03 Jun 2026 22:10:00 +0530"
-    },
-    {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "pubDate": "Wed, 03 Jun 2026 22:00:00 +0530"
-    },
-    {
-      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
-      "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
-      "pubDate": "Wed, 03 Jun 2026 21:59:16 +0530"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-04T15:52:47Z",
+  "updated": "2026-06-04T18:07:27Z",
   "items": [
+    {
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "pubDate": "Thu, 04 Jun 2026 12:38:49 -0400"
+    },
     {
       "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
@@ -56,11 +61,6 @@
       "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
       "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
       "pubDate": "Wed, 03 Jun 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Acer working to patch max severity zero-days in Wave 7 routers",
-      "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
-      "pubDate": "Wed, 03 Jun 2026 07:35:47 -0400"
     }
   ]
 }
