@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-04T18:07:27Z",
+  "updated": "2026-06-04T20:29:08Z",
   "items": [
+    {
+      "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
+      "pubDate": "Thu, 04 Jun 2026 14:36:27 -0400"
+    },
     {
       "title": "UN food agency discloses breach affecting 600,000 Gaza households",
       "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
@@ -56,11 +61,6 @@
       "title": "CISA warns of active attacks exploiting Android, Linux bugs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
       "pubDate": "Wed, 03 Jun 2026 11:36:16 -0400"
-    },
-    {
-      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
-      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-      "pubDate": "Wed, 03 Jun 2026 10:02:12 -0400"
     }
   ]
 }
