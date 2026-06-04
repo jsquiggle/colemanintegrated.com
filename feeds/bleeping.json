@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-04T20:29:08Z",
+  "updated": "2026-06-04T22:02:10Z",
   "items": [
+    {
+      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
+      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+      "pubDate": "Thu, 04 Jun 2026 17:37:10 -0400"
+    },
+    {
+      "title": "Hola Browser for Windows compromised to deliver cryptominer",
+      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "pubDate": "Thu, 04 Jun 2026 17:27:25 -0400"
+    },
+    {
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "pubDate": "Thu, 04 Jun 2026 16:47:16 -0400"
+    },
     {
       "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
@@ -46,21 +61,6 @@
       "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
       "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
       "pubDate": "Wed, 03 Jun 2026 16:31:22 -0400"
-    },
-    {
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "pubDate": "Wed, 03 Jun 2026 16:21:56 -0400"
-    },
-    {
-      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
-      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
-      "pubDate": "Wed, 03 Jun 2026 15:08:19 -0400"
-    },
-    {
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "pubDate": "Wed, 03 Jun 2026 11:36:16 -0400"
     }
   ]
 }
