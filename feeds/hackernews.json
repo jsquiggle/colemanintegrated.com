@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-05T06:46:34Z",
+  "updated": "2026-06-05T10:39:25Z",
   "items": [
+    {
+      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+      "pubDate": "Fri, 05 Jun 2026 14:08:59 +0530"
+    },
+    {
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+      "pubDate": "Fri, 05 Jun 2026 12:31:41 +0530"
+    },
     {
       "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
       "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
@@ -51,16 +61,6 @@
       "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
       "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
       "pubDate": "Thu, 04 Jun 2026 11:36:25 +0530"
-    },
-    {
-      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
-      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
-      "pubDate": "Thu, 04 Jun 2026 00:41:15 +0530"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "pubDate": "Wed, 03 Jun 2026 23:28:00 +0530"
     }
   ]
 }
