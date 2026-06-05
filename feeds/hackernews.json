@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-05T10:39:25Z",
+  "updated": "2026-06-05T13:46:13Z",
   "items": [
+    {
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+      "pubDate": "Fri, 05 Jun 2026 18:03:38 +0530"
+    },
+    {
+      "title": "Only 10% of SOCs Say They\u2019re Getting Excellent Value From AI. Here\u2019s What the Second Wave Has to Deliver",
+      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "pubDate": "Fri, 05 Jun 2026 16:50:00 +0530"
+    },
     {
       "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
       "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
@@ -51,16 +61,6 @@
       "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
       "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
       "pubDate": "Thu, 04 Jun 2026 15:21:28 +0530"
-    },
-    {
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "pubDate": "Thu, 04 Jun 2026 15:03:57 +0530"
-    },
-    {
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-      "pubDate": "Thu, 04 Jun 2026 11:36:25 +0530"
     }
   ]
 }
