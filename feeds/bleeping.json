@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-05T21:52:46Z",
+  "updated": "2026-06-05T22:57:09Z",
   "items": [
+    {
+      "title": "Suspicious Polyfill login prompts pop up on Toshiba, Muji websites",
+      "link": "https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/",
+      "pubDate": "Fri, 05 Jun 2026 17:54:42 -0400"
+    },
     {
       "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
@@ -56,11 +61,6 @@
       "title": "UN food agency discloses breach affecting 600,000 Gaza households",
       "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
       "pubDate": "Thu, 04 Jun 2026 12:38:49 -0400"
-    },
-    {
-      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
-      "pubDate": "Thu, 04 Jun 2026 11:25:37 -0400"
     }
   ]
 }
