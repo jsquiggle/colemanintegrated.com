@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-05T18:18:48Z",
+  "updated": "2026-06-05T20:20:20Z",
   "items": [
+    {
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "pubDate": "Fri, 05 Jun 2026 23:35:30 +0530"
+    },
     {
       "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
       "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "pubDate": "Thu, 04 Jun 2026 17:52:25 +0530"
-    },
-    {
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-      "pubDate": "Thu, 04 Jun 2026 16:49:53 +0530"
     }
   ]
 }
