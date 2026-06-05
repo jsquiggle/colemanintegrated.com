@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-05T13:46:13Z",
+  "updated": "2026-06-05T16:24:11Z",
   "items": [
+    {
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
+      "pubDate": "Fri, 05 Jun 2026 10:50:15 -0400"
+    },
+    {
+      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
+      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
+      "pubDate": "Fri, 05 Jun 2026 10:00:10 -0400"
+    },
     {
       "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
@@ -51,16 +61,6 @@
       "title": "Police dismantles fake ID marketplace used by migrant smugglers",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
       "pubDate": "Thu, 04 Jun 2026 08:29:12 -0400"
-    },
-    {
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "pubDate": "Thu, 04 Jun 2026 07:09:50 -0400"
-    },
-    {
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "pubDate": "Wed, 03 Jun 2026 17:45:27 -0400"
     }
   ]
 }
