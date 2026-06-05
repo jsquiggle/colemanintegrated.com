@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-05T16:24:11Z",
+  "updated": "2026-06-05T18:18:48Z",
   "items": [
+    {
+      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+      "pubDate": "Fri, 05 Jun 2026 20:23:40 +0530"
+    },
     {
       "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
       "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
@@ -56,11 +61,6 @@
       "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
       "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
       "pubDate": "Thu, 04 Jun 2026 16:49:53 +0530"
-    },
-    {
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "pubDate": "Thu, 04 Jun 2026 15:21:28 +0530"
     }
   ]
 }
