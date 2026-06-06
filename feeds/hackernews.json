@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-06T07:39:38Z",
+  "updated": "2026-06-06T09:52:29Z",
   "items": [
+    {
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "pubDate": "Sat, 06 Jun 2026 13:59:05 +0530"
+    },
+    {
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+      "pubDate": "Sat, 06 Jun 2026 13:44:31 +0530"
+    },
+    {
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "pubDate": "Sat, 06 Jun 2026 12:58:30 +0530"
+    },
+    {
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "pubDate": "Sat, 06 Jun 2026 12:28:04 +0530"
+    },
     {
       "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited \u2013 No Patch Available",
       "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
@@ -41,26 +61,6 @@
       "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
       "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
       "pubDate": "Fri, 05 Jun 2026 11:04:19 +0530"
-    },
-    {
-      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
-      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
-      "pubDate": "Thu, 04 Jun 2026 22:25:51 +0530"
-    },
-    {
-      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
-      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
-      "pubDate": "Thu, 04 Jun 2026 20:45:26 +0530"
-    },
-    {
-      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
-      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
-      "pubDate": "Thu, 04 Jun 2026 20:40:00 +0530"
-    },
-    {
-      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
-      "pubDate": "Thu, 04 Jun 2026 19:30:49 +0530"
     }
   ]
 }
