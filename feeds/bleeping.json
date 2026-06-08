@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-08T05:09:08Z",
+  "updated": "2026-06-08T09:58:53Z",
   "items": [
+    {
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "pubDate": "Mon, 08 Jun 2026 02:00:27 -0400"
+    },
     {
       "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
@@ -56,11 +61,6 @@
       "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
       "pubDate": "Fri, 05 Jun 2026 02:24:20 -0400"
-    },
-    {
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "pubDate": "Thu, 04 Jun 2026 17:37:10 -0400"
     }
   ]
 }
