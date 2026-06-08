@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-08T21:49:57Z",
+  "updated": "2026-06-08T23:06:29Z",
   "items": [
+    {
+      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
+      "pubDate": "Mon, 08 Jun 2026 18:11:58 -0400"
+    },
+    {
+      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
+      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
+      "pubDate": "Mon, 08 Jun 2026 17:55:46 -0400"
+    },
     {
       "title": "New Apple feature automatically changes your compromised passwords",
       "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
@@ -51,16 +61,6 @@
       "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
       "pubDate": "Sun, 07 Jun 2026 19:20:02 -0400"
-    },
-    {
-      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
-      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
-      "pubDate": "Sun, 07 Jun 2026 10:17:46 -0400"
-    },
-    {
-      "title": "Silent Ransom Group targets law firms with fake IT support calls",
-      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
-      "pubDate": "Sun, 07 Jun 2026 10:09:19 -0400"
     }
   ]
 }
