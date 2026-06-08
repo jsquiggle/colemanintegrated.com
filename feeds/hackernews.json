@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-08T17:31:46Z",
+  "updated": "2026-06-08T19:59:25Z",
   "items": [
+    {
+      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
+      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
+      "pubDate": "Mon, 08 Jun 2026 22:38:44 +0530"
+    },
     {
       "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
       "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
@@ -56,11 +61,6 @@
       "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
       "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
       "pubDate": "Sat, 06 Jun 2026 12:58:30 +0530"
-    },
-    {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "pubDate": "Sat, 06 Jun 2026 12:28:04 +0530"
     }
   ]
 }
