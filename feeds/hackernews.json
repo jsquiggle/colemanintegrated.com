@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-08T19:59:25Z",
+  "updated": "2026-06-08T21:49:57Z",
   "items": [
+    {
+      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
+      "pubDate": "Tue, 09 Jun 2026 01:47:39 +0530"
+    },
     {
       "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
       "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
@@ -56,11 +61,6 @@
       "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
       "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
       "pubDate": "Sat, 06 Jun 2026 13:44:31 +0530"
-    },
-    {
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "pubDate": "Sat, 06 Jun 2026 12:58:30 +0530"
     }
   ]
 }
