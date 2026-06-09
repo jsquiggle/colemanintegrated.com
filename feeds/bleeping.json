@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-09T11:57:05Z",
+  "updated": "2026-06-09T14:34:09Z",
   "items": [
+    {
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "pubDate": "Tue, 09 Jun 2026 10:27:56 -0400"
+    },
     {
       "title": "French govt messaging service breached in account hijacking attack",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
@@ -56,11 +61,6 @@
       "title": "Reducing security operations complexity with Wazuh Cloud",
       "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
       "pubDate": "Mon, 08 Jun 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
-      "pubDate": "Mon, 08 Jun 2026 09:05:16 -0400"
     }
   ]
 }
