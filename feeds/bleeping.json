@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-09T17:16:44Z",
+  "updated": "2026-06-09T19:31:59Z",
   "items": [
+    {
+      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "pubDate": "Tue, 09 Jun 2026 14:35:00 -0400"
+    },
+    {
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "pubDate": "Tue, 09 Jun 2026 13:57:59 -0400"
+    },
+    {
+      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
+      "pubDate": "Tue, 09 Jun 2026 13:32:32 -0400"
+    },
     {
       "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
       "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
@@ -46,21 +61,6 @@
       "title": "New Apple feature automatically changes your compromised passwords",
       "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
       "pubDate": "Mon, 08 Jun 2026 17:03:40 -0400"
-    },
-    {
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "pubDate": "Mon, 08 Jun 2026 16:41:35 -0400"
-    },
-    {
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "pubDate": "Mon, 08 Jun 2026 14:40:53 -0400"
-    },
-    {
-      "title": "Gogs patches critical zero-day enabling remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "pubDate": "Mon, 08 Jun 2026 12:18:40 -0400"
     }
   ]
 }
