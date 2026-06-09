@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-09T19:31:59Z",
+  "updated": "2026-06-09T21:29:01Z",
   "items": [
+    {
+      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
+      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
+      "pubDate": "Tue, 09 Jun 2026 17:20:20 -0400"
+    },
+    {
+      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "pubDate": "Tue, 09 Jun 2026 15:36:27 -0400"
+    },
     {
       "title": "Microsoft releases Windows 10 KB5094127 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
@@ -51,16 +61,6 @@
       "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
       "pubDate": "Mon, 08 Jun 2026 18:11:58 -0400"
-    },
-    {
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "pubDate": "Mon, 08 Jun 2026 17:55:46 -0400"
-    },
-    {
-      "title": "New Apple feature automatically changes your compromised passwords",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "pubDate": "Mon, 08 Jun 2026 17:03:40 -0400"
     }
   ]
 }
