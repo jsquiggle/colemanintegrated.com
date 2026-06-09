@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-09T08:57:42Z",
+  "updated": "2026-06-09T11:57:05Z",
   "items": [
+    {
+      "title": "French govt messaging service breached in account hijacking attack",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "pubDate": "Tue, 09 Jun 2026 06:53:00 -0400"
+    },
     {
       "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
@@ -56,11 +61,6 @@
       "title": "Check Point links VPN zero-day attacks to Qilin ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/",
       "pubDate": "Mon, 08 Jun 2026 09:05:16 -0400"
-    },
-    {
-      "title": "Oxford University discloses data breach after careers platform hack",
-      "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
-      "pubDate": "Mon, 08 Jun 2026 07:14:41 -0400"
     }
   ]
 }

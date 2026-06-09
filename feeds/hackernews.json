@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-09T08:57:42Z",
+  "updated": "2026-06-09T11:57:05Z",
   "items": [
+    {
+      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+      "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+      "pubDate": "Tue, 09 Jun 2026 17:00:00 +0530"
+    },
+    {
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+      "pubDate": "Tue, 09 Jun 2026 15:20:41 +0530"
+    },
+    {
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "pubDate": "Tue, 09 Jun 2026 14:43:32 +0530"
+    },
     {
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
@@ -46,21 +61,6 @@
       "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
       "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
       "pubDate": "Mon, 08 Jun 2026 13:09:28 +0530"
-    },
-    {
-      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
-      "pubDate": "Mon, 08 Jun 2026 11:38:44 +0530"
-    },
-    {
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
-      "pubDate": "Sat, 06 Jun 2026 19:06:57 +0530"
-    },
-    {
-      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
-      "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
-      "pubDate": "Sat, 06 Jun 2026 13:59:05 +0530"
     }
   ]
 }
