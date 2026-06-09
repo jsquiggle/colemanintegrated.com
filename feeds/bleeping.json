@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-09T21:29:01Z",
+  "updated": "2026-06-09T22:57:19Z",
   "items": [
+    {
+      "title": "ServiceNow discloses security incident exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
+      "pubDate": "Tue, 09 Jun 2026 17:34:09 -0400"
+    },
     {
       "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
       "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
@@ -56,11 +61,6 @@
       "title": "Google patches new Chrome zero-day flaw exploited in the wild",
       "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
       "pubDate": "Tue, 09 Jun 2026 02:56:27 -0400"
-    },
-    {
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "pubDate": "Mon, 08 Jun 2026 18:11:58 -0400"
     }
   ]
 }

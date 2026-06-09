@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-06-09T21:29:01Z",
+  "updated": "2026-06-09T22:57:19Z",
   "items": [
+    {
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "pubDate": "Tue, 09 Jun 2026 22:07:28 +0000"
+    },
     {
       "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
       "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -46,11 +51,6 @@
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
       "pubDate": "Tue, 21 Apr 2026 14:53:59 +0000"
-    },
-    {
-      "title": "Patch Tuesday, April 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "pubDate": "Tue, 14 Apr 2026 21:47:59 +0000"
     }
   ]
 }
