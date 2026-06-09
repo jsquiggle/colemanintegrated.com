@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-09T05:36:59Z",
+  "updated": "2026-06-09T08:57:42Z",
   "items": [
+    {
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "pubDate": "Tue, 09 Jun 2026 04:18:39 -0400"
+    },
+    {
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "pubDate": "Tue, 09 Jun 2026 02:56:27 -0400"
+    },
     {
       "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
@@ -51,16 +61,6 @@
       "title": "Oxford University discloses data breach after careers platform hack",
       "link": "https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/",
       "pubDate": "Mon, 08 Jun 2026 07:14:41 -0400"
-    },
-    {
-      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
-      "pubDate": "Mon, 08 Jun 2026 02:00:27 -0400"
-    },
-    {
-      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
-      "pubDate": "Sun, 07 Jun 2026 19:20:02 -0400"
     }
   ]
 }
