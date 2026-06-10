@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T18:45:20Z",
+  "updated": "2026-06-10T21:21:50Z",
   "items": [
+    {
+      "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "pubDate": "Wed, 10 Jun 2026 16:27:08 -0400"
+    },
+    {
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "pubDate": "Wed, 10 Jun 2026 15:41:44 -0400"
+    },
     {
       "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
@@ -51,16 +61,6 @@
       "title": "ServiceNow discloses security incident exposing customer data",
       "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
       "pubDate": "Tue, 09 Jun 2026 17:34:09 -0400"
-    },
-    {
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "pubDate": "Tue, 09 Jun 2026 17:20:20 -0400"
-    },
-    {
-      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "pubDate": "Tue, 09 Jun 2026 15:36:27 -0400"
     }
   ]
 }
