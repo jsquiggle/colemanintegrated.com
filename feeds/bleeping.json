@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T04:53:58Z",
+  "updated": "2026-06-10T08:41:52Z",
   "items": [
+    {
+      "title": "Ivanti: Max severity Sentry flaw allows code execution as root",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/",
+      "pubDate": "Wed, 10 Jun 2026 02:26:28 -0400"
+    },
     {
       "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
@@ -56,11 +61,6 @@
       "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
       "pubDate": "Tue, 09 Jun 2026 10:27:56 -0400"
-    },
-    {
-      "title": "French govt messaging service breached in account hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
-      "pubDate": "Tue, 09 Jun 2026 06:53:00 -0400"
     }
   ]
 }
