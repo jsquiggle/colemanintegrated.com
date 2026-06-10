@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-10T16:11:59Z",
+  "updated": "2026-06-10T18:45:20Z",
   "items": [
+    {
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "pubDate": "Wed, 10 Jun 2026 21:38:42 +0530"
+    },
     {
       "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
       "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
@@ -56,11 +61,6 @@
       "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
       "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
       "pubDate": "Tue, 09 Jun 2026 22:09:47 +0530"
-    },
-    {
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "pubDate": "Tue, 09 Jun 2026 22:04:52 +0530"
     }
   ]
 }

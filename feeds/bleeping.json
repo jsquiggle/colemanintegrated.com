@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T16:11:59Z",
+  "updated": "2026-06-10T18:45:20Z",
   "items": [
+    {
+      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
+      "pubDate": "Wed, 10 Jun 2026 14:31:57 -0400"
+    },
     {
       "title": "China-linked JDY botnet expands targeting of U.S. military networks",
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
@@ -56,11 +61,6 @@
       "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
       "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
       "pubDate": "Tue, 09 Jun 2026 15:36:27 -0400"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "pubDate": "Tue, 09 Jun 2026 14:35:00 -0400"
     }
   ]
 }
