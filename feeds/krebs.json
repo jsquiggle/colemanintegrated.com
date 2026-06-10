@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-06-10T12:12:30Z",
+  "updated": "2026-06-10T16:11:59Z",
   "items": [
+    {
+      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "pubDate": "Wed, 10 Jun 2026 14:03:44 +0000"
+    },
     {
       "title": "A Record-Breaking Patch Tuesday for June 2026",
       "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
@@ -46,11 +51,6 @@
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "pubDate": "Thu, 30 Apr 2026 14:04:26 +0000"
-    },
-    {
-      "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
-      "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "pubDate": "Tue, 21 Apr 2026 14:53:59 +0000"
     }
   ]
 }
