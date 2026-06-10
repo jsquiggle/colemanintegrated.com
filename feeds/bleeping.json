@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-10T21:21:50Z",
+  "updated": "2026-06-10T23:02:48Z",
   "items": [
+    {
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "pubDate": "Wed, 10 Jun 2026 17:23:44 -0400"
+    },
     {
       "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
       "pubDate": "Tue, 09 Jun 2026 19:11:18 -0400"
-    },
-    {
-      "title": "ServiceNow discloses security incident exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-      "pubDate": "Tue, 09 Jun 2026 17:34:09 -0400"
     }
   ]
 }
