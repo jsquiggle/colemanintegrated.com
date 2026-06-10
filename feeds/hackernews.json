@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-10T08:41:52Z",
+  "updated": "2026-06-10T12:12:30Z",
   "items": [
+    {
+      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
+      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
+      "pubDate": "Wed, 10 Jun 2026 15:57:49 +0530"
+    },
+    {
+      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+      "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
+      "pubDate": "Wed, 10 Jun 2026 15:08:13 +0530"
+    },
     {
       "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
       "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
@@ -51,16 +61,6 @@
       "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
       "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
       "pubDate": "Tue, 09 Jun 2026 17:28:49 +0530"
-    },
-    {
-      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
-      "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
-      "pubDate": "Tue, 09 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
-      "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
-      "pubDate": "Tue, 09 Jun 2026 15:20:41 +0530"
     }
   ]
 }
