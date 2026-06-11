@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-11T01:44:17Z",
+  "updated": "2026-06-11T06:39:01Z",
   "items": [
+    {
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400"
+    },
     {
       "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
       "pubDate": "Tue, 09 Jun 2026 22:03:31 -0400"
-    },
-    {
-      "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-      "pubDate": "Tue, 09 Jun 2026 19:11:18 -0400"
     }
   ]
 }
