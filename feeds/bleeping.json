@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-11T18:16:28Z",
+  "updated": "2026-06-11T20:40:15Z",
   "items": [
+    {
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400"
+    },
     {
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
       "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
@@ -56,11 +61,6 @@
       "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
       "pubDate": "Wed, 10 Jun 2026 14:31:57 -0400"
-    },
-    {
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "pubDate": "Wed, 10 Jun 2026 11:00:00 -0400"
     }
   ]
 }
