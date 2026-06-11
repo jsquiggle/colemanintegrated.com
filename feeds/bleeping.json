@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-11T15:00:12Z",
+  "updated": "2026-06-11T18:16:28Z",
   "items": [
+    {
+      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+      "pubDate": "Thu, 11 Jun 2026 11:55:41 -0400"
+    },
     {
       "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
       "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
@@ -56,11 +61,6 @@
       "title": "China-linked JDY botnet expands targeting of U.S. military networks",
       "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
       "pubDate": "Wed, 10 Jun 2026 11:00:00 -0400"
-    },
-    {
-      "title": "The 5 Best Practices for Secure Identity Verification",
-      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-      "pubDate": "Wed, 10 Jun 2026 10:05:15 -0400"
     }
   ]
 }
