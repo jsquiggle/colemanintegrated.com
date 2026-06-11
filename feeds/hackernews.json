@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-11T11:16:33Z",
+  "updated": "2026-06-11T15:00:12Z",
   "items": [
+    {
+      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+      "pubDate": "Thu, 11 Jun 2026 18:56:13 +0530"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+      "pubDate": "Thu, 11 Jun 2026 18:50:41 +0530"
+    },
+    {
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+      "pubDate": "Thu, 11 Jun 2026 17:00:00 +0530"
+    },
     {
       "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
       "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
@@ -46,21 +61,6 @@
       "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
       "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
       "pubDate": "Wed, 10 Jun 2026 13:07:59 +0530"
-    },
-    {
-      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
-      "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
-      "pubDate": "Wed, 10 Jun 2026 12:32:08 +0530"
-    },
-    {
-      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
-      "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
-      "pubDate": "Wed, 10 Jun 2026 10:52:01 +0530"
-    },
-    {
-      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
-      "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
-      "pubDate": "Wed, 10 Jun 2026 10:38:35 +0530"
     }
   ]
 }

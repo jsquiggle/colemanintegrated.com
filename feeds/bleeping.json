@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-11T11:16:33Z",
+  "updated": "2026-06-11T15:00:12Z",
   "items": [
+    {
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "pubDate": "Thu, 11 Jun 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Coupang hit with record $409 million data breach fine in Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+      "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400"
+    },
+    {
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400"
+    },
     {
       "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
@@ -46,21 +61,6 @@
       "title": "The 5 Best Practices for Secure Identity Verification",
       "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
       "pubDate": "Wed, 10 Jun 2026 10:05:15 -0400"
-    },
-    {
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "pubDate": "Wed, 10 Jun 2026 09:44:19 -0400"
-    },
-    {
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "pubDate": "Wed, 10 Jun 2026 07:33:32 -0400"
-    },
-    {
-      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
-      "pubDate": "Wed, 10 Jun 2026 05:57:33 -0400"
     }
   ]
 }
