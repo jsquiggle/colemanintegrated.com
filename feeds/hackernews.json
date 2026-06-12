@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-12T09:39:37Z",
+  "updated": "2026-06-12T12:48:11Z",
   "items": [
+    {
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "pubDate": "Fri, 12 Jun 2026 17:34:33 +0530"
+    },
+    {
+      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
+      "pubDate": "Fri, 12 Jun 2026 16:30:00 +0530"
+    },
+    {
+      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
+      "pubDate": "Fri, 12 Jun 2026 15:20:36 +0530"
+    },
+    {
+      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
+      "pubDate": "Fri, 12 Jun 2026 14:22:55 +0530"
+    },
     {
       "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
       "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
@@ -41,26 +61,6 @@
       "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
       "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
       "pubDate": "Thu, 11 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "pubDate": "Thu, 11 Jun 2026 15:15:58 +0530"
-    },
-    {
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "pubDate": "Thu, 11 Jun 2026 11:53:03 +0530"
-    },
-    {
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-      "pubDate": "Wed, 10 Jun 2026 21:38:42 +0530"
-    },
-    {
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-      "pubDate": "Wed, 10 Jun 2026 20:40:59 +0530"
     }
   ]
 }
