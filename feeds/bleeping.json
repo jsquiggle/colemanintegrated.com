@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T05:11:16Z",
+  "updated": "2026-06-12T09:39:37Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "pubDate": "Fri, 12 Jun 2026 04:26:55 -0400"
+    },
+    {
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "pubDate": "Fri, 12 Jun 2026 03:09:11 -0400"
+    },
     {
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
@@ -51,16 +61,6 @@
       "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
       "pubDate": "Thu, 11 Jun 2026 02:20:22 -0400"
-    },
-    {
-      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-      "pubDate": "Wed, 10 Jun 2026 17:23:44 -0400"
-    },
-    {
-      "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-      "pubDate": "Wed, 10 Jun 2026 16:27:08 -0400"
     }
   ]
 }
