@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-11T22:46:12Z",
+  "updated": "2026-06-12T00:14:09Z",
   "items": [
+    {
+      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+      "pubDate": "Thu, 11 Jun 2026 19:14:16 -0400"
+    },
     {
       "title": "Maine breach portal abused to publish fake data breach disclosures",
       "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
@@ -56,11 +61,6 @@
       "title": "The \u2018Miasma\u2019 worm source code briefly leaked on GitHub",
       "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
       "pubDate": "Wed, 10 Jun 2026 16:27:08 -0400"
-    },
-    {
-      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-      "pubDate": "Wed, 10 Jun 2026 15:41:44 -0400"
     }
   ]
 }
