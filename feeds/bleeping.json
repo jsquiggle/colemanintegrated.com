@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T12:48:11Z",
+  "updated": "2026-06-12T16:10:54Z",
   "items": [
+    {
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "pubDate": "Fri, 12 Jun 2026 10:01:11 -0400"
+    },
     {
       "title": "Microsoft fixes Windows update failures linked to WUSA installer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
@@ -56,11 +61,6 @@
       "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
       "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400"
-    },
-    {
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "pubDate": "Thu, 11 Jun 2026 04:44:22 -0400"
     }
   ]
 }
