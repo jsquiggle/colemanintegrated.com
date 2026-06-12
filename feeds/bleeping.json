@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T16:10:54Z",
+  "updated": "2026-06-12T18:21:37Z",
   "items": [
+    {
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "pubDate": "Fri, 12 Jun 2026 14:19:34 -0400"
+    },
+    {
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "pubDate": "Fri, 12 Jun 2026 13:54:28 -0400"
+    },
+    {
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "pubDate": "Fri, 12 Jun 2026 13:03:55 -0400"
+    },
     {
       "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
       "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
@@ -46,21 +61,6 @@
       "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
       "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
       "pubDate": "Thu, 11 Jun 2026 11:55:41 -0400"
-    },
-    {
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "pubDate": "Thu, 11 Jun 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "pubDate": "Thu, 11 Jun 2026 08:52:41 -0400"
-    },
-    {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "pubDate": "Thu, 11 Jun 2026 08:46:44 -0400"
     }
   ]
 }
