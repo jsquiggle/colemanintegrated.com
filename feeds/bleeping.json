@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-12T18:21:37Z",
+  "updated": "2026-06-12T20:32:05Z",
   "items": [
+    {
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "pubDate": "Fri, 12 Jun 2026 15:33:32 -0400"
+    },
     {
       "title": "phpBB forum fixes auth bypass bug lurking for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
@@ -56,11 +61,6 @@
       "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
       "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400"
-    },
-    {
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "pubDate": "Thu, 11 Jun 2026 11:55:41 -0400"
     }
   ]
 }
