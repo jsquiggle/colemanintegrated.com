@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-13T19:58:41Z",
+  "updated": "2026-06-13T21:14:42Z",
   "items": [
+    {
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "pubDate": "Sat, 13 Jun 2026 16:53:13 -0400"
+    },
     {
       "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
@@ -56,11 +61,6 @@
       "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
       "pubDate": "Fri, 12 Jun 2026 03:09:11 -0400"
-    },
-    {
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "pubDate": "Thu, 11 Jun 2026 19:14:16 -0400"
     }
   ]
 }
