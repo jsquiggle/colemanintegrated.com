@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-13T09:49:31Z",
+  "updated": "2026-06-13T11:46:05Z",
   "items": [
+    {
+      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
+      "pubDate": "Sat, 13 Jun 2026 06:01:32 -0400"
+    },
     {
       "title": "Maine disables data breach notification portal after fake disclosures",
       "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
@@ -56,11 +61,6 @@
       "title": "Maine breach portal abused to publish fake data breach disclosures",
       "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
       "pubDate": "Thu, 11 Jun 2026 18:44:58 -0400"
-    },
-    {
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "pubDate": "Thu, 11 Jun 2026 15:39:53 -0400"
     }
   ]
 }
