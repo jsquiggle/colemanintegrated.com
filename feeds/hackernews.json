@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-13T02:55:36Z",
+  "updated": "2026-06-13T06:48:48Z",
   "items": [
+    {
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+      "pubDate": "Sat, 13 Jun 2026 11:12:50 +0530"
+    },
     {
       "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
       "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
@@ -56,11 +61,6 @@
       "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
       "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
       "pubDate": "Thu, 11 Jun 2026 23:13:52 +0530"
-    },
-    {
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "pubDate": "Thu, 11 Jun 2026 22:20:47 +0530"
     }
   ]
 }
