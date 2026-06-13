@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-13T13:22:59Z",
+  "updated": "2026-06-13T15:15:17Z",
   "items": [
+    {
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "pubDate": "Sat, 13 Jun 2026 10:06:42 -0400"
+    },
     {
       "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
       "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
@@ -56,11 +61,6 @@
       "title": "Japanese energy firm loses drive with data of 10.9 million clients",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
       "pubDate": "Thu, 11 Jun 2026 19:14:16 -0400"
-    },
-    {
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "pubDate": "Thu, 11 Jun 2026 18:44:58 -0400"
     }
   ]
 }
