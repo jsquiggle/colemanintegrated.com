@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-14T13:09:44Z",
+  "updated": "2026-06-14T15:22:17Z",
   "items": [
+    {
+      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+      "pubDate": "Sun, 14 Jun 2026 10:36:23 -0400"
+    },
     {
       "title": "Ex-school district employee jailed for hacks on former employer",
       "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
@@ -56,11 +61,6 @@
       "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
       "pubDate": "Fri, 12 Jun 2026 04:26:55 -0400"
-    },
-    {
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "pubDate": "Fri, 12 Jun 2026 03:09:11 -0400"
     }
   ]
 }
