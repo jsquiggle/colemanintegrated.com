@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-15T11:43:04Z",
+  "updated": "2026-06-15T16:54:07Z",
   "items": [
+    {
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+      "pubDate": "Mon, 15 Jun 2026 20:39:05 +0530"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "pubDate": "Mon, 15 Jun 2026 19:19:29 +0530"
+    },
+    {
+      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
+      "pubDate": "Mon, 15 Jun 2026 17:00:00 +0530"
+    },
     {
       "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
       "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
@@ -46,21 +61,6 @@
       "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
       "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
       "pubDate": "Fri, 12 Jun 2026 23:47:55 +0530"
-    },
-    {
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "pubDate": "Fri, 12 Jun 2026 17:34:33 +0530"
-    },
-    {
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "pubDate": "Fri, 12 Jun 2026 16:30:00 +0530"
-    },
-    {
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "pubDate": "Fri, 12 Jun 2026 15:20:36 +0530"
     }
   ]
 }
