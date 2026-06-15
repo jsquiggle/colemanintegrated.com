@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-15T20:20:02Z",
+  "updated": "2026-06-15T22:31:49Z",
   "items": [
+    {
+      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
+      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
+      "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400"
+    },
     {
       "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
       "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
@@ -56,11 +61,6 @@
       "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
       "pubDate": "Sun, 14 Jun 2026 10:36:23 -0400"
-    },
-    {
-      "title": "Ex-school district employee jailed for hacks on former employer",
-      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
-      "pubDate": "Sat, 13 Jun 2026 16:53:13 -0400"
     }
   ]
 }
