@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T10:51:51Z",
+  "updated": "2026-06-16T15:47:18Z",
   "items": [
+    {
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "pubDate": "Tue, 16 Jun 2026 10:38:49 -0400"
+    },
+    {
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "pubDate": "Tue, 16 Jun 2026 10:17:27 -0400"
+    },
+    {
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "pubDate": "Tue, 16 Jun 2026 09:42:19 -0400"
+    },
     {
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
@@ -46,21 +61,6 @@
       "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
       "pubDate": "Mon, 15 Jun 2026 13:12:42 -0400"
-    },
-    {
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "pubDate": "Mon, 15 Jun 2026 12:37:11 -0400"
-    },
-    {
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "pubDate": "Mon, 15 Jun 2026 11:30:23 -0400"
-    },
-    {
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "pubDate": "Mon, 15 Jun 2026 10:01:11 -0400"
     }
   ]
 }
