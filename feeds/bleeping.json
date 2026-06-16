@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T05:40:49Z",
+  "updated": "2026-06-16T10:51:51Z",
   "items": [
+    {
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "pubDate": "Tue, 16 Jun 2026 06:47:59 -0400"
+    },
+    {
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "pubDate": "Tue, 16 Jun 2026 06:18:48 -0400"
+    },
+    {
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "pubDate": "Tue, 16 Jun 2026 05:19:51 -0400"
+    },
+    {
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "pubDate": "Tue, 16 Jun 2026 05:00:00 -0400"
+    },
+    {
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400"
+    },
     {
       "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
       "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
@@ -36,31 +61,6 @@
       "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
       "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
       "pubDate": "Mon, 15 Jun 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "pubDate": "Mon, 15 Jun 2026 10:00:00 -0400"
-    },
-    {
-      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
-      "pubDate": "Mon, 15 Jun 2026 09:00:00 -0400"
-    },
-    {
-      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
-      "pubDate": "Mon, 15 Jun 2026 08:38:55 -0400"
-    },
-    {
-      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
-      "pubDate": "Mon, 15 Jun 2026 08:12:20 -0400"
-    },
-    {
-      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
-      "pubDate": "Sun, 14 Jun 2026 10:36:23 -0400"
     }
   ]
 }
