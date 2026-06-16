@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T15:47:18Z",
+  "updated": "2026-06-16T19:26:33Z",
   "items": [
+    {
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "pubDate": "Tue, 16 Jun 2026 14:27:55 -0400"
+    },
     {
       "title": "UK to require ID or face scan before you can make social media accounts",
       "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
@@ -56,11 +61,6 @@
       "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
       "pubDate": "Mon, 15 Jun 2026 13:37:07 -0400"
-    },
-    {
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "pubDate": "Mon, 15 Jun 2026 13:12:42 -0400"
     }
   ]
 }
