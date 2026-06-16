@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-16T19:26:33Z",
+  "updated": "2026-06-16T21:58:27Z",
   "items": [
+    {
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "pubDate": "Tue, 16 Jun 2026 17:54:50 -0400"
+    },
+    {
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "pubDate": "Tue, 16 Jun 2026 16:04:11 -0400"
+    },
     {
       "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
       "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
@@ -51,16 +61,6 @@
       "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
       "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
       "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400"
-    },
-    {
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "pubDate": "Mon, 15 Jun 2026 16:06:52 -0400"
-    },
-    {
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "pubDate": "Mon, 15 Jun 2026 13:37:07 -0400"
     }
   ]
 }
