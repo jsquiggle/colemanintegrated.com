@@ -1,16 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-17T11:59:38Z",
+  "updated": "2026-06-17T15:34:49Z",
   "items": [
+    {
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "pubDate": "Wed, 17 Jun 2026 19:21:58 +0530"
+    },
+    {
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "pubDate": "Wed, 17 Jun 2026 17:28:00 +0530"
+    },
     {
       "title": "The Top 10 Attack Surface Exposures in 2026",
       "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
       "pubDate": "Wed, 17 Jun 2026 16:00:00 +0530"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "pubDate": "Wed, 17 Jun 2026 15:08:46 +0530"
     },
     {
       "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
@@ -56,11 +61,6 @@
       "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
       "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
       "pubDate": "Tue, 16 Jun 2026 13:44:55 +0530"
-    },
-    {
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "pubDate": "Tue, 16 Jun 2026 11:35:58 +0530"
     }
   ]
 }
