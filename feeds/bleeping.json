@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-17T07:06:55Z",
+  "updated": "2026-06-17T11:59:38Z",
   "items": [
+    {
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "pubDate": "Wed, 17 Jun 2026 07:54:21 -0400"
+    },
+    {
+      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+      "pubDate": "Wed, 17 Jun 2026 06:09:24 -0400"
+    },
+    {
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "pubDate": "Wed, 17 Jun 2026 04:32:29 -0400"
+    },
+    {
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "pubDate": "Wed, 17 Jun 2026 03:07:56 -0400"
+    },
     {
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
@@ -41,26 +61,6 @@
       "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
       "pubDate": "Tue, 16 Jun 2026 06:18:48 -0400"
-    },
-    {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "pubDate": "Tue, 16 Jun 2026 05:19:51 -0400"
-    },
-    {
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "pubDate": "Tue, 16 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "pubDate": "Tue, 16 Jun 2026 02:31:59 -0400"
-    },
-    {
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "pubDate": "Mon, 15 Jun 2026 17:56:55 -0400"
     }
   ]
 }
