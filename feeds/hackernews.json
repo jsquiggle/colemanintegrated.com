@@ -1,21 +1,31 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-17T18:08:07Z",
+  "updated": "2026-06-17T20:33:00Z",
   "items": [
+    {
+      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
+      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
+      "pubDate": "Wed, 17 Jun 2026 23:44:24 +0530"
+    },
+    {
+      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
+      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
+      "pubDate": "Wed, 17 Jun 2026 23:06:28 +0530"
+    },
     {
       "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
       "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
       "pubDate": "Wed, 17 Jun 2026 21:30:56 +0530"
     },
     {
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "pubDate": "Wed, 17 Jun 2026 20:28:00 +0530"
+    },
+    {
       "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
       "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
       "pubDate": "Wed, 17 Jun 2026 19:21:58 +0530"
-    },
-    {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-      "pubDate": "Wed, 17 Jun 2026 17:28:00 +0530"
     },
     {
       "title": "The Top 10 Attack Surface Exposures in 2026",
@@ -51,16 +61,6 @@
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
       "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
       "pubDate": "Tue, 16 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
-      "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-      "pubDate": "Tue, 16 Jun 2026 16:00:41 +0530"
-    },
-    {
-      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
-      "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
-      "pubDate": "Tue, 16 Jun 2026 15:14:34 +0530"
     }
   ]
 }
