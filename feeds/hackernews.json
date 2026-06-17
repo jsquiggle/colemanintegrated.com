@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-17T01:58:14Z",
+  "updated": "2026-06-17T07:06:55Z",
   "items": [
+    {
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "pubDate": "Wed, 17 Jun 2026 11:20:46 +0530"
+    },
     {
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
       "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
@@ -56,11 +61,6 @@
       "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
       "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
       "pubDate": "Tue, 16 Jun 2026 01:02:52 +0530"
-    },
-    {
-      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-      "pubDate": "Mon, 15 Jun 2026 22:09:01 +0530"
     }
   ]
 }
