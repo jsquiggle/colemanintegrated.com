@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-17T15:34:49Z",
+  "updated": "2026-06-17T18:08:07Z",
   "items": [
+    {
+      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
+      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
+      "pubDate": "Wed, 17 Jun 2026 21:30:56 +0530"
+    },
     {
       "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
       "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
       "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
       "pubDate": "Tue, 16 Jun 2026 15:14:34 +0530"
-    },
-    {
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "pubDate": "Tue, 16 Jun 2026 13:44:55 +0530"
     }
   ]
 }
