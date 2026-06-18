@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-18T11:33:13Z",
+  "updated": "2026-06-18T14:44:04Z",
   "items": [
+    {
+      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
+      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
+      "pubDate": "Thu, 18 Jun 2026 19:00:07 +0530"
+    },
+    {
+      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
+      "pubDate": "Thu, 18 Jun 2026 17:28:00 +0530"
+    },
     {
       "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
       "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
@@ -38,7 +48,7 @@
       "pubDate": "Wed, 17 Jun 2026 16:00:00 +0530"
     },
     {
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "title": "145 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
       "pubDate": "Wed, 17 Jun 2026 13:08:24 +0530"
     },
@@ -51,16 +61,6 @@
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
       "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
       "pubDate": "Wed, 17 Jun 2026 00:35:41 +0530"
-    },
-    {
-      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
-      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
-      "pubDate": "Tue, 16 Jun 2026 23:11:28 +0530"
-    },
-    {
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "pubDate": "Tue, 16 Jun 2026 18:40:17 +0530"
     }
   ]
 }

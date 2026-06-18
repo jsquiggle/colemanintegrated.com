@@ -1,7 +1,42 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-18T11:33:13Z",
+  "updated": "2026-06-18T14:44:04Z",
   "items": [
+    {
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
+      "pubDate": "Thu, 18 Jun 2026 10:19:50 -0400"
+    },
+    {
+      "title": "5 reasons Microsoft 365 backup isn\u2019t enough for business data protection",
+      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
+      "pubDate": "Thu, 18 Jun 2026 09:48:56 -0400"
+    },
+    {
+      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
+      "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
+      "pubDate": "Thu, 18 Jun 2026 09:25:47 -0400"
+    },
+    {
+      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
+      "pubDate": "Thu, 18 Jun 2026 08:55:36 -0400"
+    },
+    {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "pubDate": "Thu, 18 Jun 2026 08:54:39 -0400"
+    },
+    {
+      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
+      "pubDate": "Thu, 18 Jun 2026 08:23:58 -0400"
+    },
+    {
+      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
+      "pubDate": "Thu, 18 Jun 2026 08:18:49 -0400"
+    },
     {
       "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
@@ -23,44 +58,9 @@
       "pubDate": "Wed, 17 Jun 2026 17:02:42 -0400"
     },
     {
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "pubDate": "Wed, 17 Jun 2026 11:12:57 -0400"
-    },
-    {
       "title": "Why Account Takeovers Are Rising and How to Stop Them",
       "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
       "pubDate": "Wed, 17 Jun 2026 10:00:10 -0400"
-    },
-    {
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "pubDate": "Wed, 17 Jun 2026 09:12:45 -0400"
-    },
-    {
-      "title": "Microsoft confirms Office apps launch issues after June updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
-      "pubDate": "Wed, 17 Jun 2026 07:54:21 -0400"
-    },
-    {
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "pubDate": "Wed, 17 Jun 2026 06:09:24 -0400"
-    },
-    {
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "pubDate": "Wed, 17 Jun 2026 04:32:29 -0400"
-    },
-    {
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "pubDate": "Wed, 17 Jun 2026 03:07:56 -0400"
-    },
-    {
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "pubDate": "Tue, 16 Jun 2026 17:54:50 -0400"
     }
   ]
 }
