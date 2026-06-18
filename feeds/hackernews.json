@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-18T07:25:25Z",
+  "updated": "2026-06-18T11:33:13Z",
   "items": [
+    {
+      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
+      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
+      "pubDate": "Thu, 18 Jun 2026 16:30:00 +0530"
+    },
     {
       "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
       "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
@@ -56,11 +61,6 @@
       "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
       "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
       "pubDate": "Tue, 16 Jun 2026 18:40:17 +0530"
-    },
-    {
-      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
-      "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
-      "pubDate": "Tue, 16 Jun 2026 17:00:00 +0530"
     }
   ]
 }

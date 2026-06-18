@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-18T07:25:25Z",
+  "updated": "2026-06-18T11:33:13Z",
   "items": [
+    {
+      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "pubDate": "Thu, 18 Jun 2026 07:33:00 -0400"
+    },
+    {
+      "title": "Microsoft fixes Windows Server 2016 security update failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
+      "pubDate": "Thu, 18 Jun 2026 06:14:20 -0400"
+    },
     {
       "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
@@ -51,16 +61,6 @@
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "pubDate": "Tue, 16 Jun 2026 17:54:50 -0400"
-    },
-    {
-      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
-      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
-      "pubDate": "Tue, 16 Jun 2026 16:04:11 -0400"
-    },
-    {
-      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
-      "pubDate": "Tue, 16 Jun 2026 14:27:55 -0400"
     }
   ]
 }
