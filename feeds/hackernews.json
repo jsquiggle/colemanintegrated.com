@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-18T17:53:52Z",
+  "updated": "2026-06-18T20:09:14Z",
   "items": [
+    {
+      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
+      "pubDate": "Thu, 18 Jun 2026 23:02:14 +0530"
+    },
     {
       "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
       "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
@@ -56,11 +61,6 @@
       "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
       "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
       "pubDate": "Wed, 17 Jun 2026 19:21:58 +0530"
-    },
-    {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
-      "pubDate": "Wed, 17 Jun 2026 16:00:00 +0530"
     }
   ]
 }

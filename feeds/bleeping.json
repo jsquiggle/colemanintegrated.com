@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-18T17:53:52Z",
+  "updated": "2026-06-18T20:09:14Z",
   "items": [
+    {
+      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
+      "pubDate": "Thu, 18 Jun 2026 14:31:36 -0400"
+    },
     {
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
@@ -56,11 +61,6 @@
       "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
       "pubDate": "Wed, 17 Jun 2026 21:30:08 -0400"
-    },
-    {
-      "title": "Google to use UK and EU user IP addresses for ad personalization",
-      "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
-      "pubDate": "Wed, 17 Jun 2026 17:02:42 -0400"
     }
   ]
 }
