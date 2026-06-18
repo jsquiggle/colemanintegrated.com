@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-17T23:55:41Z",
+  "updated": "2026-06-18T02:41:04Z",
   "items": [
+    {
+      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+      "pubDate": "Wed, 17 Jun 2026 21:30:08 -0400"
+    },
     {
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
@@ -56,11 +61,6 @@
       "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
       "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
       "pubDate": "Tue, 16 Jun 2026 14:27:55 -0400"
-    },
-    {
-      "title": "UK to require ID or face scan before you can make social media accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
-      "pubDate": "Tue, 16 Jun 2026 10:38:49 -0400"
     }
   ]
 }
