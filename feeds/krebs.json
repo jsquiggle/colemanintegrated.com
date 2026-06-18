@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-06-18T14:44:04Z",
+  "updated": "2026-06-18T17:53:52Z",
   "items": [
+    {
+      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
+      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "pubDate": "Thu, 18 Jun 2026 17:37:58 +0000"
+    },
     {
       "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
       "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -46,11 +51,6 @@
       "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
       "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
       "pubDate": "Fri, 08 May 2026 02:58:46 +0000"
-    },
-    {
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "pubDate": "Thu, 30 Apr 2026 14:04:26 +0000"
     }
   ]
 }

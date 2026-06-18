@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-18T14:44:04Z",
+  "updated": "2026-06-18T17:53:52Z",
   "items": [
+    {
+      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
+      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
+      "pubDate": "Thu, 18 Jun 2026 12:20:06 -0400"
+    },
     {
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
       "pubDate": "Wed, 17 Jun 2026 17:02:42 -0400"
-    },
-    {
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
-      "pubDate": "Wed, 17 Jun 2026 10:00:10 -0400"
     }
   ]
 }
