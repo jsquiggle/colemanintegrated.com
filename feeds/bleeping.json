@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T21:40:12Z",
+  "updated": "2026-06-19T22:42:06Z",
   "items": [
+    {
+      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+      "pubDate": "Fri, 19 Jun 2026 18:31:04 -0400"
+    },
     {
       "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
@@ -56,11 +61,6 @@
       "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
       "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
       "pubDate": "Thu, 18 Jun 2026 12:20:06 -0400"
-    },
-    {
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "pubDate": "Thu, 18 Jun 2026 10:19:50 -0400"
     }
   ]
 }
