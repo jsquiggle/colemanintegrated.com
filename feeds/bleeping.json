@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T20:10:27Z",
+  "updated": "2026-06-19T21:40:12Z",
   "items": [
+    {
+      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
+      "pubDate": "Fri, 19 Jun 2026 16:25:02 -0400"
+    },
     {
       "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
@@ -56,11 +61,6 @@
       "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
       "pubDate": "Thu, 18 Jun 2026 10:19:50 -0400"
-    },
-    {
-      "title": "5 reasons Microsoft 365 backup isn\u2019t enough for business data protection",
-      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
-      "pubDate": "Thu, 18 Jun 2026 09:48:56 -0400"
     }
   ]
 }
