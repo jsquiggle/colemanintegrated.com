@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-19T13:52:23Z",
+  "updated": "2026-06-19T16:26:50Z",
   "items": [
+    {
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+      "pubDate": "Fri, 19 Jun 2026 20:37:54 +0530"
+    },
+    {
+      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+      "pubDate": "Fri, 19 Jun 2026 19:30:21 +0530"
+    },
     {
       "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
       "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
@@ -51,16 +61,6 @@
       "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
       "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
       "pubDate": "Thu, 18 Jun 2026 19:28:39 +0530"
-    },
-    {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "pubDate": "Thu, 18 Jun 2026 19:00:07 +0530"
-    },
-    {
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "pubDate": "Wed, 17 Jun 2026 23:44:24 +0530"
     }
   ]
 }

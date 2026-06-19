@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T13:52:23Z",
+  "updated": "2026-06-19T16:26:50Z",
   "items": [
+    {
+      "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "pubDate": "Fri, 19 Jun 2026 12:12:41 -0400"
+    },
     {
       "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
       "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
@@ -56,11 +61,6 @@
       "title": "5 reasons Microsoft 365 backup isn\u2019t enough for business data protection",
       "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
       "pubDate": "Thu, 18 Jun 2026 09:48:56 -0400"
-    },
-    {
-      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-      "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-      "pubDate": "Thu, 18 Jun 2026 09:25:47 -0400"
     }
   ]
 }
