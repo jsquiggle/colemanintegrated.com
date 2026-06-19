@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-18T22:28:11Z",
+  "updated": "2026-06-19T00:08:06Z",
   "items": [
+    {
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "pubDate": "Thu, 18 Jun 2026 18:31:52 -0400"
+    },
     {
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Windows Server 2016 security update failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
       "pubDate": "Thu, 18 Jun 2026 06:14:20 -0400"
-    },
-    {
-      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
-      "pubDate": "Wed, 17 Jun 2026 21:30:08 -0400"
     }
   ]
 }
