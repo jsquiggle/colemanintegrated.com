@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-19T10:10:28Z",
+  "updated": "2026-06-19T13:52:23Z",
   "items": [
+    {
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "pubDate": "Fri, 19 Jun 2026 09:10:19 -0400"
+    },
+    {
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "pubDate": "Fri, 19 Jun 2026 08:12:20 -0400"
+    },
+    {
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "pubDate": "Fri, 19 Jun 2026 07:32:34 -0400"
+    },
+    {
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "pubDate": "Fri, 19 Jun 2026 06:39:58 -0400"
+    },
     {
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
@@ -41,26 +61,6 @@
       "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
       "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
       "pubDate": "Thu, 18 Jun 2026 09:25:47 -0400"
-    },
-    {
-      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-      "pubDate": "Thu, 18 Jun 2026 08:55:36 -0400"
-    },
-    {
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "pubDate": "Thu, 18 Jun 2026 08:54:39 -0400"
-    },
-    {
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "pubDate": "Thu, 18 Jun 2026 08:23:58 -0400"
-    },
-    {
-      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
-      "pubDate": "Thu, 18 Jun 2026 08:18:49 -0400"
     }
   ]
 }
