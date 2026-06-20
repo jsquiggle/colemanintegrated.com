@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-20T14:37:09Z",
+  "updated": "2026-06-20T16:10:27Z",
   "items": [
+    {
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "pubDate": "Sat, 20 Jun 2026 11:23:46 -0400"
+    },
     {
       "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
@@ -56,11 +61,6 @@
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
       "pubDate": "Thu, 18 Jun 2026 18:31:52 -0400"
-    },
-    {
-      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-      "pubDate": "Thu, 18 Jun 2026 14:31:36 -0400"
     }
   ]
 }
