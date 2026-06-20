@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-20T12:13:00Z",
+  "updated": "2026-06-20T14:37:09Z",
   "items": [
+    {
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "pubDate": "Sat, 20 Jun 2026 10:09:19 -0400"
+    },
     {
       "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
@@ -56,11 +61,6 @@
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
       "pubDate": "Thu, 18 Jun 2026 14:31:36 -0400"
-    },
-    {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "pubDate": "Thu, 18 Jun 2026 12:20:06 -0400"
     }
   ]
 }
