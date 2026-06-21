@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-21T12:22:29Z",
+  "updated": "2026-06-21T14:37:37Z",
   "items": [
+    {
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400"
+    },
     {
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
@@ -56,11 +61,6 @@
       "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
       "pubDate": "Fri, 19 Jun 2026 02:47:55 -0400"
-    },
-    {
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
-      "pubDate": "Thu, 18 Jun 2026 18:31:52 -0400"
     }
   ]
 }
