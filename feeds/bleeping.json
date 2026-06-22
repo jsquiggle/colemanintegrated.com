@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-22T21:54:29Z",
+  "updated": "2026-06-22T23:10:27Z",
   "items": [
+    {
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "pubDate": "Mon, 22 Jun 2026 18:42:21 -0400"
+    },
     {
       "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
       "pubDate": "Fri, 19 Jun 2026 16:25:02 -0400"
-    },
-    {
-      "title": "Texas govt data breach exposes over 3 million driver\u2019s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "pubDate": "Fri, 19 Jun 2026 12:12:41 -0400"
     }
   ]
 }
