@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-22T16:25:47Z",
+  "updated": "2026-06-22T19:51:45Z",
   "items": [
+    {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "pubDate": "Mon, 22 Jun 2026 23:30:48 +0530"
+    },
+    {
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "pubDate": "Mon, 22 Jun 2026 21:43:28 +0530"
+    },
     {
       "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
       "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
@@ -51,16 +61,6 @@
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
       "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
       "pubDate": "Sat, 20 Jun 2026 00:07:41 +0530"
-    },
-    {
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "pubDate": "Sat, 20 Jun 2026 00:03:07 +0530"
-    },
-    {
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "pubDate": "Fri, 19 Jun 2026 21:00:47 +0530"
     }
   ]
 }

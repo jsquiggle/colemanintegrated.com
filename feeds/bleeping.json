@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-22T16:25:47Z",
+  "updated": "2026-06-22T19:51:45Z",
   "items": [
+    {
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "pubDate": "Mon, 22 Jun 2026 13:41:31 -0400"
+    },
+    {
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "pubDate": "Mon, 22 Jun 2026 13:28:57 -0400"
+    },
     {
       "title": "A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
       "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
@@ -51,16 +61,6 @@
       "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
       "pubDate": "Fri, 19 Jun 2026 07:32:34 -0400"
-    },
-    {
-      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-      "pubDate": "Fri, 19 Jun 2026 06:39:58 -0400"
-    },
-    {
-      "title": "NY man charged after harassing college student with AI-generated nudes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-      "pubDate": "Fri, 19 Jun 2026 04:44:08 -0400"
     }
   ]
 }
