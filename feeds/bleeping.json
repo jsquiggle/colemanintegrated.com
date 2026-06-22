@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-22T11:32:11Z",
+  "updated": "2026-06-22T16:25:47Z",
   "items": [
+    {
+      "title": "A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400"
+    },
     {
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
@@ -56,11 +61,6 @@
       "title": "NY man charged after harassing college student with AI-generated nudes",
       "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
       "pubDate": "Fri, 19 Jun 2026 04:44:08 -0400"
-    },
-    {
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "pubDate": "Fri, 19 Jun 2026 02:47:55 -0400"
     }
   ]
 }
