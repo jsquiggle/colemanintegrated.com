@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-23T19:01:35Z",
+  "updated": "2026-06-23T21:10:09Z",
   "items": [
+    {
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "pubDate": "Tue, 23 Jun 2026 23:50:49 +0530"
+    },
     {
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
       "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
@@ -56,11 +61,6 @@
       "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
       "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
       "pubDate": "Mon, 22 Jun 2026 18:50:12 +0530"
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "pubDate": "Mon, 22 Jun 2026 18:15:08 +0530"
     }
   ]
 }

@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-23T19:01:35Z",
+  "updated": "2026-06-23T21:10:09Z",
   "items": [
+    {
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "pubDate": "Tue, 23 Jun 2026 17:06:32 -0400"
+    },
+    {
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "pubDate": "Tue, 23 Jun 2026 16:22:21 -0400"
+    },
+    {
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "pubDate": "Tue, 23 Jun 2026 15:59:12 -0400"
+    },
     {
       "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
@@ -46,21 +61,6 @@
       "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
       "pubDate": "Mon, 22 Jun 2026 16:01:02 -0400"
-    },
-    {
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "pubDate": "Mon, 22 Jun 2026 13:41:31 -0400"
-    },
-    {
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
-      "pubDate": "Mon, 22 Jun 2026 13:28:57 -0400"
-    },
-    {
-      "title": "A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
-      "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400"
     }
   ]
 }
