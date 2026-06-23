@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-23T08:56:32Z",
+  "updated": "2026-06-23T11:54:17Z",
   "items": [
+    {
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+      "pubDate": "Tue, 23 Jun 2026 14:24:32 +0530"
+    },
     {
       "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
       "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
@@ -56,11 +61,6 @@
       "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
       "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
       "pubDate": "Mon, 22 Jun 2026 12:27:44 +0530"
-    },
-    {
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "pubDate": "Mon, 22 Jun 2026 11:36:53 +0530"
     }
   ]
 }
