@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-23T11:54:17Z",
+  "updated": "2026-06-23T14:24:49Z",
   "items": [
+    {
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "pubDate": "Tue, 23 Jun 2026 19:52:03 +0530"
+    },
+    {
+      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
+      "pubDate": "Tue, 23 Jun 2026 17:00:00 +0530"
+    },
     {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
@@ -23,14 +33,14 @@
       "pubDate": "Mon, 22 Jun 2026 23:30:48 +0530"
     },
     {
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "pubDate": "Mon, 22 Jun 2026 21:59:00 +0530"
+    },
+    {
       "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
       "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
       "pubDate": "Mon, 22 Jun 2026 21:43:28 +0530"
-    },
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "pubDate": "Mon, 22 Jun 2026 19:59:46 +0530"
     },
     {
       "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
@@ -51,16 +61,6 @@
       "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
       "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
       "pubDate": "Mon, 22 Jun 2026 16:25:10 +0530"
-    },
-    {
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "pubDate": "Mon, 22 Jun 2026 14:41:37 +0530"
-    },
-    {
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "pubDate": "Mon, 22 Jun 2026 12:27:44 +0530"
     }
   ]
 }

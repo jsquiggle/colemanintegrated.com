@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-23T11:54:17Z",
+  "updated": "2026-06-23T14:24:49Z",
   "items": [
+    {
+      "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+      "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
+      "pubDate": "Tue, 23 Jun 2026 10:01:11 -0400"
+    },
+    {
+      "title": "LastPass confirms data breach in Klue supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+      "pubDate": "Tue, 23 Jun 2026 09:58:25 -0400"
+    },
+    {
+      "title": "Webinar: Why email security teams are drowning in alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
+      "pubDate": "Tue, 23 Jun 2026 08:12:20 -0400"
+    },
     {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
@@ -46,21 +61,6 @@
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "pubDate": "Sat, 20 Jun 2026 11:23:46 -0400"
-    },
-    {
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "pubDate": "Sat, 20 Jun 2026 10:09:19 -0400"
-    },
-    {
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "pubDate": "Fri, 19 Jun 2026 18:31:04 -0400"
-    },
-    {
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "pubDate": "Fri, 19 Jun 2026 16:25:02 -0400"
     }
   ]
 }
