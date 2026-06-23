@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-23T05:37:00Z",
+  "updated": "2026-06-23T08:56:32Z",
   "items": [
+    {
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+      "pubDate": "Tue, 23 Jun 2026 11:08:40 +0530"
+    },
     {
       "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
       "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
@@ -56,11 +61,6 @@
       "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
       "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
       "pubDate": "Mon, 22 Jun 2026 11:36:53 +0530"
-    },
-    {
-      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-      "pubDate": "Sat, 20 Jun 2026 15:26:04 +0530"
     }
   ]
 }
