@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-23T16:46:08Z",
+  "updated": "2026-06-23T19:01:35Z",
   "items": [
+    {
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "pubDate": "Tue, 23 Jun 2026 14:30:16 -0400"
+    },
     {
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
       "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
@@ -56,11 +61,6 @@
       "title": "A Glimpse into the \u201cSearch Your Target\u201d Market for Stolen Credentials",
       "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
       "pubDate": "Mon, 22 Jun 2026 10:05:15 -0400"
-    },
-    {
-      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
-      "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400"
     }
   ]
 }
