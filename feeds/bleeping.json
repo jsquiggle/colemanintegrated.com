@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-23T14:24:49Z",
+  "updated": "2026-06-23T16:46:08Z",
   "items": [
+    {
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "pubDate": "Tue, 23 Jun 2026 11:31:59 -0400"
+    },
     {
       "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
       "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
@@ -56,11 +61,6 @@
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
       "pubDate": "Sun, 21 Jun 2026 10:14:22 -0400"
-    },
-    {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "pubDate": "Sat, 20 Jun 2026 11:23:46 -0400"
     }
   ]
 }

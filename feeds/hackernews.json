@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-23T14:24:49Z",
+  "updated": "2026-06-23T16:46:08Z",
   "items": [
+    {
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "pubDate": "Tue, 23 Jun 2026 20:46:43 +0530"
+    },
+    {
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "pubDate": "Tue, 23 Jun 2026 20:46:40 +0530"
+    },
     {
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
       "link": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
@@ -51,16 +61,6 @@
       "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
       "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
       "pubDate": "Mon, 22 Jun 2026 18:15:08 +0530"
-    },
-    {
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "pubDate": "Mon, 22 Jun 2026 17:28:00 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "pubDate": "Mon, 22 Jun 2026 16:25:10 +0530"
     }
   ]
 }

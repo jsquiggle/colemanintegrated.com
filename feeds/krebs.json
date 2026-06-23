@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-06-23T14:24:49Z",
+  "updated": "2026-06-23T16:46:08Z",
   "items": [
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "pubDate": "Tue, 23 Jun 2026 16:12:49 +0000"
+    },
     {
       "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
       "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -46,11 +51,6 @@
       "title": "Patch Tuesday, May 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "pubDate": "Tue, 12 May 2026 21:46:45 +0000"
-    },
-    {
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "pubDate": "Fri, 08 May 2026 02:58:46 +0000"
     }
   ]
 }
