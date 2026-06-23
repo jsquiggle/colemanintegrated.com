@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-23T21:10:09Z",
+  "updated": "2026-06-23T22:43:02Z",
   "items": [
+    {
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "pubDate": "Tue, 23 Jun 2026 17:48:32 -0400"
+    },
     {
       "title": "Tata Electronics confirms cyberattack as hackers leak data",
       "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
@@ -56,11 +61,6 @@
       "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
       "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
       "pubDate": "Mon, 22 Jun 2026 17:05:01 -0400"
-    },
-    {
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "pubDate": "Mon, 22 Jun 2026 16:01:02 -0400"
     }
   ]
 }
