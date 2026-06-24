@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-24T12:12:53Z",
+  "updated": "2026-06-24T15:15:02Z",
   "items": [
+    {
+      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+      "pubDate": "Wed, 24 Jun 2026 18:18:11 +0530"
+    },
+    {
+      "title": "Dawn of the Apex Agentic Adversary",
+      "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
+      "pubDate": "Wed, 24 Jun 2026 17:00:00 +0530"
+    },
     {
       "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
       "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
@@ -51,16 +61,6 @@
       "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
       "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
       "pubDate": "Tue, 23 Jun 2026 09:26:58 +0530"
-    },
-    {
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "pubDate": "Mon, 22 Jun 2026 23:30:48 +0530"
-    },
-    {
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "pubDate": "Mon, 22 Jun 2026 21:59:00 +0530"
     }
   ]
 }

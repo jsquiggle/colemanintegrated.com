@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-24T12:12:53Z",
+  "updated": "2026-06-24T15:15:02Z",
   "items": [
+    {
+      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
+      "pubDate": "Wed, 24 Jun 2026 10:35:15 -0400"
+    },
+    {
+      "title": "Amadey, StealC malware operations disrupted in Operation Endgame action",
+      "link": "https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/",
+      "pubDate": "Wed, 24 Jun 2026 10:35:11 -0400"
+    },
+    {
+      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
+      "pubDate": "Wed, 24 Jun 2026 10:02:12 -0400"
+    },
     {
       "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
       "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
@@ -46,21 +61,6 @@
       "title": "LastPass confirms data breach in Klue supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
       "pubDate": "Tue, 23 Jun 2026 09:58:25 -0400"
-    },
-    {
-      "title": "Webinar: Why email security teams are drowning in alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
-      "pubDate": "Tue, 23 Jun 2026 08:12:20 -0400"
-    },
-    {
-      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "pubDate": "Mon, 22 Jun 2026 18:42:21 -0400"
-    },
-    {
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400"
     }
   ]
 }
