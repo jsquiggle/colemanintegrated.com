@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-24T22:43:13Z",
+  "updated": "2026-06-24T23:57:19Z",
   "items": [
+    {
+      "title": "Google releases new privacy controls for activity history, personalization",
+      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+      "pubDate": "Wed, 24 Jun 2026 19:46:17 -0400"
+    },
     {
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
@@ -56,11 +61,6 @@
       "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
       "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
       "pubDate": "Tue, 23 Jun 2026 15:59:12 -0400"
-    },
-    {
-      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
-      "pubDate": "Tue, 23 Jun 2026 14:30:16 -0400"
     }
   ]
 }
