@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-24T19:07:06Z",
+  "updated": "2026-06-24T21:06:46Z",
   "items": [
+    {
+      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+      "pubDate": "Wed, 24 Jun 2026 16:58:22 -0400"
+    },
     {
       "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
       "link": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
       "pubDate": "Tue, 23 Jun 2026 10:01:11 -0400"
-    },
-    {
-      "title": "LastPass confirms data breach in Klue supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-      "pubDate": "Tue, 23 Jun 2026 09:58:25 -0400"
     }
   ]
 }
