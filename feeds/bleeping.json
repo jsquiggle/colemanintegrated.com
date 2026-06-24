@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-24T09:55:14Z",
+  "updated": "2026-06-24T12:12:53Z",
   "items": [
+    {
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "pubDate": "Wed, 24 Jun 2026 06:41:51 -0400"
+    },
     {
       "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
       "pubDate": "Mon, 22 Jun 2026 17:52:18 -0400"
-    },
-    {
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "pubDate": "Mon, 22 Jun 2026 17:05:01 -0400"
     }
   ]
 }
