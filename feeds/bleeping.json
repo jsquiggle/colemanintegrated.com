@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-25T10:09:57Z",
+  "updated": "2026-06-25T12:35:17Z",
   "items": [
+    {
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "pubDate": "Thu, 25 Jun 2026 08:12:20 -0400"
+    },
     {
       "title": "Google releases new privacy controls for activity history, personalization",
       "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
       "pubDate": "Tue, 23 Jun 2026 16:22:21 -0400"
-    },
-    {
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "pubDate": "Tue, 23 Jun 2026 15:59:12 -0400"
     }
   ]
 }
