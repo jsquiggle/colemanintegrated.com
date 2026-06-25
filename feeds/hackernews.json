@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-25T12:35:17Z",
+  "updated": "2026-06-25T15:35:41Z",
   "items": [
+    {
+      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
+      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+      "pubDate": "Thu, 25 Jun 2026 19:42:52 +0530"
+    },
+    {
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "pubDate": "Thu, 25 Jun 2026 17:54:43 +0530"
+    },
     {
       "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
       "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
@@ -51,16 +61,6 @@
       "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
       "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
       "pubDate": "Wed, 24 Jun 2026 12:20:38 +0530"
-    },
-    {
-      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-      "pubDate": "Tue, 23 Jun 2026 23:50:49 +0530"
-    },
-    {
-      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-      "pubDate": "Tue, 23 Jun 2026 20:46:43 +0530"
     }
   ]
 }
