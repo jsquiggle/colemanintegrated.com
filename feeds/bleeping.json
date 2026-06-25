@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-25T15:35:41Z",
+  "updated": "2026-06-25T18:01:14Z",
   "items": [
+    {
+      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
+      "pubDate": "Thu, 25 Jun 2026 12:23:19 -0400"
+    },
+    {
+      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
+      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
+      "pubDate": "Thu, 25 Jun 2026 11:36:56 -0400"
+    },
     {
       "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
       "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
@@ -51,16 +61,6 @@
       "title": "Securing the service desk: Why social engineering attacks keep succeeding",
       "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
       "pubDate": "Wed, 24 Jun 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "pubDate": "Wed, 24 Jun 2026 06:41:51 -0400"
-    },
-    {
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "pubDate": "Tue, 23 Jun 2026 17:48:32 -0400"
     }
   ]
 }
