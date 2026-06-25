@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-25T21:59:27Z",
+  "updated": "2026-06-25T23:18:42Z",
   "items": [
+    {
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "pubDate": "Thu, 25 Jun 2026 18:53:32 -0400"
+    },
+    {
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "pubDate": "Thu, 25 Jun 2026 18:37:42 -0400"
+    },
     {
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
@@ -51,16 +61,6 @@
       "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
       "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
       "pubDate": "Wed, 24 Jun 2026 17:29:10 -0400"
-    },
-    {
-      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
-      "pubDate": "Wed, 24 Jun 2026 16:58:22 -0400"
-    },
-    {
-      "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
-      "pubDate": "Wed, 24 Jun 2026 10:35:15 -0400"
     }
   ]
 }
