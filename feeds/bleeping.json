@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-26T17:12:14Z",
+  "updated": "2026-06-26T19:13:09Z",
   "items": [
+    {
+      "title": "Polymarket customers lose $3 million in supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "pubDate": "Fri, 26 Jun 2026 14:04:12 -0400"
+    },
+    {
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+      "pubDate": "Fri, 26 Jun 2026 13:49:07 -0400"
+    },
     {
       "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
       "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
@@ -51,16 +61,6 @@
       "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
       "pubDate": "Thu, 25 Jun 2026 08:12:20 -0400"
-    },
-    {
-      "title": "Google releases new privacy controls for activity history, personalization",
-      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-      "pubDate": "Wed, 24 Jun 2026 19:46:17 -0400"
-    },
-    {
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "pubDate": "Wed, 24 Jun 2026 17:55:43 -0400"
     }
   ]
 }
