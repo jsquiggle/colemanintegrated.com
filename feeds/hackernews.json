@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-26T19:13:09Z",
+  "updated": "2026-06-26T21:01:06Z",
   "items": [
+    {
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+      "pubDate": "Sat, 27 Jun 2026 01:08:29 +0530"
+    },
     {
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
       "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
@@ -56,11 +61,6 @@
       "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
       "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
       "pubDate": "Fri, 26 Jun 2026 12:45:46 +0530"
-    },
-    {
-      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-      "pubDate": "Thu, 25 Jun 2026 19:42:52 +0530"
     }
   ]
 }

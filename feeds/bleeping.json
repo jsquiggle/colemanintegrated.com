@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-26T19:13:09Z",
+  "updated": "2026-06-26T21:01:06Z",
   "items": [
+    {
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "pubDate": "Fri, 26 Jun 2026 15:43:06 -0400"
+    },
     {
       "title": "Polymarket customers lose $3 million in supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
@@ -56,11 +61,6 @@
       "title": "The Four Elevations of Effective Fraud Prevention",
       "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
       "pubDate": "Thu, 25 Jun 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-      "pubDate": "Thu, 25 Jun 2026 08:12:20 -0400"
     }
   ]
 }
