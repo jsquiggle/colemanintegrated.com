@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-26T15:06:51Z",
+  "updated": "2026-06-26T17:12:14Z",
   "items": [
+    {
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "pubDate": "Fri, 26 Jun 2026 21:51:25 +0530"
+    },
     {
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
       "pubDate": "Thu, 25 Jun 2026 17:54:43 +0530"
-    },
-    {
-      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-      "pubDate": "Thu, 25 Jun 2026 16:47:31 +0530"
     }
   ]
 }
