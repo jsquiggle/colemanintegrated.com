@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-26T21:01:06Z",
+  "updated": "2026-06-26T22:40:05Z",
   "items": [
+    {
+      "title": "FBI: Russian hackers now target Signal backup recovery keys",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
+      "pubDate": "Fri, 26 Jun 2026 18:06:17 -0400"
+    },
     {
       "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
       "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
       "pubDate": "Thu, 25 Jun 2026 11:00:00 -0400"
-    },
-    {
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "pubDate": "Thu, 25 Jun 2026 10:01:11 -0400"
     }
   ]
 }
