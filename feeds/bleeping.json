@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-26T12:05:19Z",
+  "updated": "2026-06-26T15:06:51Z",
   "items": [
+    {
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "pubDate": "Fri, 26 Jun 2026 10:01:11 -0400"
+    },
     {
       "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
@@ -56,11 +61,6 @@
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
       "pubDate": "Wed, 24 Jun 2026 17:55:43 -0400"
-    },
-    {
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "pubDate": "Wed, 24 Jun 2026 17:29:10 -0400"
     }
   ]
 }

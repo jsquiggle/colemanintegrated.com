@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-26T12:05:19Z",
+  "updated": "2026-06-26T15:06:51Z",
   "items": [
+    {
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "pubDate": "Fri, 26 Jun 2026 19:27:55 +0530"
+    },
+    {
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "pubDate": "Fri, 26 Jun 2026 19:23:00 +0530"
+    },
+    {
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "pubDate": "Fri, 26 Jun 2026 18:01:56 +0530"
+    },
+    {
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "pubDate": "Fri, 26 Jun 2026 17:21:35 +0530"
+    },
+    {
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+      "pubDate": "Fri, 26 Jun 2026 17:00:00 +0530"
+    },
     {
       "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
       "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
@@ -36,31 +61,6 @@
       "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
       "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
       "pubDate": "Thu, 25 Jun 2026 16:47:31 +0530"
-    },
-    {
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "pubDate": "Thu, 25 Jun 2026 14:53:03 +0530"
-    },
-    {
-      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-      "pubDate": "Thu, 25 Jun 2026 14:24:37 +0530"
-    },
-    {
-      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-      "pubDate": "Thu, 25 Jun 2026 11:16:54 +0530"
-    },
-    {
-      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
-      "pubDate": "Wed, 24 Jun 2026 22:49:18 +0530"
-    },
-    {
-      "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-      "link": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-      "pubDate": "Wed, 24 Jun 2026 21:29:50 +0530"
     }
   ]
 }
