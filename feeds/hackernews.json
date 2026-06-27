@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-27T11:08:10Z",
+  "updated": "2026-06-27T12:48:40Z",
   "items": [
+    {
+      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+      "pubDate": "Sat, 27 Jun 2026 17:49:37 +0530"
+    },
     {
       "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
       "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
@@ -56,11 +61,6 @@
       "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
       "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
       "pubDate": "Fri, 26 Jun 2026 14:19:35 +0530"
-    },
-    {
-      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-      "pubDate": "Fri, 26 Jun 2026 12:45:46 +0530"
     }
   ]
 }
