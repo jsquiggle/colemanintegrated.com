@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-27T16:55:06Z",
+  "updated": "2026-06-27T17:54:28Z",
   "items": [
+    {
+      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
+      "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
+      "pubDate": "Sat, 27 Jun 2026 22:57:11 +0530"
+    },
     {
       "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
       "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
       "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
       "pubDate": "Fri, 26 Jun 2026 14:57:12 +0530"
-    },
-    {
-      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
-      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-      "pubDate": "Fri, 26 Jun 2026 14:19:35 +0530"
     }
   ]
 }
