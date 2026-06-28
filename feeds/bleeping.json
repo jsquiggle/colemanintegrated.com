@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-28T13:13:40Z",
+  "updated": "2026-06-28T14:59:33Z",
   "items": [
+    {
+      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "pubDate": "Sun, 28 Jun 2026 10:13:46 -0400"
+    },
     {
       "title": "Clean GitHub repo tricks AI coding agents into running malware",
       "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
@@ -56,11 +61,6 @@
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
       "pubDate": "Thu, 25 Jun 2026 12:23:19 -0400"
-    },
-    {
-      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-      "pubDate": "Thu, 25 Jun 2026 11:36:56 -0400"
     }
   ]
 }
