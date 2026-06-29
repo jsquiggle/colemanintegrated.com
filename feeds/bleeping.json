@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-29T08:48:54Z",
+  "updated": "2026-06-29T12:56:32Z",
   "items": [
+    {
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400"
+    },
+    {
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "pubDate": "Mon, 29 Jun 2026 07:21:03 -0400"
+    },
     {
       "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
@@ -51,16 +61,6 @@
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
       "pubDate": "Thu, 25 Jun 2026 15:45:48 -0400"
-    },
-    {
-      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
-      "pubDate": "Thu, 25 Jun 2026 14:29:20 -0400"
-    },
-    {
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "pubDate": "Thu, 25 Jun 2026 12:23:19 -0400"
     }
   ]
 }
