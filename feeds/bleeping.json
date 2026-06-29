@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-29T12:56:32Z",
+  "updated": "2026-06-29T16:34:14Z",
   "items": [
+    {
+      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+      "pubDate": "Mon, 29 Jun 2026 11:09:43 -0400"
+    },
+    {
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "pubDate": "Mon, 29 Jun 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "pubDate": "Mon, 29 Jun 2026 10:00:00 -0400"
+    },
+    {
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "pubDate": "Mon, 29 Jun 2026 09:46:17 -0400"
+    },
     {
       "title": "Webinar: Why business email compromise attacks keep succeeding",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
@@ -41,26 +61,6 @@
       "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
       "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
       "pubDate": "Fri, 26 Jun 2026 13:49:07 -0400"
-    },
-    {
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "pubDate": "Fri, 26 Jun 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "pubDate": "Thu, 25 Jun 2026 18:53:32 -0400"
-    },
-    {
-      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
-      "pubDate": "Thu, 25 Jun 2026 18:37:42 -0400"
-    },
-    {
-      "title": "Order-tracking app Shop abused to push callback phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "pubDate": "Thu, 25 Jun 2026 15:45:48 -0400"
     }
   ]
 }
