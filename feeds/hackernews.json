@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-29T03:55:04Z",
+  "updated": "2026-06-29T08:48:54Z",
   "items": [
+    {
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "pubDate": "Mon, 29 Jun 2026 12:36:34 +0530"
+    },
+    {
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "pubDate": "Mon, 29 Jun 2026 11:06:06 +0530"
+    },
     {
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
       "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
@@ -51,16 +61,6 @@
       "title": "Guardian Agents: The Next Layer of Identity Governance",
       "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
       "pubDate": "Fri, 26 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "pubDate": "Fri, 26 Jun 2026 16:35:45 +0530"
-    },
-    {
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-      "pubDate": "Fri, 26 Jun 2026 14:57:12 +0530"
     }
   ]
 }
