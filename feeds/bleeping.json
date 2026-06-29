@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-29T18:57:35Z",
+  "updated": "2026-06-29T20:47:08Z",
   "items": [
+    {
+      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+      "pubDate": "Mon, 29 Jun 2026 16:30:28 -0400"
+    },
     {
       "title": "WhatsApp rolls out usernames to help users hide their phone number",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
@@ -56,11 +61,6 @@
       "title": "FBI: Russian hackers now target Signal backup recovery keys",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
       "pubDate": "Fri, 26 Jun 2026 18:06:17 -0400"
-    },
-    {
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "pubDate": "Fri, 26 Jun 2026 15:43:06 -0400"
     }
   ]
 }
