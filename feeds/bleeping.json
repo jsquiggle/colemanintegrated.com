@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-29T20:47:08Z",
+  "updated": "2026-06-29T22:03:05Z",
   "items": [
+    {
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "pubDate": "Mon, 29 Jun 2026 16:40:44 -0400"
+    },
     {
       "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
       "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
@@ -56,11 +61,6 @@
       "title": "Clean GitHub repo tricks AI coding agents into running malware",
       "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
       "pubDate": "Sat, 27 Jun 2026 10:22:36 -0400"
-    },
-    {
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "pubDate": "Fri, 26 Jun 2026 18:06:17 -0400"
     }
   ]
 }
