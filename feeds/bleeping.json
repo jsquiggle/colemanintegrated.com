@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-29T16:34:14Z",
+  "updated": "2026-06-29T18:57:35Z",
   "items": [
+    {
+      "title": "WhatsApp rolls out usernames to help users hide their phone number",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+      "pubDate": "Mon, 29 Jun 2026 13:48:28 -0400"
+    },
+    {
+      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+      "pubDate": "Mon, 29 Jun 2026 13:11:15 -0400"
+    },
     {
       "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
       "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
@@ -51,16 +61,6 @@
       "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
       "pubDate": "Fri, 26 Jun 2026 15:43:06 -0400"
-    },
-    {
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "pubDate": "Fri, 26 Jun 2026 14:04:12 -0400"
-    },
-    {
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "pubDate": "Fri, 26 Jun 2026 13:49:07 -0400"
     }
   ]
 }
