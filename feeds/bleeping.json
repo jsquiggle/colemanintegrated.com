@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-30T10:23:03Z",
+  "updated": "2026-06-30T12:26:52Z",
   "items": [
+    {
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "pubDate": "Tue, 30 Jun 2026 07:12:18 -0400"
+    },
+    {
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/mircosoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "pubDate": "Tue, 30 Jun 2026 06:52:26 -0400"
+    },
     {
       "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
       "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
@@ -51,16 +61,6 @@
       "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
       "pubDate": "Mon, 29 Jun 2026 10:00:00 -0400"
-    },
-    {
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "pubDate": "Mon, 29 Jun 2026 09:46:17 -0400"
-    },
-    {
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400"
     }
   ]
 }

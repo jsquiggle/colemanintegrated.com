@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-30T10:23:03Z",
+  "updated": "2026-06-30T12:26:52Z",
   "items": [
+    {
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "pubDate": "Tue, 30 Jun 2026 16:48:47 +0530"
+    },
+    {
+      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "pubDate": "Tue, 30 Jun 2026 14:57:58 +0530"
+    },
     {
       "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
       "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
@@ -51,16 +61,6 @@
       "title": "Why Post-Quantum Cryptography Starts With Credentials",
       "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
       "pubDate": "Mon, 29 Jun 2026 17:12:16 +0530"
-    },
-    {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "pubDate": "Mon, 29 Jun 2026 17:10:24 +0530"
-    },
-    {
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "pubDate": "Mon, 29 Jun 2026 14:02:31 +0530"
     }
   ]
 }
