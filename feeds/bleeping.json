@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-30T06:35:50Z",
+  "updated": "2026-06-30T10:23:03Z",
   "items": [
+    {
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "pubDate": "Tue, 30 Jun 2026 05:46:39 -0400"
+    },
+    {
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "pubDate": "Tue, 30 Jun 2026 05:41:05 -0400"
+    },
+    {
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "pubDate": "Tue, 30 Jun 2026 04:53:13 -0400"
+    },
     {
       "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
@@ -46,21 +61,6 @@
       "title": "Webinar: Why business email compromise attacks keep succeeding",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
       "pubDate": "Mon, 29 Jun 2026 08:14:22 -0400"
-    },
-    {
-      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-      "pubDate": "Mon, 29 Jun 2026 07:21:03 -0400"
-    },
-    {
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "pubDate": "Sun, 28 Jun 2026 10:13:46 -0400"
-    },
-    {
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "pubDate": "Sat, 27 Jun 2026 10:22:36 -0400"
     }
   ]
 }
