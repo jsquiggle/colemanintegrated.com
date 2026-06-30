@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-06-30T15:06:57Z",
+  "updated": "2026-06-30T17:20:15Z",
   "items": [
+    {
+      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
+      "pubDate": "Tue, 30 Jun 2026 21:17:20 +0530"
+    },
+    {
+      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
+      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
+      "pubDate": "Tue, 30 Jun 2026 21:10:18 +0530"
+    },
     {
       "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
       "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
@@ -51,16 +61,6 @@
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
       "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
       "pubDate": "Mon, 29 Jun 2026 21:10:00 +0530"
-    },
-    {
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "pubDate": "Mon, 29 Jun 2026 21:00:00 +0530"
-    },
-    {
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-      "pubDate": "Mon, 29 Jun 2026 20:33:40 +0530"
     }
   ]
 }

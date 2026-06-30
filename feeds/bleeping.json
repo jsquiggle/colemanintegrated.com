@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-30T15:06:57Z",
+  "updated": "2026-06-30T17:20:15Z",
   "items": [
+    {
+      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
+      "pubDate": "Tue, 30 Jun 2026 11:46:19 -0400"
+    },
     {
       "title": "Lessons from the Underground: How to Combat Business Email Compromise",
       "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
@@ -56,11 +61,6 @@
       "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
       "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
       "pubDate": "Mon, 29 Jun 2026 11:09:43 -0400"
-    },
-    {
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "pubDate": "Mon, 29 Jun 2026 10:01:11 -0400"
     }
   ]
 }
