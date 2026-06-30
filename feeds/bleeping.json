@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-30T21:11:02Z",
+  "updated": "2026-06-30T22:46:45Z",
   "items": [
+    {
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "pubDate": "Tue, 30 Jun 2026 17:50:24 -0400"
+    },
+    {
+      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
+      "pubDate": "Tue, 30 Jun 2026 17:20:06 -0400"
+    },
     {
       "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
@@ -51,16 +61,6 @@
       "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
       "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
       "pubDate": "Mon, 29 Jun 2026 16:30:28 -0400"
-    },
-    {
-      "title": "WhatsApp rolls out usernames to help users hide their phone number",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-      "pubDate": "Mon, 29 Jun 2026 13:48:28 -0400"
-    },
-    {
-      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
-      "pubDate": "Mon, 29 Jun 2026 13:11:15 -0400"
     }
   ]
 }
