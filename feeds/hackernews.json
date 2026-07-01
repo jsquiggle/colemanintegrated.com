@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-01T07:02:57Z",
+  "updated": "2026-07-01T10:51:26Z",
   "items": [
+    {
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "pubDate": "Wed, 01 Jul 2026 12:50:51 +0530"
+    },
+    {
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "pubDate": "Wed, 01 Jul 2026 12:16:17 +0530"
+    },
     {
       "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
       "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
@@ -51,16 +61,6 @@
       "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
       "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
       "pubDate": "Tue, 30 Jun 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-      "pubDate": "Tue, 30 Jun 2026 16:48:47 +0530"
-    },
-    {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "pubDate": "Tue, 30 Jun 2026 14:57:58 +0530"
     }
   ]
 }

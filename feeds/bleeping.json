@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-01T07:02:57Z",
+  "updated": "2026-07-01T10:51:26Z",
   "items": [
+    {
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "pubDate": "Wed, 01 Jul 2026 05:43:27 -0400"
+    },
+    {
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+      "pubDate": "Wed, 01 Jul 2026 03:34:52 -0400"
+    },
     {
       "title": "Anthropic to restore Claude Fable access on Wednesday",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
@@ -51,16 +61,6 @@
       "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
       "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
       "pubDate": "Tue, 30 Jun 2026 05:46:39 -0400"
-    },
-    {
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "pubDate": "Tue, 30 Jun 2026 05:41:05 -0400"
-    },
-    {
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "pubDate": "Tue, 30 Jun 2026 04:53:13 -0400"
     }
   ]
 }
