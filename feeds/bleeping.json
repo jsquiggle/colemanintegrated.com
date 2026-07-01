@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-01T16:05:42Z",
+  "updated": "2026-07-01T18:20:42Z",
   "items": [
+    {
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "pubDate": "Wed, 01 Jul 2026 13:32:22 -0400"
+    },
+    {
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "pubDate": "Wed, 01 Jul 2026 12:54:22 -0400"
+    },
+    {
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "pubDate": "Wed, 01 Jul 2026 12:38:01 -0400"
+    },
     {
       "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
       "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
@@ -46,21 +61,6 @@
       "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
       "pubDate": "Tue, 30 Jun 2026 17:20:06 -0400"
-    },
-    {
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "pubDate": "Tue, 30 Jun 2026 17:02:55 -0400"
-    },
-    {
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "pubDate": "Tue, 30 Jun 2026 11:46:19 -0400"
-    },
-    {
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "pubDate": "Tue, 30 Jun 2026 10:00:10 -0400"
     }
   ]
 }
