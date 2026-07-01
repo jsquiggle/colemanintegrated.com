@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-01T13:29:59Z",
+  "updated": "2026-07-01T16:05:42Z",
   "items": [
+    {
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "pubDate": "Wed, 01 Jul 2026 10:01:11 -0400"
+    },
     {
       "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
@@ -56,11 +61,6 @@
       "title": "Lessons from the Underground: How to Combat Business Email Compromise",
       "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
       "pubDate": "Tue, 30 Jun 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-      "pubDate": "Tue, 30 Jun 2026 07:12:18 -0400"
     }
   ]
 }

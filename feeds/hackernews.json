@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-01T13:29:59Z",
+  "updated": "2026-07-01T16:05:42Z",
   "items": [
+    {
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "pubDate": "Wed, 01 Jul 2026 20:56:55 +0530"
+    },
+    {
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "pubDate": "Wed, 01 Jul 2026 20:55:46 +0530"
+    },
+    {
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "pubDate": "Wed, 01 Jul 2026 20:12:54 +0530"
+    },
+    {
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "pubDate": "Wed, 01 Jul 2026 19:26:18 +0530"
+    },
+    {
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "pubDate": "Wed, 01 Jul 2026 18:29:19 +0530"
+    },
     {
       "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
       "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
@@ -36,31 +61,6 @@
       "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
       "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
       "pubDate": "Wed, 01 Jul 2026 09:24:22 +0530"
-    },
-    {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "pubDate": "Tue, 30 Jun 2026 23:16:07 +0530"
-    },
-    {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "pubDate": "Tue, 30 Jun 2026 23:15:25 +0530"
-    },
-    {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "pubDate": "Tue, 30 Jun 2026 21:17:20 +0530"
-    },
-    {
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "pubDate": "Tue, 30 Jun 2026 21:10:18 +0530"
-    },
-    {
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "pubDate": "Tue, 30 Jun 2026 19:56:15 +0530"
     }
   ]
 }
