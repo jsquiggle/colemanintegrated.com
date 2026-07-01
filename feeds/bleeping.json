@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-06-30T23:56:44Z",
+  "updated": "2026-07-01T02:50:27Z",
   "items": [
+    {
+      "title": "Anthropic to restore Claude Fable access on Wednesday",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
+      "pubDate": "Tue, 30 Jun 2026 20:35:14 -0400"
+    },
     {
       "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
@@ -56,11 +61,6 @@
       "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
       "pubDate": "Tue, 30 Jun 2026 04:53:13 -0400"
-    },
-    {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "pubDate": "Mon, 29 Jun 2026 16:40:44 -0400"
     }
   ]
 }
