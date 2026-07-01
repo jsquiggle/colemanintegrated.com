@@ -1,10 +1,20 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-01T20:20:23Z",
+  "updated": "2026-07-01T21:56:21Z",
   "items": [
     {
-      "title": "ChocoPoc malware delivered via trojanized exploits on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/chocopoc-malware-delivered-via-trojanized-exploits-on-github/",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "pubDate": "Wed, 01 Jul 2026 17:37:24 -0400"
+    },
+    {
+      "title": "Kubota says hackers had month-long access to network systems",
+      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "pubDate": "Wed, 01 Jul 2026 17:09:06 -0400"
+    },
+    {
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "pubDate": "Wed, 01 Jul 2026 16:08:13 -0400"
     },
     {
@@ -51,16 +61,6 @@
       "title": "Anthropic to restore Claude Fable access on Wednesday",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
       "pubDate": "Tue, 30 Jun 2026 20:35:14 -0400"
-    },
-    {
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "pubDate": "Tue, 30 Jun 2026 19:13:07 -0400"
-    },
-    {
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "pubDate": "Tue, 30 Jun 2026 17:50:24 -0400"
     }
   ]
 }
