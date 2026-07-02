@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-02T01:28:43Z",
+  "updated": "2026-07-02T05:30:06Z",
   "items": [
+    {
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "pubDate": "Thu, 02 Jul 2026 00:25:42 -0400"
+    },
     {
       "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
@@ -56,11 +61,6 @@
       "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
       "pubDate": "Wed, 01 Jul 2026 03:34:52 -0400"
-    },
-    {
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "pubDate": "Tue, 30 Jun 2026 20:35:14 -0400"
     }
   ]
 }
