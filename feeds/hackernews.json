@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-02T18:54:12Z",
+  "updated": "2026-07-02T20:13:48Z",
   "items": [
+    {
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "pubDate": "Fri, 03 Jul 2026 00:24:06 +0530"
+    },
+    {
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "pubDate": "Fri, 03 Jul 2026 00:00:33 +0530"
+    },
     {
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
@@ -51,16 +61,6 @@
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
       "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
       "pubDate": "Wed, 01 Jul 2026 23:23:06 +0530"
-    },
-    {
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "pubDate": "Wed, 01 Jul 2026 22:48:50 +0530"
-    },
-    {
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "pubDate": "Wed, 01 Jul 2026 20:56:55 +0530"
     }
   ]
 }
