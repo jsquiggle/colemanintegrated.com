@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-02T13:13:32Z",
+  "updated": "2026-07-02T15:37:12Z",
   "items": [
+    {
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "pubDate": "Thu, 02 Jul 2026 20:54:18 +0530"
+    },
+    {
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "pubDate": "Thu, 02 Jul 2026 18:34:13 +0530"
+    },
     {
       "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
       "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
@@ -51,16 +61,6 @@
       "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
       "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
       "pubDate": "Wed, 01 Jul 2026 20:56:55 +0530"
-    },
-    {
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-      "pubDate": "Wed, 01 Jul 2026 20:55:46 +0530"
-    },
-    {
-      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "pubDate": "Wed, 01 Jul 2026 20:12:54 +0530"
     }
   ]
 }
