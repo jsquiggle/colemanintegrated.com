@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-02T08:28:21Z",
+  "updated": "2026-07-02T11:05:26Z",
   "items": [
+    {
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "pubDate": "Thu, 02 Jul 2026 06:52:43 -0400"
+    },
+    {
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "pubDate": "Thu, 02 Jul 2026 06:46:58 -0400"
+    },
+    {
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "pubDate": "Thu, 02 Jul 2026 04:58:25 -0400"
+    },
     {
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
       "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
@@ -46,21 +61,6 @@
       "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
       "pubDate": "Wed, 01 Jul 2026 08:30:01 -0400"
-    },
-    {
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "pubDate": "Wed, 01 Jul 2026 06:52:26 -0400"
-    },
-    {
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "pubDate": "Wed, 01 Jul 2026 05:43:27 -0400"
-    },
-    {
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "pubDate": "Wed, 01 Jul 2026 03:34:52 -0400"
     }
   ]
 }
