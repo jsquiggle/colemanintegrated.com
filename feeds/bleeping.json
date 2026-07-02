@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-02T11:05:26Z",
+  "updated": "2026-07-02T13:13:32Z",
   "items": [
+    {
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "pubDate": "Thu, 02 Jul 2026 08:15:47 -0400"
+    },
+    {
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "pubDate": "Thu, 02 Jul 2026 07:35:25 -0400"
+    },
     {
       "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
@@ -51,16 +61,6 @@
       "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
       "pubDate": "Wed, 01 Jul 2026 12:38:01 -0400"
-    },
-    {
-      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-      "pubDate": "Wed, 01 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "pubDate": "Wed, 01 Jul 2026 08:30:01 -0400"
     }
   ]
 }
