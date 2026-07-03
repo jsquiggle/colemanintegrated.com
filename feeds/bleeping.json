@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-03T17:11:36Z",
+  "updated": "2026-07-03T18:43:39Z",
   "items": [
+    {
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "pubDate": "Fri, 03 Jul 2026 13:50:04 -0400"
+    },
     {
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
       "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
@@ -56,11 +61,6 @@
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
       "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
       "pubDate": "Thu, 02 Jul 2026 00:25:42 -0400"
-    },
-    {
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "pubDate": "Wed, 01 Jul 2026 17:37:24 -0400"
     }
   ]
 }
