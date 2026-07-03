@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-03T20:08:56Z",
+  "updated": "2026-07-03T21:37:11Z",
   "items": [
+    {
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "pubDate": "Sat, 04 Jul 2026 01:49:31 +0530"
+    },
     {
       "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
       "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
@@ -56,11 +61,6 @@
       "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
       "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
       "pubDate": "Thu, 02 Jul 2026 17:00:00 +0530"
-    },
-    {
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "pubDate": "Thu, 02 Jul 2026 14:43:13 +0530"
     }
   ]
 }
