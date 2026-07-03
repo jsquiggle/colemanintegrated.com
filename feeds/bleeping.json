@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-02T23:55:18Z",
+  "updated": "2026-07-03T01:53:33Z",
   "items": [
+    {
+      "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
+      "pubDate": "Thu, 02 Jul 2026 21:37:09 -0400"
+    },
+    {
+      "title": "Claude Fable relaunch disappoints users with nerfed performance",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+      "pubDate": "Thu, 02 Jul 2026 20:48:30 -0400"
+    },
     {
       "title": "Google loses final appeal to overturn \u20ac4.1 billion EU fine",
       "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
@@ -51,16 +61,6 @@
       "title": "Kubota says hackers had month-long access to network systems",
       "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
       "pubDate": "Wed, 01 Jul 2026 17:09:06 -0400"
-    },
-    {
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "pubDate": "Wed, 01 Jul 2026 16:08:13 -0400"
-    },
-    {
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "pubDate": "Wed, 01 Jul 2026 13:32:22 -0400"
     }
   ]
 }
