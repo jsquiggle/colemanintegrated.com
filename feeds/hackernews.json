@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-03T05:42:20Z",
+  "updated": "2026-07-03T08:46:43Z",
   "items": [
+    {
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "pubDate": "Fri, 03 Jul 2026 13:33:37 +0530"
+    },
     {
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
       "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
@@ -56,11 +61,6 @@
       "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
       "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
       "pubDate": "Thu, 02 Jul 2026 00:58:07 +0530"
-    },
-    {
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "pubDate": "Wed, 01 Jul 2026 23:23:06 +0530"
     }
   ]
 }
