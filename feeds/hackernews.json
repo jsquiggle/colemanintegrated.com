@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-03T13:18:17Z",
+  "updated": "2026-07-03T15:31:53Z",
   "items": [
+    {
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+      "pubDate": "Fri, 03 Jul 2026 19:06:33 +0530"
+    },
     {
       "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
       "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
@@ -56,11 +61,6 @@
       "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
       "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
       "pubDate": "Thu, 02 Jul 2026 11:16:45 +0530"
-    },
-    {
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "pubDate": "Thu, 02 Jul 2026 01:10:06 +0530"
     }
   ]
 }

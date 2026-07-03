@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-03T13:18:17Z",
+  "updated": "2026-07-03T15:31:53Z",
   "items": [
+    {
+      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+      "pubDate": "Fri, 03 Jul 2026 10:12:22 -0400"
+    },
     {
       "title": "Claude Fable 5 isn\u2019t permanently leaving subscriptions, Anthropic says",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
@@ -56,11 +61,6 @@
       "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
       "pubDate": "Wed, 01 Jul 2026 17:37:24 -0400"
-    },
-    {
-      "title": "Kubota says hackers had month-long access to network systems",
-      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
-      "pubDate": "Wed, 01 Jul 2026 17:09:06 -0400"
     }
   ]
 }
