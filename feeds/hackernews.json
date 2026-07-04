@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-04T10:31:22Z",
+  "updated": "2026-07-04T12:00:45Z",
   "items": [
+    {
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+      "pubDate": "Sat, 04 Jul 2026 16:47:24 +0530"
+    },
     {
       "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
       "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
@@ -56,11 +61,6 @@
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
       "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
       "pubDate": "Thu, 02 Jul 2026 18:34:13 +0530"
-    },
-    {
-      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-      "pubDate": "Thu, 02 Jul 2026 17:00:00 +0530"
     }
   ]
 }
