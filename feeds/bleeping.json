@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-04T14:05:36Z",
+  "updated": "2026-07-04T15:37:56Z",
   "items": [
+    {
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "pubDate": "Sat, 04 Jul 2026 10:16:38 -0400"
+    },
     {
       "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
       "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
@@ -56,11 +61,6 @@
       "title": "Alleged Scattered Spider hacker extradited to the United States",
       "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
       "pubDate": "Thu, 02 Jul 2026 04:58:25 -0400"
-    },
-    {
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "pubDate": "Thu, 02 Jul 2026 00:25:42 -0400"
     }
   ]
 }
