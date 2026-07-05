@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-05T14:13:46Z",
+  "updated": "2026-07-05T15:42:30Z",
   "items": [
+    {
+      "title": "Flipper Zero firmware development continues with community help",
+      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+      "pubDate": "Sun, 05 Jul 2026 10:14:52 -0400"
+    },
     {
       "title": "JadePuffer ransomware used AI agent to automate entire attack",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
@@ -56,11 +61,6 @@
       "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
       "pubDate": "Thu, 02 Jul 2026 06:46:58 -0400"
-    },
-    {
-      "title": "Alleged Scattered Spider hacker extradited to the United States",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-      "pubDate": "Thu, 02 Jul 2026 04:58:25 -0400"
     }
   ]
 }
