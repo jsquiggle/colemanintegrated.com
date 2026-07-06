@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-06T11:21:04Z",
+  "updated": "2026-07-06T14:40:34Z",
   "items": [
+    {
+      "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
+      "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
+      "pubDate": "Mon, 06 Jul 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
+      "pubDate": "Mon, 06 Jul 2026 09:18:37 -0400"
+    },
     {
       "title": "Flipper Zero firmware development continues with community help",
       "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
@@ -51,16 +61,6 @@
       "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
       "pubDate": "Thu, 02 Jul 2026 07:35:25 -0400"
-    },
-    {
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "pubDate": "Thu, 02 Jul 2026 06:52:43 -0400"
-    },
-    {
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-      "pubDate": "Thu, 02 Jul 2026 06:46:58 -0400"
     }
   ]
 }
