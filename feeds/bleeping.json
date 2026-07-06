@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-06T17:33:51Z",
+  "updated": "2026-07-06T19:39:04Z",
   "items": [
+    {
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "pubDate": "Mon, 06 Jul 2026 14:25:06 -0400"
+    },
     {
       "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
       "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
       "pubDate": "Thu, 02 Jul 2026 08:15:47 -0400"
-    },
-    {
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "pubDate": "Thu, 02 Jul 2026 07:35:25 -0400"
     }
   ]
 }
