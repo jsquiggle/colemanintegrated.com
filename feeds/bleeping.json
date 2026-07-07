@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-07T21:13:18Z",
+  "updated": "2026-07-07T22:34:24Z",
   "items": [
+    {
+      "title": "Accenture confirms breach after hacker offers stolen data for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+      "pubDate": "Tue, 07 Jul 2026 18:06:07 -0400"
+    },
     {
       "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
@@ -56,11 +61,6 @@
       "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
       "pubDate": "Mon, 06 Jul 2026 16:23:45 -0400"
-    },
-    {
-      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
-      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
-      "pubDate": "Mon, 06 Jul 2026 14:25:06 -0400"
     }
   ]
 }
