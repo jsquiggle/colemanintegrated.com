@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-07T15:38:54Z",
+  "updated": "2026-07-07T17:50:08Z",
   "items": [
+    {
+      "title": "Hidden backdoor in Tenda router firmware grants admin access",
+      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
+      "pubDate": "Tue, 07 Jul 2026 13:27:22 -0400"
+    },
     {
       "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
@@ -56,11 +61,6 @@
       "title": "Software Is Now Written at the Speed of Thought. Security Isn't.",
       "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
       "pubDate": "Mon, 06 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/",
-      "pubDate": "Mon, 06 Jul 2026 09:18:37 -0400"
     }
   ]
 }

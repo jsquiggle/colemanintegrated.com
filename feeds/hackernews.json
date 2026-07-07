@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-07T15:38:54Z",
+  "updated": "2026-07-07T17:50:08Z",
   "items": [
+    {
+      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
+      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
+      "pubDate": "Tue, 07 Jul 2026 20:44:14 +0530"
+    },
     {
       "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
       "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
       "link": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
       "pubDate": "Mon, 06 Jul 2026 18:31:14 +0530"
-    },
-    {
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "pubDate": "Mon, 06 Jul 2026 17:00:02 +0530"
     }
   ]
 }
