@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-07T06:35:39Z",
+  "updated": "2026-07-07T10:17:37Z",
   "items": [
+    {
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "pubDate": "Tue, 07 Jul 2026 14:40:51 +0530"
+    },
+    {
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "pubDate": "Tue, 07 Jul 2026 12:10:47 +0530"
+    },
     {
       "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
       "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
@@ -51,16 +61,6 @@
       "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
       "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
       "pubDate": "Mon, 06 Jul 2026 12:57:50 +0530"
-    },
-    {
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "pubDate": "Mon, 06 Jul 2026 12:03:56 +0530"
-    },
-    {
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "pubDate": "Sat, 04 Jul 2026 18:17:53 +0530"
     }
   ]
 }
