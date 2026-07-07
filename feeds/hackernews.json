@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-07T12:40:35Z",
+  "updated": "2026-07-07T15:38:54Z",
   "items": [
+    {
+      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
+      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
+      "pubDate": "Tue, 07 Jul 2026 19:34:50 +0530"
+    },
+    {
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "pubDate": "Tue, 07 Jul 2026 18:57:20 +0530"
+    },
+    {
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "pubDate": "Tue, 07 Jul 2026 18:57:09 +0530"
+    },
     {
       "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
       "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
@@ -46,21 +61,6 @@
       "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
       "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
       "pubDate": "Mon, 06 Jul 2026 17:00:02 +0530"
-    },
-    {
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "pubDate": "Mon, 06 Jul 2026 16:28:16 +0530"
-    },
-    {
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "pubDate": "Mon, 06 Jul 2026 14:20:54 +0530"
-    },
-    {
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "pubDate": "Mon, 06 Jul 2026 13:43:33 +0530"
     }
   ]
 }
