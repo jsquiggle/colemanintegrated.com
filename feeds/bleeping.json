@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-07T10:17:37Z",
+  "updated": "2026-07-07T12:40:35Z",
   "items": [
+    {
+      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
+      "pubDate": "Tue, 07 Jul 2026 08:12:20 -0400"
+    },
+    {
+      "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
+      "pubDate": "Tue, 07 Jul 2026 08:06:09 -0400"
+    },
     {
       "title": "Microsoft to enable Windows settings backup by default for orgs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
@@ -51,16 +61,6 @@
       "title": "JadePuffer ransomware used AI agent to automate entire attack",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
       "pubDate": "Sat, 04 Jul 2026 10:16:38 -0400"
-    },
-    {
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "pubDate": "Fri, 03 Jul 2026 13:50:04 -0400"
-    },
-    {
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "pubDate": "Fri, 03 Jul 2026 10:12:22 -0400"
     }
   ]
 }

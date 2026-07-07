@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-07T10:17:37Z",
+  "updated": "2026-07-07T12:40:35Z",
   "items": [
+    {
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "pubDate": "Tue, 07 Jul 2026 17:00:00 +0530"
+    },
     {
       "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
       "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
@@ -56,11 +61,6 @@
       "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
       "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
       "pubDate": "Mon, 06 Jul 2026 13:43:33 +0530"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "pubDate": "Mon, 06 Jul 2026 12:57:50 +0530"
     }
   ]
 }
