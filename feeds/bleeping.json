@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-08T20:15:29Z",
+  "updated": "2026-07-08T21:36:16Z",
   "items": [
+    {
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "pubDate": "Wed, 08 Jul 2026 17:26:59 -0400"
+    },
     {
       "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
@@ -56,11 +61,6 @@
       "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
       "pubDate": "Tue, 07 Jul 2026 14:52:19 -0400"
-    },
-    {
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "pubDate": "Tue, 07 Jul 2026 13:27:22 -0400"
     }
   ]
 }
