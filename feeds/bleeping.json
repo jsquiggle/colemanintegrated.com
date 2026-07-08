@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-08T09:42:45Z",
+  "updated": "2026-07-08T11:40:40Z",
   "items": [
+    {
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "pubDate": "Wed, 08 Jul 2026 07:24:16 -0400"
+    },
+    {
+      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+      "pubDate": "Wed, 08 Jul 2026 05:58:11 -0400"
+    },
     {
       "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
       "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
@@ -51,16 +61,6 @@
       "title": "Microsoft to enable Windows settings backup by default for orgs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
       "pubDate": "Tue, 07 Jul 2026 05:41:19 -0400"
-    },
-    {
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "pubDate": "Tue, 07 Jul 2026 04:12:10 -0400"
-    },
-    {
-      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
-      "pubDate": "Tue, 07 Jul 2026 03:37:38 -0400"
     }
   ]
 }
