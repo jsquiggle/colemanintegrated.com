@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-07-08T11:40:40Z",
+  "updated": "2026-07-08T13:27:53Z",
   "items": [
+    {
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "pubDate": "Wed, 08 Jul 2026 12:31:39 +0000"
+    },
     {
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -46,11 +51,6 @@
       "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
       "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
       "pubDate": "Thu, 21 May 2026 21:50:25 +0000"
-    },
-    {
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "pubDate": "Mon, 18 May 2026 20:48:21 +0000"
     }
   ]
 }

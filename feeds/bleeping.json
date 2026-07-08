@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-08T11:40:40Z",
+  "updated": "2026-07-08T13:27:53Z",
   "items": [
+    {
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "pubDate": "Wed, 08 Jul 2026 08:00:00 -0400"
+    },
     {
       "title": "Telco giant KDDI says data breach affects over 12 million people",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
@@ -56,11 +61,6 @@
       "title": "New Januscape Linux flaw allows VM escape on Intel, AMD devices",
       "link": "https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/",
       "pubDate": "Tue, 07 Jul 2026 08:06:09 -0400"
-    },
-    {
-      "title": "Microsoft to enable Windows settings backup by default for orgs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-      "pubDate": "Tue, 07 Jul 2026 05:41:19 -0400"
     }
   ]
 }
