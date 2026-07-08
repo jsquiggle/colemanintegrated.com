@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-08T15:39:45Z",
+  "updated": "2026-07-08T17:17:37Z",
   "items": [
+    {
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "pubDate": "Wed, 08 Jul 2026 12:47:25 -0400"
+    },
     {
       "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
       "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
@@ -56,11 +61,6 @@
       "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
       "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
       "pubDate": "Tue, 07 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Webinar tomorrow: Why modern email attacks require a new approach to defense",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/",
-      "pubDate": "Tue, 07 Jul 2026 08:12:20 -0400"
     }
   ]
 }
