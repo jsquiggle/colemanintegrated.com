@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-08T17:17:37Z",
+  "updated": "2026-07-08T18:52:02Z",
   "items": [
+    {
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "pubDate": "Wed, 08 Jul 2026 22:32:12 +0530"
+    },
     {
       "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
       "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
@@ -56,11 +61,6 @@
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
       "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
       "pubDate": "Tue, 07 Jul 2026 22:40:15 +0530"
-    },
-    {
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "pubDate": "Tue, 07 Jul 2026 22:07:33 +0530"
     }
   ]
 }
