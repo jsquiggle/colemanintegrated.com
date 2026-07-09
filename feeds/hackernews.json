@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-09T02:54:53Z",
+  "updated": "2026-07-09T06:33:36Z",
   "items": [
+    {
+      "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "pubDate": "Thu, 09 Jul 2026 10:45:02 +0530"
+    },
+    {
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "pubDate": "Thu, 09 Jul 2026 09:57:18 +0530"
+    },
+    {
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "pubDate": "Thu, 09 Jul 2026 09:31:49 +0530"
+    },
     {
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
       "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
@@ -46,21 +61,6 @@
       "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
       "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
       "pubDate": "Wed, 08 Jul 2026 14:34:33 +0530"
-    },
-    {
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "pubDate": "Wed, 08 Jul 2026 11:46:44 +0530"
-    },
-    {
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "pubDate": "Wed, 08 Jul 2026 11:03:12 +0530"
-    },
-    {
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "pubDate": "Tue, 07 Jul 2026 22:40:15 +0530"
     }
   ]
 }

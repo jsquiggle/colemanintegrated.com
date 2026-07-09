@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-09T02:54:53Z",
+  "updated": "2026-07-09T06:33:36Z",
   "items": [
+    {
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "pubDate": "Thu, 09 Jul 2026 01:42:49 -0400"
+    },
     {
       "title": "Mount Royal University confirms breach as hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
@@ -56,11 +61,6 @@
       "title": "Accenture confirms breach after hacker offers stolen data for sale",
       "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
       "pubDate": "Tue, 07 Jul 2026 18:06:07 -0400"
-    },
-    {
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "pubDate": "Tue, 07 Jul 2026 14:52:19 -0400"
     }
   ]
 }
