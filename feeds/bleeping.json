@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-09T19:20:20Z",
+  "updated": "2026-07-09T20:59:10Z",
   "items": [
+    {
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "pubDate": "Thu, 09 Jul 2026 16:10:00 -0400"
+    },
     {
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
       "pubDate": "Wed, 08 Jul 2026 14:56:02 -0400"
-    },
-    {
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "pubDate": "Wed, 08 Jul 2026 12:47:25 -0400"
     }
   ]
 }
