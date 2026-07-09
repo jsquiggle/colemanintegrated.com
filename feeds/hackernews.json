@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-09T10:22:19Z",
+  "updated": "2026-07-09T15:50:53Z",
   "items": [
+    {
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+      "pubDate": "Thu, 09 Jul 2026 17:56:58 +0530"
+    },
+    {
+      "title": "Summer of Clearinghouses",
+      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+      "pubDate": "Thu, 09 Jul 2026 16:30:00 +0530"
+    },
+    {
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "pubDate": "Thu, 09 Jul 2026 16:13:09 +0530"
+    },
     {
       "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
       "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
@@ -46,21 +61,6 @@
       "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
       "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
       "pubDate": "Wed, 08 Jul 2026 18:30:00 +0530"
-    },
-    {
-      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
-      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
-      "pubDate": "Wed, 08 Jul 2026 18:22:15 +0530"
-    },
-    {
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "pubDate": "Wed, 08 Jul 2026 17:21:24 +0530"
-    },
-    {
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "pubDate": "Wed, 08 Jul 2026 17:00:00 +0530"
     }
   ]
 }

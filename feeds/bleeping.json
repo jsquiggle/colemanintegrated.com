@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-09T10:22:19Z",
+  "updated": "2026-07-09T15:50:53Z",
   "items": [
+    {
+      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+      "pubDate": "Thu, 09 Jul 2026 10:39:51 -0400"
+    },
+    {
+      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+      "pubDate": "Thu, 09 Jul 2026 10:02:12 -0400"
+    },
+    {
+      "title": "Microsoft to retire the OWA Light client in Exchange Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "pubDate": "Thu, 09 Jul 2026 07:00:35 -0400"
+    },
     {
       "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
@@ -46,21 +61,6 @@
       "title": "DuckDuckGo browser now blocks YouTube video ads",
       "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
       "pubDate": "Wed, 08 Jul 2026 08:00:00 -0400"
-    },
-    {
-      "title": "Telco giant KDDI says data breach affects over 12 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
-      "pubDate": "Wed, 08 Jul 2026 07:24:16 -0400"
-    },
-    {
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "pubDate": "Wed, 08 Jul 2026 05:58:11 -0400"
-    },
-    {
-      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "pubDate": "Wed, 08 Jul 2026 04:15:20 -0400"
     }
   ]
 }
