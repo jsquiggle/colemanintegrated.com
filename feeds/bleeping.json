@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-10T13:55:55Z",
+  "updated": "2026-07-10T16:14:50Z",
   "items": [
+    {
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "pubDate": "Fri, 10 Jul 2026 11:48:38 -0400"
+    },
+    {
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "pubDate": "Fri, 10 Jul 2026 11:30:19 -0400"
+    },
+    {
+      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
+      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+      "pubDate": "Fri, 10 Jul 2026 10:00:10 -0400"
+    },
     {
       "title": "Zimbra urges customers to patch critical web client XSS flaw",
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
@@ -46,21 +61,6 @@
       "title": "Microsoft to retire the OWA Light client in Exchange Server",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
       "pubDate": "Thu, 09 Jul 2026 07:00:35 -0400"
-    },
-    {
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "pubDate": "Thu, 09 Jul 2026 05:47:28 -0400"
-    },
-    {
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "pubDate": "Thu, 09 Jul 2026 03:47:16 -0400"
-    },
-    {
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "pubDate": "Thu, 09 Jul 2026 01:42:49 -0400"
     }
   ]
 }
