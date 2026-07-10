@@ -1,11 +1,16 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-10T18:06:31Z",
+  "updated": "2026-07-10T19:56:28Z",
   "items": [
+    {
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "pubDate": "Fri, 10 Jul 2026 22:00:00 +0530"
+    },
     {
       "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
       "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "pubDate": "Fri, 10 Jul 2026 22:59:28 +0530"
+      "pubDate": "Fri, 10 Jul 2026 21:59:00 +0530"
     },
     {
       "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
@@ -56,11 +61,6 @@
       "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "pubDate": "Fri, 10 Jul 2026 14:30:05 +0530"
-    },
-    {
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "pubDate": "Fri, 10 Jul 2026 13:40:12 +0530"
     }
   ]
 }
