@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-10T16:14:50Z",
+  "updated": "2026-07-10T18:06:31Z",
   "items": [
+    {
+      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
+      "pubDate": "Fri, 10 Jul 2026 13:46:10 -0400"
+    },
+    {
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "pubDate": "Fri, 10 Jul 2026 12:37:01 -0400"
+    },
+    {
+      "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "pubDate": "Fri, 10 Jul 2026 12:26:10 -0400"
+    },
     {
       "title": "Hackers exploit critical auth bypass in Gitea Docker image",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
@@ -46,21 +61,6 @@
       "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
       "pubDate": "Thu, 09 Jul 2026 13:00:00 -0400"
-    },
-    {
-      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-      "pubDate": "Thu, 09 Jul 2026 10:39:51 -0400"
-    },
-    {
-      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
-      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
-      "pubDate": "Thu, 09 Jul 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Microsoft to retire the OWA Light client in Exchange Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "pubDate": "Thu, 09 Jul 2026 07:00:35 -0400"
     }
   ]
 }
