@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-10T11:52:50Z",
+  "updated": "2026-07-10T13:55:55Z",
   "items": [
+    {
+      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
+      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+      "pubDate": "Fri, 10 Jul 2026 18:45:23 +0530"
+    },
     {
       "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
       "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
@@ -28,7 +33,7 @@
       "pubDate": "Fri, 10 Jul 2026 16:00:20 +0530"
     },
     {
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
       "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
       "pubDate": "Fri, 10 Jul 2026 14:30:05 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
       "pubDate": "Thu, 09 Jul 2026 20:39:28 +0530"
-    },
-    {
-      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
-      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-      "pubDate": "Thu, 09 Jul 2026 17:56:58 +0530"
     }
   ]
 }
