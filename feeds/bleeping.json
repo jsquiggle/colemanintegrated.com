@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-10T08:59:52Z",
+  "updated": "2026-07-10T11:52:50Z",
   "items": [
+    {
+      "title": "Zimbra urges customers to patch critical web client XSS flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
+      "pubDate": "Fri, 10 Jul 2026 07:47:38 -0400"
+    },
     {
       "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
       "pubDate": "Thu, 09 Jul 2026 01:42:49 -0400"
-    },
-    {
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "pubDate": "Wed, 08 Jul 2026 17:26:59 -0400"
     }
   ]
 }
