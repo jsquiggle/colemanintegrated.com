@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-10T05:53:05Z",
+  "updated": "2026-07-10T08:59:52Z",
   "items": [
+    {
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400"
+    },
     {
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
       "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
@@ -56,11 +61,6 @@
       "title": "Mount Royal University confirms breach as hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
       "pubDate": "Wed, 08 Jul 2026 17:26:59 -0400"
-    },
-    {
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "pubDate": "Wed, 08 Jul 2026 15:54:59 -0400"
     }
   ]
 }
