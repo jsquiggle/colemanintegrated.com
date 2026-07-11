@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-11T13:58:42Z",
+  "updated": "2026-07-11T14:52:03Z",
   "items": [
+    {
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "pubDate": "Sat, 11 Jul 2026 10:18:23 -0400"
+    },
     {
       "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
@@ -56,11 +61,6 @@
       "title": "OpenMandriva Linux says contributor tried to sabotage the project",
       "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
       "pubDate": "Thu, 09 Jul 2026 18:14:13 -0400"
-    },
-    {
-      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-      "pubDate": "Thu, 09 Jul 2026 16:10:00 -0400"
     }
   ]
 }
