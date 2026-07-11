@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-11T08:41:28Z",
+  "updated": "2026-07-11T10:08:26Z",
   "items": [
+    {
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "pubDate": "Sat, 11 Jul 2026 05:03:57 -0400"
+    },
     {
       "title": "New U-Boot flaws could enable stealthy firmware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
@@ -56,11 +61,6 @@
       "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
       "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
       "pubDate": "Thu, 09 Jul 2026 16:10:00 -0400"
-    },
-    {
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "pubDate": "Thu, 09 Jul 2026 13:08:29 -0400"
     }
   ]
 }
