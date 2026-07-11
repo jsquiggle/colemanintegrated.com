@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-11T18:42:59Z",
+  "updated": "2026-07-11T19:58:00Z",
   "items": [
+    {
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "pubDate": "Sat, 11 Jul 2026 23:29:26 +0530"
+    },
+    {
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "pubDate": "Sat, 11 Jul 2026 23:19:31 +0530"
+    },
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
       "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
@@ -51,16 +61,6 @@
       "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
       "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
       "pubDate": "Fri, 10 Jul 2026 17:00:02 +0530"
-    },
-    {
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "pubDate": "Fri, 10 Jul 2026 16:26:23 +0530"
-    },
-    {
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "pubDate": "Fri, 10 Jul 2026 16:00:20 +0530"
     }
   ]
 }
