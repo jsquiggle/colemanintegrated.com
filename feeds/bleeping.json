@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-12T14:00:00Z",
+  "updated": "2026-07-12T14:58:15Z",
   "items": [
+    {
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "pubDate": "Sun, 12 Jul 2026 10:27:32 -0400"
+    },
     {
       "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
       "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
@@ -56,11 +61,6 @@
       "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
       "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400"
-    },
-    {
-      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
-      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
-      "pubDate": "Thu, 09 Jul 2026 18:14:13 -0400"
     }
   ]
 }
