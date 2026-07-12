@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-12T18:48:13Z",
+  "updated": "2026-07-12T19:59:47Z",
   "items": [
+    {
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "pubDate": "Sun, 12 Jul 2026 15:39:12 -0400"
+    },
     {
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
       "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
@@ -56,11 +61,6 @@
       "title": "Zimbra urges customers to patch critical web client XSS flaw",
       "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
       "pubDate": "Fri, 10 Jul 2026 07:47:38 -0400"
-    },
-    {
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "pubDate": "Fri, 10 Jul 2026 04:17:52 -0400"
     }
   ]
 }
