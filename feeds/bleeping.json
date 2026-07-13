@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-13T18:33:31Z",
+  "updated": "2026-07-13T19:57:07Z",
   "items": [
+    {
+      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+      "pubDate": "Mon, 13 Jul 2026 15:44:19 -0400"
+    },
+    {
+      "title": "New CrashStealer malware poses as Apple crash reporting tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
+      "pubDate": "Mon, 13 Jul 2026 15:04:02 -0400"
+    },
     {
       "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
@@ -51,16 +61,6 @@
       "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
       "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
       "pubDate": "Sat, 11 Jul 2026 10:18:23 -0400"
-    },
-    {
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "pubDate": "Sat, 11 Jul 2026 05:03:57 -0400"
-    },
-    {
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "pubDate": "Fri, 10 Jul 2026 17:59:02 -0400"
     }
   ]
 }
