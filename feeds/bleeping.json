@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-13T08:29:34Z",
+  "updated": "2026-07-13T11:38:07Z",
   "items": [
+    {
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "pubDate": "Mon, 13 Jul 2026 07:19:05 -0400"
+    },
+    {
+      "title": "US and allies warn of Russian critical infrastructure attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "pubDate": "Mon, 13 Jul 2026 05:32:23 -0400"
+    },
     {
       "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
@@ -51,16 +61,6 @@
       "title": "Hackers exploit critical auth bypass in Gitea Docker image",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
       "pubDate": "Fri, 10 Jul 2026 11:48:38 -0400"
-    },
-    {
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "pubDate": "Fri, 10 Jul 2026 11:30:19 -0400"
-    },
-    {
-      "title": "The Replicant in Your Directory: AI Agents and the Identity Security Gap",
-      "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
-      "pubDate": "Fri, 10 Jul 2026 10:00:10 -0400"
     }
   ]
 }
