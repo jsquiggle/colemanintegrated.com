@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-07-13T14:02:01Z",
+  "updated": "2026-07-13T16:44:16Z",
   "items": [
+    {
+      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "pubDate": "Mon, 13 Jul 2026 15:03:28 +0000"
+    },
     {
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -46,11 +51,6 @@
       "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
       "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "pubDate": "Fri, 22 May 2026 16:34:24 +0000"
-    },
-    {
-      "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
-      "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "pubDate": "Thu, 21 May 2026 21:50:25 +0000"
     }
   ]
 }
