@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-13T05:24:37Z",
+  "updated": "2026-07-13T08:29:34Z",
   "items": [
+    {
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "pubDate": "Mon, 13 Jul 2026 13:00:00 +0530"
+    },
+    {
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "pubDate": "Mon, 13 Jul 2026 11:06:02 +0530"
+    },
     {
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
@@ -51,16 +61,6 @@
       "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
       "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
       "pubDate": "Fri, 10 Jul 2026 17:17:43 +0530"
-    },
-    {
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "pubDate": "Fri, 10 Jul 2026 17:09:40 +0530"
-    },
-    {
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "link": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "pubDate": "Fri, 10 Jul 2026 17:00:02 +0530"
     }
   ]
 }
