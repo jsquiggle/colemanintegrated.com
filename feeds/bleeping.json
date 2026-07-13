@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-13T11:38:07Z",
+  "updated": "2026-07-13T14:02:01Z",
   "items": [
+    {
+      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+      "pubDate": "Mon, 13 Jul 2026 09:23:30 -0400"
+    },
     {
       "title": "EU sanctions Russian GRU military hackers over cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
@@ -56,11 +61,6 @@
       "title": "Progress urges ShareFile admins to shut down servers over \u201ccredible\u201d threat",
       "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
       "pubDate": "Fri, 10 Jul 2026 12:26:10 -0400"
-    },
-    {
-      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
-      "pubDate": "Fri, 10 Jul 2026 11:48:38 -0400"
     }
   ]
 }

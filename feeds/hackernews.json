@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-13T11:38:07Z",
+  "updated": "2026-07-13T14:02:01Z",
   "items": [
+    {
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "pubDate": "Mon, 13 Jul 2026 18:33:33 +0530"
+    },
+    {
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "pubDate": "Mon, 13 Jul 2026 17:24:46 +0530"
+    },
+    {
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "pubDate": "Mon, 13 Jul 2026 17:07:05 +0530"
+    },
+    {
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "pubDate": "Mon, 13 Jul 2026 16:32:33 +0530"
+    },
     {
       "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
       "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
@@ -41,26 +61,6 @@
       "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
       "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
       "pubDate": "Fri, 10 Jul 2026 21:27:14 +0530"
-    },
-    {
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "pubDate": "Fri, 10 Jul 2026 20:21:49 +0530"
-    },
-    {
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-      "pubDate": "Fri, 10 Jul 2026 19:49:50 +0530"
-    },
-    {
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "pubDate": "Fri, 10 Jul 2026 18:45:23 +0530"
-    },
-    {
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "pubDate": "Fri, 10 Jul 2026 17:17:43 +0530"
     }
   ]
 }
