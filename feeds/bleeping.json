@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-14T18:34:24Z",
+  "updated": "2026-07-14T20:03:30Z",
   "items": [
+    {
+      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
+      "pubDate": "Tue, 14 Jul 2026 15:15:17 -0400"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5099539 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+      "pubDate": "Tue, 14 Jul 2026 14:49:28 -0400"
+    },
     {
       "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
@@ -51,16 +61,6 @@
       "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
       "pubDate": "Tue, 14 Jul 2026 05:40:13 -0400"
-    },
-    {
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "pubDate": "Mon, 13 Jul 2026 16:18:59 -0400"
-    },
-    {
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "pubDate": "Mon, 13 Jul 2026 15:44:19 -0400"
     }
   ]
 }
