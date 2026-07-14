@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-14T15:53:24Z",
+  "updated": "2026-07-14T17:01:12Z",
   "items": [
+    {
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "pubDate": "Tue, 14 Jul 2026 12:08:47 -0400"
+    },
     {
       "title": "LastPass, Bitwarden users targeted with fake security alerts",
       "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
@@ -56,11 +61,6 @@
       "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
       "pubDate": "Mon, 13 Jul 2026 11:20:16 -0400"
-    },
-    {
-      "title": "Lidl discloses online shop breach after service provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-      "pubDate": "Mon, 13 Jul 2026 10:19:43 -0400"
     }
   ]
 }
