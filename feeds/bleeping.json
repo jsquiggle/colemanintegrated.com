@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-14T14:20:41Z",
+  "updated": "2026-07-14T15:53:24Z",
   "items": [
+    {
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400"
+    },
     {
       "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
       "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
@@ -56,11 +61,6 @@
       "title": "Lidl discloses online shop breach after service provider hack",
       "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
       "pubDate": "Mon, 13 Jul 2026 10:19:43 -0400"
-    },
-    {
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "pubDate": "Mon, 13 Jul 2026 10:01:11 -0400"
     }
   ]
 }

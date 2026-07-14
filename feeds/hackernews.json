@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-14T14:20:41Z",
+  "updated": "2026-07-14T15:53:24Z",
   "items": [
+    {
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "pubDate": "Tue, 14 Jul 2026 19:18:07 +0530"
+    },
     {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
       "pubDate": "Mon, 13 Jul 2026 20:35:57 +0530"
-    },
-    {
-      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-      "pubDate": "Mon, 13 Jul 2026 19:19:48 +0530"
     }
   ]
 }
