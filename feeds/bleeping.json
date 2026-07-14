@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-14T08:58:02Z",
+  "updated": "2026-07-14T10:42:10Z",
   "items": [
+    {
+      "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
+      "pubDate": "Tue, 14 Jul 2026 05:40:13 -0400"
+    },
     {
       "title": "Japan's largest taxi operator shuts systems after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
       "pubDate": "Sun, 12 Jul 2026 15:39:12 -0400"
-    },
-    {
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "pubDate": "Sun, 12 Jul 2026 10:27:32 -0400"
     }
   ]
 }
