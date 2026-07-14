@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-14T12:04:08Z",
+  "updated": "2026-07-14T14:20:41Z",
   "items": [
+    {
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "pubDate": "Tue, 14 Jul 2026 18:16:18 +0530"
+    },
+    {
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "pubDate": "Tue, 14 Jul 2026 17:25:00 +0530"
+    },
+    {
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "pubDate": "Tue, 14 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "pubDate": "Tue, 14 Jul 2026 16:51:35 +0530"
+    },
     {
       "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
       "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
@@ -41,26 +61,6 @@
       "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
       "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
       "pubDate": "Mon, 13 Jul 2026 19:19:48 +0530"
-    },
-    {
-      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
-      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
-      "pubDate": "Mon, 13 Jul 2026 18:33:33 +0530"
-    },
-    {
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-      "pubDate": "Mon, 13 Jul 2026 17:24:46 +0530"
-    },
-    {
-      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
-      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
-      "pubDate": "Mon, 13 Jul 2026 17:07:05 +0530"
-    },
-    {
-      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
-      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
-      "pubDate": "Mon, 13 Jul 2026 16:32:33 +0530"
     }
   ]
 }
