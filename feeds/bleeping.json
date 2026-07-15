@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-15T06:05:52Z",
+  "updated": "2026-07-15T08:39:23Z",
   "items": [
+    {
+      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400"
+    },
+    {
+      "title": "US charges alleged operators of Russian bulletproof hosting service",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "pubDate": "Wed, 15 Jul 2026 03:45:50 -0400"
+    },
     {
       "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
@@ -51,16 +61,6 @@
       "title": "Microsoft Entra ID gets passkeys default authentication starting September",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
       "pubDate": "Tue, 14 Jul 2026 08:49:56 -0400"
-    },
-    {
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "pubDate": "Tue, 14 Jul 2026 08:49:00 -0400"
-    },
-    {
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "pubDate": "Tue, 14 Jul 2026 07:42:21 -0400"
     }
   ]
 }
