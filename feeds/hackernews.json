@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-15T10:40:39Z",
+  "updated": "2026-07-15T12:08:40Z",
   "items": [
+    {
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+      "pubDate": "Wed, 15 Jul 2026 16:25:22 +0530"
+    },
     {
       "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
       "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
@@ -56,11 +61,6 @@
       "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
       "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
       "pubDate": "Tue, 14 Jul 2026 16:51:35 +0530"
-    },
-    {
-      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
-      "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
-      "pubDate": "Tue, 14 Jul 2026 14:32:48 +0530"
     }
   ]
 }
