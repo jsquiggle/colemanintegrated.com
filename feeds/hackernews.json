@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-15T18:35:26Z",
+  "updated": "2026-07-15T20:00:50Z",
   "items": [
+    {
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "pubDate": "Thu, 16 Jul 2026 00:13:08 +0530"
+    },
     {
       "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
       "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
       "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
       "pubDate": "Tue, 14 Jul 2026 22:57:23 +0530"
-    },
-    {
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "pubDate": "Tue, 14 Jul 2026 22:22:37 +0530"
     }
   ]
 }
