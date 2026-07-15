@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-15T14:16:41Z",
+  "updated": "2026-07-15T15:57:31Z",
   "items": [
+    {
+      "title": "\u200b    \u200bAsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "pubDate": "Wed, 15 Jul 2026 11:37:27 -0400"
+    },
     {
       "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
       "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
@@ -56,11 +61,6 @@
       "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
       "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
       "pubDate": "Tue, 14 Jul 2026 12:08:47 -0400"
-    },
-    {
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400"
     }
   ]
 }
