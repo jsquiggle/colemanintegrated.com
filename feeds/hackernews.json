@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-15T15:57:31Z",
+  "updated": "2026-07-15T17:12:34Z",
   "items": [
+    {
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "pubDate": "Wed, 15 Jul 2026 21:00:30 +0530"
+    },
     {
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
       "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
@@ -56,11 +61,6 @@
       "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
       "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
       "pubDate": "Tue, 14 Jul 2026 22:22:37 +0530"
-    },
-    {
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-      "pubDate": "Tue, 14 Jul 2026 19:18:07 +0530"
     }
   ]
 }
