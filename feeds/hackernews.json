@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-15T12:08:40Z",
+  "updated": "2026-07-15T14:16:41Z",
   "items": [
+    {
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "pubDate": "Wed, 15 Jul 2026 18:48:53 +0530"
+    },
+    {
+      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+      "pubDate": "Wed, 15 Jul 2026 17:20:01 +0530"
+    },
+    {
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "pubDate": "Wed, 15 Jul 2026 16:37:07 +0530"
+    },
+    {
+      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+      "pubDate": "Wed, 15 Jul 2026 16:36:57 +0530"
+    },
     {
       "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
       "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
@@ -41,26 +61,6 @@
       "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
       "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
       "pubDate": "Tue, 14 Jul 2026 19:18:07 +0530"
-    },
-    {
-      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-      "pubDate": "Tue, 14 Jul 2026 18:16:18 +0530"
-    },
-    {
-      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-      "pubDate": "Tue, 14 Jul 2026 17:25:00 +0530"
-    },
-    {
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "pubDate": "Tue, 14 Jul 2026 17:00:00 +0530"
-    },
-    {
-      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
-      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
-      "pubDate": "Tue, 14 Jul 2026 16:51:35 +0530"
     }
   ]
 }

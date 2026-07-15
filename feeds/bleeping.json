@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-15T12:08:40Z",
+  "updated": "2026-07-15T14:16:41Z",
   "items": [
+    {
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "pubDate": "Wed, 15 Jul 2026 10:01:11 -0400"
+    },
     {
       "title": "CISA warns admins to patch actively exploited SharePoint flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
@@ -56,11 +61,6 @@
       "title": "LastPass, Bitwarden users targeted with fake security alerts",
       "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
       "pubDate": "Tue, 14 Jul 2026 11:31:52 -0400"
-    },
-    {
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "pubDate": "Tue, 14 Jul 2026 10:00:10 -0400"
     }
   ]
 }
