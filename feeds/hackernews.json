@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-16T06:08:58Z",
+  "updated": "2026-07-16T08:37:37Z",
   "items": [
+    {
+      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+      "pubDate": "Thu, 16 Jul 2026 12:52:44 +0530"
+    },
     {
       "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
       "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
@@ -56,11 +61,6 @@
       "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
       "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
       "pubDate": "Tue, 14 Jul 2026 23:47:57 +0530"
-    },
-    {
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "pubDate": "Tue, 14 Jul 2026 22:57:23 +0530"
     }
   ]
 }
