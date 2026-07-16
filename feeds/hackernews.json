@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-16T12:13:09Z",
+  "updated": "2026-07-16T14:29:25Z",
   "items": [
+    {
+      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
+      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
+      "pubDate": "Thu, 16 Jul 2026 18:20:13 +0530"
+    },
+    {
+      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
+      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
+      "pubDate": "Thu, 16 Jul 2026 18:03:42 +0530"
+    },
+    {
+      "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
+      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+      "pubDate": "Thu, 16 Jul 2026 17:28:00 +0530"
+    },
+    {
+      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+      "pubDate": "Thu, 16 Jul 2026 17:02:28 +0530"
+    },
+    {
+      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+      "pubDate": "Thu, 16 Jul 2026 16:47:23 +0530"
+    },
     {
       "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
       "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
@@ -36,31 +61,6 @@
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
       "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
       "pubDate": "Wed, 15 Jul 2026 18:48:53 +0530"
-    },
-    {
-      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
-      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
-      "pubDate": "Wed, 15 Jul 2026 17:20:01 +0530"
-    },
-    {
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "pubDate": "Wed, 15 Jul 2026 16:37:07 +0530"
-    },
-    {
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "pubDate": "Wed, 15 Jul 2026 16:36:57 +0530"
-    },
-    {
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "pubDate": "Wed, 15 Jul 2026 16:25:22 +0530"
-    },
-    {
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "pubDate": "Wed, 15 Jul 2026 14:46:13 +0530"
     }
   ]
 }

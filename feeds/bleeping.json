@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-16T12:13:09Z",
+  "updated": "2026-07-16T14:29:25Z",
   "items": [
+    {
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "pubDate": "Thu, 16 Jul 2026 10:00:10 -0400"
+    },
+    {
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "pubDate": "Thu, 16 Jul 2026 09:47:23 -0400"
+    },
+    {
+      "title": "Scattered Spider members behind TfL hack get five years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
+      "pubDate": "Thu, 16 Jul 2026 08:31:29 -0400"
+    },
     {
       "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
@@ -46,21 +61,6 @@
       "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
       "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
       "pubDate": "Wed, 15 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "pubDate": "Wed, 15 Jul 2026 05:44:52 -0400"
-    },
-    {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "pubDate": "Wed, 15 Jul 2026 04:26:48 -0400"
-    },
-    {
-      "title": "US charges alleged operators of Russian bulletproof hosting service",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
-      "pubDate": "Wed, 15 Jul 2026 03:45:50 -0400"
     }
   ]
 }
