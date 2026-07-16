@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-16T20:44:18Z",
+  "updated": "2026-07-16T21:54:25Z",
   "items": [
+    {
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "pubDate": "Thu, 16 Jul 2026 17:52:54 -0400"
+    },
+    {
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "pubDate": "Thu, 16 Jul 2026 17:09:41 -0400"
+    },
     {
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
@@ -51,16 +61,6 @@
       "title": "Dutch police bust investment fraud ring stealing over \u20ac100 million",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
       "pubDate": "Wed, 15 Jul 2026 17:55:50 -0400"
-    },
-    {
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "pubDate": "Wed, 15 Jul 2026 16:16:02 -0400"
-    },
-    {
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400"
     }
   ]
 }
