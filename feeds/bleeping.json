@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-16T18:36:38Z",
+  "updated": "2026-07-16T19:55:07Z",
   "items": [
+    {
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "pubDate": "Thu, 16 Jul 2026 15:26:07 -0400"
+    },
+    {
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "pubDate": "Thu, 16 Jul 2026 15:09:35 -0400"
+    },
     {
       "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
       "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
@@ -51,16 +61,6 @@
       "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
       "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
       "pubDate": "Wed, 15 Jul 2026 14:33:48 -0400"
-    },
-    {
-      "title": "AsyncAPI npm packages infected with credential-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
-      "pubDate": "Wed, 15 Jul 2026 11:37:27 -0400"
-    },
-    {
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "pubDate": "Wed, 15 Jul 2026 10:01:11 -0400"
     }
   ]
 }
