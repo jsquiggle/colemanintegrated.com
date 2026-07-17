@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T07:09:05Z",
+  "updated": "2026-07-17T09:24:35Z",
   "items": [
+    {
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "pubDate": "Fri, 17 Jul 2026 12:12:23 +0530"
+    },
     {
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
       "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
@@ -56,11 +61,6 @@
       "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
       "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
       "pubDate": "Thu, 16 Jul 2026 14:12:31 +0530"
-    },
-    {
-      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
-      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
-      "pubDate": "Thu, 16 Jul 2026 12:52:44 +0530"
     }
   ]
 }
