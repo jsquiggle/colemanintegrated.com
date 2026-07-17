@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T12:38:57Z",
+  "updated": "2026-07-17T14:23:47Z",
   "items": [
+    {
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "pubDate": "Fri, 17 Jul 2026 19:18:56 +0530"
+    },
     {
       "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
       "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
@@ -56,11 +61,6 @@
       "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
       "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
       "pubDate": "Thu, 16 Jul 2026 18:03:42 +0530"
-    },
-    {
-      "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
-      "pubDate": "Thu, 16 Jul 2026 17:28:00 +0530"
     }
   ]
 }

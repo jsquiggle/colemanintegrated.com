@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-17T12:38:57Z",
+  "updated": "2026-07-17T14:23:47Z",
   "items": [
+    {
+      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+      "pubDate": "Fri, 17 Jul 2026 10:00:10 -0400"
+    },
     {
       "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
@@ -56,11 +61,6 @@
       "title": "Scattered Spider members behind TfL hack get five years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
       "pubDate": "Thu, 16 Jul 2026 08:31:29 -0400"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "pubDate": "Thu, 16 Jul 2026 07:59:24 -0400"
     }
   ]
 }
