@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T18:02:08Z",
+  "updated": "2026-07-17T19:37:20Z",
   "items": [
+    {
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "pubDate": "Sat, 18 Jul 2026 00:24:51 +0530"
+    },
     {
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
       "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
       "pubDate": "Thu, 16 Jul 2026 21:11:15 +0530"
-    },
-    {
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "pubDate": "Thu, 16 Jul 2026 19:03:25 +0530"
     }
   ]
 }
