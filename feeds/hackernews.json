@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T11:01:25Z",
+  "updated": "2026-07-17T12:38:57Z",
   "items": [
+    {
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "pubDate": "Fri, 17 Jul 2026 17:14:41 +0530"
+    },
+    {
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "pubDate": "Fri, 17 Jul 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "pubDate": "Fri, 17 Jul 2026 16:23:31 +0530"
+    },
     {
       "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
       "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
@@ -46,21 +61,6 @@
       "title": "20+ Hijacked Government Websites Became\u2028an Attack Channel",
       "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
       "pubDate": "Thu, 16 Jul 2026 17:28:00 +0530"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "pubDate": "Thu, 16 Jul 2026 17:02:28 +0530"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "pubDate": "Thu, 16 Jul 2026 16:47:23 +0530"
-    },
-    {
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "pubDate": "Thu, 16 Jul 2026 15:40:00 +0530"
     }
   ]
 }
