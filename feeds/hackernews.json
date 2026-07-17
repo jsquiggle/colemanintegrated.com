@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T09:24:35Z",
+  "updated": "2026-07-17T11:01:25Z",
   "items": [
+    {
+      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
+      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
+      "pubDate": "Fri, 17 Jul 2026 14:26:39 +0530"
+    },
+    {
+      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
+      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
+      "pubDate": "Fri, 17 Jul 2026 14:16:45 +0530"
+    },
     {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
       "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
@@ -51,16 +61,6 @@
       "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
       "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
       "pubDate": "Thu, 16 Jul 2026 15:40:00 +0530"
-    },
-    {
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "pubDate": "Thu, 16 Jul 2026 14:53:19 +0530"
-    },
-    {
-      "title": "OpenAI\u2019s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "pubDate": "Thu, 16 Jul 2026 14:12:31 +0530"
     }
   ]
 }
