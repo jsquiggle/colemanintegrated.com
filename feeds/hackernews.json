@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T21:40:44Z",
+  "updated": "2026-07-17T22:37:50Z",
   "items": [
+    {
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "pubDate": "Sat, 18 Jul 2026 02:50:10 +0530"
+    },
     {
       "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
       "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
@@ -56,11 +61,6 @@
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
       "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
       "pubDate": "Fri, 17 Jul 2026 12:12:23 +0530"
-    },
-    {
-      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
-      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-      "pubDate": "Thu, 16 Jul 2026 22:39:25 +0530"
     }
   ]
 }
