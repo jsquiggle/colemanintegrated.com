@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-17T04:52:23Z",
+  "updated": "2026-07-17T07:09:05Z",
   "items": [
+    {
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "pubDate": "Fri, 17 Jul 2026 03:03:33 -0400"
+    },
     {
       "title": "New ClickLock macOS malware traps users into revealing login password",
       "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
@@ -56,11 +61,6 @@
       "title": "New Spirals ransomware encrypts victim network in under 24 hours",
       "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
       "pubDate": "Thu, 16 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Dutch police bust investment fraud ring stealing over \u20ac100 million",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "pubDate": "Wed, 15 Jul 2026 17:55:50 -0400"
     }
   ]
 }
