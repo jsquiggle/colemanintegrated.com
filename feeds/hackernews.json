@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-17T16:57:49Z",
+  "updated": "2026-07-17T18:02:08Z",
   "items": [
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "pubDate": "Fri, 17 Jul 2026 22:42:23 +0530"
+    },
+    {
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "pubDate": "Fri, 17 Jul 2026 22:09:16 +0530"
+    },
     {
       "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
@@ -51,16 +61,6 @@
       "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
       "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
       "pubDate": "Thu, 16 Jul 2026 19:03:25 +0530"
-    },
-    {
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "pubDate": "Thu, 16 Jul 2026 18:20:13 +0530"
-    },
-    {
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "pubDate": "Thu, 16 Jul 2026 18:03:42 +0530"
     }
   ]
 }

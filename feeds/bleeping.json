@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-17T16:57:49Z",
+  "updated": "2026-07-17T18:02:08Z",
   "items": [
+    {
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "pubDate": "Fri, 17 Jul 2026 13:56:21 -0400"
+    },
     {
       "title": "Ernst & Young discloses data breach after support system hack",
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
@@ -56,11 +61,6 @@
       "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
       "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
       "pubDate": "Thu, 16 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "pubDate": "Thu, 16 Jul 2026 09:47:23 -0400"
     }
   ]
 }
