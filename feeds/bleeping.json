@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-18T16:25:01Z",
+  "updated": "2026-07-18T17:27:06Z",
   "items": [
+    {
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "pubDate": "Sat, 18 Jul 2026 13:22:47 -0400"
+    },
     {
       "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
@@ -56,11 +61,6 @@
       "title": "New ClickLock macOS malware traps users into revealing login password",
       "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
       "pubDate": "Thu, 16 Jul 2026 17:52:54 -0400"
-    },
-    {
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "pubDate": "Thu, 16 Jul 2026 17:09:41 -0400"
     }
   ]
 }
