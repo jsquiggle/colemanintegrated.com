@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-18T18:13:51Z",
+  "updated": "2026-07-18T19:37:31Z",
   "items": [
+    {
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "pubDate": "Sat, 18 Jul 2026 15:32:02 -0400"
+    },
     {
       "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
@@ -56,11 +61,6 @@
       "title": "CISA urges immediate action on actively exploited Fortinet flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
       "pubDate": "Fri, 17 Jul 2026 03:03:33 -0400"
-    },
-    {
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "pubDate": "Thu, 16 Jul 2026 17:52:54 -0400"
     }
   ]
 }
