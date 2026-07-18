@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-18T12:48:56Z",
+  "updated": "2026-07-18T14:14:29Z",
   "items": [
+    {
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+      "pubDate": "Sat, 18 Jul 2026 09:15:24 -0400"
+    },
     {
       "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
@@ -56,11 +61,6 @@
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
       "pubDate": "Thu, 16 Jul 2026 15:26:07 -0400"
-    },
-    {
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "pubDate": "Thu, 16 Jul 2026 15:09:35 -0400"
     }
   ]
 }
