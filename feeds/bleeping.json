@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-18T14:14:29Z",
+  "updated": "2026-07-18T15:26:35Z",
   "items": [
+    {
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "pubDate": "Sat, 18 Jul 2026 10:17:19 -0400"
+    },
     {
       "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
       "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
@@ -56,11 +61,6 @@
       "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
       "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
       "pubDate": "Thu, 16 Jul 2026 17:09:41 -0400"
-    },
-    {
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "pubDate": "Thu, 16 Jul 2026 15:26:07 -0400"
     }
   ]
 }
