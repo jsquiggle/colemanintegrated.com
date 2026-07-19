@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-19T14:19:05Z",
+  "updated": "2026-07-19T15:28:39Z",
   "items": [
+    {
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "pubDate": "Sun, 19 Jul 2026 10:23:46 -0400"
+    },
     {
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
@@ -56,11 +61,6 @@
       "title": "US charges two over laundering $43 million from investment fraud",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
       "pubDate": "Fri, 17 Jul 2026 04:13:37 -0400"
-    },
-    {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "pubDate": "Fri, 17 Jul 2026 03:03:33 -0400"
     }
   ]
 }
