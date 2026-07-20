@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-20T16:50:20Z",
+  "updated": "2026-07-20T18:47:06Z",
   "items": [
+    {
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "pubDate": "Mon, 20 Jul 2026 13:43:01 -0400"
+    },
     {
       "title": "An AI SOC Evaluation Guide for Security Leaders",
       "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
@@ -56,11 +61,6 @@
       "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "pubDate": "Fri, 17 Jul 2026 16:45:52 -0400"
-    },
-    {
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "pubDate": "Fri, 17 Jul 2026 13:56:21 -0400"
     }
   ]
 }
