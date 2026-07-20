@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-20T11:18:33Z",
+  "updated": "2026-07-20T13:21:51Z",
   "items": [
+    {
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "pubDate": "Mon, 20 Jul 2026 17:43:39 +0530"
+    },
+    {
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "pubDate": "Mon, 20 Jul 2026 17:00:00 +0530"
+    },
     {
       "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
       "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
@@ -51,16 +61,6 @@
       "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
       "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
       "pubDate": "Sat, 18 Jul 2026 00:24:51 +0530"
-    },
-    {
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "pubDate": "Fri, 17 Jul 2026 22:42:23 +0530"
-    },
-    {
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "pubDate": "Fri, 17 Jul 2026 22:09:16 +0530"
     }
   ]
 }

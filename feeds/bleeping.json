@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-20T11:18:33Z",
+  "updated": "2026-07-20T13:21:51Z",
   "items": [
+    {
+      "title": "Hugging Face warns an autonomous AI agent hacked its network",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+      "pubDate": "Mon, 20 Jul 2026 07:56:28 -0400"
+    },
     {
       "title": "Microsoft confirms Windows Server Update Services sync delays",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
@@ -56,11 +61,6 @@
       "title": "Ernst & Young discloses data breach after support system hack",
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
       "pubDate": "Fri, 17 Jul 2026 10:55:28 -0400"
-    },
-    {
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "pubDate": "Fri, 17 Jul 2026 10:00:10 -0400"
     }
   ]
 }
