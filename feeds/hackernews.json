@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-20T08:23:41Z",
+  "updated": "2026-07-20T11:18:33Z",
   "items": [
+    {
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "pubDate": "Mon, 20 Jul 2026 14:40:56 +0530"
+    },
+    {
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "pubDate": "Mon, 20 Jul 2026 14:37:11 +0530"
+    },
     {
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
@@ -51,16 +61,6 @@
       "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
       "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
       "pubDate": "Fri, 17 Jul 2026 22:09:16 +0530"
-    },
-    {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "pubDate": "Fri, 17 Jul 2026 19:18:56 +0530"
-    },
-    {
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "pubDate": "Fri, 17 Jul 2026 17:14:41 +0530"
     }
   ]
 }

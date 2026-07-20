@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-20T08:23:41Z",
+  "updated": "2026-07-20T11:18:33Z",
   "items": [
+    {
+      "title": "Microsoft confirms Windows Server Update Services sync delays",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+      "pubDate": "Mon, 20 Jul 2026 06:47:28 -0400"
+    },
+    {
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "pubDate": "Mon, 20 Jul 2026 06:06:17 -0400"
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400"
+    },
     {
       "title": "Hackers abuse ViPNet software to target Russian govt agencies",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
@@ -46,21 +61,6 @@
       "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
       "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
       "pubDate": "Fri, 17 Jul 2026 10:00:10 -0400"
-    },
-    {
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "pubDate": "Fri, 17 Jul 2026 07:05:30 -0400"
-    },
-    {
-      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-      "pubDate": "Fri, 17 Jul 2026 05:10:15 -0400"
-    },
-    {
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "pubDate": "Fri, 17 Jul 2026 04:13:37 -0400"
     }
   ]
 }
