@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-21T13:14:01Z",
+  "updated": "2026-07-21T15:20:05Z",
   "items": [
+    {
+      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+      "pubDate": "Tue, 21 Jul 2026 10:00:10 -0400"
+    },
     {
       "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
@@ -56,11 +61,6 @@
       "title": "An AI SOC Evaluation Guide for Security Leaders",
       "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
       "pubDate": "Mon, 20 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "pubDate": "Mon, 20 Jul 2026 07:56:28 -0400"
     }
   ]
 }

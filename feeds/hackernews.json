@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-21T13:14:01Z",
+  "updated": "2026-07-21T15:20:05Z",
   "items": [
+    {
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "pubDate": "Tue, 21 Jul 2026 20:27:51 +0530"
+    },
+    {
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "pubDate": "Tue, 21 Jul 2026 19:34:57 +0530"
+    },
+    {
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "pubDate": "Tue, 21 Jul 2026 18:48:31 +0530"
+    },
     {
       "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
       "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
@@ -46,21 +61,6 @@
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
       "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
       "pubDate": "Mon, 20 Jul 2026 20:03:43 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "pubDate": "Mon, 20 Jul 2026 19:02:26 +0530"
-    },
-    {
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "pubDate": "Mon, 20 Jul 2026 17:43:39 +0530"
-    },
-    {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "pubDate": "Mon, 20 Jul 2026 17:00:00 +0530"
     }
   ]
 }
