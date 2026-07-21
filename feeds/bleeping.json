@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-21T19:57:44Z",
+  "updated": "2026-07-21T21:03:06Z",
   "items": [
+    {
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "pubDate": "Tue, 21 Jul 2026 16:06:55 -0400"
+    },
     {
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
@@ -56,11 +61,6 @@
       "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
       "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
       "pubDate": "Mon, 20 Jul 2026 17:14:42 -0400"
-    },
-    {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400"
     }
   ]
 }

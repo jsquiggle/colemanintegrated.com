@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-21T19:57:44Z",
+  "updated": "2026-07-21T21:03:06Z",
   "items": [
+    {
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "pubDate": "Wed, 22 Jul 2026 00:16:32 +0530"
+    },
     {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
@@ -56,11 +61,6 @@
       "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
       "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
       "pubDate": "Tue, 21 Jul 2026 11:59:26 +0530"
-    },
-    {
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "pubDate": "Mon, 20 Jul 2026 23:53:03 +0530"
     }
   ]
 }
