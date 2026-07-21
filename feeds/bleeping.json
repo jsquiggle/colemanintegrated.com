@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-21T18:07:59Z",
+  "updated": "2026-07-21T19:57:44Z",
   "items": [
+    {
+      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
+      "pubDate": "Tue, 21 Jul 2026 14:50:54 -0400"
+    },
     {
       "title": "Critical wp2shell WordPress flaws exploited to install webshells",
       "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
@@ -56,11 +61,6 @@
       "title": "JadePuffer agentic attacks now target AI model data with ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
       "pubDate": "Mon, 20 Jul 2026 17:08:02 -0400"
-    },
-    {
-      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "pubDate": "Mon, 20 Jul 2026 13:43:01 -0400"
     }
   ]
 }
