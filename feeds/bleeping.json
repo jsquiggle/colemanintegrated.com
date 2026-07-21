@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-21T22:24:13Z",
+  "updated": "2026-07-21T23:25:54Z",
   "items": [
+    {
+      "title": "Police dismantle Kratos phishing platform, arrest developer",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+      "pubDate": "Tue, 21 Jul 2026 19:07:33 -0400"
+    },
+    {
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "pubDate": "Tue, 21 Jul 2026 18:34:17 -0400"
+    },
     {
       "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
       "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
@@ -51,16 +61,6 @@
       "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
       "pubDate": "Mon, 20 Jul 2026 18:23:23 -0400"
-    },
-    {
-      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
-      "pubDate": "Mon, 20 Jul 2026 18:22:56 -0400"
-    },
-    {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "pubDate": "Mon, 20 Jul 2026 17:14:42 -0400"
     }
   ]
 }
