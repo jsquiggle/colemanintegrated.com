@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-21T07:26:42Z",
+  "updated": "2026-07-21T09:58:06Z",
   "items": [
+    {
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "pubDate": "Tue, 21 Jul 2026 05:05:50 -0400"
+    },
+    {
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "pubDate": "Tue, 21 Jul 2026 04:06:26 -0400"
+    },
     {
       "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
       "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
@@ -51,16 +61,6 @@
       "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
       "pubDate": "Mon, 20 Jul 2026 06:06:17 -0400"
-    },
-    {
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "pubDate": "Mon, 20 Jul 2026 05:29:20 -0400"
-    },
-    {
-      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-      "pubDate": "Sun, 19 Jul 2026 10:23:46 -0400"
     }
   ]
 }
