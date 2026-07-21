@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-21T11:44:23Z",
+  "updated": "2026-07-21T13:14:01Z",
   "items": [
+    {
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "pubDate": "Tue, 21 Jul 2026 17:28:00 +0530"
+    },
+    {
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "pubDate": "Tue, 21 Jul 2026 17:12:23 +0530"
+    },
+    {
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "pubDate": "Tue, 21 Jul 2026 16:54:50 +0530"
+    },
     {
       "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
       "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
@@ -46,21 +61,6 @@
       "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
       "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
       "pubDate": "Mon, 20 Jul 2026 17:00:00 +0530"
-    },
-    {
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "pubDate": "Mon, 20 Jul 2026 14:40:56 +0530"
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "pubDate": "Mon, 20 Jul 2026 14:37:11 +0530"
-    },
-    {
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "pubDate": "Mon, 20 Jul 2026 10:57:26 +0530"
     }
   ]
 }
