@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T16:12:56Z",
+  "updated": "2026-07-22T17:46:13Z",
   "items": [
+    {
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+      "pubDate": "Wed, 22 Jul 2026 12:59:17 -0400"
+    },
     {
       "title": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
       "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
@@ -56,11 +61,6 @@
       "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
       "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
       "pubDate": "Tue, 21 Jul 2026 16:06:55 -0400"
-    },
-    {
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "pubDate": "Tue, 21 Jul 2026 14:50:54 -0400"
     }
   ]
 }
