@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T03:54:10Z",
+  "updated": "2026-07-22T06:20:27Z",
   "items": [
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "pubDate": "Wed, 22 Jul 2026 01:19:20 -0400"
+    },
     {
       "title": "Police dismantle Kratos phishing platform, arrest developer",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
@@ -56,11 +61,6 @@
       "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
       "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
       "pubDate": "Mon, 20 Jul 2026 18:39:30 -0400"
-    },
-    {
-      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
-      "pubDate": "Mon, 20 Jul 2026 18:23:23 -0400"
     }
   ]
 }
