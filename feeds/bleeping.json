@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T21:33:34Z",
+  "updated": "2026-07-22T22:52:10Z",
   "items": [
+    {
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "pubDate": "Wed, 22 Jul 2026 17:43:39 -0400"
+    },
     {
       "title": "South Korea discloses data breach impacting diplomats worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
@@ -56,11 +61,6 @@
       "title": "Police dismantle Kratos phishing platform, arrest developer",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
       "pubDate": "Tue, 21 Jul 2026 19:07:33 -0400"
-    },
-    {
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "pubDate": "Tue, 21 Jul 2026 18:34:17 -0400"
     }
   ]
 }
