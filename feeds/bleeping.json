@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T11:23:05Z",
+  "updated": "2026-07-22T12:52:55Z",
   "items": [
+    {
+      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
+      "pubDate": "Wed, 22 Jul 2026 07:43:28 -0400"
+    },
     {
       "title": "Stop renting storage space \u2014 this lifetime 2TB plan is yours for $59",
       "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
@@ -56,11 +61,6 @@
       "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
       "pubDate": "Tue, 21 Jul 2026 07:07:07 -0400"
-    },
-    {
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "pubDate": "Tue, 21 Jul 2026 06:12:24 -0400"
     }
   ]
 }
