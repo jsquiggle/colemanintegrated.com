@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T14:54:19Z",
+  "updated": "2026-07-22T16:12:56Z",
   "items": [
+    {
+      "title": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
+      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "pubDate": "Wed, 22 Jul 2026 11:30:00 -0400"
+    },
     {
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
       "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
@@ -56,11 +61,6 @@
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
       "pubDate": "Tue, 21 Jul 2026 14:50:54 -0400"
-    },
-    {
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "pubDate": "Tue, 21 Jul 2026 12:41:50 -0400"
     }
   ]
 }
