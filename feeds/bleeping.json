@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T09:05:21Z",
+  "updated": "2026-07-22T11:23:05Z",
   "items": [
+    {
+      "title": "Stop renting storage space \u2014 this lifetime 2TB plan is yours for $59",
+      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
+      "pubDate": "Wed, 22 Jul 2026 07:09:16 -0400"
+    },
+    {
+      "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
+      "pubDate": "Wed, 22 Jul 2026 06:44:52 -0400"
+    },
     {
       "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
@@ -51,16 +61,6 @@
       "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
       "pubDate": "Tue, 21 Jul 2026 06:12:24 -0400"
-    },
-    {
-      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
-      "pubDate": "Tue, 21 Jul 2026 05:05:50 -0400"
-    },
-    {
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "pubDate": "Tue, 21 Jul 2026 04:06:26 -0400"
     }
   ]
 }
