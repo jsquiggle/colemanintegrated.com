@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-22T06:20:27Z",
+  "updated": "2026-07-22T09:05:21Z",
   "items": [
+    {
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "pubDate": "Wed, 22 Jul 2026 02:40:29 -0400"
+    },
     {
       "title": "OpenAI says its AI models hacked Hugging Face during testing",
       "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
@@ -56,11 +61,6 @@
       "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
       "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
       "pubDate": "Tue, 21 Jul 2026 04:06:26 -0400"
-    },
-    {
-      "title": "Est\u00e9e Lauder discloses data breach via Oracle E-Business flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "pubDate": "Mon, 20 Jul 2026 18:39:30 -0400"
     }
   ]
 }
