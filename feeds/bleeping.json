@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T12:07:43Z",
+  "updated": "2026-07-23T14:37:55Z",
   "items": [
+    {
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "pubDate": "Thu, 23 Jul 2026 10:00:10 -0400"
+    },
+    {
+      "title": "EU fines Google $1 billion for search, app store antitrust violations",
+      "link": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
+      "pubDate": "Thu, 23 Jul 2026 08:33:19 -0400"
+    },
     {
       "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
       "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
@@ -51,16 +61,6 @@
       "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
       "pubDate": "Wed, 22 Jul 2026 09:22:20 -0400"
-    },
-    {
-      "title": "CISA orders urgent action on actively exploited Langflow RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/",
-      "pubDate": "Wed, 22 Jul 2026 07:43:28 -0400"
-    },
-    {
-      "title": "Stop renting storage space \u2014 this lifetime 2TB plan is yours for $59",
-      "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
-      "pubDate": "Wed, 22 Jul 2026 07:09:16 -0400"
     }
   ]
 }
