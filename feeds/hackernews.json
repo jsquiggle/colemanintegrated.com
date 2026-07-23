@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-23T14:37:55Z",
+  "updated": "2026-07-23T16:18:07Z",
   "items": [
+    {
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "link": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "pubDate": "Thu, 23 Jul 2026 18:57:59 +0530"
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "link": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "pubDate": "Thu, 23 Jul 2026 18:41:09 +0530"
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "pubDate": "Thu, 23 Jul 2026 17:50:23 +0530"
+    },
     {
       "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
       "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
@@ -46,21 +61,6 @@
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "pubDate": "Wed, 22 Jul 2026 18:06:36 +0530"
-    },
-    {
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "pubDate": "Wed, 22 Jul 2026 17:28:00 +0530"
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "pubDate": "Wed, 22 Jul 2026 17:00:02 +0530"
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "pubDate": "Wed, 22 Jul 2026 16:55:35 +0530"
     }
   ]
 }

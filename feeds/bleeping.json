@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T14:37:55Z",
+  "updated": "2026-07-23T16:18:07Z",
   "items": [
+    {
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "pubDate": "Thu, 23 Jul 2026 11:34:43 -0400"
+    },
     {
       "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
       "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
@@ -56,11 +61,6 @@
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
       "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
       "pubDate": "Wed, 22 Jul 2026 10:15:00 -0400"
-    },
-    {
-      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-      "pubDate": "Wed, 22 Jul 2026 09:22:20 -0400"
     }
   ]
 }
