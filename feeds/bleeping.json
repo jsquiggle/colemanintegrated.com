@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T07:53:39Z",
+  "updated": "2026-07-23T10:09:59Z",
   "items": [
+    {
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "pubDate": "Thu, 23 Jul 2026 06:00:00 -0400"
+    },
+    {
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "pubDate": "Thu, 23 Jul 2026 05:20:10 -0400"
+    },
+    {
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "pubDate": "Thu, 23 Jul 2026 04:13:07 -0400"
+    },
     {
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
       "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
@@ -46,21 +61,6 @@
       "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
       "pubDate": "Wed, 22 Jul 2026 06:44:52 -0400"
-    },
-    {
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "pubDate": "Wed, 22 Jul 2026 02:40:29 -0400"
-    },
-    {
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "pubDate": "Wed, 22 Jul 2026 01:19:20 -0400"
-    },
-    {
-      "title": "Police dismantle Kratos phishing platform, arrest developer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-      "pubDate": "Tue, 21 Jul 2026 19:07:33 -0400"
     }
   ]
 }
