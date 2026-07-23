@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T16:18:07Z",
+  "updated": "2026-07-23T17:52:28Z",
   "items": [
+    {
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "pubDate": "Thu, 23 Jul 2026 12:49:27 -0400"
+    },
+    {
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "pubDate": "Thu, 23 Jul 2026 12:32:35 -0400"
+    },
     {
       "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
@@ -51,16 +61,6 @@
       "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
       "pubDate": "Wed, 22 Jul 2026 12:59:17 -0400"
-    },
-    {
-      "title": "How enterprise GenAI can amplify ransomware risk \u2014 and how to contain it",
-      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-      "pubDate": "Wed, 22 Jul 2026 11:30:00 -0400"
-    },
-    {
-      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-      "pubDate": "Wed, 22 Jul 2026 10:15:00 -0400"
     }
   ]
 }
