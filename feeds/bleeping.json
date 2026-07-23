@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T18:57:08Z",
+  "updated": "2026-07-23T20:08:47Z",
   "items": [
+    {
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "pubDate": "Thu, 23 Jul 2026 15:48:30 -0400"
+    },
     {
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
@@ -56,11 +61,6 @@
       "title": "South Korea discloses data breach impacting diplomats worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
       "pubDate": "Wed, 22 Jul 2026 16:06:54 -0400"
-    },
-    {
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "pubDate": "Wed, 22 Jul 2026 12:59:17 -0400"
     }
   ]
 }
