@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T20:08:47Z",
+  "updated": "2026-07-23T21:31:55Z",
   "items": [
+    {
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "pubDate": "Thu, 23 Jul 2026 17:20:34 -0400"
+    },
+    {
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "pubDate": "Thu, 23 Jul 2026 16:14:35 -0400"
+    },
     {
       "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
@@ -51,16 +61,6 @@
       "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
       "pubDate": "Thu, 23 Jul 2026 04:13:07 -0400"
-    },
-    {
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "pubDate": "Wed, 22 Jul 2026 17:43:39 -0400"
-    },
-    {
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "pubDate": "Wed, 22 Jul 2026 16:06:54 -0400"
     }
   ]
 }
