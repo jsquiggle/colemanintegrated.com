@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-23T10:09:59Z",
+  "updated": "2026-07-23T12:07:43Z",
   "items": [
+    {
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "link": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "pubDate": "Thu, 23 Jul 2026 17:15:00 +0530"
+    },
+    {
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "link": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "pubDate": "Thu, 23 Jul 2026 16:58:54 +0530"
+    },
+    {
+      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
+      "pubDate": "Thu, 23 Jul 2026 15:30:00 +0530"
+    },
     {
       "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
       "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
@@ -46,21 +61,6 @@
       "title": "Why Modern SOCs Need Multi-Layered Detections",
       "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
       "pubDate": "Wed, 22 Jul 2026 16:55:35 +0530"
-    },
-    {
-      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
-      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-      "pubDate": "Wed, 22 Jul 2026 12:08:45 +0530"
-    },
-    {
-      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
-      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
-      "pubDate": "Wed, 22 Jul 2026 11:30:06 +0530"
-    },
-    {
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "pubDate": "Wed, 22 Jul 2026 10:27:52 +0530"
     }
   ]
 }

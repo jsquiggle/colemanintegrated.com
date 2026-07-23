@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-23T10:09:59Z",
+  "updated": "2026-07-23T12:07:43Z",
   "items": [
+    {
+      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
+      "pubDate": "Thu, 23 Jul 2026 07:40:16 -0400"
+    },
     {
       "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
       "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
@@ -56,11 +61,6 @@
       "title": "Stop renting storage space \u2014 this lifetime 2TB plan is yours for $59",
       "link": "https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/",
       "pubDate": "Wed, 22 Jul 2026 07:09:16 -0400"
-    },
-    {
-      "title": "Microsoft to stop Exchange 2016 / 2019 security updates in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
-      "pubDate": "Wed, 22 Jul 2026 06:44:52 -0400"
     }
   ]
 }
