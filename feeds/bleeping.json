@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T14:50:29Z",
+  "updated": "2026-07-24T17:56:54Z",
   "items": [
+    {
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "pubDate": "Fri, 24 Jul 2026 13:50:37 -0400"
+    },
+    {
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "pubDate": "Fri, 24 Jul 2026 11:41:44 -0400"
+    },
     {
       "title": "Chick-fil-A data breach affects more than 13,000 customers",
       "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
@@ -51,16 +61,6 @@
       "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
       "pubDate": "Thu, 23 Jul 2026 12:32:35 -0400"
-    },
-    {
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "pubDate": "Thu, 23 Jul 2026 11:34:43 -0400"
-    },
-    {
-      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-      "pubDate": "Thu, 23 Jul 2026 10:00:10 -0400"
     }
   ]
 }
