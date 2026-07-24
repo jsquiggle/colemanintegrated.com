@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T11:29:43Z",
+  "updated": "2026-07-24T12:57:23Z",
   "items": [
+    {
+      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
+      "pubDate": "Fri, 24 Jul 2026 08:56:53 -0400"
+    },
     {
       "title": "Man gets six years for hacking 750 women's Snapchat accounts",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
@@ -56,11 +61,6 @@
       "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
       "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
       "pubDate": "Thu, 23 Jul 2026 07:40:16 -0400"
-    },
-    {
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "pubDate": "Thu, 23 Jul 2026 06:00:00 -0400"
     }
   ]
 }
