@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T07:30:03Z",
+  "updated": "2026-07-24T09:55:39Z",
   "items": [
+    {
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "pubDate": "Fri, 24 Jul 2026 03:36:39 -0400"
+    },
     {
       "title": "New Dolphin X malware uses AI to rank high-value targets",
       "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
@@ -56,11 +61,6 @@
       "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
       "pubDate": "Thu, 23 Jul 2026 05:20:10 -0400"
-    },
-    {
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "pubDate": "Thu, 23 Jul 2026 04:13:07 -0400"
     }
   ]
 }
