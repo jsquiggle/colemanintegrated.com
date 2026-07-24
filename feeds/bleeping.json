@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T19:15:57Z",
+  "updated": "2026-07-24T20:43:56Z",
   "items": [
+    {
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "pubDate": "Fri, 24 Jul 2026 15:55:01 -0400"
+    },
     {
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
       "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
@@ -56,11 +61,6 @@
       "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
       "pubDate": "Thu, 23 Jul 2026 15:48:30 -0400"
-    },
-    {
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "pubDate": "Thu, 23 Jul 2026 12:49:27 -0400"
     }
   ]
 }
