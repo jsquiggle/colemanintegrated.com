@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T17:56:54Z",
+  "updated": "2026-07-24T19:15:57Z",
   "items": [
+    {
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+      "pubDate": "Fri, 24 Jul 2026 15:09:09 -0400"
+    },
     {
       "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
@@ -56,11 +61,6 @@
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
       "pubDate": "Thu, 23 Jul 2026 12:49:27 -0400"
-    },
-    {
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "pubDate": "Thu, 23 Jul 2026 12:32:35 -0400"
     }
   ]
 }
