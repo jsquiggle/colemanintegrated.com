@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-24T09:55:39Z",
+  "updated": "2026-07-24T11:29:43Z",
   "items": [
+    {
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "pubDate": "Fri, 24 Jul 2026 07:17:19 -0400"
+    },
     {
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
       "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
       "pubDate": "Thu, 23 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
-      "pubDate": "Thu, 23 Jul 2026 05:20:10 -0400"
     }
   ]
 }
