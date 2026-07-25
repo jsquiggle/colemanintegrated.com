@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-25T14:43:20Z",
+  "updated": "2026-07-25T15:55:08Z",
   "items": [
+    {
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "pubDate": "Sat, 25 Jul 2026 11:21:09 -0400"
+    },
     {
       "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
@@ -56,11 +61,6 @@
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
       "pubDate": "Fri, 24 Jul 2026 03:36:39 -0400"
-    },
-    {
-      "title": "New Dolphin X malware uses AI to rank high-value targets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "pubDate": "Thu, 23 Jul 2026 17:20:34 -0400"
     }
   ]
 }
