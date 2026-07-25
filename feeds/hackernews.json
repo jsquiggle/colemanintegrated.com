@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-25T09:15:51Z",
+  "updated": "2026-07-25T10:49:52Z",
   "items": [
     {
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
