@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-25T22:22:21Z",
+  "updated": "2026-07-25T23:26:07Z",
   "items": [
+    {
+      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+      "pubDate": "Sat, 25 Jul 2026 18:37:47 -0400"
+    },
     {
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
@@ -56,11 +61,6 @@
       "title": "Man gets six years for hacking 750 women's Snapchat accounts",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
       "pubDate": "Fri, 24 Jul 2026 07:17:19 -0400"
-    },
-    {
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "pubDate": "Fri, 24 Jul 2026 03:36:39 -0400"
     }
   ]
 }
