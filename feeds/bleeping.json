@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-25T13:03:24Z",
+  "updated": "2026-07-25T14:43:20Z",
   "items": [
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "pubDate": "Sat, 25 Jul 2026 10:16:26 -0400"
+    },
     {
       "title": "OpenAI confirms ChatGPT is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
@@ -56,11 +61,6 @@
       "title": "New Dolphin X malware uses AI to rank high-value targets",
       "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "pubDate": "Thu, 23 Jul 2026 17:20:34 -0400"
-    },
-    {
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "pubDate": "Thu, 23 Jul 2026 16:14:35 -0400"
     }
   ]
 }
