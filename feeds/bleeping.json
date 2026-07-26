@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-26T12:34:47Z",
+  "updated": "2026-07-26T14:22:57Z",
   "items": [
+    {
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400"
+    },
     {
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
@@ -56,11 +61,6 @@
       "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
       "pubDate": "Fri, 24 Jul 2026 08:56:53 -0400"
-    },
-    {
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "pubDate": "Fri, 24 Jul 2026 07:17:19 -0400"
     }
   ]
 }
