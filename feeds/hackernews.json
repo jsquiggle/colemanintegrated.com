@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-27T17:14:05Z",
+  "updated": "2026-07-27T18:52:03Z",
   "items": [
+    {
+      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+      "pubDate": "Mon, 27 Jul 2026 22:46:28 +0530"
+    },
     {
       "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
       "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
@@ -56,11 +61,6 @@
       "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
       "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
       "pubDate": "Sat, 25 Jul 2026 15:44:21 +0530"
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "pubDate": "Sat, 25 Jul 2026 15:44:03 +0530"
     }
   ]
 }

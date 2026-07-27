@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-27T17:14:05Z",
+  "updated": "2026-07-27T18:52:03Z",
   "items": [
+    {
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "pubDate": "Mon, 27 Jul 2026 13:29:07 -0400"
+    },
     {
       "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
       "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
@@ -56,11 +61,6 @@
       "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
       "pubDate": "Fri, 24 Jul 2026 13:50:37 -0400"
-    },
-    {
-      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-      "pubDate": "Fri, 24 Jul 2026 11:41:44 -0400"
     }
   ]
 }
