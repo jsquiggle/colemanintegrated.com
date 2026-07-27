@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-27T12:09:30Z",
+  "updated": "2026-07-27T15:19:28Z",
   "items": [
+    {
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "pubDate": "Mon, 27 Jul 2026 11:12:27 -0400"
+    },
+    {
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400"
+    },
     {
       "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
@@ -51,16 +61,6 @@
       "title": "Chick-fil-A data breach affects more than 13,000 customers",
       "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
       "pubDate": "Fri, 24 Jul 2026 10:04:29 -0400"
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "pubDate": "Fri, 24 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "pubDate": "Fri, 24 Jul 2026 08:56:53 -0400"
     }
   ]
 }
