@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-27T21:34:17Z",
+  "updated": "2026-07-27T22:50:11Z",
   "items": [
+    {
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "pubDate": "Mon, 27 Jul 2026 18:49:44 -0400"
+    },
     {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
@@ -56,11 +61,6 @@
       "title": "OpenAI confirms ChatGPT is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
       "pubDate": "Sat, 25 Jul 2026 05:31:09 -0400"
-    },
-    {
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "pubDate": "Fri, 24 Jul 2026 15:55:01 -0400"
     }
   ]
 }
