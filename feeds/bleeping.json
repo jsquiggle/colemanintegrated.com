@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-27T20:12:37Z",
+  "updated": "2026-07-27T21:34:17Z",
   "items": [
+    {
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "pubDate": "Mon, 27 Jul 2026 17:08:15 -0400"
+    },
+    {
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "pubDate": "Mon, 27 Jul 2026 17:00:25 -0400"
+    },
     {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
@@ -51,16 +61,6 @@
       "title": "OnTrac notifies customers of data breach after network hack",
       "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
       "pubDate": "Fri, 24 Jul 2026 15:55:01 -0400"
-    },
-    {
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "pubDate": "Fri, 24 Jul 2026 15:09:09 -0400"
-    },
-    {
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-      "pubDate": "Fri, 24 Jul 2026 13:50:37 -0400"
     }
   ]
 }
