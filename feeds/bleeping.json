@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-27T15:19:28Z",
+  "updated": "2026-07-27T17:14:05Z",
   "items": [
+    {
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "pubDate": "Mon, 27 Jul 2026 11:39:51 -0400"
+    },
     {
       "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
@@ -56,11 +61,6 @@
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
       "pubDate": "Fri, 24 Jul 2026 11:41:44 -0400"
-    },
-    {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "pubDate": "Fri, 24 Jul 2026 10:04:29 -0400"
     }
   ]
 }

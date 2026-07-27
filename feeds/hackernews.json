@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-27T15:19:28Z",
+  "updated": "2026-07-27T17:14:05Z",
   "items": [
+    {
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "pubDate": "Mon, 27 Jul 2026 20:10:00 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
@@ -56,11 +61,6 @@
       "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
       "pubDate": "Sat, 25 Jul 2026 15:44:03 +0530"
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "pubDate": "Sat, 25 Jul 2026 15:23:41 +0530"
     }
   ]
 }
