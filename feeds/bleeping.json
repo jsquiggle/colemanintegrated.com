@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-28T07:30:54Z",
+  "updated": "2026-07-28T10:22:36Z",
   "items": [
+    {
+      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+      "pubDate": "Tue, 28 Jul 2026 05:10:03 -0400"
+    },
     {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
@@ -56,11 +61,6 @@
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
       "pubDate": "Sat, 25 Jul 2026 11:21:09 -0400"
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "pubDate": "Sat, 25 Jul 2026 10:16:26 -0400"
     }
   ]
 }
