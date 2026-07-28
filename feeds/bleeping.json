@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-28T12:18:06Z",
+  "updated": "2026-07-28T14:55:20Z",
   "items": [
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "pubDate": "Tue, 28 Jul 2026 10:00:10 -0400"
+    },
     {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
@@ -56,11 +61,6 @@
       "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
       "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400"
-    },
-    {
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "pubDate": "Sat, 25 Jul 2026 18:37:47 -0400"
     }
   ]
 }
