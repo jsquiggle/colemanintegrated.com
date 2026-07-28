@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-28T10:22:36Z",
+  "updated": "2026-07-28T12:18:06Z",
   "items": [
+    {
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400"
+    },
     {
       "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
@@ -56,11 +61,6 @@
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
       "pubDate": "Sat, 25 Jul 2026 18:37:47 -0400"
-    },
-    {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "pubDate": "Sat, 25 Jul 2026 11:21:09 -0400"
     }
   ]
 }
