@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-28T20:38:47Z",
+  "updated": "2026-07-28T21:54:21Z",
   "items": [
+    {
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "pubDate": "Tue, 28 Jul 2026 17:17:39 -0400"
+    },
     {
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
@@ -56,11 +61,6 @@
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
       "pubDate": "Mon, 27 Jul 2026 13:29:07 -0400"
-    },
-    {
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "pubDate": "Mon, 27 Jul 2026 11:39:51 -0400"
     }
   ]
 }
