@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-28T17:50:12Z",
+  "updated": "2026-07-28T19:04:54Z",
   "items": [
+    {
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400"
+    },
+    {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400"
+    },
     {
       "title": "Is Your SSO Protected Against Modern Credential Attacks?",
       "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
@@ -51,16 +61,6 @@
       "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
       "pubDate": "Mon, 27 Jul 2026 11:12:27 -0400"
-    },
-    {
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "pubDate": "Mon, 27 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "pubDate": "Sun, 26 Jul 2026 10:13:39 -0400"
     }
   ]
 }
