@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-29T10:28:08Z",
+  "updated": "2026-07-29T12:27:57Z",
   "items": [
+    {
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400"
+    },
     {
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
       "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
@@ -56,11 +61,6 @@
       "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
       "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
       "pubDate": "Mon, 27 Jul 2026 17:00:25 -0400"
-    },
-    {
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "pubDate": "Mon, 27 Jul 2026 13:29:07 -0400"
     }
   ]
 }

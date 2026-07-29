@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-29T10:28:08Z",
+  "updated": "2026-07-29T12:27:57Z",
   "items": [
+    {
+      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+      "pubDate": "Wed, 29 Jul 2026 17:45:00 +0530"
+    },
+    {
+      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+      "pubDate": "Wed, 29 Jul 2026 17:27:00 +0530"
+    },
+    {
+      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+      "pubDate": "Wed, 29 Jul 2026 16:43:10 +0530"
+    },
+    {
+      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+      "pubDate": "Wed, 29 Jul 2026 16:30:00 +0530"
+    },
     {
       "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
       "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
@@ -41,26 +61,6 @@
       "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
       "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
       "pubDate": "Tue, 28 Jul 2026 20:11:36 +0530"
-    },
-    {
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "pubDate": "Tue, 28 Jul 2026 19:03:47 +0530"
-    },
-    {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "pubDate": "Tue, 28 Jul 2026 18:26:14 +0530"
-    },
-    {
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "pubDate": "Tue, 28 Jul 2026 17:25:20 +0530"
-    },
-    {
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "pubDate": "Tue, 28 Jul 2026 13:41:22 +0530"
     }
   ]
 }
