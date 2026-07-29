@@ -1,11 +1,26 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-29T07:36:02Z",
+  "updated": "2026-07-29T10:28:08Z",
   "items": [
+    {
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "pubDate": "Wed, 29 Jul 2026 14:28:27 +0530"
+    },
     {
       "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
       "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "pubDate": "Wed, 29 Jul 2026 12:15:02 +0530"
+      "pubDate": "Wed, 29 Jul 2026 13:21:00 +0530"
+    },
+    {
+      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+      "pubDate": "Wed, 29 Jul 2026 13:17:19 +0530"
+    },
+    {
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "pubDate": "Wed, 29 Jul 2026 12:37:23 +0530"
     },
     {
       "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
@@ -46,21 +61,6 @@
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
       "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
       "pubDate": "Tue, 28 Jul 2026 13:41:22 +0530"
-    },
-    {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "pubDate": "Tue, 28 Jul 2026 13:34:44 +0530"
-    },
-    {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "pubDate": "Tue, 28 Jul 2026 11:37:22 +0530"
-    },
-    {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "pubDate": "Tue, 28 Jul 2026 10:13:53 +0530"
     }
   ]
 }
