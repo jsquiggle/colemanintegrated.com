@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-29T17:44:16Z",
+  "updated": "2026-07-29T18:54:34Z",
   "items": [
+    {
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "pubDate": "Wed, 29 Jul 2026 23:40:00 +0530"
+    },
     {
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
       "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
@@ -56,11 +61,6 @@
       "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
       "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
       "pubDate": "Wed, 29 Jul 2026 13:17:19 +0530"
-    },
-    {
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "pubDate": "Wed, 29 Jul 2026 12:37:23 +0530"
     }
   ]
 }

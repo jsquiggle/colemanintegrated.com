@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-29T17:44:16Z",
+  "updated": "2026-07-29T18:54:34Z",
   "items": [
+    {
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "pubDate": "Wed, 29 Jul 2026 13:54:05 -0400"
+    },
     {
       "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
       "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
@@ -56,11 +61,6 @@
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
       "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
       "pubDate": "Tue, 28 Jul 2026 08:10:23 -0400"
-    },
-    {
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "pubDate": "Tue, 28 Jul 2026 05:10:03 -0400"
     }
   ]
 }
