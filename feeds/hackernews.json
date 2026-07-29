@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-29T14:39:34Z",
+  "updated": "2026-07-29T16:14:33Z",
   "items": [
+    {
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "pubDate": "Wed, 29 Jul 2026 21:09:30 +0530"
+    },
+    {
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "pubDate": "Wed, 29 Jul 2026 21:01:15 +0530"
+    },
     {
       "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
       "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
@@ -51,16 +61,6 @@
       "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
       "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
       "pubDate": "Wed, 29 Jul 2026 12:37:23 +0530"
-    },
-    {
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "pubDate": "Wed, 29 Jul 2026 09:50:57 +0530"
-    },
-    {
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-      "pubDate": "Wed, 29 Jul 2026 00:29:07 +0530"
     }
   ]
 }
