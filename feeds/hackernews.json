@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-29T01:27:46Z",
+  "updated": "2026-07-29T04:43:17Z",
   "items": [
+    {
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "pubDate": "Wed, 29 Jul 2026 09:50:57 +0530"
+    },
     {
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
       "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
@@ -56,11 +61,6 @@
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
       "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
       "pubDate": "Mon, 27 Jul 2026 23:40:05 +0530"
-    },
-    {
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "pubDate": "Mon, 27 Jul 2026 22:46:28 +0530"
     }
   ]
 }
