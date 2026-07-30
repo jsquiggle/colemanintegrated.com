@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-30T09:09:18Z",
+  "updated": "2026-07-30T11:26:10Z",
   "items": [
+    {
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "pubDate": "Thu, 30 Jul 2026 16:03:15 +0530"
+    },
+    {
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "pubDate": "Thu, 30 Jul 2026 16:02:59 +0530"
+    },
     {
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
       "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
@@ -51,16 +61,6 @@
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
       "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
       "pubDate": "Wed, 29 Jul 2026 17:45:00 +0530"
-    },
-    {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "pubDate": "Wed, 29 Jul 2026 17:27:00 +0530"
-    },
-    {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "pubDate": "Wed, 29 Jul 2026 16:43:10 +0530"
     }
   ]
 }
