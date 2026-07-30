@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-30T13:01:14Z",
+  "updated": "2026-07-30T15:28:24Z",
   "items": [
+    {
+      "title": "Analog Devices discloses data breach, says operations unaffected",
+      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+      "pubDate": "Thu, 30 Jul 2026 11:12:25 -0400"
+    },
+    {
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "pubDate": "Thu, 30 Jul 2026 10:01:11 -0400"
+    },
     {
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -51,16 +61,6 @@
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
       "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
       "pubDate": "Tue, 28 Jul 2026 17:17:39 -0400"
-    },
-    {
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "pubDate": "Tue, 28 Jul 2026 16:37:06 -0400"
-    },
-    {
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400"
     }
   ]
 }
