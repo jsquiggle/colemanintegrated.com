@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-07-30T15:28:24Z",
+  "updated": "2026-07-30T16:58:23Z",
   "items": [
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "pubDate": "Thu, 30 Jul 2026 16:49:00 +0000"
+    },
     {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -46,11 +51,6 @@
       "title": "A Record-Breaking Patch Tuesday for June 2026",
       "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
       "pubDate": "Tue, 09 Jun 2026 22:07:28 +0000"
-    },
-    {
-      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
-      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "pubDate": "Mon, 01 Jun 2026 17:32:50 +0000"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-30T15:28:24Z",
+  "updated": "2026-07-30T16:58:23Z",
   "items": [
+    {
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "pubDate": "Thu, 30 Jul 2026 20:55:57 +0530"
+    },
     {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
       "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
@@ -56,11 +61,6 @@
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
       "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
       "pubDate": "Wed, 29 Jul 2026 21:09:30 +0530"
-    },
-    {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "pubDate": "Wed, 29 Jul 2026 21:01:15 +0530"
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-30T15:28:24Z",
+  "updated": "2026-07-30T16:58:23Z",
   "items": [
+    {
+      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+      "pubDate": "Thu, 30 Jul 2026 12:46:15 -0400"
+    },
+    {
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "pubDate": "Thu, 30 Jul 2026 11:56:33 -0400"
+    },
     {
       "title": "Analog Devices discloses data breach, says operations unaffected",
       "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
@@ -51,16 +61,6 @@
       "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
       "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400"
-    },
-    {
-      "title": "These near-mint ASUS Chromebook refurbs are only $145",
-      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-      "pubDate": "Wed, 29 Jul 2026 07:12:19 -0400"
-    },
-    {
-      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-      "pubDate": "Tue, 28 Jul 2026 17:17:39 -0400"
     }
   ]
 }
