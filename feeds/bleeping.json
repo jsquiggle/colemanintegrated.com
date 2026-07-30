@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-29T23:28:33Z",
+  "updated": "2026-07-30T00:53:37Z",
   "items": [
+    {
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "pubDate": "Wed, 29 Jul 2026 19:44:07 -0400"
+    },
     {
       "title": "Anthropic confirms Claude is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
@@ -56,11 +61,6 @@
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
       "pubDate": "Tue, 28 Jul 2026 14:41:04 -0400"
-    },
-    {
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "pubDate": "Tue, 28 Jul 2026 14:08:50 -0400"
     }
   ]
 }
