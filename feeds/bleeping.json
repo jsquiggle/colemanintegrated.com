@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-30T16:58:23Z",
+  "updated": "2026-07-30T18:13:19Z",
   "items": [
+    {
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "pubDate": "Thu, 30 Jul 2026 14:00:51 -0400"
+    },
+    {
+      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+      "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "pubDate": "Thu, 30 Jul 2026 13:00:00 -0400"
+    },
     {
       "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
@@ -51,16 +61,6 @@
       "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "pubDate": "Wed, 29 Jul 2026 10:55:57 -0400"
-    },
-    {
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "pubDate": "Wed, 29 Jul 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "pubDate": "Wed, 29 Jul 2026 09:56:22 -0400"
     }
   ]
 }
