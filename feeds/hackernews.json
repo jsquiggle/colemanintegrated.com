@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-31T17:17:08Z",
+  "updated": "2026-07-31T18:49:03Z",
   "items": [
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "pubDate": "Fri, 31 Jul 2026 22:09:31 +0530"
+    },
     {
       "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
       "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
@@ -56,11 +61,6 @@
       "title": "The Network Has Become the Control Plane for AI Security",
       "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
       "pubDate": "Thu, 30 Jul 2026 17:02:46 +0530"
-    },
-    {
-      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-      "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-      "pubDate": "Thu, 30 Jul 2026 16:03:15 +0530"
     }
   ]
 }
