@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-31T20:13:21Z",
+  "updated": "2026-07-31T21:34:09Z",
   "items": [
+    {
+      "title": "Online ad firm Adform\u2019s script compromised to steal cryptocurrency",
+      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "pubDate": "Fri, 31 Jul 2026 17:09:25 -0400"
+    },
     {
       "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
@@ -56,11 +61,6 @@
       "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
       "pubDate": "Thu, 30 Jul 2026 12:46:15 -0400"
-    },
-    {
-      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
-      "pubDate": "Thu, 30 Jul 2026 11:56:33 -0400"
     }
   ]
 }
