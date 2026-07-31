@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-31T11:02:38Z",
+  "updated": "2026-07-31T13:10:28Z",
   "items": [
+    {
+      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
+      "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
+      "pubDate": "Fri, 31 Jul 2026 16:54:59 +0530"
+    },
+    {
+      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
+      "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
+      "pubDate": "Fri, 31 Jul 2026 16:51:27 +0530"
+    },
+    {
+      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
+      "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+      "pubDate": "Fri, 31 Jul 2026 12:11:44 +0530"
+    },
     {
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
       "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
@@ -46,21 +61,6 @@
       "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
       "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
       "pubDate": "Thu, 30 Jul 2026 12:58:43 +0530"
-    },
-    {
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
-      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "pubDate": "Thu, 30 Jul 2026 11:35:17 +0530"
-    },
-    {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "pubDate": "Thu, 30 Jul 2026 10:38:39 +0530"
-    },
-    {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "pubDate": "Wed, 29 Jul 2026 23:40:00 +0530"
     }
   ]
 }
