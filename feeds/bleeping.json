@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-31T18:49:03Z",
+  "updated": "2026-07-31T20:13:21Z",
   "items": [
+    {
+      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+      "pubDate": "Fri, 31 Jul 2026 14:52:44 -0400"
+    },
     {
       "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
       "pubDate": "Thu, 30 Jul 2026 11:56:33 -0400"
-    },
-    {
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "pubDate": "Thu, 30 Jul 2026 11:12:25 -0400"
     }
   ]
 }
