@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-30T23:52:24Z",
+  "updated": "2026-07-31T01:47:16Z",
   "items": [
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "pubDate": "Thu, 30 Jul 2026 20:57:25 -0400"
+    },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
@@ -56,11 +61,6 @@
       "title": "Anthropic confirms Claude is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
       "pubDate": "Wed, 29 Jul 2026 17:39:29 -0400"
-    },
-    {
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "pubDate": "Wed, 29 Jul 2026 17:35:40 -0400"
     }
   ]
 }
