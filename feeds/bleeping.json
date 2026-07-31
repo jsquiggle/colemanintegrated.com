@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-31T13:10:28Z",
+  "updated": "2026-07-31T15:33:51Z",
   "items": [
+    {
+      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
+      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+      "pubDate": "Fri, 31 Jul 2026 10:01:11 -0400"
+    },
     {
       "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
       "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
@@ -56,11 +61,6 @@
       "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
       "pubDate": "Wed, 29 Jul 2026 19:44:07 -0400"
-    },
-    {
-      "title": "Anthropic confirms Claude is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "pubDate": "Wed, 29 Jul 2026 17:39:29 -0400"
     }
   ]
 }
