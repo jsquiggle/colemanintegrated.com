@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-07-31T15:33:51Z",
+  "updated": "2026-07-31T17:17:08Z",
   "items": [
+    {
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "pubDate": "Fri, 31 Jul 2026 12:49:49 -0400"
+    },
     {
       "title": "ESET tracks rise in malicious AI skills and adaptable malware",
       "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
@@ -56,11 +61,6 @@
       "title": "After the Break-In: What Attackers Do Once They're Already Inside",
       "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
       "pubDate": "Thu, 30 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "pubDate": "Wed, 29 Jul 2026 19:44:07 -0400"
     }
   ]
 }

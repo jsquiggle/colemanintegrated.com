@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-07-31T15:33:51Z",
+  "updated": "2026-07-31T17:17:08Z",
   "items": [
+    {
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
+      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "pubDate": "Fri, 31 Jul 2026 20:15:01 +0530"
+    },
     {
       "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
       "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
       "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
       "pubDate": "Thu, 30 Jul 2026 16:03:15 +0530"
-    },
-    {
-      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
-      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
-      "pubDate": "Thu, 30 Jul 2026 16:02:59 +0530"
     }
   ]
 }
