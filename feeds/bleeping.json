@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-01T14:21:04Z",
+  "updated": "2026-08-01T15:33:17Z",
   "items": [
+    {
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "pubDate": "Sat, 01 Aug 2026 10:20:30 -0400"
+    },
     {
       "title": "Amgen says cloud data breach exposed patient health, proprietary info",
       "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
@@ -56,11 +61,6 @@
       "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
       "pubDate": "Thu, 30 Jul 2026 14:13:24 -0400"
-    },
-    {
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "pubDate": "Thu, 30 Jul 2026 14:00:51 -0400"
     }
   ]
 }
