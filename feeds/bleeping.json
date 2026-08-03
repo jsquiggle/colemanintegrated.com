@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-03T16:43:50Z",
+  "updated": "2026-08-03T18:41:57Z",
   "items": [
+    {
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "pubDate": "Mon, 03 Aug 2026 13:00:56 -0400"
+    },
     {
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
@@ -56,11 +61,6 @@
       "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
       "pubDate": "Fri, 31 Jul 2026 13:35:35 -0400"
-    },
-    {
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "pubDate": "Fri, 31 Jul 2026 12:49:49 -0400"
     }
   ]
 }
