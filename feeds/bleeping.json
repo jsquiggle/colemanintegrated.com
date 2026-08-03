@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-03T14:12:57Z",
+  "updated": "2026-08-03T16:43:50Z",
   "items": [
+    {
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "pubDate": "Mon, 03 Aug 2026 11:04:39 -0400"
+    },
+    {
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "pubDate": "Mon, 03 Aug 2026 10:45:55 -0400"
+    },
     {
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
@@ -51,16 +61,6 @@
       "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
       "pubDate": "Fri, 31 Jul 2026 12:49:49 -0400"
-    },
-    {
-      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-      "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-      "pubDate": "Fri, 31 Jul 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "pubDate": "Thu, 30 Jul 2026 20:57:25 -0400"
     }
   ]
 }
