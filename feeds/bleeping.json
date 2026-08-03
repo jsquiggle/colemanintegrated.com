@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-03T18:41:57Z",
+  "updated": "2026-08-03T20:19:19Z",
   "items": [
+    {
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "pubDate": "Mon, 03 Aug 2026 16:01:22 -0400"
+    },
+    {
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "pubDate": "Mon, 03 Aug 2026 15:25:10 -0400"
+    },
     {
       "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "Online ad firm Adform\u2019s script compromised to steal cryptocurrency",
       "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
       "pubDate": "Fri, 31 Jul 2026 17:09:25 -0400"
-    },
-    {
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "pubDate": "Fri, 31 Jul 2026 14:52:44 -0400"
-    },
-    {
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "pubDate": "Fri, 31 Jul 2026 13:35:35 -0400"
     }
   ]
 }
