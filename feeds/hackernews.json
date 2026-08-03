@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-03T11:52:18Z",
+  "updated": "2026-08-03T14:12:57Z",
   "items": [
+    {
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "pubDate": "Mon, 03 Aug 2026 17:00:00 +0530"
+    },
     {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
@@ -56,11 +61,6 @@
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
       "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "pubDate": "Fri, 31 Jul 2026 22:09:31 +0530"
-    },
-    {
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
-      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "pubDate": "Fri, 31 Jul 2026 20:15:01 +0530"
     }
   ]
 }
