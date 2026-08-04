@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-04T07:59:32Z",
+  "updated": "2026-08-04T10:39:31Z",
   "items": [
+    {
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "pubDate": "Tue, 04 Aug 2026 14:33:23 +0530"
+    },
     {
       "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
       "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
@@ -56,11 +61,6 @@
       "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
       "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
       "pubDate": "Mon, 03 Aug 2026 12:10:31 +0530"
-    },
-    {
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "pubDate": "Sat, 01 Aug 2026 22:47:22 +0530"
     }
   ]
 }
