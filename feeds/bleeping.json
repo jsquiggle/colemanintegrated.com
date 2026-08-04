@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-04T17:09:58Z",
+  "updated": "2026-08-04T19:01:01Z",
   "items": [
+    {
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "pubDate": "Tue, 04 Aug 2026 14:50:55 -0400"
+    },
     {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
@@ -56,11 +61,6 @@
       "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
       "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
       "pubDate": "Sun, 02 Aug 2026 17:14:29 -0400"
-    },
-    {
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "pubDate": "Sun, 02 Aug 2026 10:17:16 -0400"
     }
   ]
 }

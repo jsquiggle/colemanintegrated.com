@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-04T17:09:58Z",
+  "updated": "2026-08-04T19:01:01Z",
   "items": [
+    {
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "pubDate": "Tue, 04 Aug 2026 22:57:39 +0530"
+    },
     {
       "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
       "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
@@ -56,11 +61,6 @@
       "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "pubDate": "Mon, 03 Aug 2026 19:33:11 +0530"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "pubDate": "Mon, 03 Aug 2026 17:00:00 +0530"
     }
   ]
 }
