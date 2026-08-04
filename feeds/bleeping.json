@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-04T15:14:19Z",
+  "updated": "2026-08-04T17:09:58Z",
   "items": [
+    {
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "pubDate": "Tue, 04 Aug 2026 11:24:35 -0400"
+    },
     {
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
       "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
@@ -56,11 +61,6 @@
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "pubDate": "Sun, 02 Aug 2026 10:17:16 -0400"
-    },
-    {
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "pubDate": "Sat, 01 Aug 2026 10:20:30 -0400"
     }
   ]
 }
