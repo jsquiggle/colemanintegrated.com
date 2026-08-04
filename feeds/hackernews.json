@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-04T10:39:31Z",
+  "updated": "2026-08-04T12:52:08Z",
   "items": [
+    {
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "pubDate": "Tue, 04 Aug 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "pubDate": "Tue, 04 Aug 2026 16:46:23 +0530"
+    },
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "pubDate": "Tue, 04 Aug 2026 16:06:27 +0530"
+    },
     {
       "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
       "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
@@ -46,21 +61,6 @@
       "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
       "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
       "pubDate": "Mon, 03 Aug 2026 14:43:56 +0530"
-    },
-    {
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "pubDate": "Mon, 03 Aug 2026 13:35:30 +0530"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "pubDate": "Mon, 03 Aug 2026 12:11:46 +0530"
-    },
-    {
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "pubDate": "Mon, 03 Aug 2026 12:10:31 +0530"
     }
   ]
 }
