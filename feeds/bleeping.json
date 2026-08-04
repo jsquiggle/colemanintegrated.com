@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-04T12:52:08Z",
+  "updated": "2026-08-04T15:14:19Z",
   "items": [
+    {
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "pubDate": "Tue, 04 Aug 2026 10:00:10 -0400"
+    },
     {
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
@@ -56,11 +61,6 @@
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
       "pubDate": "Sat, 01 Aug 2026 10:20:30 -0400"
-    },
-    {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "pubDate": "Fri, 31 Jul 2026 18:16:42 -0400"
     }
   ]
 }
