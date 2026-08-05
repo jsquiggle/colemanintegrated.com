@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-05T21:40:07Z",
+  "updated": "2026-08-05T22:47:22Z",
   "items": [
+    {
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "pubDate": "Wed, 05 Aug 2026 17:53:26 -0400"
+    },
     {
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
@@ -56,11 +61,6 @@
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "pubDate": "Tue, 04 Aug 2026 11:24:35 -0400"
-    },
-    {
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "pubDate": "Tue, 04 Aug 2026 10:00:10 -0400"
     }
   ]
 }
