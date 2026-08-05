@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-04T23:29:23Z",
+  "updated": "2026-08-05T00:54:59Z",
   "items": [
+    {
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "pubDate": "Tue, 04 Aug 2026 19:39:59 -0400"
+    },
     {
       "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
       "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
@@ -56,11 +61,6 @@
       "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
       "pubDate": "Mon, 03 Aug 2026 13:00:56 -0400"
-    },
-    {
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "pubDate": "Mon, 03 Aug 2026 11:04:39 -0400"
     }
   ]
 }
