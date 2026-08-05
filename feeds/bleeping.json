@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-05T22:47:22Z",
+  "updated": "2026-08-05T23:46:41Z",
   "items": [
+    {
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "pubDate": "Wed, 05 Aug 2026 19:00:50 -0400"
+    },
     {
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "77 Open VSX extensions found harvesting developer info",
       "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
       "pubDate": "Tue, 04 Aug 2026 14:50:55 -0400"
-    },
-    {
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "pubDate": "Tue, 04 Aug 2026 11:24:35 -0400"
     }
   ]
 }
