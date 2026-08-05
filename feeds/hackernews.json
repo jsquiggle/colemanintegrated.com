@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-05T18:58:26Z",
+  "updated": "2026-08-05T20:24:44Z",
   "items": [
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "pubDate": "Thu, 06 Aug 2026 00:14:31 +0530"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "pubDate": "Thu, 06 Aug 2026 00:03:47 +0530"
+    },
     {
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
       "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
@@ -51,16 +61,6 @@
       "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
       "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
       "pubDate": "Wed, 05 Aug 2026 13:23:50 +0530"
-    },
-    {
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "pubDate": "Wed, 05 Aug 2026 13:10:39 +0530"
-    },
-    {
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "pubDate": "Wed, 05 Aug 2026 11:17:19 +0530"
     }
   ]
 }

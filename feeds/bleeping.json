@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-05T18:58:26Z",
+  "updated": "2026-08-05T20:24:44Z",
   "items": [
+    {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "pubDate": "Wed, 05 Aug 2026 15:55:25 -0400"
+    },
     {
       "title": "COLDCARD security audit phishing attack installs remote access tool",
       "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
@@ -56,11 +61,6 @@
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
       "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
       "pubDate": "Tue, 04 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "pubDate": "Mon, 03 Aug 2026 20:17:15 -0400"
     }
   ]
 }
