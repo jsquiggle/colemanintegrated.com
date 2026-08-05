@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-05T11:34:08Z",
+  "updated": "2026-08-05T13:40:16Z",
   "items": [
+    {
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "pubDate": "Wed, 05 Aug 2026 17:13:27 +0530"
+    },
+    {
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "pubDate": "Wed, 05 Aug 2026 17:13:19 +0530"
+    },
     {
       "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
       "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
@@ -51,16 +61,6 @@
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
       "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
       "pubDate": "Tue, 04 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-      "pubDate": "Tue, 04 Aug 2026 16:46:23 +0530"
-    },
-    {
-      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
-      "pubDate": "Tue, 04 Aug 2026 16:06:27 +0530"
     }
   ]
 }
