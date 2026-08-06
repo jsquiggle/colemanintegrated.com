@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-06T12:23:29Z",
+  "updated": "2026-08-06T14:42:06Z",
   "items": [
+    {
+      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+      "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+      "pubDate": "Thu, 06 Aug 2026 10:02:12 -0400"
+    },
     {
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
@@ -56,11 +61,6 @@
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "pubDate": "Tue, 04 Aug 2026 15:03:09 -0400"
-    },
-    {
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "pubDate": "Tue, 04 Aug 2026 14:50:55 -0400"
     }
   ]
 }
