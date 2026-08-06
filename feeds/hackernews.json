@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-06T10:25:58Z",
+  "updated": "2026-08-06T12:23:29Z",
   "items": [
+    {
+      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+      "pubDate": "Thu, 06 Aug 2026 17:19:48 +0530"
+    },
+    {
+      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+      "pubDate": "Thu, 06 Aug 2026 17:03:08 +0530"
+    },
+    {
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+      "pubDate": "Thu, 06 Aug 2026 17:00:00 +0530"
+    },
     {
       "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
       "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
@@ -46,21 +61,6 @@
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
       "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
       "pubDate": "Wed, 05 Aug 2026 21:06:03 +0530"
-    },
-    {
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "pubDate": "Wed, 05 Aug 2026 20:44:05 +0530"
-    },
-    {
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "pubDate": "Wed, 05 Aug 2026 19:57:30 +0530"
-    },
-    {
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "pubDate": "Wed, 05 Aug 2026 19:11:27 +0530"
     }
   ]
 }
