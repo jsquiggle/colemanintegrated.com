@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-06T04:37:56Z",
+  "updated": "2026-08-06T07:31:45Z",
   "items": [
+    {
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "pubDate": "Thu, 06 Aug 2026 11:34:30 +0530"
+    },
     {
       "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
       "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
@@ -56,11 +61,6 @@
       "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
       "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
       "pubDate": "Wed, 05 Aug 2026 14:53:03 +0530"
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "pubDate": "Wed, 05 Aug 2026 13:23:50 +0530"
     }
   ]
 }
