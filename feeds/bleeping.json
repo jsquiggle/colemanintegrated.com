@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-07T18:38:00Z",
+  "updated": "2026-08-07T19:42:41Z",
   "items": [
+    {
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+      "pubDate": "Fri, 07 Aug 2026 15:30:41 -0400"
+    },
     {
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
       "pubDate": "Wed, 05 Aug 2026 19:00:50 -0400"
-    },
-    {
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "pubDate": "Wed, 05 Aug 2026 17:53:26 -0400"
     }
   ]
 }
