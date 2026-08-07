@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-08-06T14:42:06Z",
+  "updated": "2026-08-07T00:20:35Z",
   "items": [
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "pubDate": "Thu, 06 Aug 2026 17:00:56 +0000"
+    },
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
       "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -46,11 +51,6 @@
       "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
       "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
       "pubDate": "Wed, 10 Jun 2026 14:03:44 +0000"
-    },
-    {
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "pubDate": "Tue, 09 Jun 2026 22:07:28 +0000"
     }
   ]
 }

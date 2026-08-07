@@ -1,7 +1,37 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-06T14:42:06Z",
+  "updated": "2026-08-07T00:20:35Z",
   "items": [
+    {
+      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "pubDate": "Thu, 06 Aug 2026 18:48:22 -0400"
+    },
+    {
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "pubDate": "Thu, 06 Aug 2026 18:37:17 -0400"
+    },
+    {
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "pubDate": "Thu, 06 Aug 2026 16:07:24 -0400"
+    },
+    {
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "pubDate": "Thu, 06 Aug 2026 14:14:19 -0400"
+    },
+    {
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "pubDate": "Thu, 06 Aug 2026 14:03:45 -0400"
+    },
+    {
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "pubDate": "Thu, 06 Aug 2026 12:11:39 -0400"
+    },
     {
       "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
       "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
@@ -31,36 +61,6 @@
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
       "pubDate": "Wed, 05 Aug 2026 11:51:33 -0400"
-    },
-    {
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "pubDate": "Wed, 05 Aug 2026 10:59:29 -0400"
-    },
-    {
-      "title": "How AI-powered phishing killed blocklists for good",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
-      "pubDate": "Wed, 05 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "pubDate": "Tue, 04 Aug 2026 19:39:59 -0400"
-    },
-    {
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "pubDate": "Tue, 04 Aug 2026 18:18:20 -0400"
-    },
-    {
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "pubDate": "Tue, 04 Aug 2026 17:45:36 -0400"
-    },
-    {
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "pubDate": "Tue, 04 Aug 2026 15:03:09 -0400"
     }
   ]
 }
