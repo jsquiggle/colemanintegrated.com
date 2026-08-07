@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-07T10:24:38Z",
+  "updated": "2026-08-07T11:13:08Z",
   "items": [
+    {
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "pubDate": "Fri, 07 Aug 2026 16:08:27 +0530"
+    },
+    {
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "pubDate": "Fri, 07 Aug 2026 15:39:54 +0530"
+    },
     {
       "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
       "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
@@ -51,16 +61,6 @@
       "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
       "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
       "pubDate": "Thu, 06 Aug 2026 17:19:48 +0530"
-    },
-    {
-      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-      "pubDate": "Thu, 06 Aug 2026 17:03:08 +0530"
-    },
-    {
-      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-      "pubDate": "Thu, 06 Aug 2026 17:00:00 +0530"
     }
   ]
 }
