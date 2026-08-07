@@ -1,14 +1,19 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-07T06:39:38Z",
+  "updated": "2026-08-07T08:05:06Z",
   "items": [
+    {
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "pubDate": "Fri, 07 Aug 2026 12:20:05 +0530"
+    },
     {
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
       "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
       "pubDate": "Thu, 06 Aug 2026 23:28:30 +0530"
     },
     {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "pubDate": "Thu, 06 Aug 2026 22:43:15 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
       "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
       "pubDate": "Thu, 06 Aug 2026 13:35:22 +0530"
-    },
-    {
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "pubDate": "Thu, 06 Aug 2026 12:49:54 +0530"
     }
   ]
 }
