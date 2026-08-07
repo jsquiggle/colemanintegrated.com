@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-07T19:42:41Z",
+  "updated": "2026-08-07T20:28:14Z",
   "items": [
+    {
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "pubDate": "Fri, 07 Aug 2026 16:14:46 -0400"
+    },
     {
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
       "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
@@ -56,11 +61,6 @@
       "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
       "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
       "pubDate": "Thu, 06 Aug 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "pubDate": "Wed, 05 Aug 2026 19:00:50 -0400"
     }
   ]
 }
