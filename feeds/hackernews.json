@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-07T09:28:28Z",
+  "updated": "2026-08-07T10:24:38Z",
   "items": [
+    {
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "pubDate": "Fri, 07 Aug 2026 15:02:57 +0530"
+    },
+    {
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "pubDate": "Fri, 07 Aug 2026 14:22:11 +0530"
+    },
+    {
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "pubDate": "Fri, 07 Aug 2026 13:48:35 +0530"
+    },
     {
       "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
       "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
@@ -46,21 +61,6 @@
       "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
       "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
       "pubDate": "Thu, 06 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "pubDate": "Thu, 06 Aug 2026 14:49:23 +0530"
-    },
-    {
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "pubDate": "Thu, 06 Aug 2026 14:27:30 +0530"
-    },
-    {
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "pubDate": "Thu, 06 Aug 2026 13:35:22 +0530"
     }
   ]
 }
