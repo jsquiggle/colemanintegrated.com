@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-07T15:42:31Z",
+  "updated": "2026-08-07T16:39:57Z",
   "items": [
+    {
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+      "pubDate": "Fri, 07 Aug 2026 11:48:20 -0400"
+    },
     {
       "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
       "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
@@ -56,11 +61,6 @@
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
       "pubDate": "Wed, 05 Aug 2026 17:53:26 -0400"
-    },
-    {
-      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-      "pubDate": "Wed, 05 Aug 2026 15:55:25 -0400"
     }
   ]
 }
