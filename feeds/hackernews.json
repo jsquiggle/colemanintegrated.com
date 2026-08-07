@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-07T12:04:13Z",
+  "updated": "2026-08-07T13:45:07Z",
   "items": [
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "pubDate": "Fri, 07 Aug 2026 18:26:23 +0530"
+    },
+    {
+      "title": "Growing Up The Hard Way",
+      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+      "pubDate": "Fri, 07 Aug 2026 17:25:26 +0530"
+    },
+    {
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "pubDate": "Fri, 07 Aug 2026 16:40:33 +0530"
+    },
+    {
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "pubDate": "Fri, 07 Aug 2026 16:28:38 +0530"
+    },
     {
       "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
       "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
@@ -11,11 +31,6 @@
       "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
       "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
       "pubDate": "Fri, 07 Aug 2026 15:39:54 +0530"
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "pubDate": "Fri, 07 Aug 2026 15:02:57 +0530"
     },
     {
       "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
@@ -46,21 +61,6 @@
       "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
       "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
       "pubDate": "Thu, 06 Aug 2026 21:47:13 +0530"
-    },
-    {
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "pubDate": "Thu, 06 Aug 2026 20:54:31 +0530"
-    },
-    {
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-      "pubDate": "Thu, 06 Aug 2026 17:46:58 +0530"
-    },
-    {
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-      "pubDate": "Thu, 06 Aug 2026 17:19:48 +0530"
     }
   ]
 }

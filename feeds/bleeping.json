@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-07T12:04:13Z",
+  "updated": "2026-08-07T13:45:07Z",
   "items": [
+    {
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "pubDate": "Fri, 07 Aug 2026 09:34:40 -0400"
+    },
     {
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
@@ -56,11 +61,6 @@
       "title": "COLDCARD security audit phishing attack installs remote access tool",
       "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
       "pubDate": "Wed, 05 Aug 2026 13:49:41 -0400"
-    },
-    {
-      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-      "pubDate": "Wed, 05 Aug 2026 11:51:33 -0400"
     }
   ]
 }
