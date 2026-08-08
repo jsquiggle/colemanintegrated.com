@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-08T14:03:22Z",
+  "updated": "2026-08-08T14:54:58Z",
   "items": [
+    {
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "pubDate": "Sat, 08 Aug 2026 10:16:23 -0400"
+    },
     {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Meta AI model hacked a company during misconfigured cyber test",
       "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
       "pubDate": "Thu, 06 Aug 2026 12:11:39 -0400"
-    },
-    {
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "pubDate": "Thu, 06 Aug 2026 10:02:12 -0400"
     }
   ]
 }
