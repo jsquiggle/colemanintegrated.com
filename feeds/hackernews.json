@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-08T09:06:49Z",
+  "updated": "2026-08-08T10:00:32Z",
   "items": [
+    {
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "pubDate": "Sat, 08 Aug 2026 14:24:50 +0530"
+    },
+    {
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "pubDate": "Sat, 08 Aug 2026 13:33:57 +0530"
+    },
     {
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
       "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
@@ -51,16 +61,6 @@
       "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
       "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
       "pubDate": "Fri, 07 Aug 2026 16:28:38 +0530"
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "pubDate": "Fri, 07 Aug 2026 16:08:27 +0530"
-    },
-    {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "pubDate": "Fri, 07 Aug 2026 15:39:54 +0530"
     }
   ]
 }
