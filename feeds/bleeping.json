@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T17:16:10Z",
+  "updated": "2026-08-10T18:09:46Z",
   "items": [
+    {
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "pubDate": "Mon, 10 Aug 2026 13:42:00 -0400"
+    },
     {
       "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
@@ -56,11 +61,6 @@
       "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
       "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
       "pubDate": "Fri, 07 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "title": "North Carolina Ports confirms cyberattack disrupting operations",
-      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-      "pubDate": "Fri, 07 Aug 2026 09:34:40 -0400"
     }
   ]
 }
