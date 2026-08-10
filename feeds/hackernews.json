@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-10T05:00:49Z",
+  "updated": "2026-08-10T06:48:21Z",
   "items": [
+    {
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+      "pubDate": "Mon, 10 Aug 2026 11:20:03 +0530"
+    },
     {
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
       "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
@@ -56,11 +61,6 @@
       "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
       "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
       "pubDate": "Fri, 07 Aug 2026 16:40:33 +0530"
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "pubDate": "Fri, 07 Aug 2026 16:28:38 +0530"
     }
   ]
 }
