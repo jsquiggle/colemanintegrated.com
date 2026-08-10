@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T18:09:46Z",
+  "updated": "2026-08-10T19:26:56Z",
   "items": [
+    {
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "pubDate": "Mon, 10 Aug 2026 15:24:40 -0400"
+    },
     {
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
@@ -56,11 +61,6 @@
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
       "pubDate": "Fri, 07 Aug 2026 11:48:20 -0400"
-    },
-    {
-      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
-      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-      "pubDate": "Fri, 07 Aug 2026 10:00:10 -0400"
     }
   ]
 }
