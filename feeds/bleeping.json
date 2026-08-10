@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T23:02:51Z",
+  "updated": "2026-08-10T23:56:41Z",
   "items": [
+    {
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "pubDate": "Mon, 10 Aug 2026 19:07:21 -0400"
+    },
     {
       "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
       "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
@@ -56,11 +61,6 @@
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "pubDate": "Fri, 07 Aug 2026 16:14:46 -0400"
-    },
-    {
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "pubDate": "Fri, 07 Aug 2026 15:30:41 -0400"
     }
   ]
 }
