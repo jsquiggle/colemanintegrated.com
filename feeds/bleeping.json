@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-10T12:41:48Z",
+  "updated": "2026-08-10T14:11:31Z",
   "items": [
+    {
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "pubDate": "Mon, 10 Aug 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "pubDate": "Mon, 10 Aug 2026 08:56:28 -0400"
+    },
     {
       "title": "LexisNexis shuts down services after suspicious activity on servers",
       "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
@@ -51,16 +61,6 @@
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don\u2019t pay for it",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
       "pubDate": "Thu, 06 Aug 2026 18:48:22 -0400"
-    },
-    {
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "pubDate": "Thu, 06 Aug 2026 18:37:17 -0400"
-    },
-    {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "pubDate": "Thu, 06 Aug 2026 16:07:24 -0400"
     }
   ]
 }
