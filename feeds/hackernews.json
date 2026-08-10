@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-10T16:21:26Z",
+  "updated": "2026-08-10T17:16:10Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
+      "pubDate": "Mon, 10 Aug 2026 20:30:29 +0530"
+    },
     {
       "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
       "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
@@ -56,11 +61,6 @@
       "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
       "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
       "pubDate": "Sat, 08 Aug 2026 12:22:16 +0530"
-    },
-    {
-      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-      "pubDate": "Sat, 08 Aug 2026 00:18:17 +0530"
     }
   ]
 }
