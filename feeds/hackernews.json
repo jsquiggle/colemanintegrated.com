@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-11T05:46:05Z",
+  "updated": "2026-08-11T06:44:54Z",
   "items": [
+    {
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "pubDate": "Tue, 11 Aug 2026 11:18:44 +0530"
+    },
     {
       "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
       "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
@@ -56,11 +61,6 @@
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
       "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
       "pubDate": "Sat, 08 Aug 2026 12:28:31 +0530"
-    },
-    {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "pubDate": "Sat, 08 Aug 2026 12:27:43 +0530"
     }
   ]
 }
