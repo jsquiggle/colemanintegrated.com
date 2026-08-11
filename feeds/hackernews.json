@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-11T10:22:33Z",
+  "updated": "2026-08-11T11:10:44Z",
   "items": [
+    {
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "pubDate": "Tue, 11 Aug 2026 16:18:26 +0530"
+    },
+    {
+      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+      "pubDate": "Tue, 11 Aug 2026 15:54:00 +0530"
+    },
+    {
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "pubDate": "Tue, 11 Aug 2026 14:46:24 +0530"
+    },
     {
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
       "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
@@ -46,21 +61,6 @@
       "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
       "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
       "pubDate": "Mon, 10 Aug 2026 13:08:23 +0530"
-    },
-    {
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "pubDate": "Mon, 10 Aug 2026 11:20:03 +0530"
-    },
-    {
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "pubDate": "Sat, 08 Aug 2026 14:24:50 +0530"
-    },
-    {
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "pubDate": "Sat, 08 Aug 2026 13:33:57 +0530"
     }
   ]
 }
