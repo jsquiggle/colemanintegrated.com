@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-11T12:03:45Z",
+  "updated": "2026-08-11T13:49:00Z",
   "items": [
+    {
+      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+      "pubDate": "Tue, 11 Aug 2026 17:35:03 +0530"
+    },
+    {
+      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
+      "pubDate": "Tue, 11 Aug 2026 17:34:51 +0530"
+    },
+    {
+      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
+      "pubDate": "Tue, 11 Aug 2026 17:05:03 +0530"
+    },
     {
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
       "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
@@ -46,21 +61,6 @@
       "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
       "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
       "pubDate": "Mon, 10 Aug 2026 18:49:58 +0530"
-    },
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "pubDate": "Mon, 10 Aug 2026 17:55:04 +0530"
-    },
-    {
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "pubDate": "Mon, 10 Aug 2026 17:03:41 +0530"
-    },
-    {
-      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-      "pubDate": "Mon, 10 Aug 2026 13:08:23 +0530"
     }
   ]
 }
