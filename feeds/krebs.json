@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-08-11T20:32:56Z",
+  "updated": "2026-08-11T21:33:56Z",
   "items": [
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "pubDate": "Tue, 11 Aug 2026 21:28:35 +0000"
+    },
     {
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -46,11 +51,6 @@
       "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
       "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
       "pubDate": "Thu, 18 Jun 2026 17:37:58 +0000"
-    },
-    {
-      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
-      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "pubDate": "Wed, 10 Jun 2026 14:03:44 +0000"
     }
   ]
 }
