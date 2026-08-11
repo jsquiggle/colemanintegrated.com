@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-11T18:44:24Z",
+  "updated": "2026-08-11T19:53:11Z",
   "items": [
+    {
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "pubDate": "Wed, 12 Aug 2026 00:06:47 +0530"
+    },
     {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
@@ -56,11 +61,6 @@
       "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
       "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
       "pubDate": "Tue, 11 Aug 2026 11:18:44 +0530"
-    },
-    {
-      "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
-      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "pubDate": "Mon, 10 Aug 2026 22:59:17 +0530"
     }
   ]
 }
