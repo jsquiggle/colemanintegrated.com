@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-11T17:47:33Z",
+  "updated": "2026-08-11T18:44:24Z",
   "items": [
+    {
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "pubDate": "Tue, 11 Aug 2026 14:34:23 -0400"
+    },
+    {
+      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "pubDate": "Tue, 11 Aug 2026 14:26:03 -0400"
+    },
+    {
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400"
+    },
     {
       "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
@@ -46,21 +61,6 @@
       "title": "Hackers breached a small Polish energy plant via private APN last year",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
       "pubDate": "Mon, 10 Aug 2026 19:07:21 -0400"
-    },
-    {
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "pubDate": "Mon, 10 Aug 2026 17:12:10 -0400"
-    },
-    {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "pubDate": "Mon, 10 Aug 2026 15:24:40 -0400"
-    },
-    {
-      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
-      "pubDate": "Mon, 10 Aug 2026 13:42:00 -0400"
     }
   ]
 }
