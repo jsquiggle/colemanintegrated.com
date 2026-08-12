@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T20:32:14Z",
+  "updated": "2026-08-12T21:33:28Z",
   "items": [
+    {
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "pubDate": "Wed, 12 Aug 2026 16:54:59 -0400"
+    },
     {
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
       "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
@@ -56,11 +61,6 @@
       "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
       "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
       "pubDate": "Tue, 11 Aug 2026 17:07:24 -0400"
-    },
-    {
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "pubDate": "Tue, 11 Aug 2026 15:45:31 -0400"
     }
   ]
 }
