@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-12T08:07:49Z",
+  "updated": "2026-08-12T09:36:00Z",
   "items": [
+    {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "pubDate": "Wed, 12 Aug 2026 13:34:52 +0530"
+    },
     {
       "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
       "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
@@ -56,11 +61,6 @@
       "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
       "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
       "pubDate": "Tue, 11 Aug 2026 17:35:03 +0530"
-    },
-    {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "pubDate": "Tue, 11 Aug 2026 17:34:51 +0530"
     }
   ]
 }
