@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T14:12:09Z",
+  "updated": "2026-08-12T15:25:57Z",
   "items": [
+    {
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "pubDate": "Wed, 12 Aug 2026 10:15:09 -0400"
+    },
     {
       "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
       "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
@@ -56,11 +61,6 @@
       "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
       "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400"
-    },
-    {
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "pubDate": "Tue, 11 Aug 2026 13:38:42 -0400"
     }
   ]
 }
