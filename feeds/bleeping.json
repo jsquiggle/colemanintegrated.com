@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T10:49:54Z",
+  "updated": "2026-08-12T11:37:33Z",
   "items": [
+    {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "pubDate": "Wed, 12 Aug 2026 07:21:42 -0400"
+    },
     {
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
@@ -56,11 +61,6 @@
       "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
       "pubDate": "Tue, 11 Aug 2026 09:20:28 -0400"
-    },
-    {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "pubDate": "Tue, 11 Aug 2026 09:15:24 -0400"
     }
   ]
 }
