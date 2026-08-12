@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-12T06:49:31Z",
+  "updated": "2026-08-12T08:07:49Z",
   "items": [
+    {
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "pubDate": "Wed, 12 Aug 2026 13:01:40 +0530"
+    },
+    {
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "pubDate": "Wed, 12 Aug 2026 12:11:38 +0530"
+    },
+    {
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "pubDate": "Wed, 12 Aug 2026 11:45:58 +0530"
+    },
     {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
@@ -46,21 +61,6 @@
       "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
       "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
       "pubDate": "Tue, 11 Aug 2026 17:34:51 +0530"
-    },
-    {
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "pubDate": "Tue, 11 Aug 2026 17:05:03 +0530"
-    },
-    {
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "pubDate": "Tue, 11 Aug 2026 16:18:26 +0530"
-    },
-    {
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "pubDate": "Tue, 11 Aug 2026 15:54:00 +0530"
     }
   ]
 }
