@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T18:12:51Z",
+  "updated": "2026-08-12T19:32:44Z",
   "items": [
+    {
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "pubDate": "Wed, 12 Aug 2026 14:54:57 -0400"
+    },
     {
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
@@ -56,11 +61,6 @@
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
       "pubDate": "Tue, 11 Aug 2026 15:45:31 -0400"
-    },
-    {
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "pubDate": "Tue, 11 Aug 2026 14:34:23 -0400"
     }
   ]
 }
