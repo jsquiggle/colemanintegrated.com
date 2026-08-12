@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T09:36:00Z",
+  "updated": "2026-08-12T10:49:54Z",
   "items": [
+    {
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "pubDate": "Wed, 12 Aug 2026 06:15:22 -0400"
+    },
     {
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
@@ -56,11 +61,6 @@
       "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
       "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
       "pubDate": "Tue, 11 Aug 2026 09:15:24 -0400"
-    },
-    {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400"
     }
   ]
 }
