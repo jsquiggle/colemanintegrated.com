@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T00:04:50Z",
+  "updated": "2026-08-12T03:01:26Z",
   "items": [
+    {
+      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+      "pubDate": "Tue, 11 Aug 2026 21:15:55 -0400"
+    },
     {
       "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
       "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
@@ -56,11 +61,6 @@
       "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
       "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
       "pubDate": "Tue, 11 Aug 2026 09:00:00 -0400"
-    },
-    {
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "pubDate": "Tue, 11 Aug 2026 08:12:16 -0400"
     }
   ]
 }
