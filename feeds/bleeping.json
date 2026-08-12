@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T22:28:37Z",
+  "updated": "2026-08-12T23:09:29Z",
   "items": [
+    {
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "pubDate": "Wed, 12 Aug 2026 19:07:23 -0400"
+    },
     {
       "title": "Android malware combo takes out loans and relays victims' credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
@@ -56,11 +61,6 @@
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
       "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
       "pubDate": "Tue, 11 Aug 2026 21:15:55 -0400"
-    },
-    {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "pubDate": "Tue, 11 Aug 2026 18:15:22 -0400"
     }
   ]
 }
