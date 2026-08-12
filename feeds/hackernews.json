@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-12T12:41:56Z",
+  "updated": "2026-08-12T14:12:09Z",
   "items": [
+    {
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "pubDate": "Wed, 12 Aug 2026 17:17:38 +0530"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "pubDate": "Wed, 12 Aug 2026 17:11:34 +0530"
+    },
     {
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
       "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
@@ -51,16 +61,6 @@
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
       "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
       "pubDate": "Wed, 12 Aug 2026 00:06:47 +0530"
-    },
-    {
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "pubDate": "Tue, 11 Aug 2026 22:17:44 +0530"
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "pubDate": "Tue, 11 Aug 2026 22:05:27 +0530"
     }
   ]
 }

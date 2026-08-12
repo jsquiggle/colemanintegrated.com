@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T12:41:56Z",
+  "updated": "2026-08-12T14:12:09Z",
   "items": [
+    {
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "pubDate": "Wed, 12 Aug 2026 10:01:11 -0400"
+    },
     {
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
       "pubDate": "Tue, 11 Aug 2026 13:38:42 -0400"
-    },
-    {
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "pubDate": "Tue, 11 Aug 2026 11:59:35 -0400"
     }
   ]
 }
