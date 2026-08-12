@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T11:37:33Z",
+  "updated": "2026-08-12T12:41:56Z",
   "items": [
+    {
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "pubDate": "Wed, 12 Aug 2026 08:25:37 -0400"
+    },
     {
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
@@ -56,11 +61,6 @@
       "title": "Wesco confirms security incident after ExfilSquad claims data theft",
       "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
       "pubDate": "Tue, 11 Aug 2026 11:59:35 -0400"
-    },
-    {
-      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-      "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-      "pubDate": "Tue, 11 Aug 2026 09:20:28 -0400"
     }
   ]
 }

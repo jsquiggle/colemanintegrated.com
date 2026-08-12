@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-12T11:37:33Z",
+  "updated": "2026-08-12T12:41:56Z",
   "items": [
+    {
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "pubDate": "Wed, 12 Aug 2026 16:43:03 +0530"
+    },
     {
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
       "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
@@ -56,11 +61,6 @@
       "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
       "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
       "pubDate": "Tue, 11 Aug 2026 22:05:27 +0530"
-    },
-    {
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "pubDate": "Tue, 11 Aug 2026 18:41:23 +0530"
     }
   ]
 }
