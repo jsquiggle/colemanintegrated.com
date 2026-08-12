@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-12T15:25:57Z",
+  "updated": "2026-08-12T16:23:00Z",
   "items": [
+    {
+      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+      "pubDate": "Wed, 12 Aug 2026 12:05:12 -0400"
+    },
+    {
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "pubDate": "Wed, 12 Aug 2026 11:38:08 -0400"
+    },
     {
       "title": "FBI: Hackers target online accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
@@ -51,16 +61,6 @@
       "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
       "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
       "pubDate": "Tue, 11 Aug 2026 14:34:23 -0400"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "pubDate": "Tue, 11 Aug 2026 14:26:03 -0400"
-    },
-    {
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "pubDate": "Tue, 11 Aug 2026 14:08:50 -0400"
     }
   ]
 }
