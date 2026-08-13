@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-13T17:24:45Z",
+  "updated": "2026-08-13T18:13:22Z",
   "items": [
+    {
+      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
+      "pubDate": "Thu, 13 Aug 2026 13:46:20 -0400"
+    },
+    {
+      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
+      "pubDate": "Thu, 13 Aug 2026 13:33:28 -0400"
+    },
     {
       "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
       "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
@@ -51,16 +61,6 @@
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
       "pubDate": "Wed, 12 Aug 2026 12:05:12 -0400"
-    },
-    {
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "pubDate": "Wed, 12 Aug 2026 11:38:08 -0400"
-    },
-    {
-      "title": "FBI: Hackers target online accounts to steal nude photos",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-      "pubDate": "Wed, 12 Aug 2026 10:15:09 -0400"
     }
   ]
 }
