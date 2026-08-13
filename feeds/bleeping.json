@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-13T11:37:46Z",
+  "updated": "2026-08-13T12:42:44Z",
   "items": [
+    {
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "pubDate": "Thu, 13 Aug 2026 07:50:22 -0400"
+    },
     {
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
       "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
@@ -56,11 +61,6 @@
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
       "pubDate": "Wed, 12 Aug 2026 06:15:22 -0400"
-    },
-    {
-      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
-      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-      "pubDate": "Tue, 11 Aug 2026 21:15:55 -0400"
     }
   ]
 }
