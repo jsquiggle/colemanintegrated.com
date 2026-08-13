@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-13T12:42:44Z",
+  "updated": "2026-08-13T14:14:01Z",
   "items": [
+    {
+      "title": "Who Vets AI\u2019s Code? The Scale Challenge Facing Open Source Ingestion",
+      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+      "pubDate": "Thu, 13 Aug 2026 10:00:10 -0400"
+    },
+    {
+      "title": "White House taps security firms for offensive hack-back operations",
+      "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+      "pubDate": "Thu, 13 Aug 2026 09:30:53 -0400"
+    },
     {
       "title": "WhatsApp rolls out new feature that flags potential scam messages",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
@@ -51,16 +61,6 @@
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
       "pubDate": "Wed, 12 Aug 2026 08:25:37 -0400"
-    },
-    {
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "pubDate": "Wed, 12 Aug 2026 07:21:42 -0400"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "pubDate": "Wed, 12 Aug 2026 06:15:22 -0400"
     }
   ]
 }
