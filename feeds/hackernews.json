@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-13T05:14:44Z",
+  "updated": "2026-08-13T06:53:06Z",
   "items": [
+    {
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "pubDate": "Thu, 13 Aug 2026 11:39:48 +0530"
+    },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
@@ -56,11 +61,6 @@
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
       "pubDate": "Wed, 12 Aug 2026 01:40:55 +0530"
-    },
-    {
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "pubDate": "Wed, 12 Aug 2026 01:06:37 +0530"
     }
   ]
 }
