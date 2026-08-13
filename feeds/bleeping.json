@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-13T18:13:22Z",
+  "updated": "2026-08-13T19:31:03Z",
   "items": [
+    {
+      "title": "Hackers breach govt webmail while running parallel crypto fraud",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
+      "pubDate": "Thu, 13 Aug 2026 14:15:19 -0400"
+    },
     {
       "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
@@ -56,11 +61,6 @@
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
       "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
       "pubDate": "Wed, 12 Aug 2026 14:54:57 -0400"
-    },
-    {
-      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-      "pubDate": "Wed, 12 Aug 2026 12:05:12 -0400"
     }
   ]
 }
