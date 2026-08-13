@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-13T16:22:46Z",
+  "updated": "2026-08-13T17:24:45Z",
   "items": [
+    {
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "pubDate": "Thu, 13 Aug 2026 12:40:23 -0400"
+    },
     {
       "title": "Trezor discloses data breach affecting nearly 14,000 customers",
       "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
@@ -56,11 +61,6 @@
       "title": "FBI: Hackers target online accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
       "pubDate": "Wed, 12 Aug 2026 10:15:09 -0400"
-    },
-    {
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "pubDate": "Wed, 12 Aug 2026 10:01:11 -0400"
     }
   ]
 }
