@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-14T10:47:10Z",
+  "updated": "2026-08-14T11:35:31Z",
   "items": [
+    {
+      "title": "RingCentral data breach exposed info of 1.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "pubDate": "Fri, 14 Aug 2026 06:52:05 -0400"
+    },
     {
       "title": "Data analyst sent to prison for stealing data, extorting employer",
       "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
@@ -56,11 +61,6 @@
       "title": "White House taps security firms for offensive hack-back operations",
       "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
       "pubDate": "Thu, 13 Aug 2026 09:30:53 -0400"
-    },
-    {
-      "title": "WhatsApp rolls out new feature that flags potential scam messages",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-      "pubDate": "Thu, 13 Aug 2026 07:50:22 -0400"
     }
   ]
 }

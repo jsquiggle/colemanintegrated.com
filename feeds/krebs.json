@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-08-14T10:47:10Z",
+  "updated": "2026-08-14T11:35:31Z",
   "items": [
+    {
+      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
+      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "pubDate": "Fri, 14 Aug 2026 11:24:35 +0000"
+    },
     {
       "title": "Microsoft Plugs Nearly 400 Security Holes",
       "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -46,11 +51,6 @@
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "pubDate": "Tue, 23 Jun 2026 16:12:49 +0000"
-    },
-    {
-      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
-      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "pubDate": "Thu, 18 Jun 2026 17:37:58 +0000"
     }
   ]
 }
