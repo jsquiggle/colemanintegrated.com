@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-14T00:04:22Z",
+  "updated": "2026-08-14T03:03:41Z",
   "items": [
+    {
+      "title": "Apple sends new \u2018Threat Notification\u2019 alerts over mercenary spyware attacks",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+      "pubDate": "Thu, 13 Aug 2026 21:19:12 -0400"
+    },
     {
       "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
@@ -56,11 +61,6 @@
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
       "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
       "pubDate": "Wed, 12 Aug 2026 19:07:23 -0400"
-    },
-    {
-      "title": "Android malware combo takes out loans and relays victims' credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-      "pubDate": "Wed, 12 Aug 2026 18:22:57 -0400"
     }
   ]
 }
