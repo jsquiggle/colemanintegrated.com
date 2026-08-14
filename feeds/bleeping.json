@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-14T23:10:49Z",
+  "updated": "2026-08-14T23:43:28Z",
   "items": [
+    {
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "pubDate": "Fri, 14 Aug 2026 19:24:17 -0400"
+    },
     {
       "title": "Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
@@ -56,11 +61,6 @@
       "title": "Hackers breach govt webmail while running parallel crypto fraud",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
       "pubDate": "Thu, 13 Aug 2026 14:15:19 -0400"
-    },
-    {
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "pubDate": "Thu, 13 Aug 2026 13:46:20 -0400"
     }
   ]
 }
