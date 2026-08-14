@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-14T17:22:48Z",
+  "updated": "2026-08-14T18:11:35Z",
   "items": [
+    {
+      "title": "Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "pubDate": "Fri, 14 Aug 2026 14:04:26 -0400"
+    },
     {
       "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
@@ -56,11 +61,6 @@
       "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
       "pubDate": "Thu, 13 Aug 2026 13:46:20 -0400"
-    },
-    {
-      "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
-      "pubDate": "Thu, 13 Aug 2026 13:33:28 -0400"
     }
   ]
 }
