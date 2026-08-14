@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-14T14:07:20Z",
+  "updated": "2026-08-14T15:11:57Z",
   "items": [
+    {
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "pubDate": "Fri, 14 Aug 2026 10:59:55 -0400"
+    },
     {
       "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
       "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
@@ -56,11 +61,6 @@
       "title": "AI 'watermark removers' flood the web. Almost none can prove they work.",
       "link": "https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/",
       "pubDate": "Thu, 13 Aug 2026 13:33:28 -0400"
-    },
-    {
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "pubDate": "Thu, 13 Aug 2026 12:40:23 -0400"
     }
   ]
 }
