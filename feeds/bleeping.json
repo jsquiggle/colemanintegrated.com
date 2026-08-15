@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-15T14:11:36Z",
+  "updated": "2026-08-15T14:43:56Z",
   "items": [
+    {
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "pubDate": "Sat, 15 Aug 2026 10:14:38 -0400"
+    },
     {
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
@@ -56,11 +61,6 @@
       "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
       "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
       "pubDate": "Thu, 13 Aug 2026 16:47:02 -0400"
-    },
-    {
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "pubDate": "Thu, 13 Aug 2026 14:15:19 -0400"
     }
   ]
 }
