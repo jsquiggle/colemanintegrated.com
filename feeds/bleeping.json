@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-16T14:44:34Z",
+  "updated": "2026-08-16T15:10:39Z",
   "items": [
+    {
+      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+      "pubDate": "Sun, 16 Aug 2026 11:07:44 -0400"
+    },
     {
       "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
       "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
@@ -56,11 +61,6 @@
       "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
       "pubDate": "Thu, 13 Aug 2026 17:12:47 -0400"
-    },
-    {
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "pubDate": "Thu, 13 Aug 2026 16:47:02 -0400"
     }
   ]
 }
