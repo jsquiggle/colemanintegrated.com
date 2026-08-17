@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-17T08:29:45Z",
+  "updated": "2026-08-17T09:08:54Z",
   "items": [
+    {
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "pubDate": "Mon, 17 Aug 2026 05:05:33 -0400"
+    },
     {
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
       "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
@@ -56,11 +61,6 @@
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
       "pubDate": "Fri, 14 Aug 2026 07:55:45 -0400"
-    },
-    {
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "pubDate": "Fri, 14 Aug 2026 06:52:05 -0400"
     }
   ]
 }
