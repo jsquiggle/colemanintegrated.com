@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-17T14:23:04Z",
+  "updated": "2026-08-17T14:50:21Z",
   "items": [
+    {
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "pubDate": "Mon, 17 Aug 2026 10:47:08 -0400"
+    },
     {
       "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
       "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
@@ -56,11 +61,6 @@
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
       "pubDate": "Fri, 14 Aug 2026 19:24:17 -0400"
-    },
-    {
-      "title": "Hackers arrested over \u20ac30M bank fraud exploiting service provider flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "pubDate": "Fri, 14 Aug 2026 14:04:26 -0400"
     }
   ]
 }
