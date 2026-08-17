@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-17T19:04:32Z",
+  "updated": "2026-08-17T19:47:38Z",
   "items": [
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "pubDate": "Tue, 18 Aug 2026 00:14:17 +0530"
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "pubDate": "Mon, 17 Aug 2026 23:52:09 +0530"
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "pubDate": "Mon, 17 Aug 2026 23:11:06 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
       "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
@@ -46,21 +61,6 @@
       "title": "IAM Compliance Requirements and Best Practices",
       "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
       "pubDate": "Fri, 14 Aug 2026 22:49:49 +0530"
-    },
-    {
-      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
-      "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
-      "pubDate": "Fri, 14 Aug 2026 18:38:56 +0530"
-    },
-    {
-      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-      "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-      "pubDate": "Fri, 14 Aug 2026 16:37:45 +0530"
-    },
-    {
-      "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
-      "link": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
-      "pubDate": "Fri, 14 Aug 2026 16:27:00 +0530"
     }
   ]
 }
