@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-16T23:39:47Z",
+  "updated": "2026-08-17T00:36:07Z",
   "items": [
+    {
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "pubDate": "Sun, 16 Aug 2026 19:47:06 -0400"
+    },
     {
       "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
@@ -56,11 +61,6 @@
       "title": "RingCentral data breach exposed info of 1.6 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
       "pubDate": "Fri, 14 Aug 2026 06:52:05 -0400"
-    },
-    {
-      "title": "Data analyst sent to prison for stealing data, extorting employer",
-      "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-      "pubDate": "Fri, 14 Aug 2026 04:27:18 -0400"
     }
   ]
 }
