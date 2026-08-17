@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-17T12:20:07Z",
+  "updated": "2026-08-17T13:12:37Z",
   "items": [
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "pubDate": "Mon, 17 Aug 2026 08:33:11 -0400"
+    },
     {
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
       "pubDate": "Fri, 14 Aug 2026 10:59:55 -0400"
-    },
-    {
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "pubDate": "Fri, 14 Aug 2026 10:00:10 -0400"
     }
   ]
 }
