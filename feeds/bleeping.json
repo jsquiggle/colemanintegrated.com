@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-18T10:16:34Z",
+  "updated": "2026-08-18T10:51:54Z",
   "items": [
+    {
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "pubDate": "Tue, 18 Aug 2026 06:32:16 -0400"
+    },
     {
       "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
@@ -56,11 +61,6 @@
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
       "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
       "pubDate": "Sun, 16 Aug 2026 19:47:06 -0400"
-    },
-    {
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-      "pubDate": "Sun, 16 Aug 2026 18:28:57 -0400"
     }
   ]
 }
