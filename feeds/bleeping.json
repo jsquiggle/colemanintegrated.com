@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-18T07:59:09Z",
+  "updated": "2026-08-18T08:35:32Z",
   "items": [
+    {
+      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+      "pubDate": "Tue, 18 Aug 2026 04:12:08 -0400"
+    },
     {
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
@@ -56,11 +61,6 @@
       "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
       "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
       "pubDate": "Sun, 16 Aug 2026 13:29:52 -0400"
-    },
-    {
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "pubDate": "Sun, 16 Aug 2026 11:07:44 -0400"
     }
   ]
 }
