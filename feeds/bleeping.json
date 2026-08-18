@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-18T14:02:10Z",
+  "updated": "2026-08-18T14:58:19Z",
   "items": [
+    {
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "pubDate": "Tue, 18 Aug 2026 10:01:11 -0400"
+    },
     {
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
@@ -56,11 +61,6 @@
       "title": "French tax authority data breach affects 678,000 individuals",
       "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
       "pubDate": "Mon, 17 Aug 2026 06:09:48 -0400"
-    },
-    {
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "pubDate": "Mon, 17 Aug 2026 05:05:33 -0400"
     }
   ]
 }
