@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-18T17:17:06Z",
+  "updated": "2026-08-18T17:49:55Z",
   "items": [
+    {
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "pubDate": "Tue, 18 Aug 2026 13:29:51 -0400"
+    },
     {
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
@@ -56,11 +61,6 @@
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "pubDate": "Mon, 17 Aug 2026 07:25:02 -0400"
-    },
-    {
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "pubDate": "Mon, 17 Aug 2026 06:09:48 -0400"
     }
   ]
 }
