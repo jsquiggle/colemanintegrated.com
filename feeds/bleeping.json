@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-18T11:14:58Z",
+  "updated": "2026-08-18T11:46:55Z",
   "items": [
+    {
+      "title": "Microsoft tests faster Windows File Explorer, new context menu",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+      "pubDate": "Tue, 18 Aug 2026 07:14:28 -0400"
+    },
     {
       "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
@@ -56,11 +61,6 @@
       "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
       "pubDate": "Mon, 17 Aug 2026 05:05:33 -0400"
-    },
-    {
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "pubDate": "Sun, 16 Aug 2026 19:47:06 -0400"
     }
   ]
 }
