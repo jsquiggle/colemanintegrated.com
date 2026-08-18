@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-18T20:10:45Z",
+  "updated": "2026-08-18T20:45:00Z",
   "items": [
+    {
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "pubDate": "Tue, 18 Aug 2026 16:14:58 -0400"
+    },
     {
       "title": "Clop created custom web shell for Windchill data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
@@ -56,11 +61,6 @@
       "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
       "pubDate": "Mon, 17 Aug 2026 08:33:11 -0400"
-    },
-    {
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "pubDate": "Mon, 17 Aug 2026 07:25:02 -0400"
     }
   ]
 }
