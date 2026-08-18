@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-18T18:20:17Z",
+  "updated": "2026-08-18T19:04:06Z",
   "items": [
+    {
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "pubDate": "Tue, 18 Aug 2026 23:17:22 +0530"
+    },
+    {
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "pubDate": "Tue, 18 Aug 2026 23:14:05 +0530"
+    },
+    {
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "pubDate": "Tue, 18 Aug 2026 22:28:16 +0530"
+    },
     {
       "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
       "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
@@ -46,21 +61,6 @@
       "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
       "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
       "pubDate": "Mon, 17 Aug 2026 23:52:09 +0530"
-    },
-    {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "pubDate": "Mon, 17 Aug 2026 23:11:06 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "pubDate": "Mon, 17 Aug 2026 18:53:51 +0530"
-    },
-    {
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "pubDate": "Mon, 17 Aug 2026 17:28:00 +0530"
     }
   ]
 }
