@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T20:50:20Z",
+  "updated": "2026-08-19T21:15:07Z",
   "items": [
+    {
+      "title": "Rogue ransomware affiliate poses as data recovery firm to steal payments",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
+      "pubDate": "Wed, 19 Aug 2026 16:59:58 -0400"
+    },
+    {
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "pubDate": "Wed, 19 Aug 2026 16:53:38 -0400"
+    },
     {
       "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
@@ -51,16 +61,6 @@
       "title": "Comcast turns your Xfinity WiFi into a home motion detector",
       "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
       "pubDate": "Tue, 18 Aug 2026 16:14:58 -0400"
-    },
-    {
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "pubDate": "Tue, 18 Aug 2026 13:29:51 -0400"
-    },
-    {
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "pubDate": "Tue, 18 Aug 2026 10:01:11 -0400"
     }
   ]
 }
