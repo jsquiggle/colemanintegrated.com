@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T07:59:10Z",
+  "updated": "2026-08-19T08:36:37Z",
   "items": [
+    {
+      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+      "pubDate": "Wed, 19 Aug 2026 04:00:48 -0400"
+    },
     {
       "title": "Comcast turns your Xfinity WiFi into a home motion detector",
       "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
@@ -56,11 +61,6 @@
       "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
       "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
       "pubDate": "Mon, 17 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "pubDate": "Mon, 17 Aug 2026 08:33:11 -0400"
     }
   ]
 }
