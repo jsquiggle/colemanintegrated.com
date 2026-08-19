@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-19T09:21:58Z",
+  "updated": "2026-08-19T09:54:52Z",
   "items": [
+    {
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "pubDate": "Wed, 19 Aug 2026 11:31:53 +0530"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "pubDate": "Wed, 19 Aug 2026 11:09:25 +0530"
+    },
     {
       "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
       "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
@@ -51,16 +61,6 @@
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "pubDate": "Tue, 18 Aug 2026 02:33:04 +0530"
-    },
-    {
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "pubDate": "Tue, 18 Aug 2026 00:14:17 +0530"
-    },
-    {
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "pubDate": "Mon, 17 Aug 2026 23:52:09 +0530"
     }
   ]
 }
