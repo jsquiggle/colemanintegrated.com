@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T08:36:37Z",
+  "updated": "2026-08-19T09:21:58Z",
   "items": [
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "pubDate": "Wed, 19 Aug 2026 05:10:20 -0400"
+    },
     {
       "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
@@ -56,11 +61,6 @@
       "title": "Microsoft confirms GitHub is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
       "pubDate": "Mon, 17 Aug 2026 10:47:08 -0400"
-    },
-    {
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "pubDate": "Mon, 17 Aug 2026 10:00:10 -0400"
     }
   ]
 }
