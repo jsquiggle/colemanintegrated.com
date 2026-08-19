@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-19T19:46:22Z",
+  "updated": "2026-08-19T20:14:09Z",
   "items": [
+    {
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "pubDate": "Thu, 20 Aug 2026 00:32:40 +0530"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "pubDate": "Wed, 19 Aug 2026 23:36:44 +0530"
+    },
     {
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
       "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
@@ -51,16 +61,6 @@
       "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
       "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
       "pubDate": "Tue, 18 Aug 2026 22:28:16 +0530"
-    },
-    {
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "pubDate": "Tue, 18 Aug 2026 18:08:36 +0530"
-    },
-    {
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "pubDate": "Tue, 18 Aug 2026 18:08:20 +0530"
     }
   ]
 }

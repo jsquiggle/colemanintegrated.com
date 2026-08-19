@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T19:46:22Z",
+  "updated": "2026-08-19T20:14:09Z",
   "items": [
+    {
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "pubDate": "Wed, 19 Aug 2026 16:07:12 -0400"
+    },
     {
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
@@ -56,11 +61,6 @@
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
       "pubDate": "Tue, 18 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft tests faster Windows File Explorer, new context menu",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-      "pubDate": "Tue, 18 Aug 2026 07:14:28 -0400"
     }
   ]
 }
