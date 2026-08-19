@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-19T11:14:44Z",
+  "updated": "2026-08-19T11:46:15Z",
   "items": [
+    {
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "pubDate": "Wed, 19 Aug 2026 16:55:28 +0530"
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "pubDate": "Wed, 19 Aug 2026 16:31:48 +0530"
+    },
     {
       "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
       "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
@@ -51,16 +61,6 @@
       "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
       "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
       "pubDate": "Tue, 18 Aug 2026 14:40:45 +0530"
-    },
-    {
-      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "pubDate": "Tue, 18 Aug 2026 12:04:20 +0530"
-    },
-    {
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "pubDate": "Tue, 18 Aug 2026 02:33:04 +0530"
     }
   ]
 }
