@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T09:54:52Z",
+  "updated": "2026-08-19T10:17:00Z",
   "items": [
+    {
+      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "pubDate": "Wed, 19 Aug 2026 06:12:24 -0400"
+    },
     {
       "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
@@ -56,11 +61,6 @@
       "title": "Pok\u00e9mon Center data breach exposes customer info, cancels some orders",
       "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
       "pubDate": "Mon, 17 Aug 2026 15:12:39 -0400"
-    },
-    {
-      "title": "Microsoft confirms GitHub is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-      "pubDate": "Mon, 17 Aug 2026 10:47:08 -0400"
     }
   ]
 }
