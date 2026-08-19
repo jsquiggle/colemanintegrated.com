@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T17:46:22Z",
+  "updated": "2026-08-19T18:17:17Z",
   "items": [
+    {
+      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+      "pubDate": "Wed, 19 Aug 2026 14:09:13 -0400"
+    },
+    {
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "pubDate": "Wed, 19 Aug 2026 13:50:01 -0400"
+    },
     {
       "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
@@ -51,16 +61,6 @@
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
       "pubDate": "Tue, 18 Aug 2026 07:14:28 -0400"
-    },
-    {
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "pubDate": "Tue, 18 Aug 2026 06:32:16 -0400"
-    },
-    {
-      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-      "pubDate": "Tue, 18 Aug 2026 05:24:49 -0400"
     }
   ]
 }
