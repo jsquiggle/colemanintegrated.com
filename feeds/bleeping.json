@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T13:21:56Z",
+  "updated": "2026-08-19T14:02:38Z",
   "items": [
+    {
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "pubDate": "Wed, 19 Aug 2026 10:00:10 -0400"
+    },
     {
       "title": "Microsoft fixes known issue causing Windows Defender crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
@@ -56,11 +61,6 @@
       "title": "Microsoft starts removing WMIC tool used by cybercriminals",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
       "pubDate": "Tue, 18 Aug 2026 04:12:08 -0400"
-    },
-    {
-      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-      "pubDate": "Mon, 17 Aug 2026 15:35:01 -0400"
     }
   ]
 }

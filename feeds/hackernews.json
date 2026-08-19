@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-19T13:21:56Z",
+  "updated": "2026-08-19T14:02:38Z",
   "items": [
+    {
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "pubDate": "Wed, 19 Aug 2026 18:42:17 +0530"
+    },
+    {
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "pubDate": "Wed, 19 Aug 2026 17:04:28 +0530"
+    },
+    {
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "pubDate": "Wed, 19 Aug 2026 17:00:00 +0530"
+    },
     {
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
       "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
@@ -46,21 +61,6 @@
       "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
       "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
       "pubDate": "Tue, 18 Aug 2026 18:08:20 +0530"
-    },
-    {
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "pubDate": "Tue, 18 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "pubDate": "Tue, 18 Aug 2026 16:50:00 +0530"
-    },
-    {
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "pubDate": "Tue, 18 Aug 2026 14:40:45 +0530"
     }
   ]
 }
