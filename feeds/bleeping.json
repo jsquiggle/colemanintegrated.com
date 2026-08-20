@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-20T10:53:51Z",
+  "updated": "2026-08-20T11:16:17Z",
   "items": [
+    {
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "pubDate": "Thu, 20 Aug 2026 07:06:14 -0400"
+    },
     {
       "title": "New Manic Android malware can exfiltrate data through nearby devices",
       "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
@@ -56,11 +61,6 @@
       "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
       "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
       "pubDate": "Wed, 19 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "pubDate": "Wed, 19 Aug 2026 07:14:28 -0400"
     }
   ]
 }
