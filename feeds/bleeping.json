@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-19T23:42:50Z",
+  "updated": "2026-08-20T00:35:42Z",
   "items": [
+    {
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "pubDate": "Wed, 19 Aug 2026 20:20:55 -0400"
+    },
     {
       "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
       "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
@@ -56,11 +61,6 @@
       "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
       "pubDate": "Wed, 19 Aug 2026 04:00:48 -0400"
-    },
-    {
-      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-      "pubDate": "Tue, 18 Aug 2026 16:14:58 -0400"
     }
   ]
 }
