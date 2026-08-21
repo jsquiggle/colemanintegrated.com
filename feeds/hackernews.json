@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-21T06:25:34Z",
+  "updated": "2026-08-21T07:14:35Z",
   "items": [
+    {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "pubDate": "Fri, 21 Aug 2026 11:36:11 +0530"
+    },
     {
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
       "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
@@ -56,11 +61,6 @@
       "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
       "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
       "pubDate": "Thu, 20 Aug 2026 17:09:35 +0530"
-    },
-    {
-      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-      "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-      "pubDate": "Thu, 20 Aug 2026 16:56:08 +0530"
     }
   ]
 }
