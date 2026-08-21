@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-21T13:23:22Z",
+  "updated": "2026-08-21T14:03:52Z",
   "items": [
+    {
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "pubDate": "Fri, 21 Aug 2026 09:39:35 -0400"
+    },
     {
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
@@ -56,11 +61,6 @@
       "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
       "pubDate": "Thu, 20 Aug 2026 05:46:54 -0400"
-    },
-    {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "pubDate": "Thu, 20 Aug 2026 02:51:03 -0400"
     }
   ]
 }
