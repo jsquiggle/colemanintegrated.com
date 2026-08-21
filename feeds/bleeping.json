@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-21T17:52:13Z",
+  "updated": "2026-08-21T18:20:31Z",
   "items": [
+    {
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "pubDate": "Fri, 21 Aug 2026 14:01:30 -0400"
+    },
     {
       "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
@@ -56,11 +61,6 @@
       "title": "How MSPs can catch phishing attacks email filters miss",
       "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
       "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "pubDate": "Thu, 20 Aug 2026 08:14:38 -0400"
     }
   ]
 }
