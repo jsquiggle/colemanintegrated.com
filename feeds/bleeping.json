@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-21T12:22:59Z",
+  "updated": "2026-08-21T13:23:22Z",
   "items": [
+    {
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "pubDate": "Fri, 21 Aug 2026 08:25:33 -0400"
+    },
     {
       "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft says August Windows updates may cause gaming issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
       "pubDate": "Thu, 20 Aug 2026 02:51:03 -0400"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-      "pubDate": "Wed, 19 Aug 2026 20:20:55 -0400"
     }
   ]
 }
