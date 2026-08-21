@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-21T20:13:12Z",
+  "updated": "2026-08-21T20:45:16Z",
   "items": [
+    {
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "pubDate": "Sat, 22 Aug 2026 00:23:00 +0530"
+    },
     {
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
@@ -56,11 +61,6 @@
       "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
       "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "pubDate": "Thu, 20 Aug 2026 20:06:27 +0530"
-    },
-    {
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "pubDate": "Thu, 20 Aug 2026 19:18:24 +0530"
     }
   ]
 }
