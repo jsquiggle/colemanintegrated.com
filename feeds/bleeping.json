@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-21T09:57:12Z",
+  "updated": "2026-08-21T10:23:21Z",
   "items": [
+    {
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "pubDate": "Fri, 21 Aug 2026 06:10:42 -0400"
+    },
     {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -56,11 +61,6 @@
       "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
       "pubDate": "Wed, 19 Aug 2026 16:53:38 -0400"
-    },
-    {
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "pubDate": "Wed, 19 Aug 2026 16:07:12 -0400"
     }
   ]
 }
