@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-21T10:54:25Z",
+  "updated": "2026-08-21T11:16:17Z",
   "items": [
+    {
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "pubDate": "Fri, 21 Aug 2026 15:33:11 +0530"
+    },
     {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
       "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
@@ -56,11 +61,6 @@
       "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
       "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
       "pubDate": "Thu, 20 Aug 2026 17:31:24 +0530"
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "pubDate": "Thu, 20 Aug 2026 17:15:00 +0530"
     }
   ]
 }

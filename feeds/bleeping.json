@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-21T10:54:25Z",
+  "updated": "2026-08-21T11:16:17Z",
   "items": [
+    {
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "pubDate": "Fri, 21 Aug 2026 07:04:10 -0400"
+    },
+    {
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "pubDate": "Fri, 21 Aug 2026 07:00:00 -0400"
+    },
     {
       "title": "SickKids data breach exposes employee and job applicant info",
       "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
@@ -51,16 +61,6 @@
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "pubDate": "Wed, 19 Aug 2026 20:20:55 -0400"
-    },
-    {
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "pubDate": "Wed, 19 Aug 2026 16:59:58 -0400"
-    },
-    {
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "pubDate": "Wed, 19 Aug 2026 16:53:38 -0400"
     }
   ]
 }
