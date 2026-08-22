@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-22T14:10:19Z",
+  "updated": "2026-08-22T14:43:50Z",
   "items": [
+    {
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "pubDate": "Sat, 22 Aug 2026 10:14:24 -0400"
+    },
     {
       "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
       "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
@@ -56,11 +61,6 @@
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
       "pubDate": "Thu, 20 Aug 2026 13:53:52 -0400"
-    },
-    {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "pubDate": "Thu, 20 Aug 2026 10:39:48 -0400"
     }
   ]
 }
