@@ -1,6 +1,6 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-22T06:19:54Z",
+  "updated": "2026-08-22T07:06:37Z",
   "items": [
     {
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
@@ -33,7 +33,7 @@
       "pubDate": "Fri, 21 Aug 2026 08:25:33 -0400"
     },
     {
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "pubDate": "Fri, 21 Aug 2026 07:04:10 -0400"
     },
