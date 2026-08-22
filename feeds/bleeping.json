@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-22T12:16:36Z",
+  "updated": "2026-08-22T13:06:35Z",
   "items": [
+    {
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "pubDate": "Sat, 22 Aug 2026 09:00:09 -0400"
+    },
     {
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
@@ -56,11 +61,6 @@
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "pubDate": "Thu, 20 Aug 2026 10:39:48 -0400"
-    },
-    {
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "pubDate": "Thu, 20 Aug 2026 10:01:11 -0400"
     }
   ]
 }
