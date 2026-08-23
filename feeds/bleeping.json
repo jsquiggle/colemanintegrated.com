@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-23T14:12:26Z",
+  "updated": "2026-08-23T14:45:29Z",
   "items": [
+    {
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "pubDate": "Sun, 23 Aug 2026 10:23:46 -0400"
+    },
     {
       "title": "Hackers infect Android car head units with proxy botnet malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
@@ -56,11 +61,6 @@
       "title": "SickKids data breach exposes employee and job applicant info",
       "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
       "pubDate": "Fri, 21 Aug 2026 06:10:42 -0400"
-    },
-    {
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "pubDate": "Thu, 20 Aug 2026 13:53:52 -0400"
     }
   ]
 }
