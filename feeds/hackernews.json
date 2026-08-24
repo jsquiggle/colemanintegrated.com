@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-24T07:56:13Z",
+  "updated": "2026-08-24T08:37:30Z",
   "items": [
+    {
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "pubDate": "Mon, 24 Aug 2026 13:38:31 +0530"
+    },
     {
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
       "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
       "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "pubDate": "Thu, 20 Aug 2026 22:53:48 +0530"
-    },
-    {
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "pubDate": "Thu, 20 Aug 2026 22:29:44 +0530"
     }
   ]
 }
