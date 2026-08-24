@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-24T10:26:35Z",
+  "updated": "2026-08-24T11:00:04Z",
   "items": [
+    {
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "pubDate": "Mon, 24 Aug 2026 06:45:12 -0400"
+    },
     {
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
@@ -56,11 +61,6 @@
       "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "pubDate": "Fri, 21 Aug 2026 07:04:10 -0400"
-    },
-    {
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "pubDate": "Fri, 21 Aug 2026 07:00:00 -0400"
     }
   ]
 }
