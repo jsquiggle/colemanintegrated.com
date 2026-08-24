@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-24T09:34:48Z",
+  "updated": "2026-08-24T10:26:35Z",
   "items": [
+    {
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "pubDate": "Mon, 24 Aug 2026 05:42:05 -0400"
+    },
     {
       "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
       "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
@@ -56,11 +61,6 @@
       "title": "Hackers abuse FTP server banners to deliver new Windows malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
       "pubDate": "Fri, 21 Aug 2026 07:00:00 -0400"
-    },
-    {
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "pubDate": "Fri, 21 Aug 2026 06:10:42 -0400"
     }
   ]
 }
