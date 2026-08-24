@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-24T15:06:33Z",
+  "updated": "2026-08-24T16:00:51Z",
   "items": [
+    {
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "pubDate": "Mon, 24 Aug 2026 11:17:16 -0400"
+    },
     {
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
@@ -56,11 +61,6 @@
       "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
       "pubDate": "Fri, 21 Aug 2026 10:54:49 -0400"
-    },
-    {
-      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-      "pubDate": "Fri, 21 Aug 2026 10:00:10 -0400"
     }
   ]
 }

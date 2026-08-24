@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-24T15:06:33Z",
+  "updated": "2026-08-24T16:00:51Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "pubDate": "Mon, 24 Aug 2026 20:02:10 +0530"
+    },
     {
       "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
       "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
@@ -56,11 +61,6 @@
       "title": "Wazuh and AI For Enhanced SOC Workflows",
       "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
       "pubDate": "Fri, 21 Aug 2026 16:51:39 +0530"
-    },
-    {
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "pubDate": "Fri, 21 Aug 2026 15:33:11 +0530"
     }
   ]
 }
