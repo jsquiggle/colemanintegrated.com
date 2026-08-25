@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-25T10:25:40Z",
+  "updated": "2026-08-25T10:56:39Z",
   "items": [
+    {
+      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+      "pubDate": "Tue, 25 Aug 2026 06:53:20 -0400"
+    },
     {
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
@@ -56,11 +61,6 @@
       "title": "Hackers infect Android car head units with proxy botnet malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
       "pubDate": "Sat, 22 Aug 2026 10:14:24 -0400"
-    },
-    {
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "pubDate": "Sat, 22 Aug 2026 09:00:09 -0400"
     }
   ]
 }
