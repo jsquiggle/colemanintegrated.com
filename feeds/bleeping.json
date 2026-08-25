@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-25T14:10:35Z",
+  "updated": "2026-08-25T15:10:59Z",
   "items": [
+    {
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "pubDate": "Tue, 25 Aug 2026 10:44:16 -0400"
+    },
     {
       "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
       "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
@@ -56,11 +61,6 @@
       "title": "South Korean startup platform breach exposes key management failures",
       "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
       "pubDate": "Mon, 24 Aug 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-      "pubDate": "Mon, 24 Aug 2026 08:40:21 -0400"
     }
   ]
 }
