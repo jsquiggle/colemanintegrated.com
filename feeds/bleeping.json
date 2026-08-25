@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-25T15:10:59Z",
+  "updated": "2026-08-25T16:05:29Z",
   "items": [
+    {
+      "title": "Massive DDoS attack disrupts Norway\u2019s government digital services",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "pubDate": "Tue, 25 Aug 2026 11:52:36 -0400"
+    },
     {
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
@@ -56,11 +61,6 @@
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
       "pubDate": "Mon, 24 Aug 2026 10:00:19 -0400"
-    },
-    {
-      "title": "South Korean startup platform breach exposes key management failures",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-      "pubDate": "Mon, 24 Aug 2026 10:00:10 -0400"
     }
   ]
 }
