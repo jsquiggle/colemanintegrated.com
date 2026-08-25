@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-25T12:24:29Z",
+  "updated": "2026-08-25T13:25:07Z",
   "items": [
+    {
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "pubDate": "Tue, 25 Aug 2026 09:00:00 -0400"
+    },
     {
       "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
@@ -56,11 +61,6 @@
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
       "pubDate": "Mon, 24 Aug 2026 05:42:05 -0400"
-    },
-    {
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "pubDate": "Sun, 23 Aug 2026 10:23:46 -0400"
     }
   ]
 }
