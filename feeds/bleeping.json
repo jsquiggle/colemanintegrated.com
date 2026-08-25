@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-25T21:49:26Z",
+  "updated": "2026-08-25T22:14:34Z",
   "items": [
+    {
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "pubDate": "Tue, 25 Aug 2026 17:58:14 -0400"
+    },
     {
       "title": "Hackers abuse npm mirrors to host phishing redirect pages",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
@@ -56,11 +61,6 @@
       "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
       "pubDate": "Mon, 24 Aug 2026 15:26:32 -0400"
-    },
-    {
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "pubDate": "Mon, 24 Aug 2026 13:56:24 -0400"
     }
   ]
 }
