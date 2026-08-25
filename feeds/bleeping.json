@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-25T13:25:07Z",
+  "updated": "2026-08-25T14:10:35Z",
   "items": [
+    {
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "pubDate": "Tue, 25 Aug 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "pubDate": "Tue, 25 Aug 2026 09:51:58 -0400"
+    },
     {
       "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
@@ -51,16 +61,6 @@
       "title": "Microsoft: August updates break printing, PDF export in WPF apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
       "pubDate": "Mon, 24 Aug 2026 08:40:21 -0400"
-    },
-    {
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-      "pubDate": "Mon, 24 Aug 2026 06:45:12 -0400"
-    },
-    {
-      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-      "pubDate": "Mon, 24 Aug 2026 05:42:05 -0400"
     }
   ]
 }

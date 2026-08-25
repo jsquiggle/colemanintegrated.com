@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-25T13:25:07Z",
+  "updated": "2026-08-25T14:10:35Z",
   "items": [
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "pubDate": "Tue, 25 Aug 2026 18:49:41 +0530"
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "pubDate": "Tue, 25 Aug 2026 18:13:51 +0530"
+    },
     {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
       "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
@@ -51,16 +61,6 @@
       "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
       "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
       "pubDate": "Mon, 24 Aug 2026 18:05:36 +0530"
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "pubDate": "Mon, 24 Aug 2026 17:26:34 +0530"
-    },
-    {
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "pubDate": "Mon, 24 Aug 2026 17:21:36 +0530"
     }
   ]
 }
