@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-26T12:27:13Z",
+  "updated": "2026-08-26T13:31:44Z",
   "items": [
+    {
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "pubDate": "Wed, 26 Aug 2026 09:17:54 -0400"
+    },
     {
       "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
@@ -56,11 +61,6 @@
       "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
       "pubDate": "Tue, 25 Aug 2026 08:04:02 -0400"
-    },
-    {
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "pubDate": "Tue, 25 Aug 2026 06:53:20 -0400"
     }
   ]
 }
