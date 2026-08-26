@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-26T10:57:26Z",
+  "updated": "2026-08-26T11:24:01Z",
   "items": [
+    {
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "pubDate": "Wed, 26 Aug 2026 07:07:48 -0400"
+    },
     {
       "title": "LACMA data breach last year exposed social security and medical data",
       "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
@@ -56,11 +61,6 @@
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "pubDate": "Mon, 24 Aug 2026 17:14:30 -0400"
-    },
-    {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "pubDate": "Mon, 24 Aug 2026 15:26:32 -0400"
     }
   ]
 }
