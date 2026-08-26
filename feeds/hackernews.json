@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-26T16:08:27Z",
+  "updated": "2026-08-26T18:09:20Z",
   "items": [
+    {
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "pubDate": "Wed, 26 Aug 2026 22:12:03 +0530"
+    },
+    {
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "pubDate": "Wed, 26 Aug 2026 21:05:05 +0530"
+    },
     {
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
       "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
@@ -51,16 +61,6 @@
       "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
       "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
       "pubDate": "Wed, 26 Aug 2026 11:17:28 +0530"
-    },
-    {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "pubDate": "Tue, 25 Aug 2026 23:47:17 +0530"
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "pubDate": "Tue, 25 Aug 2026 19:37:37 +0530"
     }
   ]
 }
