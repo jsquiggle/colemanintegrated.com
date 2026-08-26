@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-26T13:31:44Z",
+  "updated": "2026-08-26T14:33:29Z",
   "items": [
+    {
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "pubDate": "Wed, 26 Aug 2026 10:17:59 -0400"
+    },
+    {
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "pubDate": "Wed, 26 Aug 2026 10:01:11 -0400"
+    },
     {
       "title": "Ubiquiti patches three max severity security vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
@@ -51,16 +61,6 @@
       "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
       "pubDate": "Tue, 25 Aug 2026 09:51:58 -0400"
-    },
-    {
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "pubDate": "Tue, 25 Aug 2026 09:00:00 -0400"
-    },
-    {
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "pubDate": "Tue, 25 Aug 2026 08:04:02 -0400"
     }
   ]
 }

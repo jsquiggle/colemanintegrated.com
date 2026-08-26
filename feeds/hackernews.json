@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-26T13:31:44Z",
+  "updated": "2026-08-26T14:33:29Z",
   "items": [
+    {
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "pubDate": "Wed, 26 Aug 2026 19:14:31 +0530"
+    },
+    {
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "pubDate": "Wed, 26 Aug 2026 18:37:02 +0530"
+    },
     {
       "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
       "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
@@ -51,16 +61,6 @@
       "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
       "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
       "pubDate": "Tue, 25 Aug 2026 19:37:37 +0530"
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "pubDate": "Tue, 25 Aug 2026 18:49:41 +0530"
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "pubDate": "Tue, 25 Aug 2026 18:13:51 +0530"
     }
   ]
 }
