@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-26T11:52:50Z",
+  "updated": "2026-08-26T12:27:13Z",
   "items": [
+    {
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "pubDate": "Wed, 26 Aug 2026 08:06:28 -0400"
+    },
     {
       "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
@@ -56,11 +61,6 @@
       "title": "Police arrests dozens of suspects in global cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
       "pubDate": "Tue, 25 Aug 2026 06:53:20 -0400"
-    },
-    {
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "pubDate": "Mon, 24 Aug 2026 17:14:30 -0400"
     }
   ]
 }
