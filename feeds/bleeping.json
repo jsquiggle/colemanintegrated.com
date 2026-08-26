@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-26T14:33:29Z",
+  "updated": "2026-08-26T16:08:27Z",
   "items": [
+    {
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "pubDate": "Wed, 26 Aug 2026 11:19:21 -0400"
+    },
+    {
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "pubDate": "Wed, 26 Aug 2026 10:47:51 -0400"
+    },
     {
       "title": "FBI disrupts proxy network enabling Chinese espionage operations",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
@@ -51,16 +61,6 @@
       "title": "Hospital operator Nutex Health says data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
       "pubDate": "Tue, 25 Aug 2026 10:44:16 -0400"
-    },
-    {
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "pubDate": "Tue, 25 Aug 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "pubDate": "Tue, 25 Aug 2026 09:51:58 -0400"
     }
   ]
 }
