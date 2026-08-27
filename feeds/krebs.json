@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-08-27T05:38:04Z",
+  "updated": "2026-08-27T17:02:20Z",
   "items": [
+    {
+      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "pubDate": "Thu, 27 Aug 2026 11:04:15 +0000"
+    },
     {
       "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
       "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -46,11 +51,6 @@
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
       "pubDate": "Thu, 02 Jul 2026 19:27:33 +0000"
-    },
-    {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "pubDate": "Tue, 23 Jun 2026 16:12:49 +0000"
     }
   ]
 }

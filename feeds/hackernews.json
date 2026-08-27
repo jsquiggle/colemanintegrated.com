@@ -1,7 +1,57 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-27T05:38:04Z",
+  "updated": "2026-08-27T17:02:20Z",
   "items": [
+    {
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "pubDate": "Thu, 27 Aug 2026 20:43:00 +0530"
+    },
+    {
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "pubDate": "Thu, 27 Aug 2026 20:42:16 +0530"
+    },
+    {
+      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+      "pubDate": "Thu, 27 Aug 2026 19:09:56 +0530"
+    },
+    {
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "pubDate": "Thu, 27 Aug 2026 17:26:30 +0530"
+    },
+    {
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "pubDate": "Thu, 27 Aug 2026 17:26:26 +0530"
+    },
+    {
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "pubDate": "Thu, 27 Aug 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "pubDate": "Thu, 27 Aug 2026 16:30:57 +0530"
+    },
+    {
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "pubDate": "Thu, 27 Aug 2026 15:03:38 +0530"
+    },
+    {
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "pubDate": "Thu, 27 Aug 2026 13:43:11 +0530"
+    },
+    {
+      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+      "pubDate": "Thu, 27 Aug 2026 12:35:28 +0530"
+    },
     {
       "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
       "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
@@ -11,56 +61,6 @@
       "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
       "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
       "pubDate": "Wed, 26 Aug 2026 21:05:05 +0530"
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "pubDate": "Wed, 26 Aug 2026 19:14:31 +0530"
-    },
-    {
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "pubDate": "Wed, 26 Aug 2026 18:37:02 +0530"
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "pubDate": "Wed, 26 Aug 2026 17:25:00 +0530"
-    },
-    {
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "pubDate": "Wed, 26 Aug 2026 17:06:49 +0530"
-    },
-    {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "pubDate": "Wed, 26 Aug 2026 15:57:23 +0530"
-    },
-    {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "pubDate": "Wed, 26 Aug 2026 15:08:45 +0530"
-    },
-    {
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "pubDate": "Wed, 26 Aug 2026 13:24:12 +0530"
-    },
-    {
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "pubDate": "Wed, 26 Aug 2026 12:42:55 +0530"
-    },
-    {
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "pubDate": "Wed, 26 Aug 2026 11:57:07 +0530"
-    },
-    {
-      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-      "pubDate": "Wed, 26 Aug 2026 11:17:28 +0530"
     }
   ]
 }
