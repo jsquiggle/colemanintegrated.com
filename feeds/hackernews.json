@@ -1,7 +1,37 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-28T13:30:29Z",
+  "updated": "2026-08-28T23:15:56Z",
   "items": [
+    {
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "pubDate": "Sat, 29 Aug 2026 03:00:52 +0530"
+    },
+    {
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "pubDate": "Sat, 29 Aug 2026 02:08:47 +0530"
+    },
+    {
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "pubDate": "Fri, 28 Aug 2026 22:42:15 +0530"
+    },
+    {
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "pubDate": "Fri, 28 Aug 2026 21:50:46 +0530"
+    },
+    {
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "pubDate": "Fri, 28 Aug 2026 21:26:55 +0530"
+    },
+    {
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "pubDate": "Fri, 28 Aug 2026 20:57:26 +0530"
+    },
     {
       "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
       "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
@@ -31,36 +61,6 @@
       "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
       "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
       "pubDate": "Fri, 28 Aug 2026 13:55:36 +0530"
-    },
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "pubDate": "Fri, 28 Aug 2026 13:50:59 +0530"
-    },
-    {
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "pubDate": "Fri, 28 Aug 2026 00:06:19 +0530"
-    },
-    {
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "pubDate": "Thu, 27 Aug 2026 20:43:00 +0530"
-    },
-    {
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "pubDate": "Thu, 27 Aug 2026 20:42:16 +0530"
-    },
-    {
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "pubDate": "Thu, 27 Aug 2026 19:09:56 +0530"
-    },
-    {
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "pubDate": "Thu, 27 Aug 2026 17:26:30 +0530"
     }
   ]
 }
