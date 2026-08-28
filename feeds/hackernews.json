@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-27T17:02:20Z",
+  "updated": "2026-08-28T01:33:21Z",
   "items": [
+    {
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "pubDate": "Fri, 28 Aug 2026 00:06:19 +0530"
+    },
     {
       "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
       "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
@@ -56,11 +61,6 @@
       "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
       "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
       "pubDate": "Wed, 26 Aug 2026 22:12:03 +0530"
-    },
-    {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "pubDate": "Wed, 26 Aug 2026 21:05:05 +0530"
     }
   ]
 }
