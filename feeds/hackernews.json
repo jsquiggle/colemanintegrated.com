@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-29T15:40:50Z",
+  "updated": "2026-08-29T18:59:06Z",
   "items": [
+    {
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "pubDate": "Sat, 29 Aug 2026 21:55:03 +0530"
+    },
     {
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
       "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
@@ -56,11 +61,6 @@
       "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
       "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
       "pubDate": "Fri, 28 Aug 2026 15:15:15 +0530"
-    },
-    {
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "pubDate": "Fri, 28 Aug 2026 13:55:36 +0530"
     }
   ]
 }
