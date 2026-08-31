@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-08-31T14:33:30Z",
+  "updated": "2026-08-31T20:27:16Z",
   "items": [
+    {
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "pubDate": "Mon, 31 Aug 2026 14:51:04 -0400"
+    },
+    {
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "pubDate": "Mon, 31 Aug 2026 12:56:57 -0400"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT outage as users report errors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+      "pubDate": "Mon, 31 Aug 2026 12:50:50 -0400"
+    },
+    {
+      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+      "pubDate": "Mon, 31 Aug 2026 10:52:03 -0400"
+    },
     {
       "title": "File servers are here to stay. Here\u2019s how to manage them securely",
       "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
@@ -41,26 +61,6 @@
       "title": "Chrome Web Store extensions caught stealing crypto, browser data",
       "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
       "pubDate": "Sun, 30 Aug 2026 10:17:44 -0400"
-    },
-    {
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "pubDate": "Sat, 29 Aug 2026 19:11:51 -0400"
-    },
-    {
-      "title": "Brave browser adds email aliases to help users evade tracking",
-      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-      "pubDate": "Sat, 29 Aug 2026 10:19:23 -0400"
-    },
-    {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "pubDate": "Fri, 28 Aug 2026 18:40:17 -0400"
-    },
-    {
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "pubDate": "Fri, 28 Aug 2026 15:08:26 -0400"
     }
   ]
 }
