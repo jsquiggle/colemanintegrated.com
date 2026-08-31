@@ -1,7 +1,37 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-08-31T06:39:59Z",
+  "updated": "2026-08-31T14:33:30Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "pubDate": "Mon, 31 Aug 2026 19:20:00 +0530"
+    },
+    {
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "pubDate": "Mon, 31 Aug 2026 17:44:00 +0530"
+    },
+    {
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "pubDate": "Mon, 31 Aug 2026 17:17:24 +0530"
+    },
+    {
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "pubDate": "Mon, 31 Aug 2026 17:01:47 +0530"
+    },
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "pubDate": "Mon, 31 Aug 2026 14:34:55 +0530"
+    },
+    {
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "pubDate": "Mon, 31 Aug 2026 13:26:53 +0530"
+    },
     {
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
       "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
@@ -31,36 +61,6 @@
       "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
       "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
       "pubDate": "Fri, 28 Aug 2026 21:50:46 +0530"
-    },
-    {
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "pubDate": "Fri, 28 Aug 2026 21:26:55 +0530"
-    },
-    {
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "pubDate": "Fri, 28 Aug 2026 20:57:26 +0530"
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "pubDate": "Fri, 28 Aug 2026 17:37:24 +0530"
-    },
-    {
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "pubDate": "Fri, 28 Aug 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "pubDate": "Fri, 28 Aug 2026 16:50:32 +0530"
-    },
-    {
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "pubDate": "Fri, 28 Aug 2026 16:28:29 +0530"
     }
   ]
 }
