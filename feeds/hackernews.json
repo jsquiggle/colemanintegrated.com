@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-01T03:28:19Z",
+  "updated": "2026-09-01T08:49:54Z",
   "items": [
+    {
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "pubDate": "Tue, 01 Sep 2026 13:56:24 +0530"
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "pubDate": "Tue, 01 Sep 2026 12:52:30 +0530"
+    },
     {
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
       "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
@@ -51,16 +61,6 @@
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
       "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
       "pubDate": "Sat, 29 Aug 2026 03:00:52 +0530"
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "pubDate": "Sat, 29 Aug 2026 02:08:47 +0530"
-    },
-    {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "pubDate": "Fri, 28 Aug 2026 22:42:15 +0530"
     }
   ]
 }

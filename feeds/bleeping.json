@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-01T03:28:19Z",
+  "updated": "2026-09-01T08:49:54Z",
   "items": [
+    {
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "pubDate": "Tue, 01 Sep 2026 03:48:24 -0400"
+    },
     {
       "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
       "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
@@ -13,7 +18,7 @@
       "pubDate": "Mon, 31 Aug 2026 14:51:04 -0400"
     },
     {
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "pubDate": "Mon, 31 Aug 2026 12:56:57 -0400"
     },
@@ -56,11 +61,6 @@
       "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
       "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
       "pubDate": "Sun, 30 Aug 2026 11:00:21 -0400"
-    },
-    {
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "pubDate": "Sun, 30 Aug 2026 10:30:25 -0400"
     }
   ]
 }
