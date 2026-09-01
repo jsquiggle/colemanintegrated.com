@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-01T20:03:46Z",
+  "updated": "2026-09-01T22:40:39Z",
   "items": [
+    {
+      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+      "pubDate": "Tue, 01 Sep 2026 16:53:23 -0400"
+    },
     {
       "title": "Aesto Health says data breach affects over 9.5 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
@@ -56,11 +61,6 @@
       "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "pubDate": "Mon, 31 Aug 2026 12:56:57 -0400"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "pubDate": "Mon, 31 Aug 2026 12:50:50 -0400"
     }
   ]
 }
