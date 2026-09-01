@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-01T08:49:54Z",
+  "updated": "2026-09-01T13:46:24Z",
   "items": [
+    {
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "pubDate": "Tue, 01 Sep 2026 08:38:35 -0400"
+    },
+    {
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "pubDate": "Tue, 01 Sep 2026 05:15:07 -0400"
+    },
     {
       "title": "Recently patched PaperCut zero-days used in data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
@@ -51,16 +61,6 @@
       "title": "Nigerians extradited to US for sextortion, deaths of two teens",
       "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
       "pubDate": "Mon, 31 Aug 2026 05:22:47 -0400"
-    },
-    {
-      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "pubDate": "Mon, 31 Aug 2026 04:29:42 -0400"
-    },
-    {
-      "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-      "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "pubDate": "Sun, 30 Aug 2026 11:00:21 -0400"
     }
   ]
 }
