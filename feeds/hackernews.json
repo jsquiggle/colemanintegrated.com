@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-01T13:46:24Z",
+  "updated": "2026-09-01T17:29:43Z",
   "items": [
+    {
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "pubDate": "Tue, 01 Sep 2026 19:37:20 +0530"
+    },
     {
       "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
       "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
@@ -56,11 +61,6 @@
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
       "pubDate": "Mon, 31 Aug 2026 14:34:55 +0530"
-    },
-    {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "pubDate": "Mon, 31 Aug 2026 13:26:53 +0530"
     }
   ]
 }
