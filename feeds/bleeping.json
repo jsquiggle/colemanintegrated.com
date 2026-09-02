@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-02T20:14:47Z",
+  "updated": "2026-09-02T22:43:18Z",
   "items": [
+    {
+      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+      "pubDate": "Wed, 02 Sep 2026 17:00:13 -0400"
+    },
     {
       "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
@@ -56,11 +61,6 @@
       "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
       "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
       "pubDate": "Tue, 01 Sep 2026 13:54:22 -0400"
-    },
-    {
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "pubDate": "Tue, 01 Sep 2026 10:45:06 -0400"
     }
   ]
 }
