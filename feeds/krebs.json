@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-09-01T22:40:39Z",
+  "updated": "2026-09-02T00:38:52Z",
   "items": [
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "pubDate": "Tue, 01 Sep 2026 22:40:28 +0000"
+    },
     {
       "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
       "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
@@ -46,11 +51,6 @@
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
       "pubDate": "Wed, 08 Jul 2026 12:31:39 +0000"
-    },
-    {
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "pubDate": "Thu, 02 Jul 2026 19:27:33 +0000"
     }
   ]
 }
