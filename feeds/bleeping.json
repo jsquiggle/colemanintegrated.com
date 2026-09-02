@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-02T09:45:28Z",
+  "updated": "2026-09-02T13:56:19Z",
   "items": [
+    {
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "pubDate": "Wed, 02 Sep 2026 08:30:22 -0400"
+    },
+    {
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "pubDate": "Wed, 02 Sep 2026 06:29:39 -0400"
+    },
     {
       "title": "US charges Russian for infecting 80,000 freelancers with malware",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
@@ -51,16 +61,6 @@
       "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
       "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
       "pubDate": "Tue, 01 Sep 2026 08:38:35 -0400"
-    },
-    {
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "pubDate": "Tue, 01 Sep 2026 05:15:07 -0400"
-    },
-    {
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "pubDate": "Tue, 01 Sep 2026 03:48:24 -0400"
     }
   ]
 }
