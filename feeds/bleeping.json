@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-02T17:31:09Z",
+  "updated": "2026-09-02T20:14:47Z",
   "items": [
+    {
+      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
+      "pubDate": "Wed, 02 Sep 2026 15:28:46 -0400"
+    },
     {
       "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
@@ -56,11 +61,6 @@
       "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
       "pubDate": "Tue, 01 Sep 2026 10:45:06 -0400"
-    },
-    {
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "pubDate": "Tue, 01 Sep 2026 10:28:40 -0400"
     }
   ]
 }
