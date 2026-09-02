@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-02T13:56:19Z",
+  "updated": "2026-09-02T17:31:09Z",
   "items": [
+    {
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400"
+    },
+    {
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "pubDate": "Wed, 02 Sep 2026 10:02:12 -0400"
+    },
     {
       "title": "Dropbox accounts breached through Lenovo email verification flaw",
       "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
@@ -51,16 +61,6 @@
       "title": "Novocure data breach affects more than 1,400 cancer patients",
       "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
       "pubDate": "Tue, 01 Sep 2026 10:28:40 -0400"
-    },
-    {
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "pubDate": "Tue, 01 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "pubDate": "Tue, 01 Sep 2026 08:38:35 -0400"
     }
   ]
 }
