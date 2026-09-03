@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-03T20:15:22Z",
+  "updated": "2026-09-03T22:40:28Z",
   "items": [
+    {
+      "title": "French hospital fined \u20ac500,000 after breach exposes data of 727,000",
+      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "pubDate": "Thu, 03 Sep 2026 18:01:37 -0400"
+    },
     {
       "title": "Coder's registry infrastructure compromised to push malicious modules",
       "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
       "pubDate": "Wed, 02 Sep 2026 17:00:13 -0400"
-    },
-    {
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "pubDate": "Wed, 02 Sep 2026 15:28:46 -0400"
     }
   ]
 }
