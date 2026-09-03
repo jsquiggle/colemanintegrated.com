@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-03T05:18:39Z",
+  "updated": "2026-09-03T09:57:50Z",
   "items": [
+    {
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "pubDate": "Thu, 03 Sep 2026 14:13:17 +0530"
+    },
+    {
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "pubDate": "Thu, 03 Sep 2026 11:56:59 +0530"
+    },
+    {
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "pubDate": "Thu, 03 Sep 2026 10:49:04 +0530"
+    },
     {
       "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
       "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
@@ -46,21 +61,6 @@
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
       "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
       "pubDate": "Wed, 02 Sep 2026 14:48:02 +0530"
-    },
-    {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "pubDate": "Wed, 02 Sep 2026 14:40:23 +0530"
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "pubDate": "Wed, 02 Sep 2026 13:17:13 +0530"
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "pubDate": "Wed, 02 Sep 2026 12:38:50 +0530"
     }
   ]
 }

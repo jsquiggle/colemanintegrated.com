@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-03T05:18:39Z",
+  "updated": "2026-09-03T09:57:50Z",
   "items": [
+    {
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "pubDate": "Thu, 03 Sep 2026 04:55:25 -0400"
+    },
     {
       "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
@@ -56,11 +61,6 @@
       "title": "Aesto Health says data breach affects over 9.5 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
       "pubDate": "Tue, 01 Sep 2026 15:28:17 -0400"
-    },
-    {
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "pubDate": "Tue, 01 Sep 2026 13:54:22 -0400"
     }
   ]
 }
