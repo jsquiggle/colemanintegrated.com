@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-03T09:57:50Z",
+  "updated": "2026-09-03T14:05:22Z",
   "items": [
+    {
+      "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "pubDate": "Thu, 03 Sep 2026 09:50:59 -0400"
+    },
+    {
+      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+      "pubDate": "Thu, 03 Sep 2026 08:16:32 -0400"
+    },
+    {
+      "title": "Plex warns users to patch security vulnerabilities immediately",
+      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+      "pubDate": "Thu, 03 Sep 2026 07:02:22 -0400"
+    },
     {
       "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
@@ -46,21 +61,6 @@
       "title": "Sality botnet infrastructure dismantled in joint global takedown",
       "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
       "pubDate": "Wed, 02 Sep 2026 04:00:43 -0400"
-    },
-    {
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "pubDate": "Wed, 02 Sep 2026 02:39:29 -0400"
-    },
-    {
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "pubDate": "Tue, 01 Sep 2026 16:53:23 -0400"
-    },
-    {
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "pubDate": "Tue, 01 Sep 2026 15:28:17 -0400"
     }
   ]
 }
