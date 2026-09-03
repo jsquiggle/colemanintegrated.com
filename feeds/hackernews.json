@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-03T14:05:22Z",
+  "updated": "2026-09-03T17:55:16Z",
   "items": [
+    {
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "pubDate": "Thu, 03 Sep 2026 21:22:07 +0530"
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "pubDate": "Thu, 03 Sep 2026 20:56:47 +0530"
+    },
+    {
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "pubDate": "Thu, 03 Sep 2026 20:09:05 +0530"
+    },
     {
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
       "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
@@ -46,21 +61,6 @@
       "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
       "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
       "pubDate": "Wed, 02 Sep 2026 19:36:59 +0530"
-    },
-    {
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "pubDate": "Wed, 02 Sep 2026 19:14:16 +0530"
-    },
-    {
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "pubDate": "Wed, 02 Sep 2026 18:42:45 +0530"
-    },
-    {
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "pubDate": "Wed, 02 Sep 2026 17:52:02 +0530"
     }
   ]
 }
