@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-03T17:55:16Z",
+  "updated": "2026-09-03T20:15:22Z",
   "items": [
+    {
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "pubDate": "Thu, 03 Sep 2026 16:04:24 -0400"
+    },
+    {
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400"
+    },
     {
       "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
@@ -51,16 +61,6 @@
       "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
       "pubDate": "Wed, 02 Sep 2026 15:28:46 -0400"
-    },
-    {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400"
-    },
-    {
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "pubDate": "Wed, 02 Sep 2026 10:02:12 -0400"
     }
   ]
 }
