@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-04T13:51:27Z",
+  "updated": "2026-09-04T17:14:46Z",
   "items": [
+    {
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "pubDate": "Fri, 04 Sep 2026 12:56:45 -0400"
+    },
+    {
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "pubDate": "Fri, 04 Sep 2026 11:25:59 -0400"
+    },
+    {
+      "title": "Microsoft says some users can\u2019t open the Teams desktop client",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "pubDate": "Fri, 04 Sep 2026 10:30:15 -0400"
+    },
+    {
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "pubDate": "Fri, 04 Sep 2026 10:01:11 -0400"
+    },
     {
       "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
@@ -41,26 +61,6 @@
       "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
       "pubDate": "Thu, 03 Sep 2026 11:13:29 -0400"
-    },
-    {
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "pubDate": "Thu, 03 Sep 2026 11:02:52 -0400"
-    },
-    {
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "pubDate": "Thu, 03 Sep 2026 10:52:20 -0400"
-    },
-    {
-      "title": "Your Employee\u2019s Password Appeared in an Infostealer Log. Now What?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "pubDate": "Thu, 03 Sep 2026 09:50:59 -0400"
-    },
-    {
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "pubDate": "Thu, 03 Sep 2026 08:16:32 -0400"
     }
   ]
 }
