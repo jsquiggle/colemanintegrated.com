@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-05T13:35:55Z",
+  "updated": "2026-09-05T16:22:08Z",
   "items": [
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "pubDate": "Sat, 05 Sep 2026 19:47:02 +0530"
+    },
     {
       "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
       "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
@@ -56,11 +61,6 @@
       "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
       "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
       "pubDate": "Thu, 03 Sep 2026 21:22:07 +0530"
-    },
-    {
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "pubDate": "Thu, 03 Sep 2026 20:56:47 +0530"
     }
   ]
 }
