@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-05T20:32:41Z",
+  "updated": "2026-09-05T22:27:35Z",
   "items": [
+    {
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "pubDate": "Sun, 06 Sep 2026 01:44:47 +0530"
+    },
     {
       "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
       "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
@@ -56,11 +61,6 @@
       "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
       "link": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
       "pubDate": "Fri, 04 Sep 2026 12:48:47 +0530"
-    },
-    {
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "pubDate": "Fri, 04 Sep 2026 12:17:52 +0530"
     }
   ]
 }
