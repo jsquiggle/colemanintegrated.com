@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-05T10:49:28Z",
+  "updated": "2026-09-05T13:35:55Z",
   "items": [
+    {
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "pubDate": "Sat, 05 Sep 2026 07:11:50 -0400"
+    },
     {
       "title": "IDScan sued over alleged data breach affecting 153 million drivers",
       "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
       "pubDate": "Thu, 03 Sep 2026 11:22:33 -0400"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "pubDate": "Thu, 03 Sep 2026 11:13:29 -0400"
     }
   ]
 }
