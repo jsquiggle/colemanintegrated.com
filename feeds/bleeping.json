@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-06T12:58:02Z",
+  "updated": "2026-09-06T15:57:54Z",
   "items": [
+    {
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400"
+    },
     {
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
@@ -56,11 +61,6 @@
       "title": "Coder's registry infrastructure compromised to push malicious modules",
       "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
       "pubDate": "Thu, 03 Sep 2026 16:04:24 -0400"
-    },
-    {
-      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-      "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400"
     }
   ]
 }
