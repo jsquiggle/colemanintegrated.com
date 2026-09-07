@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-07T04:58:09Z",
+  "updated": "2026-09-07T09:56:08Z",
   "items": [
+    {
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "pubDate": "Mon, 07 Sep 2026 14:01:12 +0530"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "pubDate": "Mon, 07 Sep 2026 13:23:04 +0530"
+    },
     {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
       "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
@@ -51,16 +61,6 @@
       "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
       "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
       "pubDate": "Fri, 04 Sep 2026 20:50:19 +0530"
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "pubDate": "Fri, 04 Sep 2026 20:21:13 +0530"
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "pubDate": "Fri, 04 Sep 2026 14:18:45 +0530"
     }
   ]
 }
