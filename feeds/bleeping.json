@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-07T15:24:23Z",
+  "updated": "2026-09-07T19:17:07Z",
   "items": [
+    {
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "pubDate": "Mon, 07 Sep 2026 12:50:29 -0400"
+    },
+    {
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "pubDate": "Mon, 07 Sep 2026 11:39:51 -0400"
+    },
     {
       "title": "Mathspace discloses data breach affecting over 1 million people",
       "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
@@ -51,16 +61,6 @@
       "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
       "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
       "pubDate": "Sat, 05 Sep 2026 07:11:50 -0400"
-    },
-    {
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "pubDate": "Fri, 04 Sep 2026 12:56:45 -0400"
-    },
-    {
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "pubDate": "Fri, 04 Sep 2026 11:25:59 -0400"
     }
   ]
 }
