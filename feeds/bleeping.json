@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-08T13:58:00Z",
+  "updated": "2026-09-08T17:44:02Z",
   "items": [
+    {
+      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
+      "pubDate": "Tue, 08 Sep 2026 12:35:47 -0400"
+    },
+    {
+      "title": "OpenAI says ChatGPT outage causes image generation errors",
+      "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+      "pubDate": "Tue, 08 Sep 2026 12:28:42 -0400"
+    },
+    {
+      "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
+      "pubDate": "Tue, 08 Sep 2026 11:22:33 -0400"
+    },
+    {
+      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+      "pubDate": "Tue, 08 Sep 2026 10:55:20 -0400"
+    },
+    {
+      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+      "pubDate": "Tue, 08 Sep 2026 10:40:32 -0400"
+    },
     {
       "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
@@ -36,31 +61,6 @@
       "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
       "link": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
       "pubDate": "Mon, 07 Sep 2026 11:39:51 -0400"
-    },
-    {
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "pubDate": "Mon, 07 Sep 2026 09:05:11 -0400"
-    },
-    {
-      "title": "Trezor data breach impact now reaches 81,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-      "pubDate": "Mon, 07 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-      "pubDate": "Mon, 07 Sep 2026 06:36:37 -0400"
-    },
-    {
-      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
-      "pubDate": "Mon, 07 Sep 2026 06:32:40 -0400"
-    },
-    {
-      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
-      "pubDate": "Mon, 07 Sep 2026 06:06:38 -0400"
     }
   ]
 }

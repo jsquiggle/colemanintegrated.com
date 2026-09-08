@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-08T13:58:00Z",
+  "updated": "2026-09-08T17:44:02Z",
   "items": [
+    {
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "pubDate": "Tue, 08 Sep 2026 21:50:23 +0530"
+    },
+    {
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "pubDate": "Tue, 08 Sep 2026 20:24:30 +0530"
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "pubDate": "Tue, 08 Sep 2026 19:49:17 +0530"
+    },
+    {
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "pubDate": "Tue, 08 Sep 2026 19:18:16 +0530"
+    },
     {
       "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
       "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
@@ -41,26 +61,6 @@
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "pubDate": "Mon, 07 Sep 2026 21:21:56 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-      "pubDate": "Mon, 07 Sep 2026 20:06:07 +0530"
-    },
-    {
-      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-      "pubDate": "Mon, 07 Sep 2026 17:15:00 +0530"
-    },
-    {
-      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-      "pubDate": "Mon, 07 Sep 2026 17:06:39 +0530"
-    },
-    {
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "pubDate": "Mon, 07 Sep 2026 16:50:14 +0530"
     }
   ]
 }
