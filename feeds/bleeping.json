@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-08T09:53:14Z",
+  "updated": "2026-09-08T13:58:00Z",
   "items": [
+    {
+      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+      "pubDate": "Tue, 08 Sep 2026 09:34:47 -0400"
+    },
+    {
+      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+      "pubDate": "Tue, 08 Sep 2026 08:40:48 -0400"
+    },
+    {
+      "title": "Hackers build AI frameworks for widescale credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+      "pubDate": "Tue, 08 Sep 2026 08:03:03 -0400"
+    },
+    {
+      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+      "pubDate": "Tue, 08 Sep 2026 07:57:51 -0400"
+    },
     {
       "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
       "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
@@ -41,26 +61,6 @@
       "title": "ConnectWise warns of new ScreenConnect flaw without patch",
       "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
       "pubDate": "Mon, 07 Sep 2026 06:06:38 -0400"
-    },
-    {
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "pubDate": "Mon, 07 Sep 2026 02:17:41 -0400"
-    },
-    {
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "pubDate": "Sun, 06 Sep 2026 21:15:43 -0400"
-    },
-    {
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400"
-    },
-    {
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "pubDate": "Sat, 05 Sep 2026 10:29:13 -0400"
     }
   ]
 }
