@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-09T10:19:42Z",
+  "updated": "2026-09-09T14:41:05Z",
   "items": [
+    {
+      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+      "pubDate": "Wed, 09 Sep 2026 10:01:11 -0400"
+    },
     {
       "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
       "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
@@ -56,11 +61,6 @@
       "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
       "pubDate": "Tue, 08 Sep 2026 13:57:03 -0400"
-    },
-    {
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "pubDate": "Tue, 08 Sep 2026 12:35:47 -0400"
     }
   ]
 }
