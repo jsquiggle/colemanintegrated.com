@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-09T05:30:40Z",
+  "updated": "2026-09-09T10:19:42Z",
   "items": [
+    {
+      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+      "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400"
+    },
+    {
+      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+      "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400"
+    },
+    {
+      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "pubDate": "Wed, 09 Sep 2026 03:30:15 -0400"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "pubDate": "Wed, 09 Sep 2026 02:25:48 -0400"
+    },
     {
       "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
@@ -41,26 +61,6 @@
       "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
       "pubDate": "Tue, 08 Sep 2026 12:35:47 -0400"
-    },
-    {
-      "title": "OpenAI says ChatGPT outage causes image generation errors",
-      "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-      "pubDate": "Tue, 08 Sep 2026 12:28:42 -0400"
-    },
-    {
-      "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-      "pubDate": "Tue, 08 Sep 2026 11:22:33 -0400"
-    },
-    {
-      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-      "pubDate": "Tue, 08 Sep 2026 10:55:20 -0400"
-    },
-    {
-      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
-      "pubDate": "Tue, 08 Sep 2026 10:40:32 -0400"
     }
   ]
 }
