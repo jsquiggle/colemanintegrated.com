@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-09T21:01:44Z",
+  "updated": "2026-09-09T23:22:37Z",
   "items": [
+    {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "pubDate": "Wed, 09 Sep 2026 17:40:44 -0400"
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "pubDate": "Wed, 09 Sep 2026 17:30:36 -0400"
+    },
+    {
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "pubDate": "Wed, 09 Sep 2026 17:02:14 -0400"
+    },
     {
       "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
       "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
@@ -46,21 +61,6 @@
       "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
       "pubDate": "Tue, 08 Sep 2026 16:35:14 -0400"
-    },
-    {
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "pubDate": "Tue, 08 Sep 2026 16:24:16 -0400"
-    },
-    {
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "pubDate": "Tue, 08 Sep 2026 16:08:55 -0400"
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-      "pubDate": "Tue, 08 Sep 2026 14:49:19 -0400"
     }
   ]
 }
