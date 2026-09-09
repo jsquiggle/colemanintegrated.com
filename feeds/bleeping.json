@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-09T14:41:05Z",
+  "updated": "2026-09-09T18:07:48Z",
   "items": [
+    {
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "pubDate": "Wed, 09 Sep 2026 12:48:33 -0400"
+    },
+    {
+      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+      "pubDate": "Wed, 09 Sep 2026 11:31:23 -0400"
+    },
     {
       "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
       "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
@@ -51,16 +61,6 @@
       "title": "Microsoft releases Windows 10 KB5122878 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
       "pubDate": "Tue, 08 Sep 2026 14:49:19 -0400"
-    },
-    {
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "pubDate": "Tue, 08 Sep 2026 14:18:05 -0400"
-    },
-    {
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "pubDate": "Tue, 08 Sep 2026 13:57:03 -0400"
     }
   ]
 }
