@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-09T00:49:38Z",
+  "updated": "2026-09-09T05:30:40Z",
   "items": [
+    {
+      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+      "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400"
+    },
     {
       "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
@@ -56,11 +61,6 @@
       "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
       "pubDate": "Tue, 08 Sep 2026 10:40:32 -0400"
-    },
-    {
-      "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
-      "pubDate": "Tue, 08 Sep 2026 09:34:47 -0400"
     }
   ]
 }
