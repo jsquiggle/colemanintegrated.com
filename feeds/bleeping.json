@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-10T06:09:34Z",
+  "updated": "2026-09-10T11:33:31Z",
   "items": [
+    {
+      "title": "Microsoft says September updates fix mouse settings reset issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+      "pubDate": "Thu, 10 Sep 2026 07:14:28 -0400"
+    },
+    {
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "pubDate": "Thu, 10 Sep 2026 05:10:20 -0400"
+    },
+    {
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "pubDate": "Thu, 10 Sep 2026 04:08:16 -0400"
+    },
+    {
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "pubDate": "Thu, 10 Sep 2026 02:56:33 -0400"
+    },
     {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
@@ -41,26 +61,6 @@
       "title": "Man gets 15 years for extorting women with AI-generated porn videos",
       "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
       "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400"
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "pubDate": "Wed, 09 Sep 2026 03:30:15 -0400"
-    },
-    {
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "pubDate": "Wed, 09 Sep 2026 02:25:48 -0400"
-    },
-    {
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400"
-    },
-    {
-      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-      "pubDate": "Tue, 08 Sep 2026 16:35:14 -0400"
     }
   ]
 }
