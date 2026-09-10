@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-10T18:34:56Z",
+  "updated": "2026-09-10T21:17:34Z",
   "items": [
+    {
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "pubDate": "Thu, 10 Sep 2026 23:17:38 +0530"
+    },
     {
       "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
       "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
@@ -56,11 +61,6 @@
       "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
       "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
       "pubDate": "Wed, 09 Sep 2026 17:27:36 +0530"
-    },
-    {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "pubDate": "Wed, 09 Sep 2026 16:47:07 +0530"
     }
   ]
 }
