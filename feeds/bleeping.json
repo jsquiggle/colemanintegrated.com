@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-10T15:26:26Z",
+  "updated": "2026-09-10T18:34:56Z",
   "items": [
+    {
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400"
+    },
+    {
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "pubDate": "Thu, 10 Sep 2026 11:43:58 -0400"
+    },
     {
       "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
@@ -51,16 +61,6 @@
       "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
       "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
       "pubDate": "Wed, 09 Sep 2026 17:02:14 -0400"
-    },
-    {
-      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-      "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-      "pubDate": "Wed, 09 Sep 2026 12:48:33 -0400"
-    },
-    {
-      "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
-      "pubDate": "Wed, 09 Sep 2026 11:31:23 -0400"
     }
   ]
 }
