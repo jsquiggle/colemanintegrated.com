@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-10T11:33:31Z",
+  "updated": "2026-09-10T15:26:26Z",
   "items": [
+    {
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "pubDate": "Thu, 10 Sep 2026 20:06:47 +0530"
+    },
+    {
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "pubDate": "Thu, 10 Sep 2026 17:15:05 +0530"
+    },
+    {
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "pubDate": "Thu, 10 Sep 2026 17:11:53 +0530"
+    },
+    {
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "pubDate": "Thu, 10 Sep 2026 17:03:43 +0530"
+    },
     {
       "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
       "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
@@ -41,26 +61,6 @@
       "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
       "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
       "pubDate": "Wed, 09 Sep 2026 16:47:07 +0530"
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "pubDate": "Wed, 09 Sep 2026 16:13:04 +0530"
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "pubDate": "Wed, 09 Sep 2026 15:02:26 +0530"
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "pubDate": "Wed, 09 Sep 2026 14:41:03 +0530"
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "pubDate": "Wed, 09 Sep 2026 13:49:32 +0530"
     }
   ]
 }

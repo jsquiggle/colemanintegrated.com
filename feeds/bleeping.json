@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-10T11:33:31Z",
+  "updated": "2026-09-10T15:26:26Z",
   "items": [
+    {
+      "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+      "pubDate": "Thu, 10 Sep 2026 10:55:33 -0400"
+    },
+    {
+      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+      "pubDate": "Thu, 10 Sep 2026 10:11:34 -0400"
+    },
+    {
+      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+      "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400"
+    },
     {
       "title": "Microsoft says September updates fix mouse settings reset issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
@@ -46,21 +61,6 @@
       "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
       "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
       "pubDate": "Wed, 09 Sep 2026 11:31:23 -0400"
-    },
-    {
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "pubDate": "Wed, 09 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400"
-    },
-    {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400"
     }
   ]
 }
