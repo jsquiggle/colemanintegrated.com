@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-11T15:27:57Z",
+  "updated": "2026-09-11T18:41:10Z",
   "items": [
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400"
+    },
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400"
+    },
     {
       "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
       "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
@@ -51,16 +61,6 @@
       "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
       "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
       "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400"
-    },
-    {
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "pubDate": "Thu, 10 Sep 2026 11:43:58 -0400"
-    },
-    {
-      "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-      "pubDate": "Thu, 10 Sep 2026 10:55:33 -0400"
     }
   ]
 }
