@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-11T11:35:26Z",
+  "updated": "2026-09-11T15:27:57Z",
   "items": [
+    {
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "pubDate": "Fri, 11 Sep 2026 19:59:47 +0530"
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "pubDate": "Fri, 11 Sep 2026 19:40:20 +0530"
+    },
+    {
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0530"
+    },
     {
       "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
       "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
@@ -46,21 +61,6 @@
       "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
       "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
       "pubDate": "Thu, 10 Sep 2026 17:03:43 +0530"
-    },
-    {
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "pubDate": "Thu, 10 Sep 2026 16:06:46 +0530"
-    },
-    {
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "pubDate": "Thu, 10 Sep 2026 12:42:55 +0530"
-    },
-    {
-      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-      "pubDate": "Thu, 10 Sep 2026 12:34:01 +0530"
     }
   ]
 }

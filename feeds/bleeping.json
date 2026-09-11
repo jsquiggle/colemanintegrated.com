@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-11T11:35:26Z",
+  "updated": "2026-09-11T15:27:57Z",
   "items": [
+    {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400"
+    },
     {
       "title": "GitLab urges users to patch max severity path traversal flaw",
       "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
@@ -56,11 +61,6 @@
       "title": "IDScan confirms breach tied to 153 million stolen driver\u2019s licenses",
       "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
       "pubDate": "Thu, 10 Sep 2026 10:55:33 -0400"
-    },
-    {
-      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-      "pubDate": "Thu, 10 Sep 2026 10:11:34 -0400"
     }
   ]
 }
