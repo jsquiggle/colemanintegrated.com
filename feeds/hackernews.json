@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-11T06:12:20Z",
+  "updated": "2026-09-11T11:35:26Z",
   "items": [
+    {
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "pubDate": "Fri, 11 Sep 2026 13:01:05 +0530"
+    },
+    {
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "pubDate": "Fri, 11 Sep 2026 12:44:09 +0530"
+    },
+    {
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "pubDate": "Fri, 11 Sep 2026 12:16:18 +0530"
+    },
+    {
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "pubDate": "Fri, 11 Sep 2026 11:49:59 +0530"
+    },
     {
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
@@ -41,26 +61,6 @@
       "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
       "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
       "pubDate": "Thu, 10 Sep 2026 12:34:01 +0530"
-    },
-    {
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "pubDate": "Wed, 09 Sep 2026 23:56:05 +0530"
-    },
-    {
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "pubDate": "Wed, 09 Sep 2026 22:04:05 +0530"
-    },
-    {
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "pubDate": "Wed, 09 Sep 2026 19:53:55 +0530"
-    },
-    {
-      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "pubDate": "Wed, 09 Sep 2026 17:27:36 +0530"
     }
   ]
 }

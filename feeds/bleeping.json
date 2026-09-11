@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-11T06:12:20Z",
+  "updated": "2026-09-11T11:35:26Z",
   "items": [
+    {
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "pubDate": "Fri, 11 Sep 2026 07:15:22 -0400"
+    },
+    {
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "pubDate": "Fri, 11 Sep 2026 05:39:37 -0400"
+    },
+    {
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "pubDate": "Fri, 11 Sep 2026 03:55:15 -0400"
+    },
+    {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "pubDate": "Fri, 11 Sep 2026 02:48:37 -0400"
+    },
     {
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
@@ -41,26 +61,6 @@
       "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
       "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
       "pubDate": "Thu, 10 Sep 2026 10:11:34 -0400"
-    },
-    {
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "pubDate": "Thu, 10 Sep 2026 07:14:28 -0400"
-    },
-    {
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "pubDate": "Thu, 10 Sep 2026 05:10:20 -0400"
-    },
-    {
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "pubDate": "Thu, 10 Sep 2026 04:08:16 -0400"
     }
   ]
 }
