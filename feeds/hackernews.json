@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-12T16:36:16Z",
+  "updated": "2026-09-12T18:50:39Z",
   "items": [
+    {
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "pubDate": "Sat, 12 Sep 2026 21:24:45 +0530"
+    },
     {
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
       "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
@@ -56,11 +61,6 @@
       "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
       "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
       "pubDate": "Fri, 11 Sep 2026 11:49:59 +0530"
-    },
-    {
-      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-      "pubDate": "Thu, 10 Sep 2026 23:17:38 +0530"
     }
   ]
 }
