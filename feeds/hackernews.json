@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-13T06:24:15Z",
+  "updated": "2026-09-13T12:08:55Z",
   "items": [
+    {
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "pubDate": "Sun, 13 Sep 2026 15:41:48 +0530"
+    },
     {
       "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
       "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
@@ -56,11 +61,6 @@
       "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
       "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
       "pubDate": "Fri, 11 Sep 2026 12:16:18 +0530"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "pubDate": "Fri, 11 Sep 2026 11:49:59 +0530"
     }
   ]
 }
