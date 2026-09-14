@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-14T13:28:15Z",
+  "updated": "2026-09-14T18:47:34Z",
   "items": [
+    {
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "pubDate": "Mon, 14 Sep 2026 22:28:42 +0530"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "pubDate": "Mon, 14 Sep 2026 22:26:30 +0530"
+    },
+    {
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "pubDate": "Mon, 14 Sep 2026 21:30:04 +0530"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "pubDate": "Mon, 14 Sep 2026 20:10:34 +0530"
+    },
     {
       "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
       "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
@@ -41,26 +61,6 @@
       "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
       "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
       "pubDate": "Fri, 11 Sep 2026 21:45:29 +0530"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "pubDate": "Fri, 11 Sep 2026 19:59:47 +0530"
-    },
-    {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "pubDate": "Fri, 11 Sep 2026 19:40:20 +0530"
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "pubDate": "Fri, 11 Sep 2026 13:01:05 +0530"
     }
   ]
 }

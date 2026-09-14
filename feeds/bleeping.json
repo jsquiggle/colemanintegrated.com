@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-14T13:28:15Z",
+  "updated": "2026-09-14T18:47:34Z",
   "items": [
+    {
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400"
+    },
+    {
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "pubDate": "Mon, 14 Sep 2026 12:15:58 -0400"
+    },
+    {
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "pubDate": "Mon, 14 Sep 2026 10:01:11 -0400"
+    },
     {
       "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
@@ -46,21 +61,6 @@
       "title": "Florida confirms DMV database breached via stolen police account",
       "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
       "pubDate": "Fri, 11 Sep 2026 15:00:29 -0400"
-    },
-    {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400"
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "pubDate": "Fri, 11 Sep 2026 12:29:44 -0400"
-    },
-    {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "pubDate": "Fri, 11 Sep 2026 10:01:11 -0400"
     }
   ]
 }
