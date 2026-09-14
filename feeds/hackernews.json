@@ -1,11 +1,21 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-14T18:47:34Z",
+  "updated": "2026-09-14T22:11:07Z",
   "items": [
     {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "pubDate": "Mon, 14 Sep 2026 22:28:42 +0530"
+      "pubDate": "Mon, 14 Sep 2026 23:32:13 +0530"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "pubDate": "Mon, 14 Sep 2026 23:31:49 +0530"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "pubDate": "Mon, 14 Sep 2026 23:28:16 +0530"
     },
     {
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
@@ -51,16 +61,6 @@
       "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
       "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
       "pubDate": "Sat, 12 Sep 2026 14:37:56 +0530"
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "pubDate": "Fri, 11 Sep 2026 22:00:18 +0530"
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "pubDate": "Fri, 11 Sep 2026 21:45:29 +0530"
     }
   ]
 }
