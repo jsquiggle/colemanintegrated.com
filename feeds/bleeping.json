@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-15T19:06:48Z",
+  "updated": "2026-09-15T22:22:02Z",
   "items": [
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400"
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "pubDate": "Tue, 15 Sep 2026 16:34:15 -0400"
+    },
     {
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
@@ -51,16 +61,6 @@
       "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
       "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
       "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400"
-    },
-    {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400"
-    },
-    {
-      "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-      "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400"
     }
   ]
 }
