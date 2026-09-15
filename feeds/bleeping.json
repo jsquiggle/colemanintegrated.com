@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-15T15:19:48Z",
+  "updated": "2026-09-15T19:06:48Z",
   "items": [
+    {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "pubDate": "Tue, 15 Sep 2026 12:40:14 -0400"
+    },
     {
       "title": "BambooToken malware controls Windows and Linux systems via MQTT",
       "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
@@ -56,11 +61,6 @@
       "title": "Twitch extension with 30K installs exposes users\u2019 OAuth tokens",
       "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
       "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400"
-    },
-    {
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400"
     }
   ]
 }

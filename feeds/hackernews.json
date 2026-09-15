@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-15T15:19:48Z",
+  "updated": "2026-09-15T19:06:48Z",
   "items": [
+    {
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "pubDate": "Wed, 16 Sep 2026 00:24:14 +0530"
+    },
+    {
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "pubDate": "Tue, 15 Sep 2026 21:59:51 +0530"
+    },
+    {
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "pubDate": "Tue, 15 Sep 2026 20:53:19 +0530"
+    },
     {
       "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
       "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
@@ -46,21 +61,6 @@
       "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
       "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
       "pubDate": "Mon, 14 Sep 2026 23:28:16 +0530"
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "pubDate": "Mon, 14 Sep 2026 22:26:30 +0530"
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "pubDate": "Mon, 14 Sep 2026 21:30:04 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "pubDate": "Mon, 14 Sep 2026 20:10:34 +0530"
     }
   ]
 }
