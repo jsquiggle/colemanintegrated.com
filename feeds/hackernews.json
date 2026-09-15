@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-15T10:38:41Z",
+  "updated": "2026-09-15T15:19:48Z",
   "items": [
+    {
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "pubDate": "Tue, 15 Sep 2026 17:22:28 +0530"
+    },
+    {
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "pubDate": "Tue, 15 Sep 2026 16:56:36 +0530"
+    },
+    {
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "pubDate": "Tue, 15 Sep 2026 16:42:32 +0530"
+    },
     {
       "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
       "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
@@ -46,21 +61,6 @@
       "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
       "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
       "pubDate": "Mon, 14 Sep 2026 20:10:34 +0530"
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "pubDate": "Mon, 14 Sep 2026 17:28:00 +0530"
-    },
-    {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "pubDate": "Mon, 14 Sep 2026 12:54:39 +0530"
-    },
-    {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "pubDate": "Sun, 13 Sep 2026 15:41:48 +0530"
     }
   ]
 }
