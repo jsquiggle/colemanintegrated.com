@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-16T15:03:51Z",
+  "updated": "2026-09-16T18:57:38Z",
   "items": [
+    {
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "pubDate": "Wed, 16 Sep 2026 14:50:53 -0400"
+    },
+    {
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "pubDate": "Wed, 16 Sep 2026 13:26:41 -0400"
+    },
     {
       "title": "The true cost of a ransomware attack, with and without BCDR",
       "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
@@ -51,16 +61,6 @@
       "title": "BambooToken malware controls Windows and Linux systems via MQTT",
       "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
       "pubDate": "Tue, 15 Sep 2026 11:00:00 -0400"
-    },
-    {
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "pubDate": "Tue, 15 Sep 2026 10:45:10 -0400"
-    },
-    {
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-      "pubDate": "Tue, 15 Sep 2026 09:45:54 -0400"
     }
   ]
 }
