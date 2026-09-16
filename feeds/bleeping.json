@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-16T10:08:42Z",
+  "updated": "2026-09-16T15:03:51Z",
   "items": [
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "pubDate": "Wed, 16 Sep 2026 08:16:32 -0400"
+    },
+    {
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "pubDate": "Wed, 16 Sep 2026 08:11:19 -0400"
+    },
+    {
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "pubDate": "Wed, 16 Sep 2026 07:14:28 -0400"
+    },
     {
       "title": "Windows Server 2022 reaches end of mainstream support next month",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
@@ -41,26 +61,6 @@
       "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
       "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
       "pubDate": "Tue, 15 Sep 2026 09:45:54 -0400"
-    },
-    {
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "pubDate": "Tue, 15 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400"
-    },
-    {
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "pubDate": "Tue, 15 Sep 2026 04:40:20 -0400"
-    },
-    {
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "pubDate": "Tue, 15 Sep 2026 03:31:09 -0400"
     }
   ]
 }

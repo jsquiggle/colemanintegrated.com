@@ -1,7 +1,37 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-16T10:08:42Z",
+  "updated": "2026-09-16T15:03:51Z",
   "items": [
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "pubDate": "Wed, 16 Sep 2026 19:07:07 +0530"
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "pubDate": "Wed, 16 Sep 2026 18:44:05 +0530"
+    },
+    {
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "pubDate": "Wed, 16 Sep 2026 17:28:00 +0530"
+    },
+    {
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "pubDate": "Wed, 16 Sep 2026 16:45:58 +0530"
+    },
+    {
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "pubDate": "Wed, 16 Sep 2026 16:45:48 +0530"
+    },
+    {
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "pubDate": "Wed, 16 Sep 2026 16:38:54 +0530"
+    },
     {
       "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
@@ -31,36 +61,6 @@
       "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
       "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
       "pubDate": "Tue, 15 Sep 2026 17:22:28 +0530"
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "pubDate": "Tue, 15 Sep 2026 16:56:36 +0530"
-    },
-    {
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "pubDate": "Tue, 15 Sep 2026 16:42:32 +0530"
-    },
-    {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "pubDate": "Tue, 15 Sep 2026 12:22:16 +0530"
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "pubDate": "Tue, 15 Sep 2026 11:41:11 +0530"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "pubDate": "Tue, 15 Sep 2026 11:01:05 +0530"
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "pubDate": "Mon, 14 Sep 2026 23:32:13 +0530"
     }
   ]
 }
