@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-16T23:57:16Z",
+  "updated": "2026-09-17T03:02:57Z",
   "items": [
+    {
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400"
+    },
     {
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
@@ -56,11 +61,6 @@
       "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
       "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
       "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400"
-    },
-    {
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "pubDate": "Tue, 15 Sep 2026 16:34:15 -0400"
     }
   ]
 }
