@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-17T08:46:49Z",
+  "updated": "2026-09-17T13:54:16Z",
   "items": [
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400"
+    },
+    {
+      "title": "US takes down NightmareStresser DDoS-for-hire platform",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+      "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400"
+    },
+    {
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400"
+    },
     {
       "title": "Microsoft shares workaround for Windows domain login issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
@@ -46,21 +61,6 @@
       "title": "Microsoft says Copilot buttons still missing in classic Outlook",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
       "pubDate": "Wed, 16 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "pubDate": "Wed, 16 Sep 2026 08:11:19 -0400"
-    },
-    {
-      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "pubDate": "Wed, 16 Sep 2026 07:14:28 -0400"
-    },
-    {
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "pubDate": "Wed, 16 Sep 2026 05:10:20 -0400"
     }
   ]
 }
