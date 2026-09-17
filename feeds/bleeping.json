@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-17T03:02:57Z",
+  "updated": "2026-09-17T08:46:49Z",
   "items": [
+    {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "pubDate": "Thu, 17 Sep 2026 04:24:48 -0400"
+    },
+    {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "pubDate": "Thu, 17 Sep 2026 03:20:54 -0400"
+    },
     {
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
@@ -51,16 +61,6 @@
       "title": "Windows Server 2022 reaches end of mainstream support next month",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
       "pubDate": "Wed, 16 Sep 2026 05:10:20 -0400"
-    },
-    {
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "pubDate": "Wed, 16 Sep 2026 03:00:19 -0400"
-    },
-    {
-      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-      "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400"
     }
   ]
 }
