@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-17T13:54:16Z",
+  "updated": "2026-09-17T17:50:07Z",
   "items": [
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400"
+    },
     {
       "title": "Windows 11 24H2 Home and Pro reach end of support in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
@@ -51,16 +61,6 @@
       "title": "Spain's data agency gets first report of AI-powered data breach",
       "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
       "pubDate": "Wed, 16 Sep 2026 13:26:41 -0400"
-    },
-    {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "pubDate": "Wed, 16 Sep 2026 08:16:32 -0400"
     }
   ]
 }
