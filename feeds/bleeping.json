@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-17T17:50:07Z",
+  "updated": "2026-09-17T20:42:46Z",
   "items": [
+    {
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400"
+    },
     {
       "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
       "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
@@ -56,11 +61,6 @@
       "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
       "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
       "pubDate": "Wed, 16 Sep 2026 14:50:53 -0400"
-    },
-    {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "pubDate": "Wed, 16 Sep 2026 13:26:41 -0400"
     }
   ]
 }
