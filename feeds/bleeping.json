@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-17T20:42:46Z",
+  "updated": "2026-09-17T23:13:43Z",
   "items": [
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400"
+    },
     {
       "title": "OpenAI details more cases of AI agents taking unauthorized actions",
       "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
@@ -56,11 +61,6 @@
       "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
       "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
       "pubDate": "Wed, 16 Sep 2026 16:24:55 -0400"
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "pubDate": "Wed, 16 Sep 2026 14:50:53 -0400"
     }
   ]
 }
