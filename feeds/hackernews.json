@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-18T01:20:17Z",
+  "updated": "2026-09-18T06:06:33Z",
   "items": [
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "pubDate": "Thu, 17 Sep 2026 23:38:28 +0530"
+    },
+    {
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "pubDate": "Thu, 17 Sep 2026 23:02:22 +0530"
+    },
+    {
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "pubDate": "Thu, 17 Sep 2026 21:07:56 +0530"
+    },
+    {
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "pubDate": "Thu, 17 Sep 2026 19:33:13 +0530"
+    },
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
@@ -41,26 +61,6 @@
       "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
       "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
       "pubDate": "Thu, 17 Sep 2026 12:09:40 +0530"
-    },
-    {
-      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-      "link": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "pubDate": "Thu, 17 Sep 2026 10:43:46 +0530"
-    },
-    {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "pubDate": "Wed, 16 Sep 2026 21:20:59 +0530"
-    },
-    {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "pubDate": "Wed, 16 Sep 2026 20:57:49 +0530"
-    },
-    {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "pubDate": "Wed, 16 Sep 2026 20:06:44 +0530"
     }
   ]
 }
