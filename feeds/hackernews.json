@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-18T18:34:31Z",
+  "updated": "2026-09-18T21:20:40Z",
   "items": [
+    {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "pubDate": "Fri, 18 Sep 2026 23:32:24 +0530"
+    },
     {
       "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
       "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
@@ -56,11 +61,6 @@
       "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
       "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
       "pubDate": "Thu, 17 Sep 2026 21:07:56 +0530"
-    },
-    {
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "pubDate": "Thu, 17 Sep 2026 19:33:13 +0530"
     }
   ]
 }
