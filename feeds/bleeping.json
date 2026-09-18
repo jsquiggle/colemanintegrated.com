@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-18T15:24:11Z",
+  "updated": "2026-09-18T18:34:31Z",
   "items": [
+    {
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "pubDate": "Fri, 18 Sep 2026 12:00:38 -0400"
+    },
     {
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
@@ -56,11 +61,6 @@
       "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
       "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
       "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400"
     }
   ]
 }
