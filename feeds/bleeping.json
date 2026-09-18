@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-18T11:31:18Z",
+  "updated": "2026-09-18T15:24:11Z",
   "items": [
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400"
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "pubDate": "Fri, 18 Sep 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "pubDate": "Fri, 18 Sep 2026 09:58:40 -0400"
+    },
+    {
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "pubDate": "Fri, 18 Sep 2026 09:10:19 -0400"
+    },
+    {
+      "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400"
+    },
     {
       "title": "New Check Point flaw lets hackers execute code with root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
@@ -36,31 +61,6 @@
       "title": "Windows 11 24H2 Home and Pro reach end of support in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
       "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400"
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400"
-    },
-    {
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "pubDate": "Thu, 17 Sep 2026 04:24:48 -0400"
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "pubDate": "Thu, 17 Sep 2026 03:20:54 -0400"
-    },
-    {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400"
     }
   ]
 }
