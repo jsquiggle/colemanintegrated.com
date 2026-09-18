@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-18T06:06:33Z",
+  "updated": "2026-09-18T11:31:18Z",
   "items": [
+    {
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "pubDate": "Fri, 18 Sep 2026 16:10:06 +0530"
+    },
+    {
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "pubDate": "Fri, 18 Sep 2026 14:48:03 +0530"
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "pubDate": "Fri, 18 Sep 2026 11:47:25 +0530"
+    },
     {
       "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
       "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
@@ -46,21 +61,6 @@
       "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
       "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
       "pubDate": "Thu, 17 Sep 2026 15:23:38 +0530"
-    },
-    {
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "pubDate": "Thu, 17 Sep 2026 13:30:29 +0530"
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "pubDate": "Thu, 17 Sep 2026 13:00:01 +0530"
-    },
-    {
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "pubDate": "Thu, 17 Sep 2026 12:09:40 +0530"
     }
   ]
 }

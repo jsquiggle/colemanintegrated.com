@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-18T06:06:33Z",
+  "updated": "2026-09-18T11:31:18Z",
   "items": [
+    {
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400"
+    },
+    {
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "pubDate": "Fri, 18 Sep 2026 03:35:31 -0400"
+    },
     {
       "title": "New RatHat Android malware uses AI to automate device control",
       "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
@@ -51,16 +61,6 @@
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
       "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400"
-    },
-    {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "pubDate": "Wed, 16 Sep 2026 16:39:29 -0400"
-    },
-    {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "pubDate": "Wed, 16 Sep 2026 16:24:55 -0400"
     }
   ]
 }
