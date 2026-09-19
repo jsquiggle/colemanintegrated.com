@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-19T06:05:57Z",
+  "updated": "2026-09-19T11:15:11Z",
   "items": [
+    {
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+      "pubDate": "Sat, 19 Sep 2026 13:48:54 +0530"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+      "pubDate": "Sat, 19 Sep 2026 13:21:34 +0530"
+    },
+    {
+      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+      "pubDate": "Sat, 19 Sep 2026 12:44:54 +0530"
+    },
+    {
+      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+      "pubDate": "Sat, 19 Sep 2026 11:54:10 +0530"
+    },
     {
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
       "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
@@ -41,26 +61,6 @@
       "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
       "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
       "pubDate": "Fri, 18 Sep 2026 14:48:03 +0530"
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "pubDate": "Fri, 18 Sep 2026 11:47:25 +0530"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "pubDate": "Thu, 17 Sep 2026 23:38:28 +0530"
-    },
-    {
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "pubDate": "Thu, 17 Sep 2026 23:02:22 +0530"
-    },
-    {
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "pubDate": "Thu, 17 Sep 2026 21:07:56 +0530"
     }
   ]
 }
