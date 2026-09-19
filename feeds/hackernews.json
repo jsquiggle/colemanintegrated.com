@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-19T11:15:11Z",
+  "updated": "2026-09-19T14:33:30Z",
   "items": [
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "pubDate": "Sat, 19 Sep 2026 18:58:48 +0530"
+    },
+    {
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "pubDate": "Sat, 19 Sep 2026 18:58:41 +0530"
+    },
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "pubDate": "Sat, 19 Sep 2026 18:58:35 +0530"
+    },
+    {
+      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "pubDate": "Sat, 19 Sep 2026 15:01:17 +0530"
+    },
     {
       "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
       "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
@@ -41,26 +61,6 @@
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
       "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
       "pubDate": "Fri, 18 Sep 2026 18:17:04 +0530"
-    },
-    {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "pubDate": "Fri, 18 Sep 2026 16:31:16 +0530"
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "pubDate": "Fri, 18 Sep 2026 16:31:01 +0530"
-    },
-    {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "pubDate": "Fri, 18 Sep 2026 16:10:06 +0530"
-    },
-    {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "pubDate": "Fri, 18 Sep 2026 14:48:03 +0530"
     }
   ]
 }

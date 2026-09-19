@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-19T11:15:11Z",
+  "updated": "2026-09-19T14:33:30Z",
   "items": [
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400"
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400"
+    },
+    {
+      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+      "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400"
+    },
     {
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "link": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
@@ -46,21 +61,6 @@
       "title": "New RatHat Android malware uses AI to automate device control",
       "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
       "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400"
-    },
-    {
-      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-      "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400"
-    },
-    {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400"
     }
   ]
 }
