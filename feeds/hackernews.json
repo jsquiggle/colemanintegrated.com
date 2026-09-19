@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-19T17:34:18Z",
+  "updated": "2026-09-19T19:44:09Z",
   "items": [
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "pubDate": "Sun, 20 Sep 2026 00:06:53 +0530"
+    },
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
@@ -11,11 +16,6 @@
       "title": "Identity Visibility in 2026: The Foundation of Identity Security",
       "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
       "pubDate": "Sat, 19 Sep 2026 18:58:41 +0530"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "pubDate": "Sat, 19 Sep 2026 18:58:35 +0530"
     },
     {
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
