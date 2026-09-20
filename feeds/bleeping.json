@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-20T12:43:42Z",
+  "updated": "2026-09-20T16:36:58Z",
   "items": [
+    {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "pubDate": "Sun, 20 Sep 2026 10:11:21 -0400"
+    },
     {
       "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
       "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
       "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400"
-    },
-    {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400"
     }
   ]
 }
