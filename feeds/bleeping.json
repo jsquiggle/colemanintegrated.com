@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-20T07:49:43Z",
+  "updated": "2026-09-20T12:43:42Z",
   "items": [
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "pubDate": "Sun, 20 Sep 2026 08:00:00 -0400"
+    },
     {
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
@@ -56,11 +61,6 @@
       "title": "New Check Point flaw lets hackers execute code with root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
       "pubDate": "Fri, 18 Sep 2026 05:34:33 -0400"
-    },
-    {
-      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "pubDate": "Fri, 18 Sep 2026 03:35:31 -0400"
     }
   ]
 }
