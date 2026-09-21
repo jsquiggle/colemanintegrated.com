@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-21T02:13:52Z",
+  "updated": "2026-09-21T08:03:56Z",
   "items": [
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "pubDate": "Mon, 21 Sep 2026 11:36:44 +0530"
+    },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
@@ -56,11 +61,6 @@
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
       "pubDate": "Fri, 18 Sep 2026 20:54:16 +0530"
-    },
-    {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "pubDate": "Fri, 18 Sep 2026 18:17:04 +0530"
     }
   ]
 }
