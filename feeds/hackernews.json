@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-21T15:11:58Z",
+  "updated": "2026-09-21T20:02:48Z",
   "items": [
+    {
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "pubDate": "Mon, 21 Sep 2026 23:01:01 +0530"
+    },
+    {
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "pubDate": "Mon, 21 Sep 2026 22:49:00 +0530"
+    },
+    {
+      "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "pubDate": "Mon, 21 Sep 2026 22:27:31 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
       "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
@@ -46,21 +61,6 @@
       "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
       "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
       "pubDate": "Sat, 19 Sep 2026 13:48:54 +0530"
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "pubDate": "Sat, 19 Sep 2026 13:21:34 +0530"
-    },
-    {
-      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-      "pubDate": "Sat, 19 Sep 2026 12:44:54 +0530"
-    },
-    {
-      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-      "pubDate": "Sat, 19 Sep 2026 11:54:10 +0530"
     }
   ]
 }
