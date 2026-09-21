@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-21T08:03:56Z",
+  "updated": "2026-09-21T15:11:58Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "pubDate": "Mon, 21 Sep 2026 19:54:13 +0530"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "pubDate": "Mon, 21 Sep 2026 19:45:40 +0530"
+    },
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "pubDate": "Mon, 21 Sep 2026 14:09:38 +0530"
+    },
     {
       "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
       "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
@@ -46,21 +61,6 @@
       "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
       "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
       "pubDate": "Sat, 19 Sep 2026 11:54:10 +0530"
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "pubDate": "Fri, 18 Sep 2026 23:32:24 +0530"
-    },
-    {
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "pubDate": "Fri, 18 Sep 2026 22:26:19 +0530"
-    },
-    {
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "pubDate": "Fri, 18 Sep 2026 20:54:16 +0530"
     }
   ]
 }

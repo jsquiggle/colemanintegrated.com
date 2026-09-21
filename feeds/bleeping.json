@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-21T08:03:56Z",
+  "updated": "2026-09-21T15:11:58Z",
   "items": [
+    {
+      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "pubDate": "Mon, 21 Sep 2026 10:42:37 -0400"
+    },
+    {
+      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "pubDate": "Mon, 21 Sep 2026 10:02:12 -0400"
+    },
+    {
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "pubDate": "Mon, 21 Sep 2026 09:16:20 -0400"
+    },
+    {
+      "title": "Microsoft: September updates break File History backup feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "pubDate": "Mon, 21 Sep 2026 07:45:54 -0400"
+    },
     {
       "title": "Malicious npm packages evade install-script defenses at runtime",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
@@ -41,26 +61,6 @@
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
       "pubDate": "Fri, 18 Sep 2026 11:19:06 -0400"
-    },
-    {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "pubDate": "Fri, 18 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "pubDate": "Fri, 18 Sep 2026 09:58:40 -0400"
-    },
-    {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "pubDate": "Fri, 18 Sep 2026 09:10:19 -0400"
-    },
-    {
-      "title": "Microsoft fixes bug behind \u2018Defender Antivirus is turned off\u2019 alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "pubDate": "Fri, 18 Sep 2026 08:16:32 -0400"
     }
   ]
 }
