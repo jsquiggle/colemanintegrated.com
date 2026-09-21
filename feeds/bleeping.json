@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-21T20:02:48Z",
+  "updated": "2026-09-21T23:24:35Z",
   "items": [
+    {
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400"
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "pubDate": "Mon, 21 Sep 2026 16:12:17 -0400"
+    },
     {
       "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
@@ -51,16 +61,6 @@
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400"
-    },
-    {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-      "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400"
     }
   ]
 }
