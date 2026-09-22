@@ -1,7 +1,37 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-22T17:25:10Z",
+  "updated": "2026-09-22T20:17:09Z",
   "items": [
+    {
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "pubDate": "Tue, 22 Sep 2026 23:59:39 +0530"
+    },
+    {
+      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+      "pubDate": "Tue, 22 Sep 2026 23:33:10 +0530"
+    },
+    {
+      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+      "pubDate": "Tue, 22 Sep 2026 23:28:15 +0530"
+    },
+    {
+      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "pubDate": "Tue, 22 Sep 2026 22:33:31 +0530"
+    },
+    {
+      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+      "pubDate": "Tue, 22 Sep 2026 22:11:12 +0530"
+    },
+    {
+      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+      "pubDate": "Tue, 22 Sep 2026 21:44:04 +0530"
+    },
     {
       "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
       "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
@@ -31,36 +61,6 @@
       "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
       "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
       "pubDate": "Tue, 22 Sep 2026 15:08:18 +0530"
-    },
-    {
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "pubDate": "Tue, 22 Sep 2026 13:22:03 +0530"
-    },
-    {
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "pubDate": "Tue, 22 Sep 2026 12:03:57 +0530"
-    },
-    {
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "pubDate": "Tue, 22 Sep 2026 11:33:14 +0530"
-    },
-    {
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "pubDate": "Tue, 22 Sep 2026 11:01:59 +0530"
-    },
-    {
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "pubDate": "Mon, 21 Sep 2026 23:01:01 +0530"
-    },
-    {
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "pubDate": "Mon, 21 Sep 2026 22:49:00 +0530"
     }
   ]
 }
