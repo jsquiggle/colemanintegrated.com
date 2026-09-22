@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-22T12:42:10Z",
+  "updated": "2026-09-22T17:25:10Z",
   "items": [
+    {
+      "title": "Reducing shadow IT visibility gaps with Wazuh",
+      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+      "pubDate": "Tue, 22 Sep 2026 13:17:41 -0400"
+    },
+    {
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400"
+    },
+    {
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+      "pubDate": "Tue, 22 Sep 2026 11:00:00 -0400"
+    },
+    {
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400"
+    },
+    {
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400"
+    },
     {
       "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
       "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
@@ -36,31 +61,6 @@
       "title": "Google fined \u20ac403 million over location data privacy violations",
       "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
       "pubDate": "Mon, 21 Sep 2026 11:41:22 -0400"
-    },
-    {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "pubDate": "Mon, 21 Sep 2026 10:42:37 -0400"
-    },
-    {
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "pubDate": "Mon, 21 Sep 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "pubDate": "Mon, 21 Sep 2026 09:16:20 -0400"
-    },
-    {
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "pubDate": "Mon, 21 Sep 2026 07:45:54 -0400"
-    },
-    {
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "pubDate": "Sun, 20 Sep 2026 10:11:21 -0400"
     }
   ]
 }
