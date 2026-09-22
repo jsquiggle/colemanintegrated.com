@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-22T01:39:56Z",
+  "updated": "2026-09-22T07:00:28Z",
   "items": [
+    {
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "pubDate": "Tue, 22 Sep 2026 12:03:57 +0530"
+    },
+    {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "pubDate": "Tue, 22 Sep 2026 11:33:14 +0530"
+    },
+    {
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "pubDate": "Tue, 22 Sep 2026 11:01:59 +0530"
+    },
     {
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
       "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
@@ -46,21 +61,6 @@
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "pubDate": "Sat, 19 Sep 2026 18:58:48 +0530"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "pubDate": "Sat, 19 Sep 2026 18:58:41 +0530"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "pubDate": "Sat, 19 Sep 2026 15:01:17 +0530"
-    },
-    {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "pubDate": "Sat, 19 Sep 2026 13:48:54 +0530"
     }
   ]
 }
