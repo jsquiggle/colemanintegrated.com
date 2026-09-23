@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-23T17:18:31Z",
+  "updated": "2026-09-23T20:33:08Z",
   "items": [
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400"
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400"
+    },
     {
       "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
@@ -51,16 +61,6 @@
       "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
       "pubDate": "Tue, 22 Sep 2026 16:35:24 -0400"
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400"
-    },
-    {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400"
     }
   ]
 }
