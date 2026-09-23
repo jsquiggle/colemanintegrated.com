@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-23T12:25:05Z",
+  "updated": "2026-09-23T17:18:31Z",
   "items": [
+    {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400"
+    },
+    {
+      "title": "InfraTrust report warns network management systems under attack",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400"
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400"
+    },
     {
       "title": "Microsoft: September Windows updates break Always On VPN connections",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
@@ -41,26 +61,6 @@
       "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
       "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
       "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400"
-    },
-    {
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "pubDate": "Tue, 22 Sep 2026 13:17:41 -0400"
-    },
-    {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400"
-    },
-    {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "pubDate": "Tue, 22 Sep 2026 11:00:00 -0400"
-    },
-    {
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400"
     }
   ]
 }
