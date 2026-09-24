@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-24T17:23:35Z",
+  "updated": "2026-09-24T20:35:38Z",
   "items": [
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "pubDate": "Thu, 24 Sep 2026 16:10:48 -0400"
+    },
+    {
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "pubDate": "Thu, 24 Sep 2026 13:47:44 -0400"
+    },
     {
       "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
       "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
@@ -51,16 +61,6 @@
       "title": "Hackers start exploiting critical WordPress flaw for code execution",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
       "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400"
-    },
-    {
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400"
-    },
-    {
-      "title": "InfraTrust report warns network management systems under attack",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400"
     }
   ]
 }
