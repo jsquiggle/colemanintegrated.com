@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-24T20:35:38Z",
+  "updated": "2026-09-24T23:39:16Z",
   "items": [
+    {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "pubDate": "Thu, 24 Sep 2026 16:53:35 -0400"
+    },
     {
       "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
       "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
@@ -56,11 +61,6 @@
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
       "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
       "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400"
-    },
-    {
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400"
     }
   ]
 }
