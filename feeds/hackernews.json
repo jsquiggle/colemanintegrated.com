@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-25T13:58:23Z",
+  "updated": "2026-09-25T18:13:09Z",
   "items": [
+    {
+      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
+      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "pubDate": "Fri, 25 Sep 2026 20:14:41 +0530"
+    },
+    {
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "pubDate": "Fri, 25 Sep 2026 18:48:06 +0530"
+    },
     {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
       "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
@@ -51,16 +61,6 @@
       "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
       "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
       "pubDate": "Thu, 24 Sep 2026 17:35:27 +0530"
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "pubDate": "Thu, 24 Sep 2026 16:30:00 +0530"
-    },
-    {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "pubDate": "Thu, 24 Sep 2026 14:44:21 +0530"
     }
   ]
 }
