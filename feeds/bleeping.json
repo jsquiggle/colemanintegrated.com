@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-25T08:00:31Z",
+  "updated": "2026-09-25T13:58:23Z",
   "items": [
+    {
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "pubDate": "Fri, 25 Sep 2026 08:40:59 -0400"
+    },
+    {
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "pubDate": "Fri, 25 Sep 2026 07:35:14 -0400"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "pubDate": "Fri, 25 Sep 2026 06:30:38 -0400"
+    },
+    {
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "pubDate": "Fri, 25 Sep 2026 04:33:44 -0400"
+    },
     {
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
@@ -41,26 +61,6 @@
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
       "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
       "pubDate": "Thu, 24 Sep 2026 05:38:53 -0400"
-    },
-    {
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "pubDate": "Thu, 24 Sep 2026 04:14:47 -0400"
-    },
-    {
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400"
-    },
-    {
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "pubDate": "Wed, 23 Sep 2026 17:25:13 -0400"
-    },
-    {
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400"
     }
   ]
 }

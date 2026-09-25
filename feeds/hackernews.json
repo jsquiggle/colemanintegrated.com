@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-25T08:00:31Z",
+  "updated": "2026-09-25T13:58:23Z",
   "items": [
+    {
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "pubDate": "Fri, 25 Sep 2026 17:00:00 +0530"
+    },
+    {
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "pubDate": "Fri, 25 Sep 2026 16:05:55 +0530"
+    },
+    {
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "pubDate": "Fri, 25 Sep 2026 15:44:02 +0530"
+    },
     {
       "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
       "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
@@ -46,21 +61,6 @@
       "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
       "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
       "pubDate": "Thu, 24 Sep 2026 14:44:21 +0530"
-    },
-    {
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "pubDate": "Thu, 24 Sep 2026 12:37:25 +0530"
-    },
-    {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "pubDate": "Thu, 24 Sep 2026 12:02:03 +0530"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "pubDate": "Thu, 24 Sep 2026 11:06:18 +0530"
     }
   ]
 }
