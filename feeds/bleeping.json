@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-26T17:49:44Z",
+  "updated": "2026-09-26T20:19:48Z",
   "items": [
+    {
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "pubDate": "Sat, 26 Sep 2026 15:03:34 -0400"
+    },
     {
       "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
@@ -56,11 +61,6 @@
       "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
       "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
       "pubDate": "Fri, 25 Sep 2026 10:51:10 -0400"
-    },
-    {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "pubDate": "Fri, 25 Sep 2026 08:40:59 -0400"
     }
   ]
 }
