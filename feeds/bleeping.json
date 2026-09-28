@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-28T16:12:44Z",
+  "updated": "2026-09-28T22:10:29Z",
   "items": [
+    {
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "pubDate": "Mon, 28 Sep 2026 16:56:47 -0400"
+    },
+    {
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "pubDate": "Mon, 28 Sep 2026 16:31:16 -0400"
+    },
+    {
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "pubDate": "Mon, 28 Sep 2026 15:49:10 -0400"
+    },
+    {
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "pubDate": "Mon, 28 Sep 2026 14:50:59 -0400"
+    },
     {
       "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
@@ -41,26 +61,6 @@
       "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
       "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "pubDate": "Sun, 27 Sep 2026 10:13:31 -0400"
-    },
-    {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "pubDate": "Sun, 27 Sep 2026 09:38:40 -0400"
-    },
-    {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "pubDate": "Sat, 26 Sep 2026 15:03:34 -0400"
-    },
-    {
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "pubDate": "Sat, 26 Sep 2026 12:26:58 -0400"
-    },
-    {
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "pubDate": "Sat, 26 Sep 2026 11:50:38 -0400"
     }
   ]
 }
