@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-28T07:53:57Z",
+  "updated": "2026-09-28T16:12:44Z",
   "items": [
+    {
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "pubDate": "Mon, 28 Sep 2026 11:49:27 -0400"
+    },
+    {
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "pubDate": "Mon, 28 Sep 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "pubDate": "Mon, 28 Sep 2026 05:25:29 -0400"
+    },
     {
       "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
       "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
@@ -46,21 +61,6 @@
       "title": "Microsoft pauses KB5002907 update after Office license deactivations",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
       "pubDate": "Sat, 26 Sep 2026 11:50:38 -0400"
-    },
-    {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "pubDate": "Sat, 26 Sep 2026 10:19:46 -0400"
-    },
-    {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "pubDate": "Sat, 26 Sep 2026 08:28:41 -0400"
-    },
-    {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "pubDate": "Fri, 25 Sep 2026 17:41:07 -0400"
     }
   ]
 }

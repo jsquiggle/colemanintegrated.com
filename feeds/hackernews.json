@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-28T07:53:57Z",
+  "updated": "2026-09-28T16:12:44Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "pubDate": "Mon, 28 Sep 2026 19:30:53 +0530"
+    },
+    {
+      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+      "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "pubDate": "Mon, 28 Sep 2026 17:28:00 +0530"
+    },
+    {
+      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+      "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "pubDate": "Mon, 28 Sep 2026 17:16:00 +0530"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "pubDate": "Mon, 28 Sep 2026 14:38:21 +0530"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "pubDate": "Mon, 28 Sep 2026 12:51:49 +0530"
+    },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -36,31 +61,6 @@
       "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
       "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
       "pubDate": "Sat, 26 Sep 2026 13:18:33 +0530"
-    },
-    {
-      "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
-      "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "pubDate": "Fri, 25 Sep 2026 20:14:41 +0530"
-    },
-    {
-      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
-      "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-      "pubDate": "Fri, 25 Sep 2026 18:48:06 +0530"
-    },
-    {
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "pubDate": "Fri, 25 Sep 2026 17:00:00 +0530"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "pubDate": "Fri, 25 Sep 2026 16:05:55 +0530"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "pubDate": "Fri, 25 Sep 2026 15:44:02 +0530"
     }
   ]
 }
