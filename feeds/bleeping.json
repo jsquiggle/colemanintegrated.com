@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-29T15:11:59Z",
+  "updated": "2026-09-29T20:03:29Z",
   "items": [
+    {
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "pubDate": "Tue, 29 Sep 2026 14:37:12 -0400"
+    },
+    {
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "pubDate": "Tue, 29 Sep 2026 14:09:39 -0400"
+    },
+    {
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "pubDate": "Tue, 29 Sep 2026 13:37:40 -0400"
+    },
+    {
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+      "pubDate": "Tue, 29 Sep 2026 13:10:11 -0400"
+    },
+    {
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "pubDate": "Tue, 29 Sep 2026 11:39:19 -0400"
+    },
     {
       "title": "Catch threats before they escalate with real-time Identity Telemetry",
       "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
@@ -36,31 +61,6 @@
       "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
       "pubDate": "Mon, 28 Sep 2026 15:49:10 -0400"
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "pubDate": "Mon, 28 Sep 2026 14:50:59 -0400"
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "pubDate": "Mon, 28 Sep 2026 11:49:27 -0400"
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "pubDate": "Mon, 28 Sep 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "pubDate": "Mon, 28 Sep 2026 05:25:29 -0400"
-    },
-    {
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "pubDate": "Mon, 28 Sep 2026 03:30:15 -0400"
     }
   ]
 }
