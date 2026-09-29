@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-29T02:05:51Z",
+  "updated": "2026-09-29T08:46:03Z",
   "items": [
+    {
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "pubDate": "Tue, 29 Sep 2026 03:33:12 -0400"
+    },
     {
       "title": "Japan's Keio confirms ransomware attack disrupted business systems",
       "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
@@ -56,11 +61,6 @@
       "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "pubDate": "Sun, 27 Sep 2026 12:02:37 -0400"
-    },
-    {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "pubDate": "Sun, 27 Sep 2026 10:13:31 -0400"
     }
   ]
 }
