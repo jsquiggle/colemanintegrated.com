@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-29T08:46:03Z",
+  "updated": "2026-09-29T15:11:59Z",
   "items": [
+    {
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "pubDate": "Tue, 29 Sep 2026 14:05:10 +0530"
+    },
     {
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
       "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
@@ -56,11 +61,6 @@
       "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
       "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
       "pubDate": "Mon, 28 Sep 2026 17:16:00 +0530"
-    },
-    {
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "pubDate": "Mon, 28 Sep 2026 14:38:21 +0530"
     }
   ]
 }
