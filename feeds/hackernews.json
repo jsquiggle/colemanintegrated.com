@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-30T02:53:00Z",
+  "updated": "2026-09-30T09:06:59Z",
   "items": [
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "pubDate": "Wed, 30 Sep 2026 11:00:30 +0530"
+    },
     {
       "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
       "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
       "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
       "pubDate": "Tue, 29 Sep 2026 00:05:42 +0530"
-    },
-    {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "pubDate": "Mon, 28 Sep 2026 23:50:38 +0530"
     }
   ]
 }
