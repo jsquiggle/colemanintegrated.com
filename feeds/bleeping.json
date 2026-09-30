@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-09-29T23:48:36Z",
+  "updated": "2026-09-30T02:53:00Z",
   "items": [
+    {
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "pubDate": "Tue, 29 Sep 2026 20:40:57 -0400"
+    },
     {
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
@@ -56,11 +61,6 @@
       "title": "Kiteworks patches critical flaw, brings customer systems online",
       "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
       "pubDate": "Tue, 29 Sep 2026 05:04:06 -0400"
-    },
-    {
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "pubDate": "Tue, 29 Sep 2026 03:33:12 -0400"
     }
   ]
 }
