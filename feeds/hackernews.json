@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-09-30T15:59:55Z",
+  "updated": "2026-09-30T20:37:51Z",
   "items": [
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "pubDate": "Wed, 30 Sep 2026 22:16:29 +0530"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "pubDate": "Wed, 30 Sep 2026 22:02:59 +0530"
+    },
     {
       "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
       "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
@@ -51,16 +61,6 @@
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
       "pubDate": "Tue, 29 Sep 2026 22:50:17 +0530"
-    },
-    {
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "pubDate": "Tue, 29 Sep 2026 22:50:08 +0530"
-    },
-    {
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "pubDate": "Tue, 29 Sep 2026 19:43:20 +0530"
     }
   ]
 }
