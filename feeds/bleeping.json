@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-01T13:36:04Z",
+  "updated": "2026-10-01T19:07:01Z",
   "items": [
+    {
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "pubDate": "Thu, 01 Oct 2026 10:25:14 -0400"
+    },
+    {
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "pubDate": "Thu, 01 Oct 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "pubDate": "Thu, 01 Oct 2026 09:51:08 -0400"
+    },
     {
       "title": "Microsoft enables Windows settings backup by default for orgs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
@@ -46,21 +61,6 @@
       "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
       "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "pubDate": "Wed, 30 Sep 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "pubDate": "Wed, 30 Sep 2026 09:37:15 -0400"
-    },
-    {
-      "title": "TeamViewer urges users to patch severe flaws \u201cas soon as possible\u201d",
-      "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "pubDate": "Wed, 30 Sep 2026 08:25:10 -0400"
-    },
-    {
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "pubDate": "Wed, 30 Sep 2026 07:11:46 -0400"
     }
   ]
 }
