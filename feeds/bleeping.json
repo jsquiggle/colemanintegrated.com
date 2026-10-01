@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-01T06:12:42Z",
+  "updated": "2026-10-01T13:36:04Z",
   "items": [
+    {
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "pubDate": "Thu, 01 Oct 2026 07:14:28 -0400"
+    },
+    {
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "pubDate": "Thu, 01 Oct 2026 05:44:28 -0400"
+    },
+    {
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "pubDate": "Thu, 01 Oct 2026 03:33:57 -0400"
+    },
     {
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
@@ -46,21 +61,6 @@
       "title": "Bitget hacked via zero-day in third-party security products",
       "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
       "pubDate": "Wed, 30 Sep 2026 07:11:46 -0400"
-    },
-    {
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "pubDate": "Tue, 29 Sep 2026 20:40:57 -0400"
-    },
-    {
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "pubDate": "Tue, 29 Sep 2026 17:30:08 -0400"
-    },
-    {
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "pubDate": "Tue, 29 Sep 2026 16:59:39 -0400"
     }
   ]
 }
