@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-01T00:14:26Z",
+  "updated": "2026-10-01T06:12:42Z",
   "items": [
+    {
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "pubDate": "Thu, 01 Oct 2026 10:51:10 +0530"
+    },
+    {
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "pubDate": "Thu, 01 Oct 2026 10:40:09 +0530"
+    },
+    {
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "pubDate": "Thu, 01 Oct 2026 10:05:34 +0530"
+    },
     {
       "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
       "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
@@ -46,21 +61,6 @@
       "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
       "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
       "pubDate": "Wed, 30 Sep 2026 13:39:28 +0530"
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "pubDate": "Wed, 30 Sep 2026 11:00:30 +0530"
-    },
-    {
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "pubDate": "Tue, 29 Sep 2026 23:17:01 +0530"
-    },
-    {
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "pubDate": "Tue, 29 Sep 2026 22:50:17 +0530"
     }
   ]
 }
