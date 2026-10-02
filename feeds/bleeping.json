@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-02T15:09:24Z",
+  "updated": "2026-10-02T20:00:06Z",
   "items": [
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "pubDate": "Fri, 02 Oct 2026 15:01:40 -0400"
+    },
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "pubDate": "Fri, 02 Oct 2026 14:33:01 -0400"
+    },
+    {
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "pubDate": "Fri, 02 Oct 2026 12:20:05 -0400"
+    },
+    {
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "pubDate": "Fri, 02 Oct 2026 11:20:53 -0400"
+    },
     {
       "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
       "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
@@ -41,26 +61,6 @@
       "title": "The Day-One Hole in Zero Trust Architecture",
       "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "pubDate": "Thu, 01 Oct 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "pubDate": "Thu, 01 Oct 2026 09:51:08 -0400"
-    },
-    {
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "pubDate": "Thu, 01 Oct 2026 07:14:28 -0400"
-    },
-    {
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "pubDate": "Thu, 01 Oct 2026 05:44:28 -0400"
-    },
-    {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "pubDate": "Thu, 01 Oct 2026 03:33:57 -0400"
     }
   ]
 }
