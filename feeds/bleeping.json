@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-02T08:42:39Z",
+  "updated": "2026-10-02T15:09:24Z",
   "items": [
+    {
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "pubDate": "Fri, 02 Oct 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "pubDate": "Fri, 02 Oct 2026 08:37:40 -0400"
+    },
+    {
+      "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme",
+      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "pubDate": "Fri, 02 Oct 2026 05:29:56 -0400"
+    },
     {
       "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
@@ -46,21 +61,6 @@
       "title": "Metamask discloses security incident affecting its infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "pubDate": "Thu, 01 Oct 2026 03:33:57 -0400"
-    },
-    {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "pubDate": "Wed, 30 Sep 2026 16:34:01 -0400"
-    },
-    {
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "pubDate": "Wed, 30 Sep 2026 15:49:15 -0400"
-    },
-    {
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "pubDate": "Wed, 30 Sep 2026 14:08:34 -0400"
     }
   ]
 }

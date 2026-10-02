@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-02T08:42:39Z",
+  "updated": "2026-10-02T15:09:24Z",
   "items": [
+    {
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "pubDate": "Fri, 02 Oct 2026 17:53:15 +0530"
+    },
+    {
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "pubDate": "Fri, 02 Oct 2026 17:00:00 +0530"
+    },
     {
       "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
       "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
@@ -51,16 +61,6 @@
       "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
       "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
       "pubDate": "Thu, 01 Oct 2026 11:24:41 +0530"
-    },
-    {
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "pubDate": "Thu, 01 Oct 2026 10:51:10 +0530"
-    },
-    {
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "pubDate": "Thu, 01 Oct 2026 10:40:09 +0530"
     }
   ]
 }
