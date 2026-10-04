@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-04T20:17:08Z",
+  "updated": "2026-10-04T23:20:21Z",
   "items": [
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "pubDate": "Sun, 04 Oct 2026 17:58:01 -0400"
+    },
     {
       "title": "Anthropic asks Claude users to share voice data for AI model training",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
@@ -56,11 +61,6 @@
       "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme",
       "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
       "pubDate": "Fri, 02 Oct 2026 05:29:56 -0400"
-    },
-    {
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "pubDate": "Thu, 01 Oct 2026 18:42:49 -0400"
     }
   ]
 }
