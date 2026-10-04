@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-04T06:05:17Z",
+  "updated": "2026-10-04T12:36:29Z",
   "items": [
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "pubDate": "Sun, 04 Oct 2026 12:52:05 +0530"
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "pubDate": "Sun, 04 Oct 2026 12:50:32 +0530"
+    },
     {
       "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
       "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
@@ -51,16 +61,6 @@
       "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
       "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
       "pubDate": "Fri, 02 Oct 2026 11:19:50 +0530"
-    },
-    {
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "pubDate": "Thu, 01 Oct 2026 22:25:57 +0530"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "pubDate": "Thu, 01 Oct 2026 22:15:38 +0530"
     }
   ]
 }

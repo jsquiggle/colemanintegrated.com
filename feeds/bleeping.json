@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-04T06:05:17Z",
+  "updated": "2026-10-04T12:36:29Z",
   "items": [
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "pubDate": "Sun, 04 Oct 2026 06:53:21 -0400"
+    },
     {
       "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
       "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
@@ -56,11 +61,6 @@
       "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
       "pubDate": "Thu, 01 Oct 2026 18:42:49 -0400"
-    },
-    {
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "pubDate": "Thu, 01 Oct 2026 16:52:50 -0400"
     }
   ]
 }
