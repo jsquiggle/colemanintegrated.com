@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-03T21:32:39Z",
+  "updated": "2026-10-04T00:12:55Z",
   "items": [
+    {
+      "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
+      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "pubDate": "Sat, 03 Oct 2026 19:12:34 -0400"
+    },
     {
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
@@ -56,11 +61,6 @@
       "title": "Autonomous AI agents tried to hack US, Canadian government websites",
       "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
       "pubDate": "Thu, 01 Oct 2026 16:52:50 -0400"
-    },
-    {
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "pubDate": "Thu, 01 Oct 2026 15:32:47 -0400"
     }
   ]
 }
