@@ -1,7 +1,47 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-05T09:17:12Z",
+  "updated": "2026-10-05T18:37:18Z",
   "items": [
+    {
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "pubDate": "Mon, 05 Oct 2026 13:19:53 -0400"
+    },
+    {
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "pubDate": "Mon, 05 Oct 2026 11:21:10 -0400"
+    },
+    {
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "pubDate": "Mon, 05 Oct 2026 10:53:06 -0400"
+    },
+    {
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "pubDate": "Mon, 05 Oct 2026 10:22:12 -0400"
+    },
+    {
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "pubDate": "Mon, 05 Oct 2026 09:33:42 -0400"
+    },
+    {
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "link": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "pubDate": "Mon, 05 Oct 2026 09:01:45 -0400"
+    },
+    {
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "pubDate": "Mon, 05 Oct 2026 06:28:45 -0400"
+    },
+    {
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "pubDate": "Mon, 05 Oct 2026 05:37:56 -0400"
+    },
     {
       "title": "Google halts open-source bug bounty program amid AI spam surge",
       "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
@@ -21,46 +61,6 @@
       "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
       "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
       "pubDate": "Sat, 03 Oct 2026 19:12:34 -0400"
-    },
-    {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "pubDate": "Sat, 03 Oct 2026 15:09:38 -0400"
-    },
-    {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "pubDate": "Sat, 03 Oct 2026 10:35:20 -0400"
-    },
-    {
-      "title": "Frontline Education breach exposes school district employee data",
-      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "pubDate": "Fri, 02 Oct 2026 15:01:40 -0400"
-    },
-    {
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "pubDate": "Fri, 02 Oct 2026 14:33:01 -0400"
-    },
-    {
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "pubDate": "Fri, 02 Oct 2026 12:20:05 -0400"
-    },
-    {
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "pubDate": "Fri, 02 Oct 2026 11:20:53 -0400"
-    },
-    {
-      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-      "link": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-      "pubDate": "Fri, 02 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "pubDate": "Fri, 02 Oct 2026 08:37:40 -0400"
     }
   ]
 }
