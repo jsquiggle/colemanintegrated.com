@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-05T02:09:43Z",
+  "updated": "2026-10-05T09:17:12Z",
   "items": [
+    {
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "pubDate": "Mon, 05 Oct 2026 04:27:46 -0400"
+    },
     {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
@@ -56,11 +61,6 @@
       "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
       "link": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
       "pubDate": "Fri, 02 Oct 2026 08:37:40 -0400"
-    },
-    {
-      "title": "Microsoft\u2019s X account hacked in crypto pump-and-dump scheme",
-      "link": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "pubDate": "Fri, 02 Oct 2026 05:29:56 -0400"
     }
   ]
 }
