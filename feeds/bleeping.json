@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-05T18:37:18Z",
+  "updated": "2026-10-06T00:27:38Z",
   "items": [
+    {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "pubDate": "Mon, 05 Oct 2026 18:46:33 -0400"
+    },
+    {
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "pubDate": "Mon, 05 Oct 2026 16:20:05 -0400"
+    },
     {
       "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
       "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
@@ -51,16 +61,6 @@
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
       "pubDate": "Sun, 04 Oct 2026 17:58:01 -0400"
-    },
-    {
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "pubDate": "Sun, 04 Oct 2026 06:53:21 -0400"
-    },
-    {
-      "title": "Google Gemini could soon get full access to your Mac\u2019s files, apps and the web",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "pubDate": "Sat, 03 Oct 2026 19:12:34 -0400"
     }
   ]
 }
