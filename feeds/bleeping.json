@@ -1,7 +1,42 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-07T09:29:36Z",
+  "updated": "2026-10-07T16:47:55Z",
   "items": [
+    {
+      "title": "Microsoft Outlook to block MSIX attachments starting November",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+      "pubDate": "Wed, 07 Oct 2026 11:44:22 -0400"
+    },
+    {
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "pubDate": "Wed, 07 Oct 2026 11:04:08 -0400"
+    },
+    {
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "pubDate": "Wed, 07 Oct 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "pubDate": "Wed, 07 Oct 2026 08:49:01 -0400"
+    },
+    {
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "pubDate": "Wed, 07 Oct 2026 07:37:07 -0400"
+    },
+    {
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "pubDate": "Wed, 07 Oct 2026 06:35:15 -0400"
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "pubDate": "Wed, 07 Oct 2026 06:27:52 -0400"
+    },
     {
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
@@ -26,41 +61,6 @@
       "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
       "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
       "pubDate": "Tue, 06 Oct 2026 11:16:44 -0400"
-    },
-    {
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "pubDate": "Tue, 06 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "pubDate": "Tue, 06 Oct 2026 07:31:48 -0400"
-    },
-    {
-      "title": "Nikkei discloses breaches of employees\u2019 Microsoft, Google email accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "pubDate": "Tue, 06 Oct 2026 05:25:50 -0400"
-    },
-    {
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "pubDate": "Tue, 06 Oct 2026 04:19:24 -0400"
-    },
-    {
-      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "pubDate": "Mon, 05 Oct 2026 18:46:33 -0400"
-    },
-    {
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "pubDate": "Mon, 05 Oct 2026 16:20:05 -0400"
-    },
-    {
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "pubDate": "Mon, 05 Oct 2026 13:19:53 -0400"
     }
   ]
 }
