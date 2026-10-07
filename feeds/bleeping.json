@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-07T16:47:55Z",
+  "updated": "2026-10-07T21:41:26Z",
   "items": [
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "pubDate": "Wed, 07 Oct 2026 17:28:54 -0400"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "pubDate": "Wed, 07 Oct 2026 16:50:13 -0400"
+    },
     {
       "title": "Microsoft Outlook to block MSIX attachments starting November",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
@@ -51,16 +61,6 @@
       "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
       "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
       "pubDate": "Tue, 06 Oct 2026 13:34:59 -0400"
-    },
-    {
-      "title": "ASOS confirms data breach after \u201cHACKED\u201d in-app notifications",
-      "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "pubDate": "Tue, 06 Oct 2026 12:33:54 -0400"
-    },
-    {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "pubDate": "Tue, 06 Oct 2026 11:16:44 -0400"
     }
   ]
 }
