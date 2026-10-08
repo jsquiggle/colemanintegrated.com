@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-08T01:25:28Z",
+  "updated": "2026-10-08T07:39:07Z",
   "items": [
+    {
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "pubDate": "Thu, 08 Oct 2026 02:32:16 -0400"
+    },
     {
       "title": "Ransomware recovery CEO charged over secret ransom payments",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
@@ -56,11 +61,6 @@
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
       "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400"
-    },
-    {
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "pubDate": "Tue, 06 Oct 2026 15:21:53 -0400"
     }
   ]
 }
