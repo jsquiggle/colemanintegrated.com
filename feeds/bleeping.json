@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-08T07:39:07Z",
+  "updated": "2026-10-08T15:02:13Z",
   "items": [
+    {
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "pubDate": "Thu, 08 Oct 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "pubDate": "Thu, 08 Oct 2026 09:18:36 -0400"
+    },
+    {
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "pubDate": "Thu, 08 Oct 2026 08:08:16 -0400"
+    },
+    {
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "pubDate": "Thu, 08 Oct 2026 07:42:46 -0400"
+    },
+    {
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "pubDate": "Thu, 08 Oct 2026 06:29:19 -0400"
+    },
     {
       "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
@@ -36,31 +61,6 @@
       "title": "Ransomware has a new target. Is your backup ready?",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
       "pubDate": "Wed, 07 Oct 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "pubDate": "Wed, 07 Oct 2026 08:49:01 -0400"
-    },
-    {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "pubDate": "Wed, 07 Oct 2026 07:37:07 -0400"
-    },
-    {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "pubDate": "Wed, 07 Oct 2026 06:35:15 -0400"
-    },
-    {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "pubDate": "Wed, 07 Oct 2026 06:27:52 -0400"
-    },
-    {
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400"
     }
   ]
 }
