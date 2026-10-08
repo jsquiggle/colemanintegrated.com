@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-08T15:02:13Z",
+  "updated": "2026-10-08T20:44:10Z",
   "items": [
+    {
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "pubDate": "Fri, 09 Oct 2026 00:02:21 +0530"
+    },
+    {
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "pubDate": "Thu, 08 Oct 2026 23:28:02 +0530"
+    },
+    {
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "pubDate": "Thu, 08 Oct 2026 21:15:56 +0530"
+    },
+    {
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "pubDate": "Thu, 08 Oct 2026 20:56:56 +0530"
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "pubDate": "Thu, 08 Oct 2026 19:42:34 +0530"
+    },
     {
       "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
       "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
@@ -36,31 +61,6 @@
       "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
       "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
       "pubDate": "Wed, 07 Oct 2026 23:13:20 +0530"
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "pubDate": "Wed, 07 Oct 2026 21:47:44 +0530"
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "pubDate": "Wed, 07 Oct 2026 21:04:53 +0530"
-    },
-    {
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "pubDate": "Wed, 07 Oct 2026 21:03:51 +0530"
-    },
-    {
-      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-      "pubDate": "Wed, 07 Oct 2026 17:27:05 +0530"
-    },
-    {
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "pubDate": "Wed, 07 Oct 2026 17:26:56 +0530"
     }
   ]
 }
