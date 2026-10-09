@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-09T19:19:04Z",
+  "updated": "2026-10-09T23:22:26Z",
   "items": [
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "pubDate": "Sat, 10 Oct 2026 00:44:28 +0530"
+    },
     {
       "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
       "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
@@ -56,11 +61,6 @@
       "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
       "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
       "pubDate": "Fri, 09 Oct 2026 13:41:33 +0530"
-    },
-    {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "pubDate": "Fri, 09 Oct 2026 12:09:29 +0530"
     }
   ]
 }
