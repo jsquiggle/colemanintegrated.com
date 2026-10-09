@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-09T06:55:52Z",
+  "updated": "2026-10-09T14:00:00Z",
   "items": [
+    {
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "pubDate": "Fri, 09 Oct 2026 17:51:51 +0530"
+    },
+    {
+      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "pubDate": "Fri, 09 Oct 2026 17:00:00 +0530"
+    },
+    {
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "pubDate": "Fri, 09 Oct 2026 14:33:24 +0530"
+    },
+    {
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "pubDate": "Fri, 09 Oct 2026 13:56:17 +0530"
+    },
+    {
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "pubDate": "Fri, 09 Oct 2026 13:41:33 +0530"
+    },
     {
       "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
       "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
@@ -36,31 +61,6 @@
       "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
       "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
       "pubDate": "Thu, 08 Oct 2026 16:00:00 +0530"
-    },
-    {
-      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "pubDate": "Thu, 08 Oct 2026 15:16:32 +0530"
-    },
-    {
-      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "pubDate": "Thu, 08 Oct 2026 13:12:04 +0530"
-    },
-    {
-      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "pubDate": "Thu, 08 Oct 2026 13:11:44 +0530"
-    },
-    {
-      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "pubDate": "Thu, 08 Oct 2026 11:16:20 +0530"
-    },
-    {
-      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
-      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "pubDate": "Thu, 08 Oct 2026 00:18:17 +0530"
     }
   ]
 }
