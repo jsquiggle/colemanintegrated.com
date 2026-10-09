@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-08T20:44:10Z",
+  "updated": "2026-10-09T00:47:41Z",
   "items": [
+    {
+      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+      "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400"
+    },
     {
       "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
@@ -56,11 +61,6 @@
       "title": "Ransomware recovery CEO charged over secret ransom payments",
       "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "pubDate": "Wed, 07 Oct 2026 19:04:37 -0400"
-    },
-    {
-      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "pubDate": "Wed, 07 Oct 2026 17:28:54 -0400"
     }
   ]
 }
