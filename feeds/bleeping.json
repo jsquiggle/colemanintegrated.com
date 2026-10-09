@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-09T14:00:00Z",
+  "updated": "2026-10-09T19:19:04Z",
   "items": [
+    {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "pubDate": "Fri, 09 Oct 2026 13:17:23 -0400"
+    },
+    {
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "pubDate": "Fri, 09 Oct 2026 13:02:29 -0400"
+    },
+    {
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "link": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "pubDate": "Fri, 09 Oct 2026 11:38:56 -0400"
+    },
+    {
+      "title": "How to keep AI agents within their permissions",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "pubDate": "Fri, 09 Oct 2026 10:01:11 -0400"
+    },
     {
       "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
@@ -41,26 +61,6 @@
       "title": "Low-cost Android phones ship with residential proxy malware",
       "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
       "pubDate": "Thu, 08 Oct 2026 15:20:33 -0400"
-    },
-    {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "pubDate": "Thu, 08 Oct 2026 13:10:55 -0400"
-    },
-    {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "pubDate": "Thu, 08 Oct 2026 11:26:33 -0400"
-    },
-    {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "pubDate": "Thu, 08 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "pubDate": "Thu, 08 Oct 2026 09:18:36 -0400"
     }
   ]
 }

@@ -1,7 +1,37 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-09T14:00:00Z",
+  "updated": "2026-10-09T19:19:04Z",
   "items": [
+    {
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "pubDate": "Fri, 09 Oct 2026 23:15:26 +0530"
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "pubDate": "Fri, 09 Oct 2026 21:59:55 +0530"
+    },
+    {
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "pubDate": "Fri, 09 Oct 2026 18:52:53 +0530"
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "pubDate": "Fri, 09 Oct 2026 18:29:22 +0530"
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "pubDate": "Fri, 09 Oct 2026 18:17:28 +0530"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "pubDate": "Fri, 09 Oct 2026 18:17:26 +0530"
+    },
     {
       "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
       "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
@@ -31,36 +61,6 @@
       "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
       "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
       "pubDate": "Fri, 09 Oct 2026 12:09:29 +0530"
-    },
-    {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "pubDate": "Fri, 09 Oct 2026 00:02:21 +0530"
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "pubDate": "Thu, 08 Oct 2026 23:28:02 +0530"
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "pubDate": "Thu, 08 Oct 2026 21:15:56 +0530"
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "pubDate": "Thu, 08 Oct 2026 20:56:56 +0530"
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "pubDate": "Thu, 08 Oct 2026 19:42:34 +0530"
-    },
-    {
-      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-      "pubDate": "Thu, 08 Oct 2026 16:00:00 +0530"
     }
   ]
 }
