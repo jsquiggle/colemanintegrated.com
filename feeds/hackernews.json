@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-09T00:47:41Z",
+  "updated": "2026-10-09T06:55:52Z",
   "items": [
+    {
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "pubDate": "Fri, 09 Oct 2026 12:09:29 +0530"
+    },
     {
       "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
       "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
@@ -56,11 +61,6 @@
       "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
       "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
       "pubDate": "Thu, 08 Oct 2026 00:18:17 +0530"
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "pubDate": "Wed, 07 Oct 2026 23:13:20 +0530"
     }
   ]
 }

@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-09T00:47:41Z",
+  "updated": "2026-10-09T06:55:52Z",
   "items": [
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "pubDate": "Fri, 09 Oct 2026 01:41:04 -0400"
+    },
     {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
@@ -56,11 +61,6 @@
       "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
       "pubDate": "Thu, 08 Oct 2026 02:32:16 -0400"
-    },
-    {
-      "title": "Ransomware recovery CEO charged over secret ransom payments",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "pubDate": "Wed, 07 Oct 2026 19:04:37 -0400"
     }
   ]
 }
