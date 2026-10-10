@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-10-09T23:22:26Z",
+  "updated": "2026-10-10T02:28:58Z",
   "items": [
+    {
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "pubDate": "Sat, 10 Oct 2026 00:17:42 +0000"
+    },
     {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -46,11 +51,6 @@
       "title": "Microsoft Plugs Nearly 400 Security Holes",
       "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "pubDate": "Tue, 11 Aug 2026 21:28:35 +0000"
-    },
-    {
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "pubDate": "Thu, 06 Aug 2026 17:00:56 +0000"
     }
   ]
 }
