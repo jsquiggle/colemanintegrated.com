@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-10T08:47:58Z",
+  "updated": "2026-10-10T14:53:30Z",
   "items": [
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "pubDate": "Sat, 10 Oct 2026 10:16:17 -0400"
+    },
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "pubDate": "Sat, 10 Oct 2026 08:30:39 -0400"
+    },
     {
       "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
@@ -51,16 +61,6 @@
       "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
       "pubDate": "Fri, 09 Oct 2026 01:41:04 -0400"
-    },
-    {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400"
-    },
-    {
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "pubDate": "Thu, 08 Oct 2026 16:09:45 -0400"
     }
   ]
 }
