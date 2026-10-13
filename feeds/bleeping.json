@@ -1,7 +1,47 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-13T16:33:54Z",
+  "updated": "2026-10-13T21:37:52Z",
   "items": [
+    {
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400"
+    },
+    {
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "pubDate": "Tue, 13 Oct 2026 17:16:34 -0400"
+    },
+    {
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "pubDate": "Tue, 13 Oct 2026 15:56:09 -0400"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "pubDate": "Tue, 13 Oct 2026 15:47:30 -0400"
+    },
+    {
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "pubDate": "Tue, 13 Oct 2026 15:04:38 -0400"
+    },
+    {
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+      "pubDate": "Tue, 13 Oct 2026 14:19:44 -0400"
+    },
+    {
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "pubDate": "Tue, 13 Oct 2026 13:49:38 -0400"
+    },
+    {
+      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "pubDate": "Tue, 13 Oct 2026 12:44:18 -0400"
+    },
     {
       "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
@@ -21,46 +61,6 @@
       "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
       "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
       "pubDate": "Tue, 13 Oct 2026 09:51:02 -0400"
-    },
-    {
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "pubDate": "Mon, 12 Oct 2026 16:13:52 -0400"
-    },
-    {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "pubDate": "Mon, 12 Oct 2026 15:23:01 -0400"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "pubDate": "Mon, 12 Oct 2026 14:51:59 -0400"
-    },
-    {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "pubDate": "Mon, 12 Oct 2026 12:27:23 -0400"
-    },
-    {
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "pubDate": "Mon, 12 Oct 2026 11:23:34 -0400"
-    },
-    {
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "pubDate": "Mon, 12 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "pubDate": "Mon, 12 Oct 2026 09:51:07 -0400"
-    },
-    {
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "pubDate": "Mon, 12 Oct 2026 09:09:09 -0400"
     }
   ]
 }
