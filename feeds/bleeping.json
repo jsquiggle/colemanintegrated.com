@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-12T19:34:07Z",
+  "updated": "2026-10-13T01:42:52Z",
   "items": [
+    {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "pubDate": "Mon, 12 Oct 2026 16:13:52 -0400"
+    },
     {
       "title": "Yandex confirms service outage as users lose access to cloud files",
       "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
@@ -56,11 +61,6 @@
       "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
       "pubDate": "Sat, 10 Oct 2026 10:16:17 -0400"
-    },
-    {
-      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "pubDate": "Sat, 10 Oct 2026 08:30:39 -0400"
     }
   ]
 }
