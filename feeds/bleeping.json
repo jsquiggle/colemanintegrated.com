@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-13T21:37:52Z",
+  "updated": "2026-10-14T00:43:12Z",
   "items": [
+    {
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400"
+    },
     {
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
       "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
@@ -56,11 +61,6 @@
       "title": "The MFA Gaps Attackers are Still Exploiting",
       "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
       "pubDate": "Tue, 13 Oct 2026 10:01:11 -0400"
-    },
-    {
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "pubDate": "Tue, 13 Oct 2026 09:51:02 -0400"
     }
   ]
 }
