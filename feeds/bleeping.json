@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-14T10:48:32Z",
+  "updated": "2026-10-14T15:36:31Z",
   "items": [
+    {
+      "title": "Microsoft fixes VPN issues caused by September Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "pubDate": "Wed, 14 Oct 2026 10:27:01 -0400"
+    },
+    {
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "pubDate": "Wed, 14 Oct 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "pubDate": "Wed, 14 Oct 2026 09:12:52 -0400"
+    },
+    {
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "pubDate": "Wed, 14 Oct 2026 08:58:07 -0400"
+    },
+    {
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "pubDate": "Wed, 14 Oct 2026 07:41:20 -0400"
+    },
     {
       "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
@@ -36,31 +61,6 @@
       "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
       "pubDate": "Tue, 13 Oct 2026 15:04:38 -0400"
-    },
-    {
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "pubDate": "Tue, 13 Oct 2026 14:19:44 -0400"
-    },
-    {
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "pubDate": "Tue, 13 Oct 2026 13:49:38 -0400"
-    },
-    {
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "pubDate": "Tue, 13 Oct 2026 12:44:18 -0400"
-    },
-    {
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "pubDate": "Tue, 13 Oct 2026 11:45:50 -0400"
-    },
-    {
-      "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
-      "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "pubDate": "Tue, 13 Oct 2026 11:20:20 -0400"
     }
   ]
 }
