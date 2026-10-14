@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-14T15:36:31Z",
+  "updated": "2026-10-14T19:49:20Z",
   "items": [
+    {
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "pubDate": "Thu, 15 Oct 2026 00:08:56 +0530"
+    },
+    {
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "pubDate": "Wed, 14 Oct 2026 23:08:31 +0530"
+    },
+    {
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "pubDate": "Wed, 14 Oct 2026 22:39:15 +0530"
+    },
+    {
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530"
+    },
     {
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
@@ -41,26 +61,6 @@
       "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
       "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
       "pubDate": "Wed, 14 Oct 2026 11:22:28 +0530"
-    },
-    {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530"
-    },
-    {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "pubDate": "Wed, 14 Oct 2026 07:29:25 +0530"
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "pubDate": "Tue, 13 Oct 2026 23:50:57 +0530"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "pubDate": "Tue, 13 Oct 2026 23:33:18 +0530"
     }
   ]
 }
