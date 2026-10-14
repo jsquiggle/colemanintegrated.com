@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-14T05:35:51Z",
+  "updated": "2026-10-14T10:48:32Z",
   "items": [
+    {
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "pubDate": "Wed, 14 Oct 2026 06:48:09 -0400"
+    },
     {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
@@ -56,11 +61,6 @@
       "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
       "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
       "pubDate": "Tue, 13 Oct 2026 11:20:20 -0400"
-    },
-    {
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "pubDate": "Tue, 13 Oct 2026 10:01:11 -0400"
     }
   ]
 }
