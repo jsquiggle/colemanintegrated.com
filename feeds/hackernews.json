@@ -1,7 +1,42 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-15T11:47:38Z",
+  "updated": "2026-10-15T15:55:25Z",
   "items": [
+    {
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "pubDate": "Thu, 15 Oct 2026 19:41:36 +0530"
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "pubDate": "Thu, 15 Oct 2026 18:28:05 +0530"
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "pubDate": "Thu, 15 Oct 2026 17:58:13 +0530"
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "pubDate": "Thu, 15 Oct 2026 17:37:20 +0530"
+    },
+    {
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "pubDate": "Thu, 15 Oct 2026 17:16:59 +0530"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "pubDate": "Thu, 15 Oct 2026 17:16:49 +0530"
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "pubDate": "Thu, 15 Oct 2026 16:34:35 +0530"
+    },
     {
       "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
       "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
@@ -23,44 +58,9 @@
       "pubDate": "Thu, 15 Oct 2026 12:13:08 +0530"
     },
     {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "pubDate": "Thu, 15 Oct 2026 11:47:58 +0530"
-    },
-    {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
       "pubDate": "Thu, 15 Oct 2026 00:08:56 +0530"
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
-      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "pubDate": "Wed, 14 Oct 2026 23:08:31 +0530"
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "pubDate": "Wed, 14 Oct 2026 22:39:15 +0530"
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "pubDate": "Wed, 14 Oct 2026 18:00:42 +0530"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "pubDate": "Wed, 14 Oct 2026 17:43:36 +0530"
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "pubDate": "Wed, 14 Oct 2026 17:20:00 +0530"
     }
   ]
 }
