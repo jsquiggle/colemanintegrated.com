@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-15T19:33:14Z",
+  "updated": "2026-10-15T22:45:16Z",
   "items": [
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400"
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "pubDate": "Thu, 15 Oct 2026 15:48:43 -0400"
+    },
     {
       "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
@@ -51,16 +61,6 @@
       "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
       "pubDate": "Wed, 14 Oct 2026 13:46:50 -0400"
-    },
-    {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "pubDate": "Wed, 14 Oct 2026 13:29:14 -0400"
-    },
-    {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "pubDate": "Wed, 14 Oct 2026 10:27:01 -0400"
     }
   ]
 }
