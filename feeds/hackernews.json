@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-15T15:55:25Z",
+  "updated": "2026-10-15T19:33:14Z",
   "items": [
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "pubDate": "Fri, 16 Oct 2026 00:19:33 +0530"
+    },
+    {
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "pubDate": "Thu, 15 Oct 2026 21:31:57 +0530"
+    },
+    {
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "pubDate": "Thu, 15 Oct 2026 21:30:26 +0530"
+    },
     {
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
       "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
@@ -46,21 +61,6 @@
       "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
       "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
       "pubDate": "Thu, 15 Oct 2026 14:15:10 +0530"
-    },
-    {
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "pubDate": "Thu, 15 Oct 2026 12:37:05 +0530"
-    },
-    {
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "pubDate": "Thu, 15 Oct 2026 12:13:08 +0530"
-    },
-    {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "pubDate": "Thu, 15 Oct 2026 00:08:56 +0530"
     }
   ]
 }
