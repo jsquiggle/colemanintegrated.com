@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-16T09:58:34Z",
+  "updated": "2026-10-16T14:32:10Z",
   "items": [
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530"
+    },
     {
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
       "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
@@ -56,11 +61,6 @@
       "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
       "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
       "pubDate": "Thu, 15 Oct 2026 17:37:20 +0530"
-    },
-    {
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "pubDate": "Thu, 15 Oct 2026 17:16:59 +0530"
     }
   ]
 }
