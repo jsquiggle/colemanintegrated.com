@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-16T14:32:10Z",
+  "updated": "2026-10-16T18:30:02Z",
   "items": [
+    {
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "pubDate": "Fri, 16 Oct 2026 13:20:03 -0400"
+    },
     {
       "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
       "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
@@ -56,11 +61,6 @@
       "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400"
-    },
-    {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400"
     }
   ]
 }
