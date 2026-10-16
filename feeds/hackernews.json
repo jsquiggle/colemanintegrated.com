@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-16T18:30:02Z",
+  "updated": "2026-10-16T21:33:36Z",
   "items": [
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "pubDate": "Fri, 16 Oct 2026 23:18:45 +0530"
+    },
     {
       "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
       "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
@@ -56,11 +61,6 @@
       "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
       "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
       "pubDate": "Thu, 15 Oct 2026 21:30:26 +0530"
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "pubDate": "Thu, 15 Oct 2026 19:41:36 +0530"
     }
   ]
 }

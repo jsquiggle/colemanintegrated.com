@@ -1,9 +1,14 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-16T18:30:02Z",
+  "updated": "2026-10-16T21:33:36Z",
   "items": [
     {
-      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "pubDate": "Fri, 16 Oct 2026 16:00:59 -0400"
+    },
+    {
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "pubDate": "Fri, 16 Oct 2026 13:20:03 -0400"
     },
@@ -56,11 +61,6 @@
       "title": "Is AI pentesting as good as a human pentester?",
       "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400"
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400"
     }
   ]
 }
