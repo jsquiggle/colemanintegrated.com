@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-17T12:33:09Z",
+  "updated": "2026-10-17T16:00:52Z",
   "items": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "pubDate": "Sat, 17 Oct 2026 11:18:51 -0400"
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "pubDate": "Sat, 17 Oct 2026 10:32:48 -0400"
+    },
     {
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
@@ -51,16 +61,6 @@
       "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
       "pubDate": "Thu, 15 Oct 2026 14:20:59 -0400"
-    },
-    {
-      "title": "Fake Arch Linux packages push malware with root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "pubDate": "Thu, 15 Oct 2026 13:12:31 -0400"
-    },
-    {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400"
     }
   ]
 }
