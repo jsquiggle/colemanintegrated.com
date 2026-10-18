@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-18T11:27:11Z",
+  "updated": "2026-10-18T14:42:47Z",
   "items": [
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "pubDate": "Sun, 18 Oct 2026 10:23:16 -0400"
+    },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
@@ -56,11 +61,6 @@
       "title": "Android gets AI defenses against messaging scams, fake calls",
       "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
       "pubDate": "Thu, 15 Oct 2026 15:48:43 -0400"
-    },
-    {
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "pubDate": "Thu, 15 Oct 2026 14:20:59 -0400"
     }
   ]
 }
