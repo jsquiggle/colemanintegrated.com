@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-19T10:28:46Z",
+  "updated": "2026-10-19T17:04:03Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "pubDate": "Mon, 19 Oct 2026 19:44:07 +0530"
+    },
+    {
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "pubDate": "Mon, 19 Oct 2026 18:35:45 +0530"
+    },
+    {
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "pubDate": "Mon, 19 Oct 2026 17:20:00 +0530"
+    },
+    {
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "pubDate": "Mon, 19 Oct 2026 15:36:40 +0530"
+    },
     {
       "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
@@ -41,26 +61,6 @@
       "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
       "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
       "pubDate": "Fri, 16 Oct 2026 21:46:44 +0530"
-    },
-    {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "pubDate": "Fri, 16 Oct 2026 19:33:04 +0530"
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530"
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "pubDate": "Fri, 16 Oct 2026 12:25:55 +0530"
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "pubDate": "Fri, 16 Oct 2026 12:23:09 +0530"
     }
   ]
 }

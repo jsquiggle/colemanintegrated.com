@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-19T10:28:46Z",
+  "updated": "2026-10-19T17:04:03Z",
   "items": [
+    {
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "pubDate": "Mon, 19 Oct 2026 10:55:23 -0400"
+    },
+    {
+      "title": "Inside the Underground Market for Know Your Client Services",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "pubDate": "Mon, 19 Oct 2026 10:00:10 -0400"
+    },
+    {
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "pubDate": "Mon, 19 Oct 2026 09:49:24 -0400"
+    },
+    {
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+      "pubDate": "Mon, 19 Oct 2026 08:44:44 -0400"
+    },
     {
       "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
@@ -41,26 +61,6 @@
       "title": "Burger King Japan data breach exposes 11 million customer records",
       "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
       "pubDate": "Fri, 16 Oct 2026 08:01:29 -0400"
-    },
-    {
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "pubDate": "Fri, 16 Oct 2026 04:44:22 -0400"
-    },
-    {
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "pubDate": "Fri, 16 Oct 2026 03:37:35 -0400"
-    },
-    {
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "pubDate": "Fri, 16 Oct 2026 02:18:08 -0400"
-    },
-    {
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400"
     }
   ]
 }
