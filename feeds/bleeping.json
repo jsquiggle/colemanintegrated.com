@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-19T04:57:57Z",
+  "updated": "2026-10-19T10:28:46Z",
   "items": [
+    {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "pubDate": "Mon, 19 Oct 2026 04:58:41 -0400"
+    },
     {
       "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
       "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400"
-    },
-    {
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "pubDate": "Thu, 15 Oct 2026 15:48:43 -0400"
     }
   ]
 }

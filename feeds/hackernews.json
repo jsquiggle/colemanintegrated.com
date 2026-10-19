@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-19T04:57:57Z",
+  "updated": "2026-10-19T10:28:46Z",
   "items": [
+    {
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "pubDate": "Mon, 19 Oct 2026 11:59:44 +0530"
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "pubDate": "Mon, 19 Oct 2026 11:37:08 +0530"
+    },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
       "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
@@ -51,16 +61,6 @@
       "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
       "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
       "pubDate": "Fri, 16 Oct 2026 12:23:09 +0530"
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "pubDate": "Fri, 16 Oct 2026 10:29:36 +0530"
-    },
-    {
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "pubDate": "Fri, 16 Oct 2026 01:54:36 +0530"
     }
   ]
 }
