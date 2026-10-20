@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-20T15:26:22Z",
+  "updated": "2026-10-20T19:25:54Z",
   "items": [
+    {
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "pubDate": "Tue, 20 Oct 2026 14:11:03 -0400"
+    },
     {
       "title": "DHS bans DeepSeek products across US federal civilian agencies",
       "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
@@ -56,11 +61,6 @@
       "title": "Bullhorn takes staffing platform offline to contain cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
       "pubDate": "Mon, 19 Oct 2026 14:51:13 -0400"
-    },
-    {
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "pubDate": "Mon, 19 Oct 2026 13:27:15 -0400"
     }
   ]
 }
