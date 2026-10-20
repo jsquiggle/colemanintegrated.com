@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-20T05:30:24Z",
+  "updated": "2026-10-20T10:35:22Z",
   "items": [
+    {
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "pubDate": "Tue, 20 Oct 2026 05:46:44 -0400"
+    },
     {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
       "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
@@ -56,11 +61,6 @@
       "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "pubDate": "Sun, 18 Oct 2026 10:23:16 -0400"
-    },
-    {
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "pubDate": "Sat, 17 Oct 2026 11:18:51 -0400"
     }
   ]
 }

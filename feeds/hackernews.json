@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-20T05:30:24Z",
+  "updated": "2026-10-20T10:35:22Z",
   "items": [
+    {
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "pubDate": "Tue, 20 Oct 2026 13:51:29 +0530"
+    },
+    {
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "pubDate": "Tue, 20 Oct 2026 12:41:45 +0530"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "pubDate": "Tue, 20 Oct 2026 11:23:16 +0530"
+    },
     {
       "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
       "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
@@ -46,21 +61,6 @@
       "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
       "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
       "pubDate": "Mon, 19 Oct 2026 11:37:08 +0530"
-    },
-    {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "pubDate": "Sun, 18 Oct 2026 13:53:02 +0530"
-    },
-    {
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "pubDate": "Sat, 17 Oct 2026 16:41:56 +0530"
-    },
-    {
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "pubDate": "Sat, 17 Oct 2026 11:46:46 +0530"
     }
   ]
 }
