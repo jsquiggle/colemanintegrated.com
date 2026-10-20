@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-19T21:36:41Z",
+  "updated": "2026-10-20T00:47:07Z",
   "items": [
+    {
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "pubDate": "Mon, 19 Oct 2026 17:49:48 -0400"
+    },
     {
       "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
@@ -56,11 +61,6 @@
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "pubDate": "Sat, 17 Oct 2026 11:18:51 -0400"
-    },
-    {
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "pubDate": "Sat, 17 Oct 2026 10:32:48 -0400"
     }
   ]
 }
