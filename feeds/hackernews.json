@@ -1,7 +1,42 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-20T10:35:22Z",
+  "updated": "2026-10-20T15:26:22Z",
   "items": [
+    {
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "pubDate": "Tue, 20 Oct 2026 19:37:17 +0530"
+    },
+    {
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "pubDate": "Tue, 20 Oct 2026 18:29:44 +0530"
+    },
+    {
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "pubDate": "Tue, 20 Oct 2026 17:11:06 +0530"
+    },
+    {
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "pubDate": "Tue, 20 Oct 2026 17:03:04 +0530"
+    },
+    {
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "pubDate": "Tue, 20 Oct 2026 17:02:59 +0530"
+    },
+    {
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "pubDate": "Tue, 20 Oct 2026 16:36:25 +0530"
+    },
+    {
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "pubDate": "Tue, 20 Oct 2026 16:26:08 +0530"
+    },
     {
       "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
       "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
@@ -26,41 +61,6 @@
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
       "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
       "pubDate": "Mon, 19 Oct 2026 23:02:13 +0530"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "pubDate": "Mon, 19 Oct 2026 21:58:47 +0530"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "pubDate": "Mon, 19 Oct 2026 19:44:07 +0530"
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "pubDate": "Mon, 19 Oct 2026 18:35:45 +0530"
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "pubDate": "Mon, 19 Oct 2026 17:20:00 +0530"
-    },
-    {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "pubDate": "Mon, 19 Oct 2026 15:36:40 +0530"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "pubDate": "Mon, 19 Oct 2026 11:59:44 +0530"
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "pubDate": "Mon, 19 Oct 2026 11:37:08 +0530"
     }
   ]
 }
