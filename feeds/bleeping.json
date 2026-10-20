@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-20T19:25:54Z",
+  "updated": "2026-10-20T22:27:32Z",
   "items": [
+    {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "pubDate": "Tue, 20 Oct 2026 16:56:43 -0400"
+    },
+    {
+      "title": "Zeabur shutting down after second security breach in two months",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "pubDate": "Tue, 20 Oct 2026 15:33:02 -0400"
+    },
     {
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
@@ -51,16 +61,6 @@
       "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
       "pubDate": "Mon, 19 Oct 2026 17:24:51 -0400"
-    },
-    {
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "pubDate": "Mon, 19 Oct 2026 15:40:58 -0400"
-    },
-    {
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "pubDate": "Mon, 19 Oct 2026 14:51:13 -0400"
     }
   ]
 }
