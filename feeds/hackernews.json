@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-21T19:45:09Z",
+  "updated": "2026-10-21T22:52:27Z",
   "items": [
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "pubDate": "Thu, 22 Oct 2026 00:27:34 +0530"
+    },
     {
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
@@ -56,11 +61,6 @@
       "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
       "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
       "pubDate": "Wed, 21 Oct 2026 14:31:12 +0530"
-    },
-    {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "pubDate": "Wed, 21 Oct 2026 13:34:17 +0530"
     }
   ]
 }
