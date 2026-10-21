@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-21T05:31:03Z",
+  "updated": "2026-10-21T10:47:15Z",
   "items": [
+    {
+      "title": "Microsoft says October updates didn\u2019t actually fix VPN issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "pubDate": "Wed, 21 Oct 2026 06:14:53 -0400"
+    },
+    {
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "pubDate": "Wed, 21 Oct 2026 04:36:24 -0400"
+    },
     {
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
@@ -51,16 +61,6 @@
       "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
       "pubDate": "Tue, 20 Oct 2026 07:31:22 -0400"
-    },
-    {
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "pubDate": "Tue, 20 Oct 2026 07:18:35 -0400"
-    },
-    {
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "pubDate": "Tue, 20 Oct 2026 05:46:44 -0400"
     }
   ]
 }
