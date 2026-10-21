@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-21T00:43:43Z",
+  "updated": "2026-10-21T05:31:03Z",
   "items": [
+    {
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "pubDate": "Tue, 20 Oct 2026 21:01:50 -0400"
+    },
+    {
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "pubDate": "Tue, 20 Oct 2026 20:46:42 -0400"
+    },
     {
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
@@ -51,16 +61,6 @@
       "title": "Revolut outage disrupts online banking operations worldwide",
       "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "pubDate": "Tue, 20 Oct 2026 05:46:44 -0400"
-    },
-    {
-      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
-      "pubDate": "Mon, 19 Oct 2026 17:49:48 -0400"
-    },
-    {
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "pubDate": "Mon, 19 Oct 2026 17:24:51 -0400"
     }
   ]
 }
