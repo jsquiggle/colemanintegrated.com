@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-21T15:43:01Z",
+  "updated": "2026-10-21T19:45:09Z",
   "items": [
+    {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "pubDate": "Wed, 21 Oct 2026 14:34:42 -0400"
+    },
+    {
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "pubDate": "Wed, 21 Oct 2026 12:26:53 -0400"
+    },
     {
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
       "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
@@ -51,16 +61,6 @@
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
       "pubDate": "Tue, 20 Oct 2026 14:11:03 -0400"
-    },
-    {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "pubDate": "Tue, 20 Oct 2026 10:19:05 -0400"
-    },
-    {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "pubDate": "Tue, 20 Oct 2026 09:51:00 -0400"
     }
   ]
 }
