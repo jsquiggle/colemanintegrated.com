@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-22T12:10:09Z",
+  "updated": "2026-10-22T17:23:56Z",
   "items": [
+    {
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "pubDate": "Thu, 22 Oct 2026 21:42:31 +0530"
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "pubDate": "Thu, 22 Oct 2026 19:08:22 +0530"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "pubDate": "Thu, 22 Oct 2026 17:15:00 +0530"
+    },
     {
       "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
       "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
@@ -46,21 +61,6 @@
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
       "pubDate": "Wed, 21 Oct 2026 23:31:57 +0530"
-    },
-    {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "pubDate": "Wed, 21 Oct 2026 22:03:47 +0530"
-    },
-    {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "pubDate": "Wed, 21 Oct 2026 19:30:00 +0530"
-    },
-    {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "pubDate": "Wed, 21 Oct 2026 18:45:09 +0530"
     }
   ]
 }
