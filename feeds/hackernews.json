@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-22T01:04:13Z",
+  "updated": "2026-10-22T06:14:22Z",
   "items": [
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "pubDate": "Thu, 22 Oct 2026 09:51:26 +0530"
+    },
     {
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
       "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
@@ -56,11 +61,6 @@
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
       "pubDate": "Wed, 21 Oct 2026 14:35:17 +0530"
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "pubDate": "Wed, 21 Oct 2026 14:31:12 +0530"
     }
   ]
 }
