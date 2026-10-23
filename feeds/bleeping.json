@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-23T17:37:06Z",
+  "updated": "2026-10-23T20:45:38Z",
   "items": [
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "pubDate": "Fri, 23 Oct 2026 14:54:41 -0400"
+    },
     {
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
@@ -56,11 +61,6 @@
       "title": "Machine speed attacks require machine speed detection and response",
       "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
       "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400"
-    },
-    {
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "pubDate": "Thu, 22 Oct 2026 09:09:12 -0400"
     }
   ]
 }
