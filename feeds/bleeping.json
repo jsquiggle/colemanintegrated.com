@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-23T07:47:01Z",
+  "updated": "2026-10-23T12:56:09Z",
   "items": [
+    {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "pubDate": "Fri, 23 Oct 2026 08:48:00 -0400"
+    },
     {
       "title": "Railway warns devs to rotate secrets after potential breach",
       "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
@@ -56,11 +61,6 @@
       "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
       "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
       "pubDate": "Wed, 21 Oct 2026 17:43:27 -0400"
-    },
-    {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "pubDate": "Wed, 21 Oct 2026 16:31:48 -0400"
     }
   ]
 }
