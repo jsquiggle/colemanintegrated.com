@@ -1,9 +1,14 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-23T12:56:09Z",
+  "updated": "2026-10-23T17:37:06Z",
   "items": [
     {
-      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "pubDate": "Fri, 23 Oct 2026 19:20:56 +0530"
+    },
+    {
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "pubDate": "Fri, 23 Oct 2026 16:55:43 +0530"
     },
@@ -56,11 +61,6 @@
       "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
       "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
       "pubDate": "Thu, 22 Oct 2026 22:31:53 +0530"
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "pubDate": "Thu, 22 Oct 2026 21:42:31 +0530"
     }
   ]
 }
