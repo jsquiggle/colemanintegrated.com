@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-23T20:45:38Z",
+  "updated": "2026-10-23T23:38:16Z",
   "items": [
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "pubDate": "Fri, 23 Oct 2026 16:55:05 -0400"
+    },
     {
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
@@ -56,11 +61,6 @@
       "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
       "pubDate": "Thu, 22 Oct 2026 11:49:32 -0400"
-    },
-    {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400"
     }
   ]
 }
