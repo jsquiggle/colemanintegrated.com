@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-24T07:28:06Z",
+  "updated": "2026-10-24T12:08:11Z",
   "items": [
+    {
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530"
+    },
+    {
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530"
+    },
+    {
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "pubDate": "Sat, 24 Oct 2026 16:06:33 +0530"
+    },
+    {
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530"
+    },
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530"
+    },
     {
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
@@ -36,31 +61,6 @@
       "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
       "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
       "pubDate": "Fri, 23 Oct 2026 15:06:00 +0530"
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "pubDate": "Fri, 23 Oct 2026 14:10:43 +0530"
-    },
-    {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents\u2019 Token Balances",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "pubDate": "Fri, 23 Oct 2026 14:05:45 +0530"
-    },
-    {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "pubDate": "Fri, 23 Oct 2026 13:10:45 +0530"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "pubDate": "Fri, 23 Oct 2026 00:35:35 +0530"
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "pubDate": "Fri, 23 Oct 2026 00:35:17 +0530"
     }
   ]
 }
