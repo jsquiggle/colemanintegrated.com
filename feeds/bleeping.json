@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-24T12:08:11Z",
+  "updated": "2026-10-24T16:07:34Z",
   "items": [
+    {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400"
+    },
     {
       "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
@@ -56,11 +61,6 @@
       "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "pubDate": "Thu, 22 Oct 2026 13:18:22 -0400"
-    },
-    {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "pubDate": "Thu, 22 Oct 2026 11:49:32 -0400"
     }
   ]
 }
