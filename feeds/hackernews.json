@@ -1,6 +1,6 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-26T01:24:53Z",
+  "updated": "2026-10-26T06:32:47Z",
   "items": [
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
@@ -8,7 +8,7 @@
       "pubDate": "Sun, 25 Oct 2026 23:14:09 +0530"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530"
     },
