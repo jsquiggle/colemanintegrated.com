@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-26T19:38:20Z",
+  "updated": "2026-10-26T23:26:22Z",
   "items": [
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "pubDate": "Mon, 26 Oct 2026 23:42:22 +0530"
+    },
     {
       "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
       "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
@@ -56,11 +61,6 @@
       "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530"
-    },
-    {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530"
     }
   ]
 }
