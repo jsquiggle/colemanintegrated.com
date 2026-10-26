@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-26T06:32:47Z",
+  "updated": "2026-10-26T13:42:19Z",
   "items": [
+    {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "pubDate": "Mon, 26 Oct 2026 06:26:52 -0400"
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "pubDate": "Mon, 26 Oct 2026 05:19:57 -0400"
+    },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
       "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
@@ -51,16 +61,6 @@
       "title": "Railway warns devs to rotate secrets after potential breach",
       "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
       "pubDate": "Thu, 22 Oct 2026 17:25:31 -0400"
-    },
-    {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "pubDate": "Thu, 22 Oct 2026 16:22:45 -0400"
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "pubDate": "Thu, 22 Oct 2026 15:12:51 -0400"
     }
   ]
 }
