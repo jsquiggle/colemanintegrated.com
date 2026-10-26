@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-26T13:42:19Z",
+  "updated": "2026-10-26T19:38:20Z",
   "items": [
+    {
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "pubDate": "Mon, 26 Oct 2026 15:26:20 -0400"
+    },
+    {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "pubDate": "Mon, 26 Oct 2026 12:27:57 -0400"
+    },
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "pubDate": "Mon, 26 Oct 2026 11:38:24 -0400"
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "pubDate": "Mon, 26 Oct 2026 10:00:10 -0400"
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "pubDate": "Mon, 26 Oct 2026 09:56:44 -0400"
+    },
     {
       "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
       "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
@@ -36,31 +61,6 @@
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
       "pubDate": "Fri, 23 Oct 2026 13:05:07 -0400"
-    },
-    {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "pubDate": "Fri, 23 Oct 2026 12:40:07 -0400"
-    },
-    {
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "pubDate": "Fri, 23 Oct 2026 11:38:05 -0400"
-    },
-    {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "pubDate": "Fri, 23 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "pubDate": "Fri, 23 Oct 2026 08:48:00 -0400"
-    },
-    {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "pubDate": "Thu, 22 Oct 2026 17:25:31 -0400"
     }
   ]
 }
