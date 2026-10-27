@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-27T02:14:09Z",
+  "updated": "2026-10-27T08:05:16Z",
   "items": [
+    {
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "pubDate": "Tue, 27 Oct 2026 12:04:47 +0530"
+    },
+    {
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "pubDate": "Tue, 27 Oct 2026 10:07:59 +0530"
+    },
     {
       "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
       "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
@@ -51,16 +61,6 @@
       "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
       "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
       "pubDate": "Mon, 26 Oct 2026 11:33:48 +0530"
-    },
-    {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "pubDate": "Sun, 25 Oct 2026 23:14:09 +0530"
-    },
-    {
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530"
     }
   ]
 }
