@@ -1,7 +1,37 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-27T08:05:16Z",
+  "updated": "2026-10-27T14:44:05Z",
   "items": [
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "pubDate": "Tue, 27 Oct 2026 17:39:50 +0530"
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "pubDate": "Tue, 27 Oct 2026 17:16:00 +0530"
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "pubDate": "Tue, 27 Oct 2026 17:02:46 +0530"
+    },
+    {
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "pubDate": "Tue, 27 Oct 2026 17:02:31 +0530"
+    },
+    {
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "pubDate": "Tue, 27 Oct 2026 15:03:06 +0530"
+    },
+    {
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "pubDate": "Tue, 27 Oct 2026 13:52:43 +0530"
+    },
     {
       "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
       "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
@@ -31,36 +61,6 @@
       "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
       "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
       "pubDate": "Mon, 26 Oct 2026 19:36:13 +0530"
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "pubDate": "Mon, 26 Oct 2026 17:22:41 +0530"
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "pubDate": "Mon, 26 Oct 2026 16:53:56 +0530"
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "pubDate": "Mon, 26 Oct 2026 15:24:02 +0530"
-    },
-    {
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "pubDate": "Mon, 26 Oct 2026 14:05:51 +0530"
-    },
-    {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "pubDate": "Mon, 26 Oct 2026 13:19:46 +0530"
-    },
-    {
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "pubDate": "Mon, 26 Oct 2026 11:33:48 +0530"
     }
   ]
 }

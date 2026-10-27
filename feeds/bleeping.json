@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-27T08:05:16Z",
+  "updated": "2026-10-27T14:44:05Z",
   "items": [
+    {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "pubDate": "Tue, 27 Oct 2026 10:09:46 -0400"
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "pubDate": "Tue, 27 Oct 2026 10:01:11 -0400"
+    },
+    {
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "pubDate": "Tue, 27 Oct 2026 06:36:12 -0400"
+    },
+    {
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "pubDate": "Tue, 27 Oct 2026 05:25:50 -0400"
+    },
+    {
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "pubDate": "Tue, 27 Oct 2026 04:20:54 -0400"
+    },
     {
       "title": "University of Copenhagen data breach exposes data of 525,000 people",
       "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
@@ -36,31 +61,6 @@
       "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
       "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
       "pubDate": "Mon, 26 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "pubDate": "Mon, 26 Oct 2026 09:56:44 -0400"
-    },
-    {
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "pubDate": "Mon, 26 Oct 2026 06:26:52 -0400"
-    },
-    {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "pubDate": "Mon, 26 Oct 2026 05:19:57 -0400"
-    },
-    {
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "pubDate": "Sun, 25 Oct 2026 11:49:38 -0400"
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400"
     }
   ]
 }
