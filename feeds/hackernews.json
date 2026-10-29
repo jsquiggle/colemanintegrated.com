@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-29T19:19:40Z",
+  "updated": "2026-10-29T23:26:00Z",
   "items": [
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "pubDate": "Fri, 30 Oct 2026 00:41:58 +0530"
+    },
     {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
@@ -56,11 +61,6 @@
       "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
       "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
       "pubDate": "Thu, 29 Oct 2026 13:54:22 +0530"
-    },
-    {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "pubDate": "Thu, 29 Oct 2026 11:52:33 +0530"
     }
   ]
 }
