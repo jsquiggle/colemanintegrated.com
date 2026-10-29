@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-10-29T13:48:57Z",
+  "updated": "2026-10-29T19:19:40Z",
   "items": [
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "pubDate": "Thu, 29 Oct 2026 21:27:05 +0530"
+    },
+    {
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "pubDate": "Thu, 29 Oct 2026 20:50:29 +0530"
+    },
+    {
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "pubDate": "Thu, 29 Oct 2026 19:12:40 +0530"
+    },
     {
       "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
       "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
@@ -46,21 +61,6 @@
       "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
       "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
       "pubDate": "Thu, 29 Oct 2026 11:52:33 +0530"
-    },
-    {
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "pubDate": "Thu, 29 Oct 2026 11:20:17 +0530"
-    },
-    {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "pubDate": "Wed, 28 Oct 2026 23:38:33 +0530"
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "pubDate": "Wed, 28 Oct 2026 22:38:09 +0530"
     }
   ]
 }
