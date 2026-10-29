@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-28T20:39:48Z",
+  "updated": "2026-10-29T00:30:29Z",
   "items": [
+    {
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "pubDate": "Wed, 28 Oct 2026 16:47:22 -0400"
+    },
     {
       "title": "Discord to let search engines index public server messages",
       "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
@@ -56,11 +61,6 @@
       "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
       "pubDate": "Tue, 27 Oct 2026 18:43:27 -0400"
-    },
-    {
-      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-      "pubDate": "Tue, 27 Oct 2026 18:07:34 -0400"
     }
   ]
 }
