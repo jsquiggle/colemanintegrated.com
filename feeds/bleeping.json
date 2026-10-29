@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-29T06:36:21Z",
+  "updated": "2026-10-29T13:48:57Z",
   "items": [
+    {
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "pubDate": "Thu, 29 Oct 2026 08:00:07 -0400"
+    },
+    {
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "pubDate": "Thu, 29 Oct 2026 07:10:13 -0400"
+    },
     {
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
       "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -51,16 +61,6 @@
       "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
       "pubDate": "Wed, 28 Oct 2026 05:43:15 -0400"
-    },
-    {
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "pubDate": "Tue, 27 Oct 2026 19:35:51 -0400"
-    },
-    {
-      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-      "pubDate": "Tue, 27 Oct 2026 18:43:27 -0400"
     }
   ]
 }
