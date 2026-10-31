@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-31T12:52:06Z",
+  "updated": "2026-10-31T17:25:10Z",
   "items": [
+    {
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "pubDate": "Sat, 31 Oct 2026 11:35:11 -0400"
+    },
+    {
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "pubDate": "Sat, 31 Oct 2026 10:05:15 -0400"
+    },
+    {
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "pubDate": "Sat, 31 Oct 2026 09:10:19 -0400"
+    },
     {
       "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
       "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
@@ -46,21 +61,6 @@
       "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
       "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
       "pubDate": "Fri, 30 Oct 2026 05:18:13 -0400"
-    },
-    {
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "pubDate": "Thu, 29 Oct 2026 19:35:52 -0400"
-    },
-    {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "pubDate": "Thu, 29 Oct 2026 18:45:23 -0400"
-    },
-    {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "pubDate": "Thu, 29 Oct 2026 18:09:24 -0400"
     }
   ]
 }
