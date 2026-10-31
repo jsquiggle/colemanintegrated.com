@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-31T17:25:10Z",
+  "updated": "2026-10-31T20:30:57Z",
   "items": [
+    {
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "pubDate": "Sat, 31 Oct 2026 14:01:12 -0400"
+    },
     {
       "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
       "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
@@ -56,11 +61,6 @@
       "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
       "pubDate": "Fri, 30 Oct 2026 06:16:07 -0400"
-    },
-    {
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "pubDate": "Fri, 30 Oct 2026 05:18:13 -0400"
     }
   ]
 }
