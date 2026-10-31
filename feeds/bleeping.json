@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-10-31T06:00:14Z",
+  "updated": "2026-10-31T12:52:06Z",
   "items": [
+    {
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "pubDate": "Sat, 31 Oct 2026 08:50:09 -0400"
+    },
     {
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
       "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
@@ -56,11 +61,6 @@
       "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
       "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "pubDate": "Thu, 29 Oct 2026 18:09:24 -0400"
-    },
-    {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "pubDate": "Thu, 29 Oct 2026 18:08:04 -0400"
     }
   ]
 }
