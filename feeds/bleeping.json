@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-01T16:56:31Z",
+  "updated": "2026-11-01T20:54:43Z",
   "items": [
+    {
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "pubDate": "Sun, 01 Nov 2026 14:57:53 -0500"
+    },
     {
       "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
       "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
@@ -56,11 +61,6 @@
       "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
       "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
       "pubDate": "Fri, 30 Oct 2026 10:00:10 -0400"
-    },
-    {
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "pubDate": "Fri, 30 Oct 2026 09:00:32 -0400"
     }
   ]
 }
