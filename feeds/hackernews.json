@@ -1,7 +1,17 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-02T16:39:51Z",
+  "updated": "2026-11-02T23:43:35Z",
   "items": [
+    {
+      "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "pubDate": "Mon, 02 Nov 2026 22:27:56 +0530"
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "pubDate": "Mon, 02 Nov 2026 21:20:26 +0530"
+    },
     {
       "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
       "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
@@ -51,16 +61,6 @@
       "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
       "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
       "pubDate": "Sun, 01 Nov 2026 12:32:58 +0530"
-    },
-    {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "pubDate": "Sat, 31 Oct 2026 17:31:56 +0530"
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "pubDate": "Sat, 31 Oct 2026 13:57:43 +0530"
     }
   ]
 }
