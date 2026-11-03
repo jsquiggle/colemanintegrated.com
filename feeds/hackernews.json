@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-03T04:29:10Z",
+  "updated": "2026-11-03T12:10:58Z",
   "items": [
+    {
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "pubDate": "Tue, 03 Nov 2026 14:01:48 +0530"
+    },
+    {
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "pubDate": "Tue, 03 Nov 2026 13:13:07 +0530"
+    },
+    {
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "pubDate": "Tue, 03 Nov 2026 12:57:07 +0530"
+    },
+    {
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "pubDate": "Tue, 03 Nov 2026 11:04:41 +0530"
+    },
+    {
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "pubDate": "Tue, 03 Nov 2026 11:04:37 +0530"
+    },
     {
       "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
@@ -36,31 +61,6 @@
       "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
       "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
       "pubDate": "Mon, 02 Nov 2026 16:19:59 +0530"
-    },
-    {
-      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-      "pubDate": "Mon, 02 Nov 2026 11:21:07 +0530"
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "pubDate": "Sun, 01 Nov 2026 14:21:31 +0530"
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "pubDate": "Sun, 01 Nov 2026 12:55:40 +0530"
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "pubDate": "Sun, 01 Nov 2026 12:33:00 +0530"
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "pubDate": "Sun, 01 Nov 2026 12:32:58 +0530"
     }
   ]
 }

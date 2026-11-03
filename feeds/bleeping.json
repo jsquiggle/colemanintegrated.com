@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-03T04:29:10Z",
+  "updated": "2026-11-03T12:10:58Z",
   "items": [
+    {
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "pubDate": "Tue, 03 Nov 2026 07:05:52 -0500"
+    },
+    {
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "pubDate": "Tue, 03 Nov 2026 05:53:25 -0500"
+    },
     {
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
@@ -51,16 +61,6 @@
       "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
       "pubDate": "Mon, 02 Nov 2026 04:33:26 -0500"
-    },
-    {
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "pubDate": "Sun, 01 Nov 2026 14:57:53 -0500"
-    },
-    {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "pubDate": "Sun, 01 Nov 2026 10:11:21 -0500"
     }
   ]
 }
