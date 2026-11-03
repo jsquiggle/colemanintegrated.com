@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-03T12:10:58Z",
+  "updated": "2026-11-03T19:40:02Z",
   "items": [
+    {
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "pubDate": "Tue, 03 Nov 2026 13:51:04 -0500"
+    },
+    {
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "pubDate": "Tue, 03 Nov 2026 10:06:16 -0500"
+    },
+    {
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "pubDate": "Tue, 03 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "pubDate": "Tue, 03 Nov 2026 09:00:00 -0500"
+    },
+    {
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "pubDate": "Tue, 03 Nov 2026 08:33:49 -0500"
+    },
     {
       "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
       "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
@@ -36,31 +61,6 @@
       "title": "Your Mobile Carrier Stores Your Call Logs for Years",
       "link": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
       "pubDate": "Mon, 02 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "pubDate": "Mon, 02 Nov 2026 09:28:39 -0500"
-    },
-    {
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "pubDate": "Mon, 02 Nov 2026 08:57:29 -0500"
-    },
-    {
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "pubDate": "Mon, 02 Nov 2026 07:47:00 -0500"
-    },
-    {
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "pubDate": "Mon, 02 Nov 2026 06:28:42 -0500"
-    },
-    {
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "pubDate": "Mon, 02 Nov 2026 04:33:26 -0500"
     }
   ]
 }
