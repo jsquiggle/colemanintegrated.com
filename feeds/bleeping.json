@@ -1,7 +1,37 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-04T14:56:39Z",
+  "updated": "2026-11-04T20:59:53Z",
   "items": [
+    {
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500"
+    },
+    {
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500"
+    },
+    {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500"
+    },
+    {
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500"
+    },
+    {
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "pubDate": "Wed, 04 Nov 2026 11:00:18 -0500"
+    },
+    {
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "pubDate": "Wed, 04 Nov 2026 10:00:10 -0500"
+    },
     {
       "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
@@ -31,36 +61,6 @@
       "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
       "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
       "pubDate": "Tue, 03 Nov 2026 16:28:44 -0500"
-    },
-    {
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "pubDate": "Tue, 03 Nov 2026 15:05:50 -0500"
-    },
-    {
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "pubDate": "Tue, 03 Nov 2026 13:51:04 -0500"
-    },
-    {
-      "title": "Barracuda warns of critical flaws allowing root access to devices",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "pubDate": "Tue, 03 Nov 2026 10:06:16 -0500"
-    },
-    {
-      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-      "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "pubDate": "Tue, 03 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "pubDate": "Tue, 03 Nov 2026 09:00:00 -0500"
-    },
-    {
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "pubDate": "Tue, 03 Nov 2026 08:33:49 -0500"
     }
   ]
 }
