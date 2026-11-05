@@ -1,7 +1,12 @@
 {
   "source": "https://krebsonsecurity.com/feed/",
-  "updated": "2026-11-05T01:20:12Z",
+  "updated": "2026-11-05T08:00:55Z",
   "items": [
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "pubDate": "Thu, 05 Nov 2026 04:36:17 +0000"
+    },
     {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
@@ -46,11 +51,6 @@
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "pubDate": "Fri, 25 Sep 2026 21:44:40 +0000"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "pubDate": "Wed, 16 Sep 2026 18:14:22 +0000"
     }
   ]
 }
