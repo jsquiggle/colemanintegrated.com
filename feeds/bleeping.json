@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-05T16:35:24Z",
+  "updated": "2026-11-05T22:26:11Z",
   "items": [
+    {
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "pubDate": "Thu, 05 Nov 2026 16:30:30 -0500"
+    },
+    {
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "pubDate": "Thu, 05 Nov 2026 15:15:08 -0500"
+    },
+    {
+      "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "pubDate": "Thu, 05 Nov 2026 14:24:26 -0500"
+    },
+    {
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "pubDate": "Thu, 05 Nov 2026 12:45:29 -0500"
+    },
     {
       "title": "Hackers backdoor Linux servers using trojanized CWP web server",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
@@ -41,26 +61,6 @@
       "title": "Cyberattack disrupts blood storage refrigeration systems in France",
       "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
       "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500"
-    },
-    {
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500"
-    },
-    {
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "pubDate": "Wed, 04 Nov 2026 11:00:18 -0500"
-    },
-    {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "pubDate": "Wed, 04 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "pubDate": "Wed, 04 Nov 2026 09:42:25 -0500"
     }
   ]
 }
