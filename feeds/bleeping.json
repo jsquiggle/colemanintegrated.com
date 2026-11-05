@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-05T08:00:55Z",
+  "updated": "2026-11-05T16:35:24Z",
   "items": [
+    {
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "pubDate": "Thu, 05 Nov 2026 11:24:26 -0500"
+    },
+    {
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "pubDate": "Thu, 05 Nov 2026 11:12:46 -0500"
+    },
+    {
+      "title": "Closing the Identity Gap at the Service Desk",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "pubDate": "Thu, 05 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "pubDate": "Thu, 05 Nov 2026 04:18:29 -0500"
+    },
     {
       "title": "Vercel rolls out new protection against stolen session cookie attacks",
       "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
@@ -41,26 +61,6 @@
       "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
       "pubDate": "Wed, 04 Nov 2026 09:42:25 -0500"
-    },
-    {
-      "title": "US charges two Canadians accused of hacking US universities",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "pubDate": "Wed, 04 Nov 2026 08:13:20 -0500"
-    },
-    {
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "pubDate": "Wed, 04 Nov 2026 07:11:05 -0500"
-    },
-    {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500"
-    },
-    {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "pubDate": "Tue, 03 Nov 2026 17:18:50 -0500"
     }
   ]
 }
