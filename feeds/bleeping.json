@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-06T17:35:08Z",
+  "updated": "2026-11-06T22:29:47Z",
   "items": [
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "pubDate": "Fri, 06 Nov 2026 17:27:25 -0500"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "pubDate": "Fri, 06 Nov 2026 15:24:19 -0500"
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "pubDate": "Fri, 06 Nov 2026 13:46:52 -0500"
+    },
     {
       "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
       "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
@@ -46,21 +61,6 @@
       "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
       "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
       "pubDate": "Thu, 05 Nov 2026 15:15:08 -0500"
-    },
-    {
-      "title": "OpenAI\u2019s GPT-6 Astra silently obstructed safety research tasks",
-      "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-      "pubDate": "Thu, 05 Nov 2026 14:24:26 -0500"
-    },
-    {
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-      "pubDate": "Thu, 05 Nov 2026 12:45:29 -0500"
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "pubDate": "Thu, 05 Nov 2026 11:24:26 -0500"
     }
   ]
 }
