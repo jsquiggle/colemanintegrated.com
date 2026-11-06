@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-05T22:26:11Z",
+  "updated": "2026-11-06T02:38:52Z",
   "items": [
+    {
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "pubDate": "Thu, 05 Nov 2026 19:56:44 -0500"
+    },
     {
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
@@ -56,11 +61,6 @@
       "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
       "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500"
-    },
-    {
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500"
     }
   ]
 }
