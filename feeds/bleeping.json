@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-06T02:38:52Z",
+  "updated": "2026-11-06T10:03:43Z",
   "items": [
+    {
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "pubDate": "Fri, 06 Nov 2026 04:22:28 -0500"
+    },
     {
       "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
@@ -56,11 +61,6 @@
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500"
-    },
-    {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500"
     }
   ]
 }
