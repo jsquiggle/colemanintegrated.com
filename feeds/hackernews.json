@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-07T02:11:33Z",
+  "updated": "2026-11-07T08:59:01Z",
   "items": [
+    {
+      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "pubDate": "Sat, 07 Nov 2026 12:14:17 +0530"
+    },
     {
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -56,11 +61,6 @@
       "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
       "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
       "pubDate": "Thu, 05 Nov 2026 22:12:32 +0530"
-    },
-    {
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "pubDate": "Thu, 05 Nov 2026 20:11:10 +0530"
     }
   ]
 }
