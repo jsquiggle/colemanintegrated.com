@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-07T15:26:43Z",
+  "updated": "2026-11-07T19:30:32Z",
   "items": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "pubDate": "Sat, 07 Nov 2026 10:25:35 -0500"
+    },
     {
       "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
       "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
@@ -56,11 +61,6 @@
       "title": "MetaMask says recent attack didn't affect wallet infrastructure",
       "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
       "pubDate": "Fri, 06 Nov 2026 04:22:28 -0500"
-    },
-    {
-      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "pubDate": "Thu, 05 Nov 2026 19:56:44 -0500"
     }
   ]
 }
