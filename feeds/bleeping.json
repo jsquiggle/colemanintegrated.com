@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-06T22:29:47Z",
+  "updated": "2026-11-07T02:11:33Z",
   "items": [
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "pubDate": "Fri, 06 Nov 2026 19:00:55 -0500"
+    },
     {
       "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
       "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
@@ -56,11 +61,6 @@
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
       "pubDate": "Thu, 05 Nov 2026 16:30:30 -0500"
-    },
-    {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "pubDate": "Thu, 05 Nov 2026 15:15:08 -0500"
     }
   ]
 }
