@@ -1,7 +1,37 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-09T06:56:27Z",
+  "updated": "2026-11-09T17:00:36Z",
   "items": [
+    {
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "pubDate": "Mon, 09 Nov 2026 11:12:39 -0500"
+    },
+    {
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "pubDate": "Mon, 09 Nov 2026 11:04:57 -0500"
+    },
+    {
+      "title": "The Biggest Threat to Your GRC Job Isn\u2019t AI. It\u2019s Ignoring AI.",
+      "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "pubDate": "Mon, 09 Nov 2026 10:05:15 -0500"
+    },
+    {
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "pubDate": "Mon, 09 Nov 2026 09:34:03 -0500"
+    },
+    {
+      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "pubDate": "Mon, 09 Nov 2026 08:28:56 -0500"
+    },
+    {
+      "title": "Ukraine dismantles crypto scam network that stole \u20ac4.3 million",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+      "pubDate": "Mon, 09 Nov 2026 07:16:13 -0500"
+    },
     {
       "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
       "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
@@ -31,36 +61,6 @@
       "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
       "pubDate": "Fri, 06 Nov 2026 15:24:19 -0500"
-    },
-    {
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "pubDate": "Fri, 06 Nov 2026 13:46:52 -0500"
-    },
-    {
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "pubDate": "Fri, 06 Nov 2026 12:04:23 -0500"
-    },
-    {
-      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-      "pubDate": "Fri, 06 Nov 2026 10:25:31 -0500"
-    },
-    {
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "pubDate": "Fri, 06 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "pubDate": "Fri, 06 Nov 2026 09:17:07 -0500"
-    },
-    {
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-      "pubDate": "Fri, 06 Nov 2026 07:37:22 -0500"
     }
   ]
 }
