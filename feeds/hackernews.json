@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-10T00:45:09Z",
+  "updated": "2026-11-10T07:52:24Z",
   "items": [
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "pubDate": "Tue, 10 Nov 2026 12:22:54 +0530"
+    },
+    {
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "pubDate": "Tue, 10 Nov 2026 12:14:36 +0530"
+    },
+    {
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "pubDate": "Tue, 10 Nov 2026 12:01:42 +0530"
+    },
     {
       "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
@@ -46,21 +61,6 @@
       "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
       "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
       "pubDate": "Mon, 09 Nov 2026 12:35:48 +0530"
-    },
-    {
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "pubDate": "Mon, 09 Nov 2026 11:45:10 +0530"
-    },
-    {
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "pubDate": "Mon, 09 Nov 2026 11:35:24 +0530"
-    },
-    {
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "pubDate": "Sat, 07 Nov 2026 12:14:17 +0530"
     }
   ]
 }

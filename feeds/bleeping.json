@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-10T00:45:09Z",
+  "updated": "2026-11-10T07:52:24Z",
   "items": [
+    {
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "pubDate": "Tue, 10 Nov 2026 02:49:58 -0500"
+    },
     {
       "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
       "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
@@ -56,11 +61,6 @@
       "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
       "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
       "pubDate": "Mon, 09 Nov 2026 08:28:56 -0500"
-    },
-    {
-      "title": "Ukraine dismantles crypto scam network that stole \u20ac4.3 million",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "pubDate": "Mon, 09 Nov 2026 07:16:13 -0500"
     }
   ]
 }
