@@ -1,7 +1,42 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-10T15:54:56Z",
+  "updated": "2026-11-10T21:32:36Z",
   "items": [
+    {
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "pubDate": "Wed, 11 Nov 2026 00:53:10 +0530"
+    },
+    {
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "pubDate": "Wed, 11 Nov 2026 00:49:39 +0530"
+    },
+    {
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "pubDate": "Tue, 10 Nov 2026 23:42:21 +0530"
+    },
+    {
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "pubDate": "Tue, 10 Nov 2026 23:13:23 +0530"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "pubDate": "Tue, 10 Nov 2026 21:30:55 +0530"
+    },
+    {
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+      "pubDate": "Tue, 10 Nov 2026 21:28:44 +0530"
+    },
+    {
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "pubDate": "Tue, 10 Nov 2026 21:03:59 +0530"
+    },
     {
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
@@ -26,41 +61,6 @@
       "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
       "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
       "pubDate": "Tue, 10 Nov 2026 15:32:40 +0530"
-    },
-    {
-      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-      "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-      "pubDate": "Tue, 10 Nov 2026 14:38:20 +0530"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-      "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-      "pubDate": "Tue, 10 Nov 2026 13:46:14 +0530"
-    },
-    {
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "pubDate": "Tue, 10 Nov 2026 12:22:54 +0530"
-    },
-    {
-      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-      "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-      "pubDate": "Tue, 10 Nov 2026 12:14:36 +0530"
-    },
-    {
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "pubDate": "Tue, 10 Nov 2026 12:01:42 +0530"
-    },
-    {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "pubDate": "Mon, 09 Nov 2026 23:21:21 +0530"
-    },
-    {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "pubDate": "Mon, 09 Nov 2026 23:06:28 +0530"
     }
   ]
 }
