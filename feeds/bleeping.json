@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-10T21:32:36Z",
+  "updated": "2026-11-11T01:34:52Z",
   "items": [
+    {
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "pubDate": "Tue, 10 Nov 2026 17:20:19 -0500"
+    },
     {
       "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
       "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
@@ -56,11 +61,6 @@
       "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
       "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
       "pubDate": "Tue, 10 Nov 2026 05:04:32 -0500"
-    },
-    {
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "pubDate": "Tue, 10 Nov 2026 03:51:25 -0500"
     }
   ]
 }
