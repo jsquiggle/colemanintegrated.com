@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-11T16:44:40Z",
+  "updated": "2026-11-11T23:12:10Z",
   "items": [
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "pubDate": "Wed, 11 Nov 2026 21:42:46 +0530"
+    },
     {
       "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
       "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
@@ -56,11 +61,6 @@
       "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
       "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
       "pubDate": "Wed, 11 Nov 2026 00:49:39 +0530"
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "pubDate": "Tue, 10 Nov 2026 23:42:21 +0530"
     }
   ]
 }
