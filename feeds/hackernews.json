@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-11T08:35:56Z",
+  "updated": "2026-11-11T16:44:40Z",
   "items": [
+    {
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "pubDate": "Wed, 11 Nov 2026 21:04:27 +0530"
+    },
+    {
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "pubDate": "Wed, 11 Nov 2026 19:31:00 +0530"
+    },
+    {
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "pubDate": "Wed, 11 Nov 2026 17:49:40 +0530"
+    },
+    {
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "pubDate": "Wed, 11 Nov 2026 17:31:59 +0530"
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "pubDate": "Wed, 11 Nov 2026 17:30:53 +0530"
+    },
     {
       "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
       "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
@@ -36,31 +61,6 @@
       "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
       "pubDate": "Tue, 10 Nov 2026 23:42:21 +0530"
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "pubDate": "Tue, 10 Nov 2026 23:13:23 +0530"
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "pubDate": "Tue, 10 Nov 2026 21:30:55 +0530"
-    },
-    {
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "pubDate": "Tue, 10 Nov 2026 21:28:44 +0530"
-    },
-    {
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "pubDate": "Tue, 10 Nov 2026 21:03:59 +0530"
-    },
-    {
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "pubDate": "Tue, 10 Nov 2026 17:45:31 +0530"
     }
   ]
 }

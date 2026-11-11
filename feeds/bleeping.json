@@ -1,7 +1,42 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-11T08:35:56Z",
+  "updated": "2026-11-11T16:44:40Z",
   "items": [
+    {
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "pubDate": "Wed, 11 Nov 2026 11:24:18 -0500"
+    },
+    {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "pubDate": "Wed, 11 Nov 2026 10:12:59 -0500"
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "pubDate": "Wed, 11 Nov 2026 10:01:11 -0500"
+    },
+    {
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "pubDate": "Wed, 11 Nov 2026 07:32:27 -0500"
+    },
+    {
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "pubDate": "Wed, 11 Nov 2026 06:18:36 -0500"
+    },
+    {
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "pubDate": "Wed, 11 Nov 2026 05:12:08 -0500"
+    },
+    {
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "pubDate": "Wed, 11 Nov 2026 04:07:27 -0500"
+    },
     {
       "title": "Railway breach leads to $740,000 in fraudulent AI charges",
       "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
@@ -26,41 +61,6 @@
       "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
       "pubDate": "Tue, 10 Nov 2026 14:07:36 -0500"
-    },
-    {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "pubDate": "Tue, 10 Nov 2026 13:33:26 -0500"
-    },
-    {
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "pubDate": "Tue, 10 Nov 2026 11:17:16 -0500"
-    },
-    {
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "pubDate": "Tue, 10 Nov 2026 10:59:19 -0500"
-    },
-    {
-      "title": "Ransomware recovery is now a client retention metric",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "pubDate": "Tue, 10 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "pubDate": "Tue, 10 Nov 2026 07:07:03 -0500"
-    },
-    {
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "pubDate": "Tue, 10 Nov 2026 05:10:20 -0500"
-    },
-    {
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "pubDate": "Tue, 10 Nov 2026 05:04:32 -0500"
     }
   ]
 }
