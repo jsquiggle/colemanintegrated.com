@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-11T01:34:52Z",
+  "updated": "2026-11-11T08:35:56Z",
   "items": [
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "pubDate": "Wed, 11 Nov 2026 13:47:53 +0530"
+    },
+    {
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "pubDate": "Wed, 11 Nov 2026 13:19:04 +0530"
+    },
+    {
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "pubDate": "Wed, 11 Nov 2026 12:51:05 +0530"
+    },
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "pubDate": "Wed, 11 Nov 2026 11:34:02 +0530"
+    },
     {
       "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
       "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
@@ -41,26 +61,6 @@
       "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
       "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
       "pubDate": "Tue, 10 Nov 2026 17:45:31 +0530"
-    },
-    {
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "pubDate": "Tue, 10 Nov 2026 17:08:13 +0530"
-    },
-    {
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "pubDate": "Tue, 10 Nov 2026 15:46:51 +0530"
-    },
-    {
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "pubDate": "Tue, 10 Nov 2026 15:37:29 +0530"
-    },
-    {
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "pubDate": "Tue, 10 Nov 2026 15:32:40 +0530"
     }
   ]
 }
