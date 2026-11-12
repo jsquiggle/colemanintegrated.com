@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-12T03:57:00Z",
+  "updated": "2026-11-12T12:03:32Z",
   "items": [
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "pubDate": "Thu, 12 Nov 2026 14:55:00 +0530"
+    },
+    {
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "pubDate": "Thu, 12 Nov 2026 13:50:37 +0530"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "pubDate": "Thu, 12 Nov 2026 12:12:47 +0530"
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "pubDate": "Thu, 12 Nov 2026 10:42:26 +0530"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "pubDate": "Thu, 12 Nov 2026 10:09:48 +0530"
+    },
     {
       "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
       "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
@@ -36,31 +61,6 @@
       "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
       "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
       "pubDate": "Wed, 11 Nov 2026 13:47:53 +0530"
-    },
-    {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "pubDate": "Wed, 11 Nov 2026 13:19:04 +0530"
-    },
-    {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "pubDate": "Wed, 11 Nov 2026 12:51:05 +0530"
-    },
-    {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "pubDate": "Wed, 11 Nov 2026 11:34:02 +0530"
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "pubDate": "Wed, 11 Nov 2026 00:53:10 +0530"
-    },
-    {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "pubDate": "Wed, 11 Nov 2026 00:49:39 +0530"
     }
   ]
 }
