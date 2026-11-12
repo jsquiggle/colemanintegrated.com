@@ -1,7 +1,42 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-12T12:03:32Z",
+  "updated": "2026-11-12T20:11:17Z",
   "items": [
+    {
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "pubDate": "Thu, 12 Nov 2026 14:51:16 -0500"
+    },
+    {
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "pubDate": "Thu, 12 Nov 2026 14:12:55 -0500"
+    },
+    {
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "pubDate": "Thu, 12 Nov 2026 11:04:00 -0500"
+    },
+    {
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "pubDate": "Thu, 12 Nov 2026 10:07:20 -0500"
+    },
+    {
+      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "pubDate": "Thu, 12 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "pubDate": "Thu, 12 Nov 2026 09:36:47 -0500"
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+      "pubDate": "Thu, 12 Nov 2026 07:11:11 -0500"
+    },
     {
       "title": "Microsoft confirms Windows security updates installation issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
@@ -26,41 +61,6 @@
       "title": "eMudhra revokes 8 more CA certificates after private key mishap",
       "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
       "pubDate": "Wed, 11 Nov 2026 16:27:40 -0500"
-    },
-    {
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "pubDate": "Wed, 11 Nov 2026 15:54:20 -0500"
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "pubDate": "Wed, 11 Nov 2026 11:24:18 -0500"
-    },
-    {
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "pubDate": "Wed, 11 Nov 2026 10:12:59 -0500"
-    },
-    {
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "pubDate": "Wed, 11 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "pubDate": "Wed, 11 Nov 2026 07:32:27 -0500"
-    },
-    {
-      "title": "Microsoft fixes audio issues caused by September security updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-      "pubDate": "Wed, 11 Nov 2026 06:18:36 -0500"
-    },
-    {
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "pubDate": "Wed, 11 Nov 2026 05:12:08 -0500"
     }
   ]
 }
