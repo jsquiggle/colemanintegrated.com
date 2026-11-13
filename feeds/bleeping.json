@@ -1,7 +1,22 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-12T20:11:17Z",
+  "updated": "2026-11-13T01:15:18Z",
   "items": [
+    {
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500"
+    },
+    {
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "pubDate": "Thu, 12 Nov 2026 17:25:30 -0500"
+    },
+    {
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "pubDate": "Thu, 12 Nov 2026 15:15:16 -0500"
+    },
     {
       "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
@@ -46,21 +61,6 @@
       "title": "Hackers plant GSocket on Linux servers for persistent access",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
       "pubDate": "Thu, 12 Nov 2026 04:38:00 -0500"
-    },
-    {
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "pubDate": "Wed, 11 Nov 2026 18:01:31 -0500"
-    },
-    {
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "pubDate": "Wed, 11 Nov 2026 17:56:21 -0500"
-    },
-    {
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "pubDate": "Wed, 11 Nov 2026 16:27:40 -0500"
     }
   ]
 }
