@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-14T16:12:53Z",
+  "updated": "2026-11-14T20:49:22Z",
   "items": [
+    {
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "pubDate": "Sat, 14 Nov 2026 12:27:25 -0500"
+    },
     {
       "title": "US disrupts North Korean campaign behind $400 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
@@ -56,11 +61,6 @@
       "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
       "pubDate": "Thu, 12 Nov 2026 17:25:30 -0500"
-    },
-    {
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "pubDate": "Thu, 12 Nov 2026 15:15:16 -0500"
     }
   ]
 }
