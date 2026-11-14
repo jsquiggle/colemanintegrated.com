@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-14T09:37:00Z",
+  "updated": "2026-11-14T16:12:53Z",
   "items": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "pubDate": "Sat, 14 Nov 2026 18:08:35 +0530"
+    },
     {
       "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
       "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -56,11 +61,6 @@
       "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
       "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
       "pubDate": "Thu, 12 Nov 2026 23:32:51 +0530"
-    },
-    {
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "pubDate": "Thu, 12 Nov 2026 23:20:27 +0530"
     }
   ]
 }
