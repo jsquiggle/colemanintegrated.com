@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-15T14:28:34Z",
+  "updated": "2026-11-15T19:53:22Z",
   "items": [
+    {
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "pubDate": "Sun, 15 Nov 2026 13:29:53 -0500"
+    },
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "pubDate": "Sun, 15 Nov 2026 10:23:48 -0500"
+    },
     {
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
@@ -51,16 +61,6 @@
       "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
       "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
       "pubDate": "Fri, 13 Nov 2026 03:34:20 -0500"
-    },
-    {
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500"
-    },
-    {
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "pubDate": "Thu, 12 Nov 2026 17:25:30 -0500"
     }
   ]
 }
