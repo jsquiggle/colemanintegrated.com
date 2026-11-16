@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-15T23:38:18Z",
+  "updated": "2026-11-16T12:11:54Z",
   "items": [
+    {
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "pubDate": "Mon, 16 Nov 2026 06:18:09 -0500"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 -0500"
+    },
+    {
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "pubDate": "Mon, 16 Nov 2026 04:30:04 -0500"
+    },
+    {
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "pubDate": "Mon, 16 Nov 2026 03:26:52 -0500"
+    },
     {
       "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
@@ -41,26 +61,6 @@
       "title": "How one AI agent exposed five critical enterprise security gaps",
       "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
       "pubDate": "Fri, 13 Nov 2026 10:01:11 -0500"
-    },
-    {
-      "title": "Microsoft says November security updates cause printing issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "pubDate": "Fri, 13 Nov 2026 07:27:40 -0500"
-    },
-    {
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "pubDate": "Fri, 13 Nov 2026 05:44:22 -0500"
-    },
-    {
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "pubDate": "Fri, 13 Nov 2026 04:36:18 -0500"
-    },
-    {
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "pubDate": "Fri, 13 Nov 2026 03:34:20 -0500"
     }
   ]
 }
