@@ -1,7 +1,42 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-17T13:57:05Z",
+  "updated": "2026-11-17T21:58:38Z",
   "items": [
+    {
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "pubDate": "Tue, 17 Nov 2026 16:27:17 -0500"
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500"
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500"
+    },
+    {
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500"
+    },
+    {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500"
+    },
+    {
+      "title": "Flipper Devices launches $399 \u2018Flipper One\u2019 Linux-based multi-tool",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500"
+    },
+    {
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500"
+    },
     {
       "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
@@ -26,41 +61,6 @@
       "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
       "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
       "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500"
-    },
-    {
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "pubDate": "Mon, 16 Nov 2026 17:54:00 -0500"
-    },
-    {
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "pubDate": "Mon, 16 Nov 2026 16:31:44 -0500"
-    },
-    {
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "pubDate": "Mon, 16 Nov 2026 15:59:44 -0500"
-    },
-    {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "pubDate": "Mon, 16 Nov 2026 14:57:13 -0500"
-    },
-    {
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "pubDate": "Mon, 16 Nov 2026 11:43:24 -0500"
-    },
-    {
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "pubDate": "Mon, 16 Nov 2026 10:44:21 -0500"
-    },
-    {
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "pubDate": "Mon, 16 Nov 2026 10:01:11 -0500"
     }
   ]
 }

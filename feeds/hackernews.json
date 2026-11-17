@@ -1,7 +1,22 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-17T13:57:05Z",
+  "updated": "2026-11-17T21:58:38Z",
   "items": [
+    {
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
+      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530"
+    },
+    {
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "pubDate": "Tue, 17 Nov 2026 20:47:36 +0530"
+    },
+    {
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "pubDate": "Tue, 17 Nov 2026 20:47:28 +0530"
+    },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
       "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
@@ -46,21 +61,6 @@
       "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
       "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
       "pubDate": "Mon, 16 Nov 2026 18:57:20 +0530"
-    },
-    {
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "pubDate": "Mon, 16 Nov 2026 18:04:21 +0530"
-    },
-    {
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "pubDate": "Mon, 16 Nov 2026 18:03:18 +0530"
-    },
-    {
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "pubDate": "Mon, 16 Nov 2026 15:02:57 +0530"
     }
   ]
 }
