@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-16T22:23:16Z",
+  "updated": "2026-11-17T04:39:10Z",
   "items": [
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500"
+    },
+    {
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "pubDate": "Mon, 16 Nov 2026 17:54:00 -0500"
+    },
     {
       "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
       "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
@@ -51,16 +61,6 @@
       "title": "Anthropic\u2019s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
       "pubDate": "Mon, 16 Nov 2026 06:00:00 -0500"
-    },
-    {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "pubDate": "Mon, 16 Nov 2026 04:30:04 -0500"
-    },
-    {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "pubDate": "Mon, 16 Nov 2026 03:26:52 -0500"
     }
   ]
 }
