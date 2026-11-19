@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-19T01:55:34Z",
+  "updated": "2026-11-19T09:39:23Z",
   "items": [
+    {
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "pubDate": "Thu, 19 Nov 2026 04:23:21 -0500"
+    },
     {
       "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
       "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
@@ -56,11 +61,6 @@
       "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
       "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
       "pubDate": "Tue, 17 Nov 2026 16:27:17 -0500"
-    },
-    {
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500"
     }
   ]
 }
