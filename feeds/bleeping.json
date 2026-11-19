@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-18T20:02:48Z",
+  "updated": "2026-11-19T01:55:34Z",
   "items": [
+    {
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "pubDate": "Wed, 18 Nov 2026 18:08:33 -0500"
+    },
+    {
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500"
+    },
     {
       "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
       "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
@@ -51,16 +61,6 @@
       "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
       "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500"
-    },
-    {
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "pubDate": "Tue, 17 Nov 2026 14:24:07 -0500"
-    },
-    {
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500"
     }
   ]
 }
