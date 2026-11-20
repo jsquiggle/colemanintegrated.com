@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-20T17:03:19Z",
+  "updated": "2026-11-20T23:12:39Z",
   "items": [
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "pubDate": "Fri, 20 Nov 2026 13:51:43 -0500"
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "pubDate": "Fri, 20 Nov 2026 12:30:00 -0500"
+    },
     {
       "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
       "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
@@ -51,16 +61,6 @@
       "title": "Transport for London breach exposes 265,000 Oyster card users' data",
       "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
       "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500"
-    },
-    {
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "pubDate": "Thu, 19 Nov 2026 11:28:23 -0500"
-    },
-    {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "pubDate": "Thu, 19 Nov 2026 10:00:10 -0500"
     }
   ]
 }
