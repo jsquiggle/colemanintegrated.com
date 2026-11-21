@@ -1,7 +1,32 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-21T04:05:11Z",
+  "updated": "2026-11-21T12:51:29Z",
   "items": [
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "pubDate": "Sat, 21 Nov 2026 17:23:07 +0530"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "pubDate": "Sat, 21 Nov 2026 16:35:53 +0530"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "pubDate": "Sat, 21 Nov 2026 16:33:17 +0530"
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "pubDate": "Sat, 21 Nov 2026 14:19:20 +0530"
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "pubDate": "Sat, 21 Nov 2026 14:19:13 +0530"
+    },
     {
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
@@ -36,31 +61,6 @@
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
       "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
       "pubDate": "Fri, 20 Nov 2026 15:08:15 +0530"
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "pubDate": "Fri, 20 Nov 2026 12:41:39 +0530"
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "pubDate": "Fri, 20 Nov 2026 11:00:01 +0530"
-    },
-    {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "pubDate": "Fri, 20 Nov 2026 00:17:58 +0530"
-    },
-    {
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "pubDate": "Thu, 19 Nov 2026 22:29:56 +0530"
-    },
-    {
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "pubDate": "Thu, 19 Nov 2026 20:48:07 +0530"
     }
   ]
 }
