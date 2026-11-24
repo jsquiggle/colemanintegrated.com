@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-23T20:41:01Z",
+  "updated": "2026-11-24T05:02:39Z",
   "items": [
+    {
+      "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
+      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "pubDate": "Mon, 23 Nov 2026 15:54:51 -0500"
+    },
     {
       "title": "OpenRouter drops AI providers over leaked prompts and secrets",
       "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
@@ -56,11 +61,6 @@
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
       "pubDate": "Sun, 22 Nov 2026 10:43:04 -0500"
-    },
-    {
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "pubDate": "Sun, 22 Nov 2026 10:15:25 -0500"
     }
   ]
 }
