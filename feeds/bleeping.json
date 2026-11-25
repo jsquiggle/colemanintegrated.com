@@ -1,7 +1,17 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-25T00:55:48Z",
+  "updated": "2026-11-25T09:23:41Z",
   "items": [
+    {
+      "title": "Microsoft confirms authentication issues after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "pubDate": "Wed, 25 Nov 2026 04:02:57 -0500"
+    },
+    {
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "pubDate": "Wed, 25 Nov 2026 02:45:03 -0500"
+    },
     {
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
@@ -51,16 +61,6 @@
       "title": "McDonald's Japan data breach exposes customer location information",
       "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
       "pubDate": "Tue, 24 Nov 2026 09:09:37 -0500"
-    },
-    {
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "pubDate": "Tue, 24 Nov 2026 08:34:23 -0500"
-    },
-    {
-      "title": "South Korea\u2019s power giant KEPCO confirms data breach impacting 1.5 million",
-      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "pubDate": "Mon, 23 Nov 2026 15:54:51 -0500"
     }
   ]
 }
