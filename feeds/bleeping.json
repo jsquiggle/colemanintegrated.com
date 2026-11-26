@@ -1,7 +1,27 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-26T11:11:18Z",
+  "updated": "2026-11-26T20:19:14Z",
   "items": [
+    {
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "pubDate": "Thu, 26 Nov 2026 12:58:42 -0500"
+    },
+    {
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "pubDate": "Thu, 26 Nov 2026 12:15:27 -0500"
+    },
+    {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "pubDate": "Thu, 26 Nov 2026 10:23:28 -0500"
+    },
+    {
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "pubDate": "Thu, 26 Nov 2026 06:50:17 -0500"
+    },
     {
       "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
@@ -41,26 +61,6 @@
       "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
       "pubDate": "Wed, 25 Nov 2026 05:10:20 -0500"
-    },
-    {
-      "title": "Microsoft confirms authentication issues after November updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "pubDate": "Wed, 25 Nov 2026 04:02:57 -0500"
-    },
-    {
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "pubDate": "Wed, 25 Nov 2026 02:45:03 -0500"
-    },
-    {
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "pubDate": "Tue, 24 Nov 2026 16:37:30 -0500"
-    },
-    {
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "pubDate": "Tue, 24 Nov 2026 15:21:20 -0500"
     }
   ]
 }

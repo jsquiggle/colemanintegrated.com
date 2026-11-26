@@ -1,7 +1,27 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-26T11:11:18Z",
+  "updated": "2026-11-26T20:19:14Z",
   "items": [
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "pubDate": "Fri, 27 Nov 2026 01:09:57 +0530"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530"
+    },
+    {
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "pubDate": "Thu, 26 Nov 2026 16:27:55 +0530"
+    },
+    {
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "pubDate": "Thu, 26 Nov 2026 16:27:25 +0530"
+    },
     {
       "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
       "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
@@ -11,11 +31,6 @@
       "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
       "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
       "pubDate": "Thu, 26 Nov 2026 12:14:46 +0530"
-    },
-    {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "pubDate": "Thu, 26 Nov 2026 09:50:22 +0530"
     },
     {
       "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
@@ -46,21 +61,6 @@
       "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
       "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
       "pubDate": "Wed, 25 Nov 2026 16:13:07 +0530"
-    },
-    {
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "pubDate": "Wed, 25 Nov 2026 14:36:59 +0530"
-    },
-    {
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "pubDate": "Wed, 25 Nov 2026 12:20:19 +0530"
-    },
-    {
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "pubDate": "Wed, 25 Nov 2026 12:07:06 +0530"
     }
   ]
 }
