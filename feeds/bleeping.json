@@ -1,7 +1,32 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-27T02:59:07Z",
+  "updated": "2026-11-27T11:48:37Z",
   "items": [
+    {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "pubDate": "Fri, 27 Nov 2026 06:18:36 -0500"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "pubDate": "Fri, 27 Nov 2026 05:10:15 -0500"
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "pubDate": "Fri, 27 Nov 2026 04:56:36 -0500"
+    },
+    {
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "pubDate": "Fri, 27 Nov 2026 04:08:16 -0500"
+    },
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "pubDate": "Fri, 27 Nov 2026 03:06:58 -0500"
+    },
     {
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
@@ -36,31 +61,6 @@
       "title": "1Password customer data stolen after employee GitHub account breach",
       "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
       "pubDate": "Wed, 25 Nov 2026 16:33:33 -0500"
-    },
-    {
-      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-      "pubDate": "Wed, 25 Nov 2026 14:39:31 -0500"
-    },
-    {
-      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-      "pubDate": "Wed, 25 Nov 2026 11:13:40 -0500"
-    },
-    {
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-      "pubDate": "Wed, 25 Nov 2026 10:00:10 -0500"
-    },
-    {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "pubDate": "Wed, 25 Nov 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "pubDate": "Wed, 25 Nov 2026 06:16:32 -0500"
     }
   ]
 }
