@@ -1,7 +1,12 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-26T20:19:14Z",
+  "updated": "2026-11-27T02:59:07Z",
   "items": [
+    {
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "pubDate": "Thu, 26 Nov 2026 16:06:22 -0500"
+    },
     {
       "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
       "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
@@ -56,11 +61,6 @@
       "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
       "pubDate": "Wed, 25 Nov 2026 06:16:32 -0500"
-    },
-    {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "pubDate": "Wed, 25 Nov 2026 05:10:20 -0500"
     }
   ]
 }
