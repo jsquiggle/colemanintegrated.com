@@ -1,7 +1,37 @@
 {
   "source": "https://www.bleepingcomputer.com/feed/",
-  "updated": "2026-11-27T11:48:37Z",
+  "updated": "2026-11-27T20:26:32Z",
   "items": [
+    {
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "pubDate": "Fri, 27 Nov 2026 14:26:04 -0500"
+    },
+    {
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "pubDate": "Fri, 27 Nov 2026 13:57:42 -0500"
+    },
+    {
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "pubDate": "Fri, 27 Nov 2026 12:06:13 -0500"
+    },
+    {
+      "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+      "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+      "pubDate": "Fri, 27 Nov 2026 10:09:40 -0500"
+    },
+    {
+      "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+      "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+      "pubDate": "Fri, 27 Nov 2026 10:00:10 -0500"
+    },
+    {
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "pubDate": "Fri, 27 Nov 2026 09:22:06 -0500"
+    },
     {
       "title": "Microsoft removes WSUS server role in Windows Server 2028",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
@@ -31,36 +61,6 @@
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
       "pubDate": "Thu, 26 Nov 2026 16:06:22 -0500"
-    },
-    {
-      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
-      "pubDate": "Thu, 26 Nov 2026 12:58:42 -0500"
-    },
-    {
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "pubDate": "Thu, 26 Nov 2026 12:15:27 -0500"
-    },
-    {
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "pubDate": "Thu, 26 Nov 2026 10:23:28 -0500"
-    },
-    {
-      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "pubDate": "Thu, 26 Nov 2026 06:50:17 -0500"
-    },
-    {
-      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-      "pubDate": "Wed, 25 Nov 2026 17:05:09 -0500"
-    },
-    {
-      "title": "1Password customer data stolen after employee GitHub account breach",
-      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-      "pubDate": "Wed, 25 Nov 2026 16:33:33 -0500"
     }
   ]
 }
