@@ -1,7 +1,12 @@
 {
   "source": "https://thehackernews.com/feeds/posts/default?alt=rss",
-  "updated": "2026-11-28T02:51:27Z",
+  "updated": "2026-11-28T11:03:26Z",
   "items": [
+    {
+      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+      "pubDate": "Sat, 28 Nov 2026 13:38:11 +0530"
+    },
     {
       "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
       "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
@@ -56,11 +61,6 @@
       "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
       "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
       "pubDate": "Thu, 26 Nov 2026 12:32:34 +0530"
-    },
-    {
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-      "pubDate": "Thu, 26 Nov 2026 12:14:46 +0530"
     }
   ]
 }
